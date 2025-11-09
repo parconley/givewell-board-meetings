@@ -1,0 +1,28 @@
+# Node modules
+node_modules/
+.expo/
+.expo-shared/
+
+# Board meetings data (uploaded separately to GitHub Releases)
+board-meetings/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.local
+
+# Build outputs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~

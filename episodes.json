@@ -1,0 +1,1973 @@
+{
+  "metadata": {
+    "generatedAt": "2025-11-08T21:23:01.325Z",
+    "totalEpisodes": 43,
+    "source": "https://www.givewell.org/about/official-records"
+  },
+  "episodes": [
+    {
+      "id": "meeting-01_unknown-date",
+      "meetingNumber": 1,
+      "title": "Clear Fund Board Meeting",
+      "date": "2007-06-22",
+      "dateDisplay": "June 22, 2007",
+      "audioFilename": "Clear_Fund_Board_Meeting_2007_06_22.mp3",
+      "duration": 6659,
+      "durationDisplay": "1h 50m",
+      "fileSize": 140902400,
+      "fileSizeDisplay": "134 MB",
+      "description": "Discussion of annual statements, organizational budget, and compensation review. Board review of Clear Fund's scope and strategic direction as a new organization.",
+      "attachments": [
+        {
+          "filename": "Meeting_2007_06_22_Minutes.doc",
+          "type": "minutes",
+          "label": "Minutes",
+          "title": "Minutes"
+        },
+        {
+          "filename": "Meeting_2007_06_22_Attachment_A_-_Annual_Statements.doc",
+          "type": "attachment",
+          "label": "Attachment A",
+          "title": "Annual Statements"
+        },
+        {
+          "filename": "Meeting_2007_06_22_Attachment_B_-_Budget.doc",
+          "type": "attachment",
+          "label": "Attachment B",
+          "title": "Budget"
+        },
+        {
+          "filename": "Meeting_2007_06_22_Attachment_C_-_Review_of_Compensation.pdf",
+          "type": "attachment",
+          "label": "Attachment C",
+          "title": "Review of Compensation"
+        },
+        {
+          "filename": "Meeting_2007_06_22_Attachment_D_-_Scope.doc",
+          "type": "attachment",
+          "label": "Attachment D",
+          "title": "Scope"
+        },
+        {
+          "filename": "Meeting_2007_06_22_Agenda.doc",
+          "type": "agenda",
+          "label": "Agenda",
+          "title": "Agenda"
+        }
+      ]
+    },
+    {
+      "id": "meeting-03_unknown-date",
+      "meetingNumber": 3,
+      "title": "Clear Fund Board Meeting",
+      "date": "2008-01-03",
+      "dateDisplay": "January 3, 2008",
+      "audioFilename": "Clear_Fund_Board_Meeting_2008_01_03.mp3",
+      "duration": 4224,
+      "durationDisplay": "1h 10m",
+      "fileSize": 67591652,
+      "fileSizeDisplay": "64 MB",
+      "description": "Review of events and organizational developments in early 2008. Discussion of operational procedures and organizational positioning.",
+      "attachments": [
+        {
+          "filename": "Meeting_2008_01_03_Attachment_A_-_Narrative_of_Events.doc",
+          "type": "attachment",
+          "label": "Attachment A",
+          "title": "Narrative of Events"
+        },
+        {
+          "filename": "Meeting_2008_01_03_Official_Statement.doc",
+          "type": "document",
+          "label": "Document",
+          "title": "Document"
+        },
+        {
+          "filename": "Meeting_2008_01_03_Agenda.doc",
+          "type": "agenda",
+          "label": "Agenda",
+          "title": "Agenda"
+        }
+      ]
+    },
+    {
+      "id": "meeting-04_unknown-date",
+      "meetingNumber": 4,
+      "title": "Clear Fund Board Meeting",
+      "date": "2008-03-04",
+      "dateDisplay": "March 4, 2008",
+      "audioFilename": "Clear_Fund_Board_Meeting_2008_03_04.mp3",
+      "duration": 5993,
+      "durationDisplay": "1h 39m",
+      "fileSize": 95898410,
+      "fileSizeDisplay": "91 MB",
+      "description": "Exploration of options for third and fourth cause areas. Review of preliminary strategic plan for 2008 research priorities.",
+      "attachments": [
+        {
+          "filename": "Meeting_2008_03_04_Attachment_A_-_Options_for_Cause_3.doc",
+          "type": "attachment",
+          "label": "Attachment A",
+          "title": "Options for Cause 3"
+        },
+        {
+          "filename": "Meeting_2008_03_04_Attachment_B_-_Options_for_Cause_4.doc",
+          "type": "attachment",
+          "label": "Attachment B",
+          "title": "Options for Cause 4"
+        },
+        {
+          "filename": "Meeting_2008_03_04_Attachment_C_-_Preliminary_Plan_for_2008.doc",
+          "type": "attachment",
+          "label": "Attachment C",
+          "title": "Preliminary Plan for 2008"
+        },
+        {
+          "filename": "Meeting_2008_03_04_Agenda.doc",
+          "type": "agenda",
+          "label": "Agenda",
+          "title": "Agenda"
+        }
+      ]
+    },
+    {
+      "id": "meeting-05_unknown-date",
+      "meetingNumber": 5,
+      "title": "Clear Fund Board Meeting",
+      "date": "2008-04-23",
+      "dateDisplay": "April 23, 2008",
+      "audioFilename": "Clear_Fund_Board_Meeting_2008_04_23.mp3",
+      "duration": 7902,
+      "durationDisplay": "2h 11m",
+      "fileSize": 126433617,
+      "fileSizeDisplay": "121 MB",
+      "description": "Outline of organizational review process and planning framework. Discussion of 2008 strategic plan and research approach.",
+      "attachments": [
+        {
+          "filename": "Meeting_2008_04_23_Attachment_A_-_Outline_of_Review_and_Plan.doc",
+          "type": "attachment",
+          "label": "Attachment A",
+          "title": "Outline of Review and Plan"
+        },
+        {
+          "filename": "Meeting_2008_04_23_Attachment_B_-_Preliminary_Plan_for_2008.doc",
+          "type": "attachment",
+          "label": "Attachment B",
+          "title": "Preliminary Plan for 2008"
+        }
+      ]
+    },
+    {
+      "id": "meeting-06_unknown-date",
+      "meetingNumber": 6,
+      "title": "Clear Fund Board Meeting",
+      "date": "2008-09-08",
+      "dateDisplay": "September 8, 2008",
+      "audioFilename": "Clear_Fund_Board_Meeting_2008_09_08.mp3",
+      "duration": 6485,
+      "durationDisplay": "1h 48m",
+      "fileSize": 25942477,
+      "fileSizeDisplay": "25 MB",
+      "description": "Budget review for May through December 2008. Approval of resolutions for banking account management and financial operations.",
+      "attachments": [
+        {
+          "filename": "Meeting_2008_09_08_Attachment_B_-_Budget_May_thru_Dec_2008.doc",
+          "type": "attachment",
+          "label": "Attachment B",
+          "title": "Budget May thru Dec 2008"
+        },
+        {
+          "filename": "Meeting_2008_09_08_Attachment_C_-_Resolutions_Concerning_Banking_Accounts.doc",
+          "type": "attachment",
+          "label": "Attachment C",
+          "title": "Resolutions Concerning Banking Accounts"
+        },
+        {
+          "filename": "Meeting_2008_09_08_Agenda.doc",
+          "type": "agenda",
+          "label": "Agenda",
+          "title": "Agenda"
+        }
+      ]
+    },
+    {
+      "id": "meeting-07_unknown-date",
+      "meetingNumber": 7,
+      "title": "Clear Fund Board Meeting",
+      "date": "2008-11-10",
+      "dateDisplay": "November 10, 2008",
+      "audioFilename": "Clear_Fund_Board_Meeting_2008_11_10.mp3",
+      "duration": 1904,
+      "durationDisplay": "31m",
+      "fileSize": 30474240,
+      "fileSizeDisplay": "29 MB",
+      "description": "Professional development progress report and organizational vision document. Review of tactical plan, transition strategy, and budget update.",
+      "attachments": [
+        {
+          "filename": "Meeting_2008_11_10_Attachment_A_-_Professional_Development_Report.doc",
+          "type": "attachment",
+          "label": "Attachment A",
+          "title": "Professional Development Report"
+        },
+        {
+          "filename": "Meeting_2008_11_10_Attachment_B_-_Vision_Document.doc",
+          "type": "attachment",
+          "label": "Attachment B",
+          "title": "Vision Document"
+        },
+        {
+          "filename": "Meeting_2008_11_10_Attachment_C_-_Tactical_Plan.doc",
+          "type": "attachment",
+          "label": "Attachment C",
+          "title": "Tactical Plan"
+        },
+        {
+          "filename": "Meeting_2008_11_10_Attachment_D_-_Transition_Document.doc",
+          "type": "attachment",
+          "label": "Attachment D",
+          "title": "Transition Document"
+        },
+        {
+          "filename": "Meeting_2008_11_10_Attachment_E_-_Budget_Update.doc",
+          "type": "attachment",
+          "label": "Attachment E",
+          "title": "Budget Update"
+        },
+        {
+          "filename": "Meeting_2008_11_10_Agenda.doc",
+          "type": "agenda",
+          "label": "Agenda",
+          "title": "Agenda"
+        }
+      ]
+    },
+    {
+      "id": "meeting-08_unknown-date",
+      "meetingNumber": 8,
+      "title": "Clear Fund Board Meeting",
+      "date": "2008-12-15",
+      "dateDisplay": "December 15, 2008",
+      "audioFilename": "Clear_Fund_Board_Meeting_2008_12_15.mp3",
+      "duration": 9022,
+      "durationDisplay": "2h 30m",
+      "fileSize": 144355640,
+      "fileSizeDisplay": "138 MB",
+      "description": "Overview of organizational financial situation. Discussion of key research methodology questions and miscellaneous operational matters.",
+      "attachments": [
+        {
+          "filename": "Meeting_2008_12_15_Attachment_A_-_Overview_of_Financial_Situation.doc",
+          "type": "attachment",
+          "label": "Attachment A",
+          "title": "Overview of Financial Situation"
+        },
+        {
+          "filename": "Meeting_2008_12_15_Attachment_B_-_Key_Questions_About_Research.doc",
+          "type": "attachment",
+          "label": "Attachment B",
+          "title": "Key Questions About Research"
+        },
+        {
+          "filename": "Meeting_2008_12_15_Attachment_C_-_Misc_Questions.doc",
+          "type": "attachment",
+          "label": "Attachment C",
+          "title": "Misc Questions"
+        },
+        {
+          "filename": "Meeting_2008_12_15_Agenda.doc",
+          "type": "agenda",
+          "label": "Agenda",
+          "title": "Agenda"
+        }
+      ]
+    },
+    {
+      "id": "meeting-09_2009-03-31",
+      "meetingNumber": 9,
+      "title": "Clear Fund Board Meeting",
+      "date": "2009-03-31",
+      "dateDisplay": "March 31, 2009",
+      "audioFilename": "Clear_Fund_Board_Meeting_2009_03_31.mp3",
+      "duration": 4405,
+      "durationDisplay": "1h 13m",
+      "fileSize": 17621293,
+      "fileSizeDisplay": "17 MB",
+      "description": "Financial situation review and proposal for new banking arrangements. Approval of corporate resolutions and updated research agenda.",
+      "attachments": [
+        {
+          "filename": "Board_meeting_minutes_2009_03_31.pdf",
+          "type": "minutes",
+          "label": "Minutes",
+          "title": "Minutes"
+        },
+        {
+          "filename": "Meeting_2009_03_31_Attachment_A_-_Overview_of_Financial_Situation.doc",
+          "type": "attachment",
+          "label": "Attachment A",
+          "title": "Overview of Financial Situation"
+        },
+        {
+          "filename": "Meeting_2009_03_31_Attachment_B_-_Proposal_to_Open_New_Bank_Accounts.doc",
+          "type": "attachment",
+          "label": "Attachment B",
+          "title": "Proposal to Open New Bank Accounts"
+        },
+        {
+          "filename": "Meeting_2009_03_31_Attachment_D_-_Corporate_Resolutions.PDF",
+          "type": "attachment",
+          "label": "Attachment D",
+          "title": "Corporate Resolutions"
+        },
+        {
+          "filename": "Meeting_2009_03_31_Agenda.doc",
+          "type": "agenda",
+          "label": "Agenda",
+          "title": "Agenda"
+        },
+        {
+          "filename": "Meeting_2009_03_31_Attachment_C_-_Updated_Research_Agenda.doc",
+          "type": "agenda",
+          "label": "Agenda",
+          "title": "Agenda"
+        }
+      ]
+    },
+    {
+      "id": "meeting-10_unknown-date",
+      "meetingNumber": 10,
+      "title": "Clear Fund Board Meeting",
+      "date": "2009-07-27",
+      "dateDisplay": "July 27, 2009",
+      "audioFilename": "Clear_Fund_Board_Meeting_2009_07_27.mp3",
+      "duration": 6075,
+      "durationDisplay": "1h 41m",
+      "fileSize": 24301505,
+      "fileSizeDisplay": "23 MB",
+      "description": "Budget update, organizational progress, and priority-setting discussion. Review of professional development, proposed policies, bylaws amendment, and grant disbursement proposals.",
+      "attachments": [
+        {
+          "filename": "Attachment_A_-_Budget_Update.doc",
+          "type": "attachment",
+          "label": "Attachment A",
+          "title": "Budget Update"
+        },
+        {
+          "filename": "Attachment_B_-_Progress_and_Priorities.doc",
+          "type": "attachment",
+          "label": "Attachment B",
+          "title": "Progress and Priorities"
+        },
+        {
+          "filename": "Attachment_C_-_Report_on_Professional_Development.doc",
+          "type": "attachment",
+          "label": "Attachment C",
+          "title": "Report on Professional Development"
+        },
+        {
+          "filename": "Attachment_D_-_Proposed_Policies_III.doc",
+          "type": "attachment",
+          "label": "Attachment D",
+          "title": "Proposed Policies III"
+        },
+        {
+          "filename": "Attachment_F_-_Proposed_Amendment_to_Bylaws.doc",
+          "type": "attachment",
+          "label": "Attachment F",
+          "title": "Proposed Amendment to Bylaws"
+        },
+        {
+          "filename": "Attachment_G_-_Proposed_Grant_Disbursements.doc",
+          "type": "attachment",
+          "label": "Attachment G",
+          "title": "Proposed Grant Disbursements"
+        },
+        {
+          "filename": "Required_Reading_Summary.doc",
+          "type": "document",
+          "label": "Document",
+          "title": "Document"
+        },
+        {
+          "filename": "Agenda.doc",
+          "type": "agenda",
+          "label": "Agenda",
+          "title": "Agenda"
+        }
+      ]
+    },
+    {
+      "id": "meeting-11_2009-12-29",
+      "meetingNumber": 11,
+      "title": "Clear Fund Board Meeting",
+      "date": "2009-12-29",
+      "dateDisplay": "December 29, 2009",
+      "audioFilename": "Clear_Fund_Board_Meeting_2009_12_29.mp3",
+      "duration": 6107,
+      "durationDisplay": "1h 41m",
+      "fileSize": 97723738,
+      "fileSizeDisplay": "93 MB",
+      "description": "Review of economic empowerment grant proposal. Budget update and financial planning discussion.",
+      "attachments": [
+        {
+          "filename": "Board_meeting_minutes_2009_12_29.pdf",
+          "type": "minutes",
+          "label": "Minutes",
+          "title": "Minutes"
+        },
+        {
+          "filename": "Attachment_A_-_Economic_Empowerment_Grant_Proposal.doc",
+          "type": "attachment",
+          "label": "Attachment A",
+          "title": "Economic Empowerment Grant Proposal"
+        },
+        {
+          "filename": "Attachment_B_-_Budget_Update.doc",
+          "type": "attachment",
+          "label": "Attachment B",
+          "title": "Budget Update"
+        },
+        {
+          "filename": "Agenda.doc",
+          "type": "agenda",
+          "label": "Agenda",
+          "title": "Agenda"
+        }
+      ]
+    },
+    {
+      "id": "meeting-12_2010-03-03",
+      "meetingNumber": 12,
+      "title": "Clear Fund Board Meeting",
+      "date": "2010-03-03",
+      "dateDisplay": "March 3, 2010",
+      "audioFilename": "Clear_Fund_Board_Meeting_2010_03_03.mp3",
+      "duration": 3822,
+      "durationDisplay": "1h 3m",
+      "fileSize": 61160828,
+      "fileSizeDisplay": "58 MB",
+      "description": "Annual review including 2009 metrics report and 2010 work plan. Discussion of 2010 compensation review, insurance coverage, and outreach strategies.",
+      "attachments": [
+        {
+          "filename": "Board_meeting_minutes_2010_03_03.pdf",
+          "type": "minutes",
+          "label": "Minutes",
+          "title": "Minutes"
+        },
+        {
+          "filename": "Attachment_B_-_2010_compensation_review.doc",
+          "type": "attachment",
+          "label": "Attachment B",
+          "title": "2010 compensation review"
+        },
+        {
+          "filename": "Attachment_C_-_Insurance_Review.doc",
+          "type": "attachment",
+          "label": "Attachment C",
+          "title": "Insurance Review"
+        },
+        {
+          "filename": "A_-_Summary_of_review_and_plan_documents.doc",
+          "type": "document",
+          "label": "Document",
+          "title": "Document"
+        },
+        {
+          "filename": "B_-_2009_Review_and_2010_Plan.doc",
+          "type": "document",
+          "label": "Document",
+          "title": "Document"
+        },
+        {
+          "filename": "C_-_2009_Metrics_Report.doc",
+          "type": "document",
+          "label": "Document",
+          "title": "Document"
+        },
+        {
+          "filename": "D_-_Review_of_November_2008_Work_Plan.doc",
+          "type": "document",
+          "label": "Document",
+          "title": "Document"
+        },
+        {
+          "filename": "E_-_2009_Hours_Summary.doc",
+          "type": "document",
+          "label": "Document",
+          "title": "Document"
+        },
+        {
+          "filename": "F_-_2010_Work_Plan.doc",
+          "type": "document",
+          "label": "Document",
+          "title": "Document"
+        },
+        {
+          "filename": "G_-_Outreach_strategies.doc",
+          "type": "document",
+          "label": "Document",
+          "title": "Document"
+        },
+        {
+          "filename": "Agenda.doc",
+          "type": "agenda",
+          "label": "Agenda",
+          "title": "Agenda"
+        }
+      ]
+    },
+    {
+      "id": "meeting-13_2010-07-14",
+      "meetingNumber": 13,
+      "title": "Clear Fund Board Meeting",
+      "date": "2010-07-14",
+      "dateDisplay": "July 14, 2010",
+      "audioFilename": "Clear_Fund_Board_Meeting_2010_07_14.mp3",
+      "duration": 5979,
+      "durationDisplay": "1h 39m",
+      "fileSize": 95669704,
+      "fileSizeDisplay": "91 MB",
+      "description": "Organizational progress report and priority-setting. Budget update and financial planning for remainder of 2010.",
+      "attachments": [
+        {
+          "filename": "Attachment_A_-_Progress_and_Priorities.doc",
+          "type": "attachment",
+          "label": "Attachment A",
+          "title": "Progress and Priorities"
+        },
+        {
+          "filename": "Attachment_B_-_Budget_Update.doc",
+          "type": "attachment",
+          "label": "Attachment B",
+          "title": "Budget Update"
+        }
+      ]
+    },
+    {
+      "id": "meeting-14_2010-12-14",
+      "meetingNumber": 14,
+      "title": "Clear Fund Board Meeting",
+      "date": "2010-12-14",
+      "dateDisplay": "December 14, 2010",
+      "audioFilename": "Clear_Fund_Board_Meeting_2010_12_14.mp3",
+      "duration": 2626,
+      "durationDisplay": "43m",
+      "fileSize": 42031445,
+      "fileSizeDisplay": "40 MB",
+      "description": "Board meeting covering organizational updates and planning. Discussion of operational matters and strategic direction.",
+      "attachments": []
+    },
+    {
+      "id": "meeting-15_2011-04-11",
+      "meetingNumber": 15,
+      "title": "Clear Fund Board Meeting",
+      "date": "2011-04-11",
+      "dateDisplay": "April 11, 2011",
+      "audioFilename": "Clear_Fund_Board_Meeting_2011_04_11.mp3",
+      "duration": 6450,
+      "durationDisplay": "1h 47m",
+      "fileSize": 103214209,
+      "fileSizeDisplay": "98 MB",
+      "description": "Annual review including 2010 unaudited financials and 2011 budget. Insurance coverage review, compensation analysis with salary survey, and board member ballot.",
+      "attachments": [
+        {
+          "filename": "Board_meeting_minutes_2011_04.pdf",
+          "type": "minutes",
+          "label": "Minutes",
+          "title": "Minutes"
+        },
+        {
+          "filename": "Attachment_A_-_Ballot.doc",
+          "type": "attachment",
+          "label": "Attachment A",
+          "title": "Ballot"
+        },
+        {
+          "filename": "Attachment_B_-_Insurance_Review.doc",
+          "type": "attachment",
+          "label": "Attachment B",
+          "title": "Insurance Review"
+        },
+        {
+          "filename": "Attachment_C_-_Unaudited_Financials_2010.pdf",
+          "type": "attachment",
+          "label": "Attachment C",
+          "title": "Unaudited Financials 2010"
+        },
+        {
+          "filename": "Attachment_D_-_Financial_Situation.doc",
+          "type": "attachment",
+          "label": "Attachment D",
+          "title": "Financial Situation"
+        },
+        {
+          "filename": "Attachment_E_-_Annual_Report_Overview.doc",
+          "type": "attachment",
+          "label": "Attachment E",
+          "title": "Annual Report Overview"
+        },
+        {
+          "filename": "Attachment_F_-_2011_compensation_review.doc",
+          "type": "attachment",
+          "label": "Attachment F",
+          "title": "2011 compensation review"
+        },
+        {
+          "filename": "Attachment_G_-_salary_survey.pdf",
+          "type": "attachment",
+          "label": "Attachment G",
+          "title": "salary survey"
+        }
+      ]
+    },
+    {
+      "id": "meeting-16_2011-08-17",
+      "meetingNumber": 16,
+      "title": "Clear Fund Board Meeting",
+      "date": "2011-08-17",
+      "dateDisplay": "August 17, 2011",
+      "audioFilename": "Clear_Fund_Board_meeting_2011_12_15_-_edited.mp3",
+      "duration": 5215,
+      "durationDisplay": "1h 26m",
+      "fileSize": 83449218,
+      "fileSizeDisplay": "80 MB",
+      "description": "Financial situation update and organizational progress report. Research methodology updates and program developments.",
+      "attachments": [
+        {
+          "filename": "Board_meeting_minutes_2011_08.pdf",
+          "type": "minutes",
+          "label": "Minutes",
+          "title": "Minutes"
+        },
+        {
+          "filename": "Attachment_A_-_Financial_Situation.doc",
+          "type": "attachment",
+          "label": "Attachment A",
+          "title": "Financial Situation"
+        },
+        {
+          "filename": "Attachment_B_-_Progress_Report.doc",
+          "type": "attachment",
+          "label": "Attachment B",
+          "title": "Progress Report"
+        },
+        {
+          "filename": "Attachment_C_-_Research_Update.doc",
+          "type": "attachment",
+          "label": "Attachment C",
+          "title": "Research Update"
+        },
+        {
+          "filename": "Agenda.doc",
+          "type": "agenda",
+          "label": "Agenda",
+          "title": "Agenda"
+        }
+      ]
+    },
+    {
+      "id": "meeting-17_2011-12-20",
+      "meetingNumber": 17,
+      "title": "Clear Fund Board Meeting",
+      "date": "2011-12-20",
+      "dateDisplay": "December 20, 2011",
+      "audioFilename": "Board_meeting_2011_12_20_-_edited.mp3",
+      "duration": 4292,
+      "durationDisplay": "1h 11m",
+      "fileSize": 68688049,
+      "fileSizeDisplay": "66 MB",
+      "description": "Year-end progress report and planning for 2012 priorities. Discussion of organizational developments and strategic direction.",
+      "attachments": [
+        {
+          "filename": "Board_meeting_minutes_2011_12.pdf",
+          "type": "minutes",
+          "label": "Minutes",
+          "title": "Minutes"
+        },
+        {
+          "filename": "financial_update_2011_12.doc",
+          "type": "document",
+          "label": "Document",
+          "title": "Document"
+        },
+        {
+          "filename": "possible_priorities_for_2012.doc",
+          "type": "document",
+          "label": "Document",
+          "title": "Document"
+        },
+        {
+          "filename": "progress_report_2011_12.doc",
+          "type": "document",
+          "label": "Document",
+          "title": "Document"
+        }
+      ]
+    },
+    {
+      "id": "meeting-18_2012-03-28",
+      "meetingNumber": 18,
+      "title": "Clear Fund Board Meeting",
+      "date": "2012-03-28",
+      "dateDisplay": "March 28, 2012",
+      "audioFilename": "March_2012_board_meeting_final_edit_.mp3",
+      "duration": 6133,
+      "durationDisplay": "1h 42m",
+      "fileSize": 98130253,
+      "fileSizeDisplay": "94 MB",
+      "description": "Annual review of 2011 activities and organizational formalities. Financial situation analysis, insurance review, and 2012 compensation review with salary survey data.",
+      "attachments": [
+        {
+          "filename": "Clear_Fund_Board_Minutes_2012_03_28.pdf",
+          "type": "minutes",
+          "label": "Minutes",
+          "title": "Minutes"
+        },
+        {
+          "filename": "Attachment_A_-_Annual_Review.doc",
+          "type": "attachment",
+          "label": "Attachment A",
+          "title": "Annual Review"
+        },
+        {
+          "filename": "Attachment_B_-_Insurance_Review.doc",
+          "type": "attachment",
+          "label": "Attachment B",
+          "title": "Insurance Review"
+        },
+        {
+          "filename": "Attachment_C_-_Other_Formalities.doc",
+          "type": "attachment",
+          "label": "Attachment C",
+          "title": "Other Formalities"
+        },
+        {
+          "filename": "Attachment_D_-_Financial_Situation.doc",
+          "type": "attachment",
+          "label": "Attachment D",
+          "title": "Financial Situation"
+        },
+        {
+          "filename": "Attachment_E_-_2012_compensation_review.doc",
+          "type": "attachment",
+          "label": "Attachment E",
+          "title": "2012 compensation review"
+        },
+        {
+          "filename": "Attachment_F_-_salary_survey.PDF",
+          "type": "attachment",
+          "label": "Attachment F",
+          "title": "salary survey"
+        },
+        {
+          "filename": "Agenda.doc",
+          "type": "agenda",
+          "label": "Agenda",
+          "title": "Agenda"
+        }
+      ]
+    },
+    {
+      "id": "meeting-19_2012-07-02",
+      "meetingNumber": 19,
+      "title": "Clear Fund Board Meeting",
+      "date": "2012-07-02",
+      "dateDisplay": "July 2, 2012",
+      "audioFilename": "Board_meeting_2012_07_02_-_final.mp3",
+      "duration": 10199,
+      "durationDisplay": "2h 49m",
+      "fileSize": 163185933,
+      "fileSizeDisplay": "156 MB",
+      "description": "Mid-year organizational update and strategic planning discussion. Review of research progress and operational developments.",
+      "attachments": [
+        {
+          "filename": "Clear_Fund_Board_Minutes_2012_07_02.pdf",
+          "type": "minutes",
+          "label": "Minutes",
+          "title": "Minutes"
+        }
+      ]
+    },
+    {
+      "id": "meeting-20_2012-08-09",
+      "meetingNumber": 20,
+      "title": "Clear Fund Board Meeting",
+      "date": "2012-08-09",
+      "dateDisplay": "August 9, 2012",
+      "audioFilename": "Board_call_2012_08_09_-_final.mp3",
+      "duration": 5307,
+      "durationDisplay": "1h 28m",
+      "fileSize": 84924289,
+      "fileSizeDisplay": "81 MB",
+      "description": "Strategic shift discussion regarding organizational focus and research approach. Review of operational changes and future direction.",
+      "attachments": [
+        {
+          "filename": "Clear_Fund_Board_Minutes_2012_08_09.pdf",
+          "type": "minutes",
+          "label": "Minutes",
+          "title": "Minutes"
+        },
+        {
+          "filename": "givewell_shift_2012_07_24_-_public.doc",
+          "type": "document",
+          "label": "Document",
+          "title": "Document"
+        }
+      ]
+    },
+    {
+      "id": "meeting-21_2013-01-24",
+      "meetingNumber": 21,
+      "title": "Clear Fund Board Meeting",
+      "date": "2013-01-24",
+      "dateDisplay": "January 24, 2013",
+      "audioFilename": "Board_call_2013_01_24.mp3",
+      "duration": 5092,
+      "durationDisplay": "1h 24m",
+      "fileSize": 81476962,
+      "fileSizeDisplay": "78 MB",
+      "description": "Quarterly board meeting covering organizational updates. Discussion of research progress and operational matters.",
+      "attachments": [
+        {
+          "filename": "Board_meeting_minutes_1-24-2013.pdf",
+          "type": "minutes",
+          "label": "Minutes",
+          "title": "Minutes"
+        }
+      ]
+    },
+    {
+      "id": "meeting-22_2013-04-29",
+      "meetingNumber": 22,
+      "title": "Clear Fund Board Meeting",
+      "date": "2013-04-29",
+      "dateDisplay": "April 29, 2013",
+      "audioFilename": "Board_meeting_4-29-2013.mp3",
+      "duration": 4653,
+      "durationDisplay": "1h 17m",
+      "fileSize": 74449541,
+      "fileSizeDisplay": "71 MB",
+      "description": "Annual review of 2012 activities and accomplishments. Board member ballot and governance matters.",
+      "attachments": [
+        {
+          "filename": "Board_meeting_minutes_4-29-2013.pdf",
+          "type": "minutes",
+          "label": "Minutes",
+          "title": "Minutes"
+        },
+        {
+          "filename": "Attachment_A_-_Annual_Review.doc",
+          "type": "attachment",
+          "label": "Attachment A",
+          "title": "Annual Review"
+        },
+        {
+          "filename": "Attachment_C_-_Ballot.doc",
+          "type": "attachment",
+          "label": "Attachment C",
+          "title": "Ballot"
+        },
+        {
+          "filename": "Agenda.doc",
+          "type": "agenda",
+          "label": "Agenda",
+          "title": "Agenda"
+        }
+      ]
+    },
+    {
+      "id": "meeting-23_2013-05-06",
+      "meetingNumber": 23,
+      "title": "Clear Fund Board Meeting",
+      "date": "2013-05-06",
+      "dateDisplay": "May 6, 2013",
+      "audioFilename": "Board_meeting_5-6-2013.mp3",
+      "duration": 2970,
+      "durationDisplay": "49m",
+      "fileSize": 23768164,
+      "fileSizeDisplay": "23 MB",
+      "description": "Insurance coverage review and organizational formalities. Financial update and budget planning discussion.",
+      "attachments": [
+        {
+          "filename": "Board_meeting_minutes_5-6-2013.pdf",
+          "type": "minutes",
+          "label": "Minutes",
+          "title": "Minutes"
+        },
+        {
+          "filename": "Attachment_A_-_Insurance_Review.doc",
+          "type": "attachment",
+          "label": "Attachment A",
+          "title": "Insurance Review"
+        },
+        {
+          "filename": "Attachment_B_-_Other_Formalities.doc",
+          "type": "attachment",
+          "label": "Attachment B",
+          "title": "Other Formalities"
+        },
+        {
+          "filename": "Attachment_C_-_Financial_Update.doc",
+          "type": "attachment",
+          "label": "Attachment C",
+          "title": "Financial Update"
+        },
+        {
+          "filename": "Agenda.doc",
+          "type": "agenda",
+          "label": "Agenda",
+          "title": "Agenda"
+        }
+      ]
+    },
+    {
+      "id": "meeting-24_2013-08-14",
+      "meetingNumber": 24,
+      "title": "Clear Fund Board Meeting",
+      "date": "2013-08-14",
+      "dateDisplay": "August 14, 2013",
+      "audioFilename": "Board_meeting_8-14-2013.mp3",
+      "duration": 3941,
+      "durationDisplay": "1h 5m",
+      "fileSize": 31532156,
+      "fileSizeDisplay": "30 MB",
+      "description": "Financial update and fundraising policy review. Discussion of operational procedures and development strategy.",
+      "attachments": [
+        {
+          "filename": "Clear_Fund_Board_Minutes_2013_08_14.pdf",
+          "type": "minutes",
+          "label": "Minutes",
+          "title": "Minutes"
+        },
+        {
+          "filename": "Attachment_A_main_-_financial_update.doc",
+          "type": "attachment",
+          "label": "Attachment A",
+          "title": "Attachment A"
+        },
+        {
+          "filename": "Attachment_B_-_fundraising_policy.doc",
+          "type": "attachment",
+          "label": "Attachment B",
+          "title": "fundraising policy"
+        }
+      ]
+    },
+    {
+      "id": "meeting-25_2013-12-16",
+      "meetingNumber": 25,
+      "title": "Clear Fund Board Meeting",
+      "date": "2013-12-16",
+      "dateDisplay": "December 16, 2013",
+      "audioFilename": "Board_meeting_12-16-13_for_website_.mp3",
+      "duration": 3264,
+      "durationDisplay": "54m",
+      "fileSize": 52240423,
+      "fileSizeDisplay": "50 MB",
+      "description": "Year-end board meeting reviewing organizational progress. Planning discussion for 2014 priorities and initiatives.",
+      "attachments": [
+        {
+          "filename": "Board_meeting_minutes_12-16-13.pdf",
+          "type": "minutes",
+          "label": "Minutes",
+          "title": "Minutes"
+        }
+      ]
+    },
+    {
+      "id": "meeting-26_2014-04-30",
+      "meetingNumber": 26,
+      "title": "Clear Fund Board Meeting",
+      "date": "2014-04-30",
+      "dateDisplay": "April 30, 2014",
+      "audioFilename": "Board_Meeting_Apr_30_2014.mp3",
+      "duration": 3201,
+      "durationDisplay": "53m",
+      "fileSize": 51222670,
+      "fileSizeDisplay": "49 MB",
+      "description": "Annual board meeting with general organizational update. Review of research progress and strategic planning.",
+      "attachments": [
+        {
+          "filename": "Board_Meeting_April_30_Minutes.pdf",
+          "type": "minutes",
+          "label": "Minutes",
+          "title": "Minutes"
+        },
+        {
+          "filename": "Budget_for_board.xlsx",
+          "type": "document",
+          "label": "Document",
+          "title": "Document"
+        },
+        {
+          "filename": "General_update.pdf",
+          "type": "document",
+          "label": "Document",
+          "title": "Document"
+        }
+      ]
+    },
+    {
+      "id": "meeting-27_2014-08-18",
+      "meetingNumber": 27,
+      "title": "Clear Fund Board Meeting",
+      "date": "2014-08-18",
+      "dateDisplay": "August 18, 2014",
+      "audioFilename": "Board_meeting_8-18-14_Edited.mp3",
+      "duration": 5263,
+      "durationDisplay": "1h 27m",
+      "fileSize": 84217622,
+      "fileSizeDisplay": "80 MB",
+      "description": "Budget and revenue forecasts with analysis of unrestricted revenue growth drivers. Executive compensation review and financial planning.",
+      "attachments": [
+        {
+          "filename": "Board_meeting_minutes_8-18-14.pdf",
+          "type": "minutes",
+          "label": "Minutes",
+          "title": "Minutes"
+        },
+        {
+          "filename": "August_2014_board_meeting_-_Attachment_A_-_Budget_and_Revenue_forecasts.pdf",
+          "type": "attachment",
+          "label": "Attachment A",
+          "title": "Budget and Revenue forecasts"
+        },
+        {
+          "filename": "August_2014_board_meeting_-_Attachment_B_-_Drivers_of_increase_in_unrestricted_revenue.pdf",
+          "type": "attachment",
+          "label": "Attachment B",
+          "title": "Drivers of increase in unrestricted revenue"
+        },
+        {
+          "filename": "August_2014_board_meeting_-_Attachment_C_-_Executive_compensation_review.pdf",
+          "type": "attachment",
+          "label": "Attachment C",
+          "title": "Executive compensation review"
+        },
+        {
+          "filename": "August_2014_board_meeting_-_Attachment_D_-_Budget.xlsx",
+          "type": "attachment",
+          "label": "Attachment D",
+          "title": "Attachment D"
+        },
+        {
+          "filename": "August_2014_board_meeting_-_Attachment_E.pdf",
+          "type": "attachment",
+          "label": "Attachment E",
+          "title": "Attachment E"
+        },
+        {
+          "filename": "August_2014_board_meeting_-_Attachment_F_-_calendar_year_budgets.xlsx",
+          "type": "attachment",
+          "label": "Attachment F",
+          "title": "Attachment F"
+        },
+        {
+          "filename": "August_2014_board_meeting_-_Agenda.pdf",
+          "type": "agenda",
+          "label": "Agenda",
+          "title": "Agenda"
+        }
+      ]
+    },
+    {
+      "id": "meeting-28_2014-12-16",
+      "meetingNumber": 28,
+      "title": "Clear Fund Board Meeting",
+      "date": "2014-12-16",
+      "dateDisplay": "December 16, 2014",
+      "audioFilename": "Board_Meeting_12-16-14_Edited.mp3",
+      "duration": 3629,
+      "durationDisplay": "1h 0m",
+      "fileSize": 58066560,
+      "fileSizeDisplay": "55 MB",
+      "description": "Year-end organizational review and planning for 2015. Discussion of research priorities and operational developments.",
+      "attachments": [
+        {
+          "filename": "Board_meeting_minutes_12-16-14.pdf",
+          "type": "minutes",
+          "label": "Minutes",
+          "title": "Minutes"
+        },
+        {
+          "filename": "Budget_for_board_2014_12_11_v5.xlsx",
+          "type": "document",
+          "label": "Document",
+          "title": "Document"
+        }
+      ]
+    },
+    {
+      "id": "meeting-29_2015-03-12",
+      "meetingNumber": 29,
+      "title": "Clear Fund Board Meeting",
+      "date": "2015-03-12",
+      "dateDisplay": "March 12, 2015",
+      "audioFilename": "Board_Meeting_2015-03-12.mp3",
+      "duration": 2265,
+      "durationDisplay": "37m",
+      "fileSize": 36255970,
+      "fileSizeDisplay": "35 MB",
+      "description": "Quarterly board meeting with updates on organizational activities. Review of program developments and strategic initiatives.",
+      "attachments": [
+        {
+          "filename": "Board_Meeting_Minutes_2015-03-12.pdf",
+          "type": "minutes",
+          "label": "Minutes",
+          "title": "Minutes"
+        }
+      ]
+    },
+    {
+      "id": "meeting-30_2015-06-17",
+      "meetingNumber": 30,
+      "title": "Clear Fund Board Meeting",
+      "date": "2015-06-17",
+      "dateDisplay": "June 17, 2015",
+      "audioFilename": "Board_Meeting_2015-06-17.mp3",
+      "duration": 4225,
+      "durationDisplay": "1h 10m",
+      "fileSize": 67601135,
+      "fileSizeDisplay": "64 MB",
+      "description": "Comprehensive board meeting covering document retention policy, insurance review, and Open Philanthropy Project roles. Revenue forecasts, budget planning, and executive compensation review.",
+      "attachments": [
+        {
+          "filename": "Board_Meeting_Minutes_2015-06-17.pdf",
+          "type": "minutes",
+          "label": "Minutes",
+          "title": "Minutes"
+        },
+        {
+          "filename": "Attachment_A_Clear_Fund_Document_Retention_and_Destruction_Policy.pdf",
+          "type": "attachment",
+          "label": "Attachment A",
+          "title": "Attachment A"
+        },
+        {
+          "filename": "Attachment_B_June_2015_board_meeting_sundries.pdf",
+          "type": "attachment",
+          "label": "Attachment B",
+          "title": "Attachment B"
+        },
+        {
+          "filename": "Attachment_C_Open_Phil_roles_and_responsibilities.pdf",
+          "type": "attachment",
+          "label": "Attachment C",
+          "title": "Attachment C"
+        },
+        {
+          "filename": "Attachment_D_Revenue_changes_and_forecasts.pdf",
+          "type": "attachment",
+          "label": "Attachment D",
+          "title": "Attachment D"
+        },
+        {
+          "filename": "Attachment_E_Plan_for_GV_funding_request.pdf",
+          "type": "attachment",
+          "label": "Attachment E",
+          "title": "Attachment E"
+        },
+        {
+          "filename": "Attachment_F_Budget_review_and_proposal_2014_and_2015.xlsx",
+          "type": "attachment",
+          "label": "Attachment F",
+          "title": "Attachment F"
+        },
+        {
+          "filename": "Attachment_G_Executive_compensation.pdf",
+          "type": "attachment",
+          "label": "Attachment G",
+          "title": "Attachment G"
+        },
+        {
+          "filename": "Agenda_GiveWell_Board_Meeting_June_2015.pdf",
+          "type": "agenda",
+          "label": "Agenda",
+          "title": "Agenda"
+        }
+      ]
+    },
+    {
+      "id": "meeting-31_2015-10-15",
+      "meetingNumber": 31,
+      "title": "Clear Fund Board Meeting",
+      "date": "2015-10-15",
+      "dateDisplay": "October 15, 2015",
+      "audioFilename": "Board_Meeting_2015-10-15.mp3",
+      "duration": 3620,
+      "durationDisplay": "1h 0m",
+      "fileSize": 57935414,
+      "fileSizeDisplay": "55 MB",
+      "description": "Fall board meeting reviewing organizational progress and initiatives. Discussion of strategic priorities and operational updates.",
+      "attachments": [
+        {
+          "filename": "Board_Meeting_Minutes_2015-10-15.pdf",
+          "type": "minutes",
+          "label": "Minutes",
+          "title": "Minutes"
+        }
+      ]
+    },
+    {
+      "id": "meeting-32_2016-03-21",
+      "meetingNumber": 32,
+      "title": "GiveWell Board Meeting",
+      "date": "2016-03-21",
+      "dateDisplay": "March 21, 2016",
+      "audioFilename": "GiveWell_board_meeting_March_2016.mp3",
+      "duration": 4087,
+      "durationDisplay": "1h 8m",
+      "fileSize": 49052749,
+      "fileSizeDisplay": "47 MB",
+      "description": "Annual board meeting with comprehensive organizational review. Discussion of research developments and planning for 2016.",
+      "attachments": [
+        {
+          "filename": "Board_Meeting_Minutes_03_21_2016.pdf",
+          "type": "minutes",
+          "label": "Minutes",
+          "title": "Minutes"
+        },
+        {
+          "filename": "GiveWell_board_meeting_questions_March_21_2016.xlsx",
+          "type": "document",
+          "label": "Document",
+          "title": "Document"
+        }
+      ]
+    },
+    {
+      "id": "meeting-33_2016-06-14",
+      "meetingNumber": 33,
+      "title": "Clear Fund Board Meeting",
+      "date": "2016-06-14",
+      "dateDisplay": "June 14, 2016",
+      "audioFilename": "Board_Meeting_June_14_2016.mp3",
+      "duration": 5689,
+      "durationDisplay": "1h 34m",
+      "fileSize": 91031611,
+      "fileSizeDisplay": "87 MB",
+      "description": "Mid-year board meeting covering multiple organizational topics. Review of financial position, strategic initiatives, and operational matters.",
+      "attachments": [
+        {
+          "filename": "Attachment_A_Clear_Fund_Document_Retention_and_Destruction_Policy.pdf",
+          "type": "attachment",
+          "label": "Attachment A",
+          "title": "Attachment A"
+        },
+        {
+          "filename": "Attachment_B_Insurance_review_and_other_sundries.pdf",
+          "type": "attachment",
+          "label": "Attachment B",
+          "title": "Attachment B"
+        },
+        {
+          "filename": "Attachment_C_Discussion_topics.pdf",
+          "type": "attachment",
+          "label": "Attachment C",
+          "title": "Attachment C"
+        },
+        {
+          "filename": "Attachment_D_Budget_review_and_proposal.xlsx",
+          "type": "attachment",
+          "label": "Attachment D",
+          "title": "Attachment D"
+        },
+        {
+          "filename": "Attachment_E_Financial_narrative.pdf",
+          "type": "attachment",
+          "label": "Attachment E",
+          "title": "Attachment E"
+        },
+        {
+          "filename": "Attachment_F_Executive_compensation.pdf",
+          "type": "attachment",
+          "label": "Attachment F",
+          "title": "Attachment F"
+        },
+        {
+          "filename": "Board_Meeting_June_14_2016.pdf",
+          "type": "document",
+          "label": "Document",
+          "title": "Document"
+        },
+        {
+          "filename": "Agenda_GiveWell_Board_Meeting_June_2016.pdf",
+          "type": "agenda",
+          "label": "Agenda",
+          "title": "Agenda"
+        }
+      ]
+    },
+    {
+      "id": "meeting-34_2016-11-07",
+      "meetingNumber": 34,
+      "title": "Clear Fund Board Meeting",
+      "date": "2016-11-07",
+      "dateDisplay": "November 7, 2016",
+      "audioFilename": "Board_Meeting_November_7_2016.mp3",
+      "duration": 1527,
+      "durationDisplay": "25m",
+      "fileSize": 24433152,
+      "fileSizeDisplay": "23 MB",
+      "description": "Fall board meeting with organizational updates and planning discussion. Review of research progress and program developments.",
+      "attachments": [
+        {
+          "filename": "Board_Meeting_November_7_2016.pdf",
+          "type": "document",
+          "label": "Document",
+          "title": "Document"
+        },
+        {
+          "filename": "Agenda_GiveWell_Board_Meeting_November_2016.pdf",
+          "type": "agenda",
+          "label": "Agenda",
+          "title": "Agenda"
+        }
+      ]
+    },
+    {
+      "id": "meeting-35_2017-03-27",
+      "meetingNumber": 35,
+      "title": "Clear Fund Board Meeting",
+      "date": "2017-03-27",
+      "dateDisplay": "March 27, 2017",
+      "audioFilename": "Board_Meeting_March_27_2017.mp3",
+      "duration": 1615,
+      "durationDisplay": "26m",
+      "fileSize": 25344127,
+      "fileSizeDisplay": "24 MB",
+      "description": "Spring board meeting covering organizational review and strategic planning. Discussion of research priorities and operational developments.",
+      "attachments": [
+        {
+          "filename": "Board_Meeting_March_27_2017.pdf",
+          "type": "document",
+          "label": "Document",
+          "title": "Document"
+        },
+        {
+          "filename": "Agenda_GiveWell_Board_Meeting_March_27_2017.pdf",
+          "type": "agenda",
+          "label": "Agenda",
+          "title": "Agenda"
+        }
+      ]
+    },
+    {
+      "id": "meeting-37_2017-06-06",
+      "meetingNumber": 37,
+      "title": "Clear Fund Board Meeting",
+      "date": "2017-06-06",
+      "dateDisplay": "June 6, 2017",
+      "audioFilename": "Board_Meeting_June_06_2017_Redacted.mp3",
+      "duration": 7803,
+      "durationDisplay": "2h 10m",
+      "fileSize": 124860354,
+      "fileSizeDisplay": "119 MB",
+      "description": "Comprehensive mid-year board meeting with multiple attachments covering organizational topics. Review of financial position, strategic initiatives, and programmatic developments.",
+      "attachments": [
+        {
+          "filename": "Attachment_B_Resolutions_to_approve_minutes_from_April_25_2017_board_meeting.pdf",
+          "type": "minutes",
+          "label": "Minutes",
+          "title": "Minutes"
+        },
+        {
+          "filename": "Board_Meeting_Minutes_June_06_2017.pdf",
+          "type": "minutes",
+          "label": "Minutes",
+          "title": "Minutes"
+        },
+        {
+          "filename": "Attachment_C_Financial_Narrative_Summary_Revenue_projections_and_current_assets.pdf",
+          "type": "attachment",
+          "label": "Attachment C",
+          "title": "Attachment C"
+        },
+        {
+          "filename": "Attachment_D_Budget_vs_actuals_2016_and_projections_2017-2018.xlsx",
+          "type": "attachment",
+          "label": "Attachment D",
+          "title": "Attachment D"
+        },
+        {
+          "filename": "Attachment_E_Resolutions_regarding_board_approval_of_expenses.pdf",
+          "type": "attachment",
+          "label": "Attachment E",
+          "title": "Attachment E"
+        },
+        {
+          "filename": "Attachment_F_Executive_Compensation_Proposal.pdf",
+          "type": "attachment",
+          "label": "Attachment F",
+          "title": "Attachment F"
+        },
+        {
+          "filename": "Attachment_G_GiveWells_Priorities_for_the_Next_3-5_Years.pdf",
+          "type": "attachment",
+          "label": "Attachment G",
+          "title": "Attachment G"
+        },
+        {
+          "filename": "Attachment_H_Clear_Fund_Document_Retention_and_Destruction_Policy.pdf",
+          "type": "attachment",
+          "label": "Attachment H",
+          "title": "Attachment H"
+        },
+        {
+          "filename": "Attachment_I_Insurance_review_and_sundry_items_2017.pdf",
+          "type": "attachment",
+          "label": "Attachment I",
+          "title": "Attachment I"
+        },
+        {
+          "filename": "Board_Meeting_April_25_2017.pdf",
+          "type": "document",
+          "label": "Document",
+          "title": "Document"
+        },
+        {
+          "filename": "Agenda_GiveWell_Board_Meeting_June_2017.pdf",
+          "type": "agenda",
+          "label": "Agenda",
+          "title": "Agenda"
+        }
+      ]
+    },
+    {
+      "id": "meeting-38_2017-10-30",
+      "meetingNumber": 38,
+      "title": "Clear Fund Board Meeting",
+      "date": "2017-10-30",
+      "dateDisplay": "October 30, 2017",
+      "audioFilename": "Board_Meeting_October_30_2017_Redacted.mp3",
+      "duration": 5579,
+      "durationDisplay": "1h 32m",
+      "fileSize": 89277058,
+      "fileSizeDisplay": "85 MB",
+      "description": "Fall board meeting with extensive agenda covering organizational review. Discussion of financial planning, research progress, and strategic initiatives.",
+      "attachments": [
+        {
+          "filename": "Attachment_E1_GiveWell_Minutes_for_June_06_2017_Board_Meeting.pdf",
+          "type": "minutes",
+          "label": "Minutes",
+          "title": "Minutes"
+        },
+        {
+          "filename": "Attachment_E2_Resolutions_to_approve_minutes_of_June_06_2017_Board_meeting.pdf",
+          "type": "minutes",
+          "label": "Minutes",
+          "title": "Minutes"
+        },
+        {
+          "filename": "Board_Meeting_Minutes_October_30_2017.pdf",
+          "type": "minutes",
+          "label": "Minutes",
+          "title": "Minutes"
+        },
+        {
+          "filename": "Attachment_A1_State_of_GiveWell_October_2017.pdf",
+          "type": "attachment",
+          "label": "Attachment A",
+          "title": "Attachment A"
+        },
+        {
+          "filename": "Attachment_B1_GiveWell_strategy_review_August_2017.pdf",
+          "type": "attachment",
+          "label": "Attachment B",
+          "title": "Attachment B"
+        },
+        {
+          "filename": "Attachment_C1_Outreach_update_October_2017_Redacted.pdf",
+          "type": "attachment",
+          "label": "Attachment C",
+          "title": "Attachment C"
+        },
+        {
+          "filename": "Attachment_D1_GiveWell_budget_update_October_2017.pdf",
+          "type": "attachment",
+          "label": "Attachment D",
+          "title": "Attachment D"
+        },
+        {
+          "filename": "Attachment_D2_GiveWells_Excess_Assets_Policy.pdf",
+          "type": "attachment",
+          "label": "Attachment D",
+          "title": "Attachment D"
+        },
+        {
+          "filename": "Attachment_D3_Resolutions_re_October_2017_application_of_excess_assets_policy.pdf",
+          "type": "attachment",
+          "label": "Attachment D",
+          "title": "Attachment D"
+        },
+        {
+          "filename": "Attachment_F2_GiveWells_Priorities_for_the_Next_3-5_Years.pdf",
+          "type": "attachment",
+          "label": "Attachment F",
+          "title": "Attachment F"
+        },
+        {
+          "filename": "Attachment_G1_Resolutions_to_form_finance_subcommittee.pdf",
+          "type": "attachment",
+          "label": "Attachment G",
+          "title": "Attachment G"
+        },
+        {
+          "filename": "Attachment_H1_Resolutions_on_Determination_of_Board_Size.pdf",
+          "type": "attachment",
+          "label": "Attachment H",
+          "title": "Attachment H"
+        },
+        {
+          "filename": "Agenda_GiveWell_Board_Meeting_October_30_2017.pdf",
+          "type": "agenda",
+          "label": "Agenda",
+          "title": "Agenda"
+        }
+      ]
+    },
+    {
+      "id": "meeting-39_2018-03-22",
+      "meetingNumber": 39,
+      "title": "Clear Fund Board Meeting",
+      "date": "2018-03-22",
+      "dateDisplay": "March 22, 2018",
+      "audioFilename": "Board_Meeting_March_22_2108_Redacted.mp3",
+      "duration": 4098,
+      "durationDisplay": "1h 8m",
+      "fileSize": 59919408,
+      "fileSizeDisplay": "57 MB",
+      "description": "Annual spring board meeting reviewing organizational progress. Discussion of research developments and strategic planning for the year.",
+      "attachments": [
+        {
+          "filename": "Board_Meeting_Minutes_March_22_2018.pdf",
+          "type": "minutes",
+          "label": "Minutes",
+          "title": "Minutes"
+        },
+        {
+          "filename": "Exhibit_1_Resolution_to_approve_minutes_of_October_30_2017_Board_meeting.pdf",
+          "type": "minutes",
+          "label": "Minutes",
+          "title": "Minutes"
+        },
+        {
+          "filename": "Exhibit_2_Resolution_to_revise_bylaws_regarding_checks_and_notes.pdf",
+          "type": "document",
+          "label": "Document",
+          "title": "Document"
+        },
+        {
+          "filename": "Exhibit_3_Resolution_to_create_grant-making_subcommittee.pdf",
+          "type": "document",
+          "label": "Document",
+          "title": "Document"
+        },
+        {
+          "filename": "Agenda_GiveWell_Board_Meeting_March_22_2018.pdf",
+          "type": "agenda",
+          "label": "Agenda",
+          "title": "Agenda"
+        }
+      ]
+    },
+    {
+      "id": "meeting-40_2018-06-18",
+      "meetingNumber": 40,
+      "title": "Clear Fund Board Meeting",
+      "date": "2018-06-18",
+      "dateDisplay": "June 18, 2018",
+      "audioFilename": "Board_Meeting_June_18_2018_Redacted.mp3",
+      "duration": 6937,
+      "durationDisplay": "1h 55m",
+      "fileSize": 162690329,
+      "fileSizeDisplay": "155 MB",
+      "description": "Mid-year comprehensive board meeting covering organizational operations. Review of financial position, research progress, and strategic initiatives.",
+      "attachments": [
+        {
+          "filename": "Attachment_D_draft_minutes_March_22_2018_board_meeting.pdf",
+          "type": "minutes",
+          "label": "Minutes",
+          "title": "Minutes"
+        },
+        {
+          "filename": "Board_Meeting_Minutes_June_18_2018.pdf",
+          "type": "minutes",
+          "label": "Minutes",
+          "title": "Minutes"
+        },
+        {
+          "filename": "Attachment_A_GiveWell_Financial_Summary_June_2018.pdf",
+          "type": "attachment",
+          "label": "Attachment A",
+          "title": "Attachment A"
+        },
+        {
+          "filename": "Attachment_B_GiveWell_financial_summary_June_2018_board_meeting.xlsx",
+          "type": "attachment",
+          "label": "Attachment B",
+          "title": "Attachment B"
+        },
+        {
+          "filename": "Attachment_C_Executive_compensation_review_June_2018_board_meeting.pdf",
+          "type": "attachment",
+          "label": "Attachment C",
+          "title": "Attachment C"
+        },
+        {
+          "filename": "Attachment_E_Document_Retention_and_Destruction_Policy.pdf",
+          "type": "attachment",
+          "label": "Attachment E",
+          "title": "Attachment E"
+        },
+        {
+          "filename": "Attachment_F_Review_of_comp_arrangements_and_benefits.pdf",
+          "type": "attachment",
+          "label": "Attachment F",
+          "title": "Attachment F"
+        },
+        {
+          "filename": "Attachment_G_Board_roster.pdf",
+          "type": "attachment",
+          "label": "Attachment G",
+          "title": "Attachment G"
+        },
+        {
+          "filename": "Attachment_H_Mission_and_Vision_Statements.pdf",
+          "type": "attachment",
+          "label": "Attachment H",
+          "title": "Attachment H"
+        },
+        {
+          "filename": "Attachment_I_Review_of_Insurance_Coverage.pdf",
+          "type": "attachment",
+          "label": "Attachment I",
+          "title": "Attachment I"
+        },
+        {
+          "filename": "GiveWell_Board_Meeting_Agenda_June_18_2018.pdf",
+          "type": "agenda",
+          "label": "Agenda",
+          "title": "Agenda"
+        }
+      ]
+    },
+    {
+      "id": "meeting-41_2019-04-30",
+      "meetingNumber": 41,
+      "title": "Clear Fund Board Meeting",
+      "date": "2019-04-30",
+      "dateDisplay": "April 30, 2019",
+      "audioFilename": "April_30_Board_meeting_redacted_recording.mp3",
+      "duration": 6709,
+      "durationDisplay": "1h 51m",
+      "fileSize": 93207397,
+      "fileSizeDisplay": "89 MB",
+      "description": "Spring board meeting with organizational review and planning discussion. Coverage of financial matters, research updates, and operational developments.",
+      "attachments": [
+        {
+          "filename": "Minutes_for_the_April_30_2019_Board_Meeting.pdf",
+          "type": "minutes",
+          "label": "Minutes",
+          "title": "Minutes"
+        },
+        {
+          "filename": "Attachment_A_Resolutions_for_Vote.pdf",
+          "type": "attachment",
+          "label": "Attachment A",
+          "title": "Attachment A"
+        },
+        {
+          "filename": "Attachment_B_2018_Review_Blog_Post_DRAFT_.pdf",
+          "type": "attachment",
+          "label": "Attachment B",
+          "title": "Attachment B"
+        },
+        {
+          "filename": "Attachment_C_2018_Detailed_Progress_Report_DRAFT_.pdf",
+          "type": "attachment",
+          "label": "Attachment C",
+          "title": "Attachment C"
+        },
+        {
+          "filename": "Attachment_D_2019_Plan_Blog_Post_DRAFT_.pdf",
+          "type": "attachment",
+          "label": "Attachment D",
+          "title": "Attachment D"
+        },
+        {
+          "filename": "Attachment_E_Feedback_from_Elie_Hassenfeld_360_Review.pdf",
+          "type": "attachment",
+          "label": "Attachment E",
+          "title": "Attachment E"
+        },
+        {
+          "filename": "Agenda_GiveWell_Board_Meeting_April_2019.pdf",
+          "type": "agenda",
+          "label": "Agenda",
+          "title": "Agenda"
+        }
+      ]
+    },
+    {
+      "id": "meeting-42_2019-07-29",
+      "meetingNumber": 42,
+      "title": "Clear Fund Board Meeting",
+      "date": "2019-07-29",
+      "dateDisplay": "July 29, 2019",
+      "audioFilename": "April_29_2019_board_meeting_redacted_recording.mp3",
+      "duration": 4662,
+      "durationDisplay": "1h 17m",
+      "fileSize": 111893124,
+      "fileSizeDisplay": "107 MB",
+      "description": "Summer board meeting covering multiple organizational topics. Review of strategic initiatives, financial planning, and program developments.",
+      "attachments": [
+        {
+          "filename": "_Draft_Minutes_for_the_July_29_2019_Board_Meeting.pdf",
+          "type": "minutes",
+          "label": "Minutes",
+          "title": "Minutes"
+        },
+        {
+          "filename": "Attachment_A_Insurance_Review_and_Sundry_Items.pdf",
+          "type": "attachment",
+          "label": "Attachment A",
+          "title": "Attachment A"
+        },
+        {
+          "filename": "Attachment_B_GiveWell_Recent_Progress_and_Future_Plans_Redacted.pdf",
+          "type": "attachment",
+          "label": "Attachment B",
+          "title": "Attachment B"
+        },
+        {
+          "filename": "Attachment_C_Draft_Organizational_Feedback_Plan.pdf",
+          "type": "attachment",
+          "label": "Attachment C",
+          "title": "Attachment C"
+        },
+        {
+          "filename": "Attachment_D_GiveWell_financial_summary_July_2019_board_meeting.xlsx",
+          "type": "attachment",
+          "label": "Attachment D",
+          "title": "Attachment D"
+        },
+        {
+          "filename": "Attachment_F_2018_Audit_Package.pdf",
+          "type": "attachment",
+          "label": "Attachment F",
+          "title": "Attachment F"
+        },
+        {
+          "filename": "Attachment_G_Executive_compensation_review_June_2019_board_meeting_Redacted.pdf",
+          "type": "attachment",
+          "label": "Attachment G",
+          "title": "Attachment G"
+        },
+        {
+          "filename": "Attachment_H_Resolutions_for_board_vote.pdf",
+          "type": "attachment",
+          "label": "Attachment H",
+          "title": "Attachment H"
+        },
+        {
+          "filename": "Agenda_GiveWell_Board_Meeting_July_2019.pdf",
+          "type": "agenda",
+          "label": "Agenda",
+          "title": "Agenda"
+        }
+      ]
+    },
+    {
+      "id": "meeting-44_2020-02-27",
+      "meetingNumber": 44,
+      "title": "GiveWell Board Meeting",
+      "date": "2020-02-27",
+      "dateDisplay": "February 27, 2020",
+      "audioFilename": "Redacted_GiveWell_board_meeting_February_2020_recorder_recording.mp3",
+      "duration": 6154,
+      "durationDisplay": "1h 42m",
+      "fileSize": 137709064,
+      "fileSizeDisplay": "131 MB",
+      "description": "Early 2020 board meeting with organizational updates. Discussion of strategic direction and operational matters.",
+      "attachments": [
+        {
+          "filename": "Draft_Minutes_for_the_February_27_Board_Meeting.pdf",
+          "type": "minutes",
+          "label": "Minutes",
+          "title": "Minutes"
+        },
+        {
+          "filename": "Attachment_A_February_2020_GiveWell_board_meeting_GiveWell_recent_progress_and_future_plans_redacted.pdf",
+          "type": "attachment",
+          "label": "Attachment A",
+          "title": "Attachment A"
+        },
+        {
+          "filename": "Attachment_C_2020_Plans_and_Dashboard_redacted.pdf",
+          "type": "attachment",
+          "label": "Attachment C",
+          "title": "Attachment C"
+        },
+        {
+          "filename": "GiveWell_Board_Meeting_Agenda_February_2020_Redacted.pdf",
+          "type": "agenda",
+          "label": "Agenda",
+          "title": "Agenda"
+        }
+      ]
+    },
+    {
+      "id": "meeting-45_2020-05-28",
+      "meetingNumber": 45,
+      "title": "GiveWell Board Meeting",
+      "date": "2020-05-28",
+      "dateDisplay": "May 28, 2020",
+      "audioFilename": "Redacted_GiveWell_board_meeting_May_2020_recorder_recording.mp3",
+      "duration": 4385,
+      "durationDisplay": "1h 13m",
+      "fileSize": 52555509,
+      "fileSizeDisplay": "50 MB",
+      "description": "Spring board meeting during COVID-19 pandemic period. Review of organizational adaptations, financial position, and strategic planning.",
+      "attachments": [
+        {
+          "filename": "Attachment_G_Draft_Minutes_for_the_February_27_Board_Meeting_redacted.pdf",
+          "type": "minutes",
+          "label": "Minutes",
+          "title": "Minutes"
+        },
+        {
+          "filename": "Draft_Minutes_for_the_May_28_Board_Meeting.pdf",
+          "type": "minutes",
+          "label": "Minutes",
+          "title": "Minutes"
+        },
+        {
+          "filename": "Attachment_A_Overall_outreach_goals_redacted.pdf",
+          "type": "attachment",
+          "label": "Attachment A",
+          "title": "Attachment A"
+        },
+        {
+          "filename": "Attachment_B_GiveWell_2020_marketing_plan_overview_redacted.pdf",
+          "type": "attachment",
+          "label": "Attachment B",
+          "title": "Attachment B"
+        },
+        {
+          "filename": "Attachment_B_i_User_Experience_Research_April_May_2020_redacted.pdf",
+          "type": "attachment",
+          "label": "Attachment B",
+          "title": "Attachment B"
+        },
+        {
+          "filename": "Attachment_C_Donor_retention_Plan_2020_redacted.pdf",
+          "type": "attachment",
+          "label": "Attachment C",
+          "title": "Attachment C"
+        },
+        {
+          "filename": "Attachment_D_How_COVID_19_has_affected_GiveWell_redacted.pdf",
+          "type": "attachment",
+          "label": "Attachment D",
+          "title": "Attachment D"
+        },
+        {
+          "filename": "Attachment_E_COVID_Scenarios_May_Board_pages_14May2020.pdf",
+          "type": "attachment",
+          "label": "Attachment E",
+          "title": "Attachment E"
+        },
+        {
+          "filename": "Attachment_F_Board_Resolutions_redacted.pdf",
+          "type": "attachment",
+          "label": "Attachment F",
+          "title": "Attachment F"
+        },
+        {
+          "filename": "GiveWell_Board_Meeting_Agenda_May_2020_Redacted.pdf",
+          "type": "agenda",
+          "label": "Agenda",
+          "title": "Agenda"
+        }
+      ]
+    },
+    {
+      "id": "meeting-46_2020-08-25",
+      "meetingNumber": 46,
+      "title": "Clear Fund Board Meeting",
+      "date": "2020-08-25",
+      "dateDisplay": "August 25, 2020",
+      "audioFilename": "Board_meeting_audio_August_25_2020_redacted.mp3",
+      "duration": 4242,
+      "durationDisplay": "1h 10m",
+      "fileSize": 47479133,
+      "fileSizeDisplay": "45 MB",
+      "description": "Summer board meeting with responses to board member questions (redacted). Review of organizational progress, strategic initiatives, and operational developments.",
+      "attachments": [
+        {
+          "filename": "Attachment_J_Minutes_for_the_May_28_Board_Meeting.pdf",
+          "type": "minutes",
+          "label": "Minutes",
+          "title": "Minutes"
+        },
+        {
+          "filename": "DRAFT_Minutes_for_the_Aug_25_Board_Meeting.pdf",
+          "type": "minutes",
+          "label": "Minutes",
+          "title": "Minutes"
+        },
+        {
+          "filename": "Attachment_A_Insurance_Review_and_Sundry_Items_2020_redacted.pdf",
+          "type": "attachment",
+          "label": "Attachment A",
+          "title": "Attachment A"
+        },
+        {
+          "filename": "Attachment_B_GiveWell_s_Recent_Progress_and_Future_Plans_August_25_2020_redacted.pdf",
+          "type": "attachment",
+          "label": "Attachment B",
+          "title": "Attachment B"
+        },
+        {
+          "filename": "Attachment_C_GiveWell_Compensation_Review_Protocol_August_2020.pdf",
+          "type": "attachment",
+          "label": "Attachment C",
+          "title": "Attachment C"
+        },
+        {
+          "filename": "Attachment_E_GiveWell_Foreign_Registration_Proposal_redacted.pdf",
+          "type": "attachment",
+          "label": "Attachment E",
+          "title": "Attachment E"
+        },
+        {
+          "filename": "Attachment_F_DRAFT_GiveWell_Financial_Summary_August_25_2020_2.pdf",
+          "type": "attachment",
+          "label": "Attachment F",
+          "title": "Attachment F"
+        },
+        {
+          "filename": "Attachment_H_Executive_Compensation_Review_redacted.pdf",
+          "type": "attachment",
+          "label": "Attachment H",
+          "title": "Attachment H"
+        },
+        {
+          "filename": "Attachment_I_Resolutions_for_Board_Vote.pdf",
+          "type": "attachment",
+          "label": "Attachment I",
+          "title": "Attachment I"
+        },
+        {
+          "filename": "Responses_to_Board_Members_Questions_redacted.pdf",
+          "type": "document",
+          "label": "Document",
+          "title": "Document"
+        },
+        {
+          "filename": "GiveWell_Board_Meeting_Agenda_August_25_2020_redacted.pdf",
+          "type": "agenda",
+          "label": "Agenda",
+          "title": "Agenda"
+        }
+      ]
+    }
+  ]
+}
