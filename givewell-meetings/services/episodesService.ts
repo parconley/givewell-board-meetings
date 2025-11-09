@@ -14,7 +14,7 @@ import { Episode, EpisodesData } from '../types/episode';
 const USE_LOCAL_DATA = __DEV__; // Set to false when GitHub repo is ready
 
 // Episodes metadata JSON URL
-// For web: use relative path to public folder
+// For web: use path with base for GitHub Pages project site
 // For native: use GitHub URL
 const EPISODES_JSON_URL = Platform.OS === 'web'
   ? '/givewell-board-meetings/episodes.json'

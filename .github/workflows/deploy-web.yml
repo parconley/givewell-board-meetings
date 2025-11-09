@@ -38,6 +38,10 @@ jobs:
         working-directory: ./givewell-meetings
         run: npx expo export --platform web
 
+      - name: Fix paths for GitHub Pages
+        working-directory: ./givewell-meetings
+        run: chmod +x scripts/fix-gh-pages-paths.sh && ./scripts/fix-gh-pages-paths.sh
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
