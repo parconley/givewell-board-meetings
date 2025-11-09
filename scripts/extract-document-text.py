@@ -9,33 +9,63 @@ import os
 import json
 from pathlib import Path
 
+# PDF extraction with pdfplumber (better quality than PyPDF2)
+try:
+    import pdfplumber
+    has_pdfplumber = True
+except ImportError:
+    has_pdfplumber = False
+
+# Fallback to PyPDF2 if pdfplumber not available
 try:
     from PyPDF2 import PdfReader
     has_pypdf = True
 except ImportError:
     has_pypdf = False
 
+# DOCX extraction
 try:
     from docx import Document
     has_docx = True
 except ImportError:
     has_docx = False
 
-def extract_pdf_text(pdf_path):
-    """Extract text from a PDF file"""
-    if not has_pypdf:
-        return "[PDF text extraction requires PyPDF2. Install with: pip install PyPDF2]"
+# Legacy DOC extraction
+try:
+    import textract
+    has_textract = True
+except ImportError:
+    has_textract = False
 
-    try:
-        reader = PdfReader(pdf_path)
-        text_parts = []
-        for page in reader.pages:
-            text = page.extract_text()
-            if text:
-                text_parts.append(text)
-        return '\n\n'.join(text_parts)
-    except Exception as e:
-        return f"[Error extracting PDF: {str(e)}]"
+def extract_pdf_text(pdf_path):
+    """Extract text from a PDF file using pdfplumber"""
+    if has_pdfplumber:
+        try:
+            with pdfplumber.open(pdf_path) as pdf:
+                text_parts = []
+                for page in pdf.pages:
+                    text = page.extract_text()
+                    if text:
+                        text_parts.append(text)
+                return '\n\n'.join(text_parts)
+        except Exception as e:
+            print(f"    pdfplumber failed: {e}, trying PyPDF2...")
+            # Fall through to PyPDF2
+
+    # Fallback to PyPDF2
+    if has_pypdf:
+        try:
+            reader = PdfReader(pdf_path)
+            text_parts = []
+            for page in reader.pages:
+                text = page.extract_text()
+                if text:
+                    text_parts.append(text)
+            return '\n\n'.join(text_parts)
+        except Exception as e:
+            return f"[Error extracting PDF: {str(e)}]"
+
+    return "[PDF text extraction requires pdfplumber or PyPDF2]"
 
 def extract_docx_text(docx_path):
     """Extract text from a DOCX file"""
@@ -50,10 +80,24 @@ def extract_docx_text(docx_path):
         return f"[Error extracting DOCX: {str(e)}]"
 
 def extract_doc_text(doc_path):
-    """Extract text from a legacy DOC file"""
-    # Legacy .doc files are much harder to parse
-    # For now, return a placeholder
-    return f"[Legacy .doc file - text extraction not yet implemented. Original file: {os.path.basename(doc_path)}]"
+    """Extract text from a legacy DOC file using textract"""
+    if not has_textract:
+        return f"[Legacy .doc file - textract not installed. Install with: pip install textract]"
+
+    try:
+        text = textract.process(str(doc_path), method='antiword').decode('utf-8')
+        if not text.strip():
+            return f"[No text extracted from {os.path.basename(doc_path)}]"
+        return text
+    except Exception as e:
+        # Try without specifying method
+        try:
+            text = textract.process(str(doc_path)).decode('utf-8')
+            if not text.strip():
+                return f"[No text extracted from {os.path.basename(doc_path)}]"
+            return text
+        except Exception as e2:
+            return f"[Error extracting .doc file: {str(e2)}]"
 
 def main():
     # Load episodes.json
@@ -94,6 +138,9 @@ def main():
                 text = extract_docx_text(file_path)
             elif filename.lower().endswith('.doc'):
                 text = extract_doc_text(file_path)
+            elif filename.lower().endswith('.xlsx'):
+                # Skip Excel files for now
+                text = f"[Excel file - text extraction not supported]"
             else:
                 text = f"[Unsupported file type: {filename}]"
 
