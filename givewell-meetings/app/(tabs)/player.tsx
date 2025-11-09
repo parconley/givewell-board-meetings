@@ -11,18 +11,15 @@ import {
   TouchableOpacity,
   ScrollView,
   StyleSheet,
-  Linking,
-  Alert,
 } from 'react-native';
 import { StatusBar } from 'expo-status-bar';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import Slider from '@react-native-community/slider';
 import { useAudioPlayer, formatTime } from '../../hooks/useAudioPlayer';
-import { episodesService } from '../../services/episodesService';
 import { Colors } from '../../constants/Colors';
 import { Typography, Spacing, BorderRadius, TouchTarget } from '../../constants/Typography';
 
-const PLAYBACK_SPEEDS = [1.0, 1.25, 1.5, 2.0];
+const PLAYBACK_SPEEDS = [1.0, 1.25, 1.5, 2.0, 3.0, 4.0, 5.0];
 
 export default function PlayerScreen() {
   const {
@@ -39,7 +36,7 @@ export default function PlayerScreen() {
     setPlaybackSpeed,
   } = useAudioPlayer();
 
-  const [showNotes, setShowNotes] = useState(false);
+  const [expandedAttachment, setExpandedAttachment] = useState<number | null>(null);
 
   if (!currentEpisode) {
     return (
@@ -59,20 +56,8 @@ export default function PlayerScreen() {
     setPlaybackSpeed(PLAYBACK_SPEEDS[nextIndex]);
   };
 
-  const handleAttachmentPress = async (filename: string) => {
-    const url = episodesService.getDocumentUrl(currentEpisode, filename);
-
-    try {
-      const supported = await Linking.canOpenURL(url);
-      if (supported) {
-        await Linking.openURL(url);
-      } else {
-        Alert.alert('Error', 'Unable to open this document');
-      }
-    } catch (error) {
-      console.error('Error opening document:', error);
-      Alert.alert('Error', 'Failed to open document');
-    }
+  const handleAttachmentPress = (index: number) => {
+    setExpandedAttachment(expandedAttachment === index ? null : index);
   };
 
   return (
@@ -152,38 +137,41 @@ export default function PlayerScreen() {
 
         {/* Show Notes Section */}
         <View style={styles.showNotesSection}>
-          <TouchableOpacity
-            style={styles.showNotesHeader}
-            onPress={() => setShowNotes(!showNotes)}
-          >
-            <Text style={styles.showNotesTitle}>Show Notes</Text>
-            <Text style={styles.showNotesToggle}>{showNotes ? '▼' : '▶'}</Text>
-          </TouchableOpacity>
+          <Text style={styles.showNotesTitle}>Documents</Text>
 
-          {showNotes && (
-            <View style={styles.attachmentsList}>
-              {currentEpisode.attachments.length === 0 ? (
-                <Text style={styles.noAttachmentsText}>No documents available</Text>
-              ) : (
-                currentEpisode.attachments.map((attachment, index) => (
+          <View style={styles.attachmentsList}>
+            {currentEpisode.attachments.length === 0 ? (
+              <Text style={styles.noAttachmentsText}>No documents available</Text>
+            ) : (
+              currentEpisode.attachments.map((attachment, index) => (
+                <View key={index} style={styles.attachmentContainer}>
                   <TouchableOpacity
-                    key={index}
                     style={styles.attachmentItem}
-                    onPress={() => handleAttachmentPress(attachment.filename)}
+                    onPress={() => handleAttachmentPress(index)}
                   >
                     <Text style={styles.attachmentIcon}>📄</Text>
-                    <View style={styles.attachmentText}>
+                    <View style={styles.attachmentTextContainer}>
                       <Text style={styles.attachmentLabel}>{attachment.label}</Text>
                       {attachment.title !== attachment.label && (
                         <Text style={styles.attachmentTitle}>{attachment.title}</Text>
                       )}
                     </View>
-                    <Text style={styles.attachmentArrow}>›</Text>
+                    <Text style={styles.attachmentToggle}>
+                      {expandedAttachment === index ? '▼' : '▶'}
+                    </Text>
                   </TouchableOpacity>
-                ))
-              )}
-            </View>
-          )}
+
+                  {expandedAttachment === index && attachment.text && (
+                    <View style={styles.attachmentContent}>
+                      <ScrollView style={styles.attachmentTextScroll} nestedScrollEnabled>
+                        <Text style={styles.attachmentTextContent}>{attachment.text}</Text>
+                      </ScrollView>
+                    </View>
+                  )}
+                </View>
+              ))
+            )}
+          </View>
         </View>
       </ScrollView>
     </SafeAreaView>
@@ -296,28 +284,22 @@ const styles = StyleSheet.create({
     color: Colors.primary,
   },
 
-  // Show Notes
+  // Show Notes / Documents
   showNotesSection: {
     borderTopWidth: 1,
     borderTopColor: Colors.border,
     paddingTop: Spacing.lg,
   },
-  showNotesHeader: {
-    flexDirection: 'row',
-    justifyContent: 'space-between',
-    alignItems: 'center',
-    paddingVertical: Spacing.md,
-  },
   showNotesTitle: {
     ...Typography.h2,
     color: Colors.textPrimary,
-  },
-  showNotesToggle: {
-    ...Typography.h3,
-    color: Colors.textMuted,
+    marginBottom: Spacing.md,
   },
   attachmentsList: {
     marginTop: Spacing.sm,
+  },
+  attachmentContainer: {
+    marginBottom: Spacing.md,
   },
   attachmentItem: {
     flexDirection: 'row',
@@ -326,13 +308,12 @@ const styles = StyleSheet.create({
     paddingHorizontal: Spacing.lg,
     backgroundColor: Colors.cardBg,
     borderRadius: BorderRadius.md,
-    marginBottom: Spacing.sm,
   },
   attachmentIcon: {
     fontSize: 20,
     marginRight: Spacing.md,
   },
-  attachmentText: {
+  attachmentTextContainer: {
     flex: 1,
   },
   attachmentLabel: {
@@ -345,10 +326,26 @@ const styles = StyleSheet.create({
     color: Colors.textMuted,
     marginTop: 2,
   },
-  attachmentArrow: {
-    ...Typography.h2,
+  attachmentToggle: {
+    ...Typography.h3,
     color: Colors.textMuted,
     marginLeft: Spacing.sm,
+  },
+  attachmentContent: {
+    marginTop: Spacing.sm,
+    backgroundColor: Colors.background,
+    borderRadius: BorderRadius.md,
+    borderWidth: 1,
+    borderColor: Colors.border,
+    padding: Spacing.lg,
+  },
+  attachmentTextScroll: {
+    maxHeight: 300,
+  },
+  attachmentTextContent: {
+    ...Typography.bodySmall,
+    color: Colors.textPrimary,
+    lineHeight: 20,
   },
   noAttachmentsText: {
     ...Typography.body,

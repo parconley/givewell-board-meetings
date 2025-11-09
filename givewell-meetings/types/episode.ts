@@ -7,6 +7,7 @@ export interface Attachment {
   type: 'agenda' | 'minutes' | 'attachment' | 'document';
   label: string;
   title: string;
+  text?: string; // Extracted text content from PDF/DOC
 }
 
 export interface Episode {
