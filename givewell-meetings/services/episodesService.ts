@@ -6,14 +6,19 @@
  */
 
 import AsyncStorage from '@react-native-async-storage/async-storage';
+import { Platform } from 'react-native';
 import { Episode, EpisodesData } from '../types/episode';
 
 // Development mode: load from local file
-// Production mode: load from GitHub
+// Production mode: load from GitHub or public folder (web)
 const USE_LOCAL_DATA = __DEV__; // Set to false when GitHub repo is ready
 
-// Episodes metadata JSON hosted on GitHub
-const EPISODES_JSON_URL = 'https://raw.githubusercontent.com/parconley/givewell-board-meetings/main/episodes.json';
+// Episodes metadata JSON URL
+// For web: use relative path to public folder
+// For native: use GitHub URL
+const EPISODES_JSON_URL = Platform.OS === 'web'
+  ? '/episodes.json'
+  : 'https://raw.githubusercontent.com/parconley/givewell-board-meetings/main/episodes.json';
 
 // Local development data
 const LOCAL_EPISODES_DATA = require('../episodes.json') as EpisodesData;
