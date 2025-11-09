@@ -78,12 +78,17 @@ export function EpisodeCard({ episode, progress, onPress, isCurrentlyPlaying }: 
 
 const styles = StyleSheet.create({
   container: {
-    backgroundColor: Colors.cardBg,
-    borderRadius: BorderRadius.md,
+    backgroundColor: Colors.surface,
+    borderRadius: BorderRadius.lg,
     padding: Spacing.lg,
-    marginBottom: Spacing.md,
+    marginBottom: Spacing.lg,
     borderWidth: 1,
     borderColor: Colors.border,
+    shadowColor: Colors.ink,
+    shadowOffset: { width: 0, height: 4 },
+    shadowOpacity: 0.08,
+    shadowRadius: 16,
+    elevation: 2,
   },
   containerPlaying: {
     borderColor: Colors.primary,
@@ -138,6 +143,6 @@ const styles = StyleSheet.create({
   },
   progressBar: {
     height: '100%',
-    backgroundColor: Colors.primary,
+    backgroundColor: Colors.accent,
   },
 });

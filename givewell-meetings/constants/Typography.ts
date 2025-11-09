@@ -1,15 +1,14 @@
 /**
- * GiveWell Typography System
- *
- * Clean, minimal typography using system fonts:
- * - iOS: SF Pro
- * - Android: Roboto
+ * Typography System
+ * Calm, precise, modern design
+ * Based on 8px spacing grid
  */
 
 import { Platform } from 'react-native';
 
 /**
  * Font families
+ * Primary: Inter (or system equivalents)
  */
 export const FontFamily = {
   regular: Platform.select({
@@ -33,28 +32,37 @@ export const FontWeight = {
 };
 
 /**
- * Typography styles for different text elements
+ * Typography scale (mobile)
  */
 export const Typography = {
-  // Page titles
-  h1: {
+  // Display / Screen title: 28pt, semibold, tight leading
+  display: {
     fontFamily: FontFamily.semiBold,
     fontWeight: FontWeight.semiBold,
-    fontSize: 26,
-    lineHeight: 32,
+    fontSize: 28,
+    lineHeight: 34,
     letterSpacing: 0.2,
   },
 
-  // Section headers, episode titles
+  // H1: 24pt, semibold
+  h1: {
+    fontFamily: FontFamily.semiBold,
+    fontWeight: FontWeight.semiBold,
+    fontSize: 24,
+    lineHeight: 30,
+    letterSpacing: 0.15,
+  },
+
+  // H2: 20pt, semibold
   h2: {
     fontFamily: FontFamily.semiBold,
     fontWeight: FontWeight.semiBold,
     fontSize: 20,
-    lineHeight: 28,
-    letterSpacing: 0.15,
+    lineHeight: 26,
+    letterSpacing: 0.1,
   },
 
-  // Card titles, button text
+  // H3 / section: 17pt, semibold
   h3: {
     fontFamily: FontFamily.semiBold,
     fontWeight: FontWeight.semiBold,
@@ -63,23 +71,23 @@ export const Typography = {
     letterSpacing: 0.1,
   },
 
-  // Body text, descriptions
+  // Body: 15-16pt, regular
   body: {
+    fontFamily: FontFamily.regular,
+    fontWeight: FontWeight.regular,
+    fontSize: 16,
+    lineHeight: 24,
+  },
+
+  // Body small
+  bodySmall: {
     fontFamily: FontFamily.regular,
     fontWeight: FontWeight.regular,
     fontSize: 15,
     lineHeight: 22,
   },
 
-  // Small body text
-  bodySmall: {
-    fontFamily: FontFamily.regular,
-    fontWeight: FontWeight.regular,
-    fontSize: 14,
-    lineHeight: 20,
-  },
-
-  // Captions, metadata, timestamps
+  // Caption / meta: 13pt, regular
   caption: {
     fontFamily: FontFamily.regular,
     fontWeight: FontWeight.regular,
@@ -87,7 +95,7 @@ export const Typography = {
     lineHeight: 18,
   },
 
-  // Very small text (file sizes, etc.)
+  // Micro (for very small details)
   micro: {
     fontFamily: FontFamily.regular,
     fontWeight: FontWeight.regular,
@@ -97,27 +105,26 @@ export const Typography = {
 };
 
 /**
- * Spacing scale for consistent vertical rhythm
+ * Spacing scale - 8px base unit
  */
 export const Spacing = {
-  xs: 4,
-  sm: 8,
-  md: 12,
-  lg: 16,
-  xl: 20,
-  xxl: 24,
-  xxxl: 32,
+  xs: 4,   // 0.5x
+  sm: 8,   // 1x
+  md: 12,  // 1.5x
+  lg: 16,  // 2x (screen side padding, card internal padding)
+  xl: 20,  // 2.5x (card internal padding max)
+  xxl: 24, // 3x (section spacing min)
+  xxxl: 32, // 4x (section spacing max)
 };
 
 /**
  * Border radius values
  */
 export const BorderRadius = {
-  sm: 4,
-  md: 8,
-  lg: 12,
-  xl: 16,
-  full: 999,
+  sm: 8,
+  md: 12,   // Input fields
+  lg: 16,   // Cards
+  full: 999, // Buttons (pill)
 };
 
 /**

@@ -184,7 +184,7 @@ const styles = StyleSheet.create({
     backgroundColor: Colors.background,
   },
   scrollContent: {
-    padding: Spacing.xl,
+    padding: Spacing.lg,
   },
   emptyContainer: {
     flex: 1,
@@ -275,7 +275,7 @@ const styles = StyleSheet.create({
     alignSelf: 'center',
     paddingHorizontal: Spacing.lg,
     paddingVertical: Spacing.sm,
-    borderRadius: BorderRadius.md,
+    borderRadius: BorderRadius.full,
     borderWidth: 1,
     borderColor: Colors.primary,
   },
@@ -306,8 +306,10 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     paddingVertical: Spacing.md,
     paddingHorizontal: Spacing.lg,
-    backgroundColor: Colors.cardBg,
-    borderRadius: BorderRadius.md,
+    backgroundColor: Colors.surface,
+    borderRadius: BorderRadius.lg,
+    borderWidth: 1,
+    borderColor: Colors.border,
   },
   attachmentIcon: {
     fontSize: 20,
@@ -333,8 +335,8 @@ const styles = StyleSheet.create({
   },
   attachmentContent: {
     marginTop: Spacing.sm,
-    backgroundColor: Colors.background,
-    borderRadius: BorderRadius.md,
+    backgroundColor: Colors.surface,
+    borderRadius: BorderRadius.lg,
     borderWidth: 1,
     borderColor: Colors.border,
     padding: Spacing.lg,
