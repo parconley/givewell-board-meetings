@@ -17,7 +17,7 @@ const USE_LOCAL_DATA = __DEV__; // Set to false when GitHub repo is ready
 // For web: use relative path to public folder
 // For native: use GitHub URL
 const EPISODES_JSON_URL = Platform.OS === 'web'
-  ? '/episodes.json'
+  ? '/givewell-board-meetings/episodes.json'
   : 'https://raw.githubusercontent.com/parconley/givewell-board-meetings/main/episodes.json';
 
 // Local development data
