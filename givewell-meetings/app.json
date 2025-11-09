@@ -15,7 +15,10 @@
     },
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.parconley.givewellmeetings"
+      "bundleIdentifier": "com.parconley.givewellmeetings",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
     },
     "android": {
       "package": "com.parconley.givewellmeetings",
@@ -27,10 +30,23 @@
       "predictiveBackGestureEnabled": false
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/favicon.png",
+      "bundler": "metro",
+      "output": "static",
+      "build": {
+        "babel": {
+          "include": ["@react-native-community/slider"]
+        }
+      }
     },
     "plugins": [
       "expo-router"
-    ]
+    ],
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "46e3ead3-2bfc-4e06-a352-93a76af6730a"
+      }
+    }
   }
 }
