@@ -12,8 +12,8 @@ import { Episode, EpisodesData } from '../types/episode';
 // Production mode: load from GitHub
 const USE_LOCAL_DATA = __DEV__; // Set to false when GitHub repo is ready
 
-// TODO: Update this URL once GitHub repo is set up
-const EPISODES_JSON_URL = 'https://raw.githubusercontent.com/YOUR_USERNAME/givewell-board-meetings-app/main/data/episodes.json';
+// Episodes metadata JSON hosted on GitHub
+const EPISODES_JSON_URL = 'https://raw.githubusercontent.com/parconley/givewell-board-meetings/main/episodes.json';
 
 // Local development data
 const LOCAL_EPISODES_DATA = require('../episodes.json') as EpisodesData;
@@ -120,19 +120,21 @@ class EpisodesService {
 
   /**
    * Get audio URL for an episode
-   * Constructs the full URL to the audio file on GitHub
+   * Audio files are hosted on GitHub Releases
    */
   getAudioUrl(episode: Episode): string {
-    const baseUrl = 'https://raw.githubusercontent.com/YOUR_USERNAME/givewell-board-meetings-app/main/audio';
-    return `${baseUrl}/${episode.id}_${episode.audioFilename}`;
+    const baseUrl = 'https://github.com/parconley/givewell-board-meetings/releases/download/v1.0.0';
+    return `${baseUrl}/${episode.audioFilename}`;
   }
 
   /**
    * Get document URL for an attachment
+   * Note: PDFs not yet uploaded to GitHub. This would need to be implemented.
    */
   getDocumentUrl(episode: Episode, filename: string): string {
-    const baseUrl = 'https://raw.githubusercontent.com/YOUR_USERNAME/givewell-board-meetings-app/main/documents';
-    return `${baseUrl}/${episode.id}/${filename}`;
+    // For future use - would host PDFs on GitHub Release or separate storage
+    const baseUrl = 'https://github.com/parconley/givewell-board-meetings/releases/download/v1.0.0';
+    return `${baseUrl}/${filename}`;
   }
 
   /**
