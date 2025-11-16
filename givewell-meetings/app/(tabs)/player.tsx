@@ -29,6 +29,7 @@ export default function PlayerScreen() {
     position,
     duration,
     playbackSpeed,
+    error,
     togglePlayPause,
     seekTo,
     skipForward,
@@ -46,6 +47,27 @@ export default function PlayerScreen() {
           <Text style={styles.emptyText}>No episode playing</Text>
           <Text style={styles.emptySubtext}>Select an episode to start listening</Text>
         </View>
+      </SafeAreaView>
+    );
+  }
+
+  // Show error if there is one
+  if (error) {
+    return (
+      <SafeAreaView style={styles.container} edges={['top']}>
+        <StatusBar style="dark" />
+        <ScrollView contentContainerStyle={styles.scrollContent}>
+          <View style={styles.infoSection}>
+            <Text style={styles.meetingNumber}>
+              Meeting {currentEpisode.meetingNumber} • {currentEpisode.dateDisplay}
+            </Text>
+            <Text style={styles.title}>{currentEpisode.title}</Text>
+          </View>
+          <View style={styles.emptyContainer}>
+            <Text style={styles.errorText}>⚠️ {error}</Text>
+            <Text style={styles.emptySubtext}>Check your internet connection and try again</Text>
+          </View>
+        </ScrollView>
       </SafeAreaView>
     );
   }

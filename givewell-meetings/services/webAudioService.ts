@@ -71,44 +71,96 @@ class WebAudioService {
   private setupAudioListeners(): void {
     if (!this.audio) return;
 
+    this.audio.addEventListener('loadstart', () => {
+      console.log('Audio loading started');
+    });
+
     this.audio.addEventListener('loadedmetadata', () => {
       if (this.audio) {
+        console.log('Audio metadata loaded, duration:', this.audio.duration);
         this.updateState({
           duration: this.audio.duration * 1000,
         });
       }
     });
 
+    this.audio.addEventListener('loadeddata', () => {
+      console.log('Audio data loaded');
+    });
+
+    this.audio.addEventListener('canplay', () => {
+      console.log('Audio can play');
+      if (this.state.status === 'buffering' || this.state.status === 'loading') {
+        this.updateState({ status: this.audio!.paused ? 'paused' : 'playing' });
+      }
+    });
+
     this.audio.addEventListener('playing', () => {
+      console.log('Audio playing');
       this.updateState({ status: 'playing' });
       this.startPositionUpdates();
     });
 
     this.audio.addEventListener('pause', () => {
+      console.log('Audio paused');
       this.updateState({ status: 'paused' });
       this.stopPositionUpdates();
       this.saveProgress();
     });
 
     this.audio.addEventListener('ended', () => {
+      console.log('Audio ended');
       this.handlePlaybackFinished();
     });
 
     this.audio.addEventListener('error', (e) => {
-      console.error('Audio error:', e);
+      const error = this.audio?.error;
+      let errorMessage = 'Failed to load audio file';
+
+      if (error) {
+        switch (error.code) {
+          case MediaError.MEDIA_ERR_ABORTED:
+            errorMessage = 'Audio loading was aborted';
+            break;
+          case MediaError.MEDIA_ERR_NETWORK:
+            errorMessage = 'Network error while loading audio';
+            break;
+          case MediaError.MEDIA_ERR_DECODE:
+            errorMessage = 'Audio file is corrupted or unsupported';
+            break;
+          case MediaError.MEDIA_ERR_SRC_NOT_SUPPORTED:
+            errorMessage = 'Audio format not supported by your browser';
+            break;
+        }
+        console.error('Audio error:', errorMessage, error);
+      }
+
       this.updateState({
         status: 'error',
-        error: 'Failed to load audio file',
+        error: errorMessage,
       });
     });
 
     this.audio.addEventListener('waiting', () => {
+      console.log('Audio buffering');
       this.updateState({ status: 'buffering' });
     });
 
-    this.audio.addEventListener('canplay', () => {
-      if (this.state.status === 'buffering') {
-        this.updateState({ status: this.audio!.paused ? 'paused' : 'playing' });
+    this.audio.addEventListener('stalled', () => {
+      console.warn('Audio download stalled');
+    });
+
+    this.audio.addEventListener('suspend', () => {
+      console.log('Audio download suspended');
+    });
+
+    this.audio.addEventListener('progress', () => {
+      if (this.audio) {
+        const buffered = this.audio.buffered;
+        if (buffered.length > 0) {
+          const bufferedEnd = buffered.end(buffered.length - 1);
+          console.log('Audio buffered:', bufferedEnd, 'seconds');
+        }
       }
     });
   }
@@ -160,12 +212,21 @@ class WebAudioService {
 
       // Create new audio element
       this.audio = new Audio();
+
+      // Set CORS mode to allow cross-origin audio loading
+      this.audio.crossOrigin = 'anonymous';
+
       this.setupAudioListeners();
 
       // Get audio URL
       const uri = episodesService.getAudioUrl(episode);
+      console.log('Loading audio from URL:', uri);
+      console.log('Episode:', episode.title);
       this.audio.src = uri;
       this.audio.playbackRate = this.state.playbackSpeed;
+
+      // Preload the audio
+      this.audio.load();
 
       // Set start position if provided
       if (startPosition) {
