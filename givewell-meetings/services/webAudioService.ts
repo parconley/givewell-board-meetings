@@ -212,17 +212,26 @@ class WebAudioService {
 
       // Create new audio element
       this.audio = new Audio();
-
-      // Don't set crossOrigin - GitHub releases don't send CORS headers
-      // and browsers allow audio playback without them by default
-
       this.setupAudioListeners();
 
-      // Get audio URL
-      const uri = episodesService.getAudioUrl(episode);
-      console.log('Loading audio from URL:', uri);
+      // Get audio URL (this will be a GitHub redirect URL)
+      const redirectUrl = episodesService.getAudioUrl(episode);
+      console.log('Loading audio from URL:', redirectUrl);
       console.log('Episode:', episode.title);
-      this.audio.src = uri;
+
+      // Follow the redirect to get the actual blob storage URL
+      // This helps mobile browsers that don't handle redirects well
+      console.log('Following redirect to get direct URL...');
+      const response = await fetch(redirectUrl, {
+        method: 'HEAD',
+        redirect: 'follow'
+      });
+
+      const directUrl = response.url;
+      console.log('Direct URL:', directUrl);
+
+      // Use the direct URL instead of the redirect
+      this.audio.src = directUrl;
       this.audio.playbackRate = this.state.playbackSpeed;
 
       // Preload the audio
