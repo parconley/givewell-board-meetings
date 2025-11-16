@@ -20,8 +20,14 @@ const EPISODES_JSON_URL = Platform.OS === 'web'
   ? '/givewell-board-meetings/episodes.json'
   : 'https://raw.githubusercontent.com/parconley/givewell-board-meetings/main/episodes.json';
 
-// Local development data
-const LOCAL_EPISODES_DATA = require('../episodes.json') as EpisodesData;
+// Local development data - lazy load to avoid issues in production builds
+let LOCAL_EPISODES_DATA: EpisodesData | null = null;
+function getLocalData(): EpisodesData {
+  if (!LOCAL_EPISODES_DATA) {
+    LOCAL_EPISODES_DATA = require('../episodes.json') as EpisodesData;
+  }
+  return LOCAL_EPISODES_DATA;
+}
 
 const CACHE_KEY = '@givewell_episodes';
 const CACHE_TIMESTAMP_KEY = '@givewell_episodes_timestamp';
@@ -67,7 +73,7 @@ class EpisodesService {
       // In development mode, use local data
       if (USE_LOCAL_DATA) {
         console.log('Loading episodes from local file (development mode)');
-        this.episodes = LOCAL_EPISODES_DATA.episodes;
+        this.episodes = getLocalData().episodes;
         await this.saveToCache(this.episodes);
         return this.episodes;
       }
