@@ -206,7 +206,7 @@ class AudioService {
   /**
    * Skip forward by seconds
    */
-  async skipForward(seconds: number = 30): Promise<void> {
+  async skipForward(seconds: number = 15): Promise<void> {
     const newPosition = Math.min(
       this.state.position + seconds * 1000,
       this.state.duration
@@ -217,7 +217,7 @@ class AudioService {
   /**
    * Skip backward by seconds
    */
-  async skipBackward(seconds: number = 30): Promise<void> {
+  async skipBackward(seconds: number = 15): Promise<void> {
     const newPosition = Math.max(this.state.position - seconds * 1000, 0);
     await this.seekTo(newPosition);
   }

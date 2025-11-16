@@ -172,15 +172,23 @@ class WebAudioService {
         this.audio.currentTime = startPosition / 1000;
       }
 
-      // Start playback
-      await this.audio.play();
-
-      // Save as last played episode
-      await storageService.setLastEpisodeId(episode.id);
-
-      this.updateState({
-        status: 'playing',
-      });
+      // Try to start playback (may be blocked by browser autoplay policy)
+      try {
+        await this.audio.play();
+        // Save as last played episode
+        await storageService.setLastEpisodeId(episode.id);
+        this.updateState({
+          status: 'playing',
+        });
+      } catch (playError: any) {
+        // Autoplay was blocked - that's OK, user can click play button
+        console.log('Autoplay blocked, waiting for user interaction:', playError.message);
+        this.updateState({
+          status: 'paused',
+        });
+        // Still save as last played episode
+        await storageService.setLastEpisodeId(episode.id);
+      }
     } catch (error) {
       console.error('Error loading episode:', error);
       this.updateState({
@@ -258,7 +266,7 @@ class WebAudioService {
   /**
    * Skip forward by seconds
    */
-  async skipForward(seconds: number = 30): Promise<void> {
+  async skipForward(seconds: number = 15): Promise<void> {
     const newPosition = Math.min(
       this.state.position + seconds * 1000,
       this.state.duration
@@ -269,7 +277,7 @@ class WebAudioService {
   /**
    * Skip backward by seconds
    */
-  async skipBackward(seconds: number = 30): Promise<void> {
+  async skipBackward(seconds: number = 15): Promise<void> {
     const newPosition = Math.max(this.state.position - seconds * 1000, 0);
     await this.seekTo(newPosition);
   }

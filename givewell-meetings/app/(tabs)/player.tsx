@@ -101,9 +101,9 @@ export default function PlayerScreen() {
             {/* Skip Back Button */}
             <TouchableOpacity
               style={styles.controlButton}
-              onPress={() => skipBackward(30)}
+              onPress={() => skipBackward(15)}
             >
-              <Text style={styles.skipText}>-30s</Text>
+              <Text style={styles.skipText}>-15s</Text>
             </TouchableOpacity>
 
             {/* Play/Pause Button */}
@@ -120,9 +120,9 @@ export default function PlayerScreen() {
             {/* Skip Forward Button */}
             <TouchableOpacity
               style={styles.controlButton}
-              onPress={() => skipForward(30)}
+              onPress={() => skipForward(15)}
             >
-              <Text style={styles.skipText}>+30s</Text>
+              <Text style={styles.skipText}>+15s</Text>
             </TouchableOpacity>
           </View>
 
