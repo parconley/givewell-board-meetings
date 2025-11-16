@@ -142,7 +142,13 @@ class WebAudioService {
    */
   async loadEpisode(episode: Episode, startPosition?: number): Promise<void> {
     try {
-      this.updateState({ status: 'loading', error: null });
+      // Set current episode immediately so UI updates right away
+      this.currentEpisode = episode;
+      this.updateState({
+        status: 'loading',
+        currentEpisode: episode,
+        error: null
+      });
 
       // Cleanup previous audio
       if (this.audio) {
@@ -169,14 +175,11 @@ class WebAudioService {
       // Start playback
       await this.audio.play();
 
-      this.currentEpisode = episode;
-
       // Save as last played episode
       await storageService.setLastEpisodeId(episode.id);
 
       this.updateState({
         status: 'playing',
-        currentEpisode: episode,
       });
     } catch (error) {
       console.error('Error loading episode:', error);
