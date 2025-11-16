@@ -42,6 +42,9 @@
     "plugins": [
       "expo-router"
     ],
+    "experiments": {
+      "baseUrl": "/givewell-board-meetings"
+    },
     "extra": {
       "router": {},
       "eas": {
