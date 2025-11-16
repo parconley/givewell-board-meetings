@@ -1,16 +1,13 @@
 /**
- * Audio Player Service
+ * Web Audio Player Service
  *
- * Manages audio playback using expo-av for native and HTML5 Audio for web
- * Handles play, pause, seek, speed control, and background audio
+ * Uses HTML5 Audio API for web browsers
+ * This is used instead of expo-av which doesn't work reliably on web
  */
 
-import { Platform } from 'react-native';
-import { Audio, AVPlaybackStatus, AVPlaybackStatusSuccess } from 'expo-av';
 import { Episode } from '../types/episode';
 import { storageService } from './storageService';
 import { episodesService } from './episodesService';
-import { webAudioService } from './webAudioService';
 
 export type PlaybackStatus = 'idle' | 'loading' | 'playing' | 'paused' | 'buffering' | 'error';
 
@@ -25,10 +22,11 @@ export interface AudioPlayerState {
 
 type StateListener = (state: AudioPlayerState) => void;
 
-class AudioService {
-  private sound: Audio.Sound | null = null;
+class WebAudioService {
+  private audio: HTMLAudioElement | null = null;
   private currentEpisode: Episode | null = null;
   private listeners: Set<StateListener> = new Set();
+  private updateInterval: NodeJS.Timeout | null = null;
   private state: AudioPlayerState = {
     status: 'idle',
     currentEpisode: null,
@@ -37,25 +35,6 @@ class AudioService {
     playbackSpeed: 1.0,
     error: null,
   };
-
-  constructor() {
-    this.initializeAudio();
-  }
-
-  /**
-   * Initialize audio session
-   */
-  private async initializeAudio(): Promise<void> {
-    try {
-      await Audio.setAudioModeAsync({
-        staysActiveInBackground: true,
-        playsInSilentModeIOS: true,
-        shouldDuckAndroid: true,
-      });
-    } catch (error) {
-      console.error('Failed to initialize audio:', error);
-    }
-  }
 
   /**
    * Subscribe to state changes
@@ -87,33 +66,109 @@ class AudioService {
   }
 
   /**
+   * Setup audio element event listeners
+   */
+  private setupAudioListeners(): void {
+    if (!this.audio) return;
+
+    this.audio.addEventListener('loadedmetadata', () => {
+      if (this.audio) {
+        this.updateState({
+          duration: this.audio.duration * 1000,
+        });
+      }
+    });
+
+    this.audio.addEventListener('playing', () => {
+      this.updateState({ status: 'playing' });
+      this.startPositionUpdates();
+    });
+
+    this.audio.addEventListener('pause', () => {
+      this.updateState({ status: 'paused' });
+      this.stopPositionUpdates();
+      this.saveProgress();
+    });
+
+    this.audio.addEventListener('ended', () => {
+      this.handlePlaybackFinished();
+    });
+
+    this.audio.addEventListener('error', (e) => {
+      console.error('Audio error:', e);
+      this.updateState({
+        status: 'error',
+        error: 'Failed to load audio file',
+      });
+    });
+
+    this.audio.addEventListener('waiting', () => {
+      this.updateState({ status: 'buffering' });
+    });
+
+    this.audio.addEventListener('canplay', () => {
+      if (this.state.status === 'buffering') {
+        this.updateState({ status: this.audio!.paused ? 'paused' : 'playing' });
+      }
+    });
+  }
+
+  /**
+   * Start updating position periodically
+   */
+  private startPositionUpdates(): void {
+    this.stopPositionUpdates();
+    this.updateInterval = setInterval(() => {
+      if (this.audio && !this.audio.paused) {
+        this.updateState({
+          position: this.audio.currentTime * 1000,
+        });
+      }
+    }, 100); // Update every 100ms
+  }
+
+  /**
+   * Stop position updates
+   */
+  private stopPositionUpdates(): void {
+    if (this.updateInterval) {
+      clearInterval(this.updateInterval);
+      this.updateInterval = null;
+    }
+  }
+
+  /**
    * Load and play an episode
    */
   async loadEpisode(episode: Episode, startPosition?: number): Promise<void> {
     try {
       this.updateState({ status: 'loading', error: null });
 
-      // Unload previous sound if any
-      if (this.sound) {
-        await this.sound.unloadAsync();
-        this.sound = null;
+      // Cleanup previous audio
+      if (this.audio) {
+        this.stopPositionUpdates();
+        this.audio.pause();
+        this.audio.src = '';
+        this.audio = null;
       }
+
+      // Create new audio element
+      this.audio = new Audio();
+      this.setupAudioListeners();
 
       // Get audio URL
       const uri = episodesService.getAudioUrl(episode);
+      this.audio.src = uri;
+      this.audio.playbackRate = this.state.playbackSpeed;
 
-      // Load sound
-      const { sound } = await Audio.Sound.createAsync(
-        { uri },
-        {
-          shouldPlay: true,
-          positionMillis: startPosition || 0,
-          rate: this.state.playbackSpeed,
-        },
-        this.onPlaybackStatusUpdate
-      );
+      // Set start position if provided
+      if (startPosition) {
+        this.audio.currentTime = startPosition / 1000;
+      }
 
-      this.sound = sound;
+      // Start playback
+      await this.audio.play();
+
       this.currentEpisode = episode;
 
       // Save as last played episode
@@ -127,7 +182,7 @@ class AudioService {
       console.error('Error loading episode:', error);
       this.updateState({
         status: 'error',
-        error: 'Failed to load audio file',
+        error: 'Failed to load audio file. Please check your internet connection.',
       });
     }
   }
@@ -144,34 +199,34 @@ class AudioService {
       return;
     }
 
-    if (!this.sound) {
+    if (!this.audio) {
       if (this.currentEpisode) {
         await this.loadEpisode(this.currentEpisode);
       }
       return;
     }
 
-    await this.sound.playAsync();
-    this.updateState({ status: 'playing' });
+    try {
+      await this.audio.play();
+      this.updateState({ status: 'playing' });
+    } catch (error) {
+      console.error('Error playing audio:', error);
+      this.updateState({
+        status: 'error',
+        error: 'Failed to play audio',
+      });
+    }
   }
 
   /**
    * Pause playback
    */
   async pause(): Promise<void> {
-    if (!this.sound) return;
+    if (!this.audio) return;
 
-    await this.sound.pauseAsync();
+    this.audio.pause();
     this.updateState({ status: 'paused' });
-
-    // Save progress
-    if (this.currentEpisode) {
-      await storageService.saveProgress(
-        this.currentEpisode.id,
-        this.state.position / 1000,
-        this.state.duration / 1000
-      );
-    }
+    await this.saveProgress();
   }
 
   /**
@@ -189,18 +244,12 @@ class AudioService {
    * Seek to position (in milliseconds)
    */
   async seekTo(positionMillis: number): Promise<void> {
-    if (!this.sound) return;
+    if (!this.audio) return;
 
-    await this.sound.setPositionAsync(positionMillis);
+    this.audio.currentTime = positionMillis / 1000;
+    this.updateState({ position: positionMillis });
 
-    // Save progress
-    if (this.currentEpisode) {
-      await storageService.saveProgress(
-        this.currentEpisode.id,
-        positionMillis / 1000,
-        this.state.duration / 1000
-      );
-    }
+    await this.saveProgress();
   }
 
   /**
@@ -226,12 +275,9 @@ class AudioService {
    * Set playback speed
    */
   async setPlaybackSpeed(speed: number): Promise<void> {
-    if (!this.sound) {
-      this.updateState({ playbackSpeed: speed });
-      return;
+    if (this.audio) {
+      this.audio.playbackRate = speed;
     }
-
-    await this.sound.setRateAsync(speed, true);
     await storageService.setPlaybackSpeed(speed);
     this.updateState({ playbackSpeed: speed });
   }
@@ -240,10 +286,11 @@ class AudioService {
    * Stop playback and unload
    */
   async stop(): Promise<void> {
-    if (this.sound) {
-      await this.sound.stopAsync();
-      await this.sound.unloadAsync();
-      this.sound = null;
+    if (this.audio) {
+      this.stopPositionUpdates();
+      this.audio.pause();
+      this.audio.src = '';
+      this.audio = null;
     }
 
     this.updateState({
@@ -262,58 +309,36 @@ class AudioService {
   }
 
   /**
-   * Playback status update callback
+   * Save current progress
    */
-  private onPlaybackStatusUpdate = (status: AVPlaybackStatus): void => {
-    if (!status.isLoaded) {
-      if (status.error) {
-        console.error('Playback error:', status.error);
-        this.updateState({
-          status: 'error',
-          error: status.error,
-        });
-      }
-      return;
+  private async saveProgress(): Promise<void> {
+    if (this.currentEpisode && this.audio) {
+      await storageService.saveProgress(
+        this.currentEpisode.id,
+        this.audio.currentTime,
+        this.audio.duration
+      );
     }
-
-    const successStatus = status as AVPlaybackStatusSuccess;
-
-    // Update position and duration
-    this.updateState({
-      position: successStatus.positionMillis,
-      duration: successStatus.durationMillis || 0,
-    });
-
-    // Check if playback finished
-    if (successStatus.didJustFinish) {
-      this.handlePlaybackFinished();
-    }
-
-    // Update buffering status
-    if (successStatus.isBuffering) {
-      this.updateState({ status: 'buffering' });
-    } else if (successStatus.isPlaying) {
-      this.updateState({ status: 'playing' });
-    } else {
-      this.updateState({ status: 'paused' });
-    }
-  };
+  }
 
   /**
    * Handle playback finished
    */
   private async handlePlaybackFinished(): Promise<void> {
-    if (!this.currentEpisode) return;
+    if (!this.currentEpisode || !this.audio) return;
 
     // Mark as completed
     await storageService.markCompleted(
       this.currentEpisode.id,
-      this.state.duration / 1000
+      this.audio.duration
     );
 
-    this.updateState({ status: 'paused', position: this.state.duration });
+    this.updateState({
+      status: 'paused',
+      position: this.audio.duration * 1000
+    });
 
-    // TODO: Auto-play next episode if desired
+    this.stopPositionUpdates();
   }
 
   /**
@@ -333,7 +358,5 @@ class AudioService {
   }
 }
 
-// Export singleton instance - use web audio service for web platform
-export const audioService = Platform.OS === 'web'
-  ? webAudioService
-  : new AudioService();
+// Export singleton instance
+export const webAudioService = new WebAudioService();
