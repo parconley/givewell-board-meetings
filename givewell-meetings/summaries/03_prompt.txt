@@ -1,0 +1,796 @@
+Based on the following board meeting documents for a Clear Fund Board Meeting held on April 23, 2008, generate a comprehensive ~1000-word summary that acts as a professional brief.
+
+The summary should cover:
+- Key decisions made and votes taken
+- Important discussions and debates
+- Financial/budget information with specific numbers
+- Strategic direction or policy changes
+- Personnel or organizational changes
+- Any significant outcomes or action items
+
+Keep the tone professional and factual. Focus on substance over process. Be specific with numbers, names, and decisions.
+
+Meeting Documents:
+=== Outline of Review and Plan ===
+
+Review of startup year
+
+
+      Goals were:
+   1. Do quality research
+   2. Create a quality product
+   3. Draw attention to the product and the ideas behind it
+   4. Begin to build toward a mature/self-sustaining organization
+
+
+      1. Research: questions were whether we could get charities to
+      participate, whether the ensuing information set would allow us to add
+      value, how long our recommendations take to produce, and how valuable
+      they are.
+
+
+           Could we get charities to participate?  Yes; insert #’s on
+           charities contacted, applied, etc. along with data about $25k
+           vs. $100k.
+
+
+           Did the ensuing information set allow us to add value?
+           Certainly we got a lot further than we could before.  In all
+           cases, we got the ability to answer the “What do you do”
+           question with a concreteness that we couldn’t using the info on
+           the website.  However, on actual outcomes data, it was somewhat
+           rare that we got anything through our grant app that we couldn’t
+           get without it.  Note that our outcomes data for KIPP, NFP, and
+           HOPE was all publicly available, although PSI (and many strong
+           non-winners such as Year Up, St. Nick’s, Interplast) provided us
+           with outcomes data that wasn’t publicly available.  In the case
+           of most specific charities, though, we believe that we can’t get
+           the outcomes data because it doesn’t exist.
+
+
+           How long did our recommendations take to produce?  Round 1 was
+           quick, only about 4 weeks to both choose and write up apps for
+           finalists.  Round 2 was much slower.  It basically took us Aug
+           through March (8 months) for 5 causes; there were many
+           distractions in there, including practically no work done
+           between Dec. 20 and Jan. 20, but we also worked 2 months at an
+           unsustainable rate (110 hrs per person per week).  All in all,
+           it seems somewhat fair to say that causes, at the size and
+           method we do them now, take about 2 mo each.  We initially
+           underestimated the time commitment and were thus unable to make
+           good on our formal obligations to applicants.
+
+
+           How valuable are our recommendations?  This question is somewhat
+           unanswerable since we generally only got information from our
+           strongest applicants.  Here are a few observations though: (1)
+           in Cause 1 it seems clear that radically difft approaches can
+           have radically difft costs, and there is a real divergence
+           between proven/simple (bednets, condoms, hospitals) and unproven
+           (health ed) approaches.  We think we added a lot of value here.
+           (2) In Cause 2 we think we added practically nothing – shocked
+           at how little info there is on this cause.  (3) In Cause 3 we
+           found one great charity that is doing something proven; no one
+           else seems to be doing anything proven.  This seems really
+           important for early child care.  (4) In Cause 4 we think that
+           most methods are not effective at all and we found a method that
+           we would bet is effective.  (5) In Cause 5 it seems clear that
+           there are big differences in effectiveness, because the
+           approaches & populations are so different, but we aren’t sure we
+           actually found the right one.  (6) We also feel we learned a ton
+           about the across-cause comparison – we probably added more value
+           across than within causes.  Knowing that Cause 5 programs cost
+           about $20k to $25k per enrollee for programs that may not be
+           helping anyone, while health programs can save a life for $1-5k,
+           seems huge.
+
+
+           We feel our causes were too narrow, putting us in a position of
+           knowingly allocating our funds sub-optimally while still not
+           being narrow enough to allow us to do true “apples to apples”
+           comparisons (a goal we now believe is entirely futile).
+
+
+      2. Create a product: website was created for ~$5k.  We judge the
+      quality according to the response from the 50,000 hits we got in
+      December.
+    • X% bounce rate, Y avg time on site; X1%/Y1 for Adwords, X2%/Y2 for NYT
+      readers.  Benchmark to what’s considered “good.”
+    • X surveys, Y giving us permission to contact them – an “action rate”
+      of Z%.  Benchmark to what’s considered “good.”
+    • The following feedback from surveys: [insert users’ evaluations of our
+      quality]
+    • X donations, totaling $Y, to our recommended charities.  Again, try to
+      find benchmarks of some kind.
+
+
+      3. Draw attention to the product: this was a decidedly mixed bag.  The
+      good:
+         • Sector buzz – not only did we get on the cover of the Chronicle,
+           but we have seen people discussing our issues far more than they
+           were when we got started.  In particular, the need for resources
+           that go beyond Charity Navigator – has been discussed on blogs,
+           raised by Hewlett, and well covered in that WSJ article.
+         • General attention – the best exposure we got was from the NYT
+           article, which focused on our personalities as much as our
+           product, and got a considerable amount of attention [insert
+           stats - #3 most emailed, web traffic, etc.]
+      The bad:
+         • Astroturfing fiasco – poor judgment on staff’s part led to
+           negative exposure, bridges burned with a particular online
+           community as well as questions from the nonprofit sector.
+         • Lots of people just hate us, due to a combination of things we
+           can control (tone) and things we can’t (we’re young,
+           inexperienced, have for-profit backgrounds, etc.)
+
+      Our personalities have been both assets and liabilities – they’ve
+      gotten us a lot of good attention and gotten us into trouble.  For
+      now, we’re toning them down.
+
+
+     4. Begin to build toward a mature/self-sustaining organization.  We
+        accomplished:
+            • Incorporation, 501c3 status, establishment of bylaws and
+              accounting procedures, construction of Board of Directors.
+            • A greatly expanded set of contacts.
+
+      We fell short when it came to:
+         • Establishing clear roles and expectations for the Board, as well
+           as metrics for ourselves.
+         • The astroturfing incidents have potentially hurt our standing in
+           the sector and ability to partner with others.
+
+
+Plans for 2008
+
+
+
+Overview of goals
+
+
+Our most important goals for 2008 are:
+
+   1. Increase the “money moved” by GiveWell, where “money moved” refers to
+      the sum of (a) grants given directly by the Clear Fund and (b)
+      individual donations that are made to recommended charities, primarily
+      on our recommendation.  Our money moved provides an indicator of how
+      much influence our research has and how much donors value it; in the
+      long run, GiveWell will be viable if and only if we are moving a large
+      amount of money relative to our operating costs.  Beginning to
+      increase our money moved is therefore our top priority.
+   2. Perform more quality research on what charities do, whether it works,
+      and how individual donors can accomplish as much good as possible.
+      This research is our core value-added, and continuing to create it is
+      nearly as important as increasing its influence.
+   3. Engage more critical thinkers who will critique, discuss, and help
+      improve our research.
+   4. Continue building our Board of Directors and improving our metrics and
+      governance.
+
+
+Goal 1: Increase the “money moved” by GiveWell
+
+Ultimately, GiveWell’s viability and importance depend on how much our
+research matters to donors.  Our most important goal for the coming year is
+to expand our influence, either by raising money directly for the Clear
+Fund (to be regranted to our top charities) or by getting our research and
+recommendations to donors who will use them in their giving decisions.  In
+order to accomplish this, we need to determine what “product” we are
+offering donors, and then market it broadly and effectively.
+
+The product
+
+Since its inception, GiveWell has had many different ways of structuring
+and framing what we offer donors.  It’s important to agree on which ones
+we’ll be emphasizing.  Below are five different “arrangements” a donor can
+have with GiveWell (note that these are not mutually exclusive; different
+donors can have different arrangements).
+
+   1. Funding GiveWell’s operating expenses.  Some donors are interested  in
+      our potential to improve philanthropy  in  general,  but  have  little
+      interest in the specific causes we’re focusing on.   Such  donors  may
+      give  unrestricted  gifts  to  GiveWell,  to  be  used  for   whatever
+      combination of salaries, administrative costs, and grants  best  helps
+      us accomplish our mission.  Speaking  anecdotally,  major  foundations
+      and extremely wealthy individuals tend to  fall  into  this  category,
+      since they have no need of our research (having the capacity  to  fund
+      their own) but are interested in what our research can  do  for  other
+      donors.
+   2. The United Way model.  This is the main structure we have used so far:
+      we ask donors to delegate their giving decisions to us within  certain
+      broad parameters.  For example, a donor can indicate  whether  his/her
+      donation is to be used for the developed or developing world,  health-
+      or income-focused charity, etc., but we make the final choice of which
+      organization receives the grant.  A donor who gives  in  this  way  is
+      funding some combination of our operating expenses  and  grants  (they
+      often have the option to mark their donation specifically for grants),
+      under the basic idea that we can make better use of the funds  overall
+      (within the philosophical guidelines that have been set for  us)  than
+      the donor can.
+   3. The  philanthropic  advisor  model.   We  have  discussed,  but  never
+      implemented, a possible arrangement in which a major donor would  work
+      closely  with  us  –  making  major   decisions   ranging   from   our
+      philosophical agenda (i.e., which cause we research and which criteria
+      we use to narrow down charities) to the final choice of which  charity
+      to grant.  The donor would provide funding
+   4. Using GiveWell’s research without donating to GiveWell.  We attempt to
+      make all  our  reasoning  and  recommendations  public,  so  that  any
+      interested party can use them.  To date,  there  has  been  just  over
+      $35,000 donated to our recommended charities through our  website  but
+      bypassing us entirely (there may also be donors who used our  research
+      as one of many inputs into a decision, but we have no way of  tracking
+      this).
+   5. The GiveWell Pledge Fund.  The GiveWell Pledge Fund will be  a  donor-
+      advised fund, serving donors who wish to  use  –  and  facilitate  the
+      creation of – our research and recommendations,  without  any  further
+      commitment to GiveWell  itself  (i.e.,  without  contributing  to  the
+      funding of our operations or ceding the final choice of  charity).   A
+      donor who contributes to the GiveWell Pledge Fund will retain advisory
+      rights over that donation, and be subject to a Donor Deadline by which
+      the funds  must  be  distributed  to  one  of  GiveWell’s  recommended
+      charities; but the donor will retain  the  right  to  determine  which
+      charity that is.  The aim is to reach donors who would  otherwise  opt
+      for #4 above, thus gaining a more reliable and earlier measure of  our
+      influence; this will both help GiveWell to make plans  and  operations
+      that are appropriate for the size of its  influence,  and  help  Clear
+      Fund applicants to evaluate  the  benefits  of  completing  our  grant
+      application.
+
+At this stage in our development, we believe that we can best increase our
+money moved by focusing on #1 and #5 (#5 when targeting small-to-medium
+donors and #1 when targeting institutional and other extremely large
+donors, as well as highly loyal donors).
+
+This approach has drawbacks:
+    • It will force us to raise money in two entirely separate ways, i.e.,
+      our operating expenses will not scale cleanly and automatically with
+      our “money moved.”  However, we currently have enough unrestricted
+      fund to operate at our current size through 2008; if we draw enough
+      GiveWell Pledges to justify expanding our operations, we believe that
+      we will have a very strong and clear case to make to major funders
+      (i.e., we will be able to show them exactly how much leverage they are
+      getting for their investment in our operations).
+    • By giving donors the choice of where to give, we will sacrifice the
+      benefits of “pooling donations” that public foundations such as United
+      Way and Robin Hood benefit from.  In particular, we will have to
+      continue seeking scalable interventions, which often significantly
+      narrows our options, and will not be able to invest in dedicated
+      projects such as funding evaluations.
+
+
+But for reasons stated above, we believe our most important goal for 2008
+is to increase our money moved; the costs above are minor relative to the
+benefits of removing all unnecessary obstacles to a donor’s commitment.  #5
+above asks as little of a donor as possible while still having him/her
+contribute to our “money moved” in a concrete, committed, measurable way;
+we believe that focusing on this offering is therefore our best hope of
+maximizing our “money moved.”
+
+The marketing
+
+To date, we haven’t put much of our energy or resources into marketing.   We
+raised our startup capital from former coworkers, who were  well  positioned
+to evaluate us as people, and we did  not  make  serious  efforts  to  raise
+money from “outsiders” (i.e., people who have no  knowledge  of  us  outside
+our work for GiveWell) because we didn’t yet have a  concrete  demonstration
+of our output (i.e., our research reports).
+
+Now that we do have such a demonstration, we can and must expand our donor
+base.  Below, we’ve listed our preliminary ideas for doing so; however, we
+believe that it will be essential to involve experienced development
+professionals in this process as much as possible.  We intend to make a
+concerted effort to hire a full-time Development Director, for the
+following reasons:
+
+    •   Unlike   the   work   we’ve    been    focusing    on    to    date,
+      development/fundraising is  an  established  and  largely  generalized
+      discipline, and there is a lot of public discussion and study of  what
+      works.
+    • We have no experience with development,  and  we  don’t  consider  the
+      associated skills to be among current staff’s strengths.
+    • In particular, we have little to no sense of  how  to  set  reasonable
+      expectations for our project in this area.  One way or another, having
+      an experienced fundraiser become intimately familiar with our  project
+      and position seems necessary for setting reasonable expectations.
+    • A good Development Director would be able to set  a  long-term  growth
+      plan and execute on it, as well as take a  major  role  in  GiveWell’s
+      public  communications.   S/he  would  thereby  address  most  of  the
+      weaknesses and non-strengths of current staff, and potentially take or
+      share the Executive Director role.
+    • Unlike evaluating potential  program  staff,  evaluating  a  potential
+      Development Director seems relatively straightforward.
+    • Although such a person would likely command a high salary, it would be
+      relatively easy to continually assess whether the investment is  worth
+      it.
+
+That said, it is very likely that we will not be able to find a suitable
+full-time Development Director – someone who is not only experienced and
+excellent at their role, but willing and excited to join us in our current,
+startup form.  We need to be ready to fundraise without this sort of full-
+time help, even as we look for it.
+
+Our preliminary strategy for fundraising will consist of:
+
+   1. Speaking with all of the potential donors we’ve made contact with
+      about both making GiveWell Pledges (see #5 under “The product” above)
+      and getting us in touch with other potential donors.
+   2. Seeking contacts (both among our existing contacts and among their
+      friends) who can arrange meetings for us at finance and software
+      firms, to introduce GiveWell and ask for GiveWell Pledges.  We
+      anticipate that most initial meetings will be small gatherings of non-
+      major donors, but if we can make contacts who are highly committed to
+      GiveWell, we may eventually be able to reach many people throughout
+      the companies.
+   3. Organizing fundraising events, and attempting to attract potential
+      donors to them as social activities.  Again, we may have to start with
+      small events consisting mostly of young people, but anticipate that
+      with high-quality contacts, we will eventually be able to reach more
+      potential donors.
+
+
+We plan on making the search for a Development Director our first priority,
+followed by the three strategies above (in the order they’re listed).
+
+
+Goal 2: perform more quality research
+
+Though expanding our reach is our primary goal for 2008, it is also
+essential that we make continued progress on the question of how to
+accomplish as much good as possible with charitable donations.  This
+section will first discuss our basic approach to investigating a given
+cause, and particularly how it will be changing from last year’s; it will
+then discuss our tentative plan for which types of charities to focus on.
+
+Research methodology
+
+We feel that the basic approach we took last year – giving large grants so
+that we can collect information through our application process – remains
+the best approach we know of.  It allowed us to collect a large amount of
+information from our applicants in a relatively short period of time; we
+know of no other source for similar information, and no other approach that
+we feel could have yielded such information within a comparable budget and
+timeline.
+
+That said, we are planning on modifying the following aspects of our
+approach:
+
+Breadth of causes.  We constructed our five causes for 2007 (saving lives
+in Africa; fighting poverty in Africa; early childhood care in NYC; K-12
+education in NYC; employment assistance in NYC) to facilitate “apples to
+apples” comparisons between organizations – for example, we had hoped to
+compare two organizations within the “saving lives in Africa” cause with an
+approximation of the “cost per life saved.”  As detailed above, we feel
+that this approach left us making overly constrained decisions (for
+example, awarding one grant each in Cause 1 and Cause 2 when we preferred
+two applicants in Cause 1 to any applicant in Cause 2).
+
+If we give donors more control over which charities ultimately receive
+their donations (see “Structure” above), it will no longer be nearly as
+important to make “apples to apples” comparisons (something that turned out
+to be infeasible anyway); more important is to examine as many applicants
+as possible that might fit our donors’ philosophical priorities.  As such,
+we will be aiming to define a “cause” more broadly than last year: rather
+than grouping charities that can be directly compared (as we largely tried
+to do last year), we will group charities by the donors who are likely to
+be interested in them.
+
+Based on conversations with donors as well as the survey data we have
+available (see XX), we believe that our potential supporters have
+relatively broad interests – for example, most people who are interested in
+developing-world health are also interested in developing-world economic
+empowerment, education, etc.  Based on this, we anticipate defining causes
+much more broadly in 2008 than we did in 2007.  Concrete examples of
+“causes” for 2008 are below (see blah).
+
+Number of causes.  In 2007, we researched five causes at once, believing
+that having a large variety of options would be crucial for our December
+launch.  Doing so caused major logistical problems, as we kept applicants
+on hold for weeks at a time (while reviewing other causes) and then often
+requested quick turnarounds when we did get back to them.  We seek to avoid
+this particular problem in the future; we also feel that the five causes we
+have written up are a sufficient proof of concept; we will thus seek to
+research only one cause at a time, until and unless we’re able to hire more
+staff.
+
+Grant size and structure.  Last year, we offered one-time unrestricted
+grants of between $25,000 and $40,000.  Whenever a charity declined to
+apply, we asked what factored into the decision, and specifically asked
+“whether you would reconsider if the grant size were larger”; of those who
+gave a specific answer to this question, five said they would reconsider
+for a grant of $100,000+, while two others named different thresholds
+($75,000 and $200,000).  Others who declined and gave reasons did not cite
+the grant size or structure (see XX for details).  With these observations
+in mind, we believe that we will get our best results next year if we can
+promise that at least one charity per cause will receive $100,000+.
+
+If most of our “money moved” is in the form of GiveWell Pledges, it may not
+be feasible to make such a promise; however, if we don’t add any
+significant expenses to our current operations, we have enough unrestricted
+funds to make one $100,000 grant of our own.
+
+Choice of causes
+
+We wish to factor donor demand into our choice of causes, as much as
+possible; at the same time, we need to have a clear plan and preference at
+all times, so that we don’t take any donations for causes that we end up
+not researching.
+
+The following are the causes we plan on offering, in order of priority.  As
+we start fundraising, GiveWell Pledges will be taken only for the first of
+these; donors who are interested in other causes will be asked to
+informally record how much money they would commit to such causes, so that
+we can contact them if our plans change.
+
+   1. Developing-world direct aid.  The survey data we have (see XX) points
+      to this cause as the best fit for our potential donors; we also feel
+      that there is a great deal of room for more value-added in our
+      research.  This cause includes any charity that seeks to use donations
+      directly (not through research or advocacy) to improve individuals’
+      lives in the developing world, whether through economic empowerment
+      programs (including skills training and microfinance), health
+      programs, education, or programs focused on abandoned children.
+   2. Global warming.  The survey data we have (see XX) points to this cause
+      as the second-best fit for our potential donors.  We believe we can
+      add a great deal to a donor’s understanding of global warming-related
+      options, simply by clearly laying out: (a) which aspects of the
+      problem are agreed on, by broad and partial consensus among
+      researchers; (b) which solutions are being pursued, and what the
+      academic literature says about their viability; (c) which actual
+      activities each relevant charity works on, and what role donations
+      play in these activities.
+   3. Disease research.  [Insert survey data observation.]  We are
+      ambivalent about our ability to add value in this cause.
+   4. Youth development in the U.S.  This cause includes K-12 education,
+      college scholarships, extracurricular activities and early childhood
+      programs – anything aimed at working with children in the hopes of
+      giving them better lives as adults, while not privileging particular
+      ethnicities or career paths.
+   5. Support of U.S. veterans.
+
+Goal 3: Engage more critical thinkers
+
+So far, critical discussion of our research and reasoning (regarding the
+specifics of what charities do and whether it works, not GiveWell’s concept
+and model) has come from:
+
+   1. GiveWell staff
+   2. Directors, who have read our writeups and discussed our granting
+      decisions in meetings
+   3. A few people we have specifically sought advice from due to their
+      backgrounds and areas of expertise: professor Dean Karlan of the
+      Poverty Action Lab, Charles Buice of the Tiger Foundation, Professor
+      Richard Murnane (who primarily studies education), two graduate
+      students who are particularly focused on the education-related issues
+      we’ve been dealing with, and one graduate student focused on the
+      research regarding child care.
+   4. GiveWell editors: volunteers (usually made through personal contacts)
+      who have read through our reviews and shared thoughts on our decisions
+      and reasoning.
+   5. Occasional discussions via the comments on our blog, although most
+      discussions on the blog have revolved around our general concept and
+      model, and nearly all discussion of the specifics of our decisions and
+      reasoning has come from the same four people (Michael Vassar, Carl
+      Shulman, Phil Steinmeyer, Dario Amodei).
+
+
+It is still a relatively small group, and actively seeking out more people
+to engage critically with our reasoning would benefit us in several ways:
+
+    • Improved quality of research, possibly leading to better questions,
+      better analysis, and better giving decisions.
+    • Improved credibility for donors.
+    • Clearer layout and content of website.  We currently have little to go
+      on but our own intuitions regarding how to improve our web content and
+      make it easier to read, understand, and examine critically.  Finding
+      people who are committed to reading our web content and engaging with
+      it would help with this.
+    • Finding potential future staff.  If and when we expand our research
+      staff, we will be looking for people who are highly interested in and
+      intelligent about the issues we work on; a community of critical
+      thinkers would be an ideal source.
+
+
+This goal does not have the short-term urgency that our first two goals
+(above) do, but to the extent we can, we will aim to:
+
+    • Proactively build advisory boards for the causes we research, with
+      experienced and accomplished people in relevant fields.
+    • Hold periodic meetings to discuss our research – much in the same way
+      we have in Board meetings – with any interested parties.  We have a
+      large list of potential volunteers, and will use this list as a
+      starting point in finding participants.
+
+
+Goal 4: organizational development
+
+
+Board composition
+
+Our current Board is relatively small, and limited in free time as  well  as
+diversity of experience.  We seek to actively recruit more members  who  can
+provide:
+
+    • Expertise  and  experience  on  the  specific  issues  we  study.   As
+      discussed above, we will most likely put people with this  quality  on
+      advisory boards specific to the causes we research.
+    • Perspectives from different relevant backgrounds.   We  would  ideally
+      like  to  have  Board  members   with   experience   in   fundraising,
+      grantmaking, on-the-ground charity work, and management.
+    • Time commitments.  Our current Board is constrained in its ability  to
+      participate in lower-level  decision-making;  we  hope  to  add  Board
+      members who can do more of this.
+
+
+Metrics
+
+We aim to continually reassess the worthiness and viability of  GiveWell  as
+an organization.  To that end, we need to set goals  and  metrics  that  are
+clear and concrete (while still reflecting the reality that there are a  lot
+of  unknowns  in  our  future,  especially  at  this  early  stage  of   our
+development).
+
+We propose the following metrics, though we don’t yet feel equipped  to  set
+specific targets on them for the year 2008.
+
+Metric: Money moved.
+
+Measurement: “Money  moved”  equals  the  sum  of:  (a)  grant  money  given
+directly by  GiveWell  to  recommended  charities,  including  all  GiveWell
+Pledges; (b) individuals’ donations that are given to recommended  charities
+largely on the strength of  GiveWell’s  recommendation.   Measuring  (a)  is
+straightforward; we can partly measure (b) by tracking  the  donations  made
+using the links on GiveWell’s website (currently processed  by  Network  for
+Good).
+
+Long-term target: Over the long run,  we  are  aiming  to  ensure  that  our
+“money moved” is equal to at least 9x  our  operating  expenses  (i.e.,  all
+expenses other than grants).  While we have no precise  way  of  quantifying
+our value-added (and thus computing the appropriate level of  overhead),  we
+think we should be able to move enough money to accomplish this goal,  which
+would put the “overhead” created by GiveWell at a level  that  is  generally
+considered acceptable [[SOURCE]].
+
+2008 target: we tentatively hope to move  at  least  $500,000;  we  will  be
+revising this goal after more  conversations  with  experienced  development
+professionals, at which point we will hopefully  know  more  about  what  is
+realistic.
+
+2007: we moved a total of  $170,000  ($140,000  in  grants  and  $30,000  in
+donations through GiveWell.net).
+
+Metric: Impact on global discussion.
+
+Measurement: This is a qualitative metric, intended to examine  whether  the
+conversation around philanthropy is coming more into  line  with  GiveWell’s
+most important principles.  To “measure” it, we  will  keep  an  archive  of
+representative  discussions  about  philanthropy,  taken  from  publications
+(particularly  the  WSJ,  NYT  and  Chronicle  of  Philanthropy)  and  blogs
+(particularly those  on  the  Chronicle  of  Philanthropy’s  blogroll),  and
+examine the frequency with which our principles are (a)  engaged  with;  (b)
+agreed upon.
+
+Favorable  trends  would  not  conclusively  establish  GiveWell’s   success
+(because of the question of causality), but  over  the  long  run,  GiveWell
+cannot be considered a success unless the conversation does change.
+
+Long-term target: Our ultimate aim is to foster an active public  discussion
+about what charities do and whether it works,  something  we  don’t  believe
+currently exists.  We hope we will be able to point to both  mainstream  and
+within-sector discussions of specific charities’  activities  and  the  hard
+evidence regarding their effectiveness.
+
+2008 target: A downward trend in favorable mentions of  the  “administrative
+expense ratio” as the primary metric for evaluating charities.
+
+2007: [we’ll fill this in after  looking  more  thoroughly  at  the  various
+sources of “buzz”]
+
+
+
+=== Preliminary Plan for 2008 ===
+
+                        Clear Fund Board of Directors
+                        Attachment C: Plans for 2008
+
+                                 Highlights
+
+    • We believe our most important goal for the coming year  is  increasing
+      the “money moved” (granted directly, or influenced) by GiveWell.
+    • We propose to focus on getting formal commitments  to  donate  to  our
+      recommended charities (with the choice of  charity  belonging  to  the
+      donor), rather than on raising money to be re-granted.
+    • We are considering conducting an active  search  for  an  experienced,
+      talented Director of Development who will have a significant  part  of
+      the responsibility for increasing our “money moved.”
+    • We plan to focus our research on fewer and broader  causes,  and  will
+      likely focus on developing-world direct  aid  next.   We  should  also
+      consider the potential of broad, “top-down” research that  focuses  on
+      identifying good times, places, and ways to help people rather than on
+      evaluating particular organizations.
+    • Another major goal for the coming year will be to recruit people  both
+      for our Board of Directors and cause-specific Advisory Boards.
+    • We plan to create a detailed review of our first year and plan for our
+      next year for review at our next Board meeting.
+
+                            Broad Goals for 2008
+
+1. Development: increase the “money moved” by GiveWell (and be on a path  to
+increasing it further).  “Money moved” can consist  of  direct  grants  from
+the Clear Fund to charities, or of individual donations that  are  given  to
+our recommended charities with strong  influence  from  our  recommendations
+(or the combination).
+
+Having produced quality research and attracted attention, we believe we  are
+now in position to reach more donors, and that our position is not going  to
+improve significantly from doing more research.  We think  the  question  of
+how much money GiveWell can move is the most important  unanswered  question
+about the project.
+
+2. Research: improve significantly on our understanding of the best ways  to
+help people.  The most pressing challenge here is setting our  scope  (i.e.,
+which causes we research) in a way that accounts for  what  we  learned  the
+first time around and puts us in position to allocate our money as  well  as
+possible.
+
+3. Administration: build a mature  organization  with  a  strong  Board  and
+structure.
+
+                                 Development
+
+                                 The product
+
+One way or another, we eventually need to “move”  enough  money  to  justify
+our overhead, or establish that we can’t do so and shut  the  project  down.
+However,  while  we  need  to  give  grants  in  order  to  get  access   to
+information, there’s a grant size past which more money  is  probably  doing
+little for our access to information, and at that point the  question  comes
+up of why donors should give to us rather  than  just  using  our  research.
+Insisting on the “United Way / Robin Hood model” of  pooling  donations  and
+giving grants has a cost for the donor – ceding the choice of charity to  us
+– that doesn’t seem essential to what we’re offering.
+
+In order to increase our “money moved” in an active,  measurable  way  while
+leaving donors with as much choice as is feasible,  we  propose  to  solicit
+donors for  commitments  to  donate  to  our  recommended  charities  (their
+choice), rather than for direct donations  to  GiveWell.   Such  commitments
+should be as formal and binding as is practical;  we  may  either  become  a
+donor advised  fund  or  partner  with  one,  so  that  committed  money  is
+literally put into an account subject to certain rules.
+
+Setting this up would leave us with three possible “offerings” for a donor:
+
+   1. Donate directly to GiveWell, with the aim of helping us  pay  for  our
+      research activities.
+   2. Donate directly  to  GiveWell  with  the  aim  of  having  your  money
+      “managed,” i.e., cede the choice of specific charity to us.
+   3. Put money in a special account, with a  commitment  to  donate  it  to
+      recommended charities if and when we produce recommendations  in  your
+      field of interest.
+
+We  propose  to  focus  our  fundraising  on  #3,   raise   #1   only   with
+major/institutional donors and  core  supporters,  and  de-emphasize  #2  at
+least for the time being.
+
+Another important question about our product is what causes we are going  to
+be focusing on.  This is discussed under “Research” below.
+
+                                  The plan
+
+Once we’ve settled our product, we need to actively find  potential  donors.
+This may include:
+
+   1. Contacting the ~1,000 people who have given us permission  to  contact
+      them  when  submitting  surveys  on  our  website,  focusing  on   the
+      particularly high-potential ones we’ve been discussing in our biweekly
+      reports.
+   2. Explicitly targeting particular industries and  companies  to  present
+      at.
+   3. Arranging fundraising events with the aim of getting existing GiveWell
+      contacts to bring friends.
+
+Though our existing staff can pursue these approaches, we feel  there  is  a
+strong case for conducting an active search –  and  offering  a  competitive
+salary – for an experienced, talented Development Director.
+
+    •   Unlike   the   work   we’ve    been    focusing    on    to    date,
+      development/fundraising is  an  established  and  largely  generalized
+      discipline, and there is a lot of public discussion and study of  what
+      works.
+    • We have no experience with development,  and  we  don’t  consider  the
+      associated skills to be among current staff’s strengths.
+    • In particular, we have little to no sense of  how  to  set  reasonable
+      expectations for our project in this area.  One way or another, having
+      an experienced fundraiser become intimately familiar with our  project
+      and position seems necessary for setting reasonable expectations.
+    • A good Development Director would be able to set  a  long-term  growth
+      plan and execute on it, as well as take a  major  role  in  GiveWell’s
+      public  communications.   S/he  would  thereby  address  most  of  the
+      weaknesses and non-strengths of current staff, and potentially take or
+      share the Executive Director role.
+    • Unlike evaluating potential  program  staff,  evaluating  a  potential
+      Development Director seems relatively straightforward.
+    • Although such a person would likely command a high salary, it would be
+      relatively easy to continually assess whether the investment is  worth
+      it.  We may try to secure an institutional  grant  for  this  expense,
+      since institutional funders  are  likely  to  be  more  interested  in
+      helping us expand than in using our research for their own grants.
+
+                                  Research
+
+This section focuses on setting our scope (which causes we’re. covering).
+
+In choosing our causes, we are going to seek to do  one  broad  cause  at  a
+time (unless there is enough demand for more to justify hiring more  staff),
+and take donor preferences heavily into account – i.e.,  in  the  course  of
+raising money, we are going to ask  donors  to  specify  which  causes  they
+would donate for, and leave the  option  open  of  switching  our  plans  to
+accommodate more donors.
+
+At this point, the cause we feel is the  best  fit  for  the  next  year  is
+developing-world  direct  aid,  including  health,  microfinance  and  other
+economic assistance, education, and  abandoned  children.   Developing-world
+aid was more popular than developed-world aid in our online survey,  and  we
+feel that we have a very concrete sense of what to investigate  and  how  to
+add value in these areas.
+
+We’d also like to note two other potential  causes  that  would  expand  our
+scope well beyond the sort of work we’ve been doing so far:
+
+1. Global warming and (possibly) other catastrophe aversion.   Environmental
+issues, particularly global warming, were extremely popular  in  our  online
+survey.  We are generally unfamiliar with these  issues,  and  have  only  a
+moderate sense for what to investigate and  how  to  add  value.   Comparing
+different “global catastrophe” issues has some potential advantages: we  see
+a clearer path to value-added in  listing  and  comparing  options  than  in
+committing ourselves to looking  deeply  into  global  warming  issues,  and
+doing so would increase our appeal to a particular  group  of  intellectuals
+that we would like to see engaging more with GiveWell.
+
+2. Extremely broad analysis of donors’ options – publishing, side  by  side,
+very basic analysis of many  options  rather  than  thorough,  organization-
+level analysis of a  few.   For  example,  publishing  a  thorough  list  of
+diseases, symptoms, global burdens, and money spent  per  year  on  research
+could be a valuable source of information to donors  even  if  it  does  not
+compare charities side-by-side.
+
+Note that:
+
+    • All of these causes are far broader than the causes we  researched  in
+      our startup year.  This change is based largely on our frustration the
+      first time around with having to give one grant per cause, rather than
+      allocate more money to the causes  we  preferred  (i.e.,  causes  with
+      stronger organizations and more “bang for  your  buck”).   We  believe
+      that trying to narrow causes to the  point  where  we  can  make  true
+      “apples to apples” comparisons is likely futile  and  not  worthwhile;
+      instead, we want to be able to review many different sorts of options,
+      let donors decide what appeals to them most, and  allocate  any  grant
+      money of our own to what appeals to us most.
+
+    • For all three of the causes above, it is possible that we would take a
+      much more “top-down” approach to research than we did  for  our  first
+      year.  Rather than starting with a grant application and  getting  our
+      understanding of different approaches  from  our  applicants,  we  may
+      start  with  independent  research,  looking  for  publicly  published
+      evidence of what works, and then specifically  target  (and  evaluate)
+      organizations whose activities match what we find.
+
+                               Administration
+
+    • We believe it is important to find more  Board  members  who  can  add
+      experience and different perspectives to our  project.   Staff  has  a
+      list of potential Board  members  available;  we  have  discussed  the
+      possibility with some, and not yet with others.
+    • We would also like to form Advisory Boards, separate from our Board of
+      Directors, whose role is to advise  on  recommendations  for  specific
+      causes (i.e., each cause will have its own Advisory Board).
+    • Other goals under this heading include:
+         o Formalizing our metrics and setting clear and public  goals  for
+           GiveWell.
+         o Formalizing our policies, procedures, and roles for  both  Board
+           and staff.
+         o Writing up a thorough look back at our first year,  including  a
+           thorough analysis of our survey data and more generally of  what
+           went well, what went poorly, and what we’ve learned.
+
+
+Generate a comprehensive summary (approximately 1000 words):

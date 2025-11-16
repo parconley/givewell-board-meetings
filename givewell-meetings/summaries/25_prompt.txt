@@ -1,0 +1,227 @@
+Based on the following board meeting documents for a Clear Fund Board Meeting held on August 18, 2014, generate a comprehensive ~1000-word summary that acts as a professional brief.
+
+The summary should cover:
+- Key decisions made and votes taken
+- Important discussions and debates
+- Financial/budget information with specific numbers
+- Strategic direction or policy changes
+- Personnel or organizational changes
+- Any significant outcomes or action items
+
+Keep the tone professional and factual. Focus on substance over process. Be specific with numbers, names, and decisions.
+
+Meeting Documents:
+=== Minutes ===
+Minutes	  for	  the	  August	  18,	  2014	  meeting	  of	  the	  Clear	  Fund	  (aka	  GiveWell)	  Board	  of	  Directors	  00:00:00	  Meeting	  called	  to	  order	  00:00:35	  Board	  discusses	  motion	  to	  change	  GiveWell's	  spending	  policy	  from	  requiring	  Treasurer	  and	  Chairman	  approval	  for	  expenditures	  over	  $5,000	  and	  Board	  approval	  for	  expenditures	  over	  $25,000	  to	  no	  longer	  requiring	  Treasurer	  and	  Chairman	  approval	  for	  expenditures	  over	  $5,000	  but	  still	  requiring	  Board	  approval	  for	  expenditures	  over	  $25,000	  	  The	  motion	  is	  approved.	  00:01:48	  Board	  discusses	  proposal	  to	  re-­‐elect	  all	  Board	  Members.	  Ballots	  are	  submitted	  to	  the	  Secretary	  privately.	  	  All	  Board	  Members	  are	  re-­‐elected.	  00:06:07	  Board	  discusses	  questions	  regarding	  documents	  reviewed	  for	  this	  meeting	  (see	  attachments)	  00:14:50	  Board	  discusses	  the	  state	  of	  GiveWell's	  relationship	  with	  Good	  Ventures	  (Good	  Ventures	  staff	  is	  not	  present	  for	  part	  of	  this	  discussion)	  00:45:00	  Board	  discusses	  GiveWell's	  budget	  and	  fundraising	  01:14:26	  Board	  discusses	  GiveWell's	  co-­‐Executive	  Directors'	  compensation	  (GiveWell	  staff	  is	  not	  present	  for	  part	  of	  this	  discussion)	  	  The	  proposal	  to	  raise	  the	  salary	  of	  the	  co-­‐Executive	  Directors	  from	  $110,000	  to	  $130,000	  is	  approved.	  01:20:00	  Board	  votes	  to	  approve	  GiveWell's	  2013	  and	  2014	  budgets	  	  The	  budgets	  are	  approved.	  01:27:35	  The	  meeting	  is	  adjourned	  
+
+=== Budget and Revenue forecasts ===
+Attachment A 
+Budget and revenue forecasts 
+ 
+Forecasted costs and reserves 
+ 
+As of 9/1/14, we (a) project 12­month forward expenses of  $1.9m and (b) hold reserves of $1.6 
+million.  
+ 
+On 3/1/15 (6 months from now), we (a) project 12­month forward expenses of $2.3 million and 
+(b) expect to hold $2.1­$2.5 million in reserves. 1
+ 
+Revenue scenarios 
+ 
+We currently have "consistent" revenue of $1.5 million/year (a) coming from donors giving more 
+than $5k who have told us they'll give again and (b) assuming that giving under $5k remains 
+constant. 
+ 
+Scenario 1. Adding the below to "consistent" revenue results in projected 12­month forward 
+revenues of $1.8 million. This assumes: 
+1.We maintain the same level of "one­off" donations we had in 2012 and 2013 (+$120k). 
+2.Small donors give as much in the 2nd half of 2014 as they did in the first half (+$55k). 
+3.Some donors who have not explicitly told us they'll give again nonetheless do so. We've 
+tagged donations as somewhat likely and unlikely. In this scenario, this occurs 33% and 
+10% of the time, respectively (+$87k). 
+ 
+Scenario 2. Being slightly less conservative (a scenario we'd guess is the median outcome), we 
+project $2.1 million in 12­month forward revenues. In addition to the scenario above, we assume: 
+1.$ from <$5k donors grows by 50% in 2014 vs 2013. Note that they have grown 116% 
+thus far in 2014 (+$35k). 
+2.We assume some growth from not­yet­identified donors giving $5k+. We project this as 
+50% of the funds we received from previously­unidentified donors in the previous period. 
+(+$200k). 
+3.We are less conservative with somewhat likely and unlikely donors assuming that 50% 
+and 20% of donations recur (+$40k). 
+ 
+Additional funding from Good Ventures.  In 2013, we requested $240k from Good Ventures 
+because it represented approximately 20% of our budget at the time. We plan to continue to 
+request that Good Ventures maintain 20% of our budget. 
+ 
+Good Ventures currently donates office space to GiveWell as an in­kind donation. We've (very 
+1 Note that reserves are higher in March than later in the year because a large portion of revenue is received 
+in December. By 9/1/15, we project reserves of $1.5­1.9 million. 
+
+roughly) estimated this at $130,000 in 2014. We therefore plan to ask Good Ventures for an 
+additional $30,000 (for a total of $400,000) to maintain its giving at 20% of our 12­month forward 
+projected expenses of $2 million.  
+ 
+ 
+Summary of current sources of "consistent" revenue 
+ 
+Institutional funding 
+ 
+●Good Ventures: $240,000 
+●Anonymous institution: $200,000 
+●Hewlett Foundation: $100,000 
+ 
+Total: $540,000 
+ 
+Individual support 
+ 
+●At least $100,000. 3 individuals totalling $400,000 
+●$25,000­$100,000. 5 individuals totalling $210,000. 
+●$5,000­$25,000. ~25 individuals totalling ~$235,000. 
+●<$5,000. Many individuals totalling ~$182,000. 
+ 
+Total: $1,027,000 
+
+=== Drivers of increase in unrestricted revenue ===
+Attachment B 
+Increase in GiveWell's unrestricted revenues: Jan. 2013 ­ July 2014 
+ 
+At the end of 2012, we had $640k in consistent income (i.e., funds we expected to receive based 
+on direct discussions with donors and no growth among donations from smaller donors). 
+Consistent income increased by about $619k in 2013 to $1.26m and has increased an additional 
+~$330k to ~$1.5m thus far in 2014. 
+ 
+Change in 2013 
+ 
+●Good Ventures gave an additional $190k. 
+●Direct solicitations yielded $145k, including $75k and $50k from two major top charities 
+donors, and $5­10k from 4 other large top charities donors. 
+●Previous donors gave $75k more without us directly soliciting them, including $59k from 
+donors who had given unrestricted previously and $16k from donors who had only given 
+to top charities previously. 
+●New donors (who have told us they plan to continue donating) gave $121k. Most of this 
+was $100k from one donor. 
+●We lost $24k in expected revenue. 
+●Donations from small donors (<$5k) increased by $112k. 
+ 
+We now project $1.5m in consistent income, an increase of $330k over the end of 2013.  
+ 
+●$100k from an anonymous institutional funder that has supported us in the past. 
+●A new donor plans to give $150k per year. 
+●Increases from other donors and new unsolicited donors (who have told us they plan to 
+continue donating) total $38k. 
+●Direct solicitation yielded an additional $7k. 
+●Small donors have given $111k in the first half of the year. We assume that they will give 
+at least that much in the second half (which includes "giving season"), bringing the 
+conservative total to $222k, or $40k more than in 2013. 
+ 
+In short, between the start of 2013 and mid­2014, consistent income grew by about $950k. 
+Of this: 
+ 
+●$290k was increased support from two foundations (GV and anonymous). 
+●$250k was from two new individual donors. 
+●$260k was from 18 donors giving between $5k and $75k. 
+●$150k was from donors giving less than $5k. 
+ 
+Future plans 
+ 
+
+ 
+                    
+We plan to maintain our current level of effort on fundraising:  
+●Publishing a blog post updating our audience on our funding situation and encouraging 
+them to give 
+●Directly contacting top charities donors to ask them to consider giving to GiveWell 
+●Add an option for donors giving online to our top charities to give 10% of their donation to 
+support GiveWell's operating costs 
+
+=== Executive compensation review ===
+Attachment C 
+Executive compensation review 
+  
+We found limited data on appropriate comparables for GiveWell staff. We focus below on (a) 
+economics professors at the University of California at Berkeley who are similar in age to Holden 
+and Elie and (b) senior staff at young non­profits that were founded by "social entrepreneurs." 
+  
+Professor at the University of California at Berkeley 
+  
+We think that professors at UC­Berkeley make for good comparisons because Berkeley is a 
+well­regarded school (and therefore ought to give some indication of what sort of pay attracts 
+top­tier intellectuals in a not­for­profit environment), is public (so salary information is publicly 
+available), and is located in the Bay Area. 
+  
+We believe that economics professors make the most appropriate comparison for Holden and 
+Elie. 
+  
+We found three professors who had received their BAs during or after 2003 (the year Holden 
+graduated from college). The total compensation for these professors was $119K (BA in 2008), 
+121K (BA in 2005), and $174K (BA in 2004). Note that professors typically have ~3 months per 
+year, and ~1 day per week during the remaining months, for pursuing side engagements, 
+including paid ones. Holden and Elie work full­time at GiveWell. 
+  
+Senior staff at young non­profits 
+  
+In late 2013, we reviewed the compensation of key staff (i.e., Chief Executives and other staff 
+listed on form 990s) at other mid­stage “social entrepreneur”­led organizations including Center 
+for Effective Philanthropy, Benetech, Kiva, Root Capital, Water for People and VisionSpring. 
+  
+The comparability of these organizations is a substantial judgment call. The median budget size 
+for the organizations we looked at was $10.1 million (25th percentile: $7.3 million, 75th percentile: 
+$13 million). This is substantially larger than GiveWell's operating budget, though consistent with 
+a budget that includes our money moved. 
+  
+The median total compensation for this group is $144,000 (25th/75th percentile of 
+$118,000/167,000). Adjusted for the cost­of­living in San Francisco, it is $170,000 
+($123,000/$199,000). 
+ 
+Compensation proposal 
+ 
+Holden and Elie propose a salary raise from $110,000 to $130,000. In addition to salary, 
+GiveWell covers health benefits for employees and their families. This is an additional 
+
+$5,000­$15,000/year. 
+
+=== Attachment D ===
+[Excel file - text extraction not supported]
+
+=== Attachment E ===
+Sundry items for The Clear Fund aka GiveWell (August 18, 2014 Board meeting)   I. Proposed amendment to bylaws  Amendment 6 - Authority to sign checks and notes  Amendment 1 is amended to read as follows. (Changes from the original text are underlined.)  The Executive Director shall be authorized to sign checks, drafts, promissory notes, orders for the payment of money, and other evidence of indebtedness of the corporation, provided that the amount signed for does not exceed $25,000 for any given signing.   All expenses of the Clear Fund must be approved by the Board of Directors either in advance or after they are incurred. The Executive Director shall be accountable for all expenses incurred, and must submit all such expenses for Board approval within a year of incurring them; the Executive Director is fully liable for any unapproved expenses that he or she incurs.  II. The rest of this document contains formalities, items that the board is required to review on an annual basis.  Review of compensation arrangements and benefits; partnerships, joint ventures, and arrangements with management organizations  Our bylaws state:  To ensure the corporation operates in a manner consistent with charitable purposes and does not engage in activities that could jeopardize its tax-exempt status, periodic reviews shall be conducted. The periodic reviews shall, at a minimum, include the following subjects:   a. Whether compensation arrangements and benefits are reasonable, based on competent survey information, and the result of arm's-length bargaining.   b. Whether partnerships, joint ventures, and arrangements with management organizations conform to the corporation's written policies, are properly recorded, reflect reasonable investment or payments for goods and services, further charitable purposes, and do not result in inurement, impermissible private benefit, or in an excess benefit transaction.  We maintain that • Compensation arrangements and benefits are reasonable, based on competent survey information, and the result of arm's-length bargaining. 
+
+• We have no noteworthy partnerships, joint ventures, and arrangements with management organizations.  Roster of Officers and Directors. A roster of GiveWell's Officers and Directors follows.  Elie Hassenfeld  Greg Jensen  Holden Karnofsky - Secretary  Tim Ogden - Vice-Chair  Rob Reich  Tom Rutledge - Chair  Brigid Slipka  Phil Steinmeyer  Cari Tuna - Treasurer  Mission and vision statements  Our mission: we find outstanding giving opportunities and publish the full details of our analysis to help donors decide where to give.  Our vision: a world in which donors reward effectiveness in improving lives.   Review of insurance coverage  We currently have coverage for Directors & Officer Liability, Employment Practices, Internet Liability, Professional Liability, General Liability, and Property through Philadelphia Insurance Companies.    Our internal procedures state that we will annually review the need for each of the following types of insurance.  I have included notes with each.  • Director and Officers liability.  We are covered. • General liability. We are covered. 
+
+• Business travel (can protect against lost property, reimburse for canceled flights, cover health expenses while traveling, etc.1).  We have limited general coverage. We have purchased trip-specific insurance in the past. • Fire/theft.  We have minimal Property insurance.  In addition, all important records, as well as weekly backups of all of our website content are saved to a secondary, off-site server and periodic (at least once per month) backups are maintained electronically on our personal computers and backed up in real-time to a remote server via the Carbonite service. • Employee dishonesty (theft/embezzlement2).  We are not covered. • Hired and non-owned auto.  We are not covered. • Professional Liability ("protects professional practitioners such as Architects, quantity surveyors, home inspectors, Lawyers, physicians, and Accountants against potential negligence claims made by their patients/clients.")3  We are covered. • Employment practices.  We are covered. • Workplace violence. We are covered. (This has been added since last insurance review.) • Business interruption.  We are only covered for certain expenses in limited situations. • Hurricane/flood.  See "Fire/theft" above.     
+                                                1 http://www.life123.com/career-money/career-development/business-travel/do-you-need-business-travel-insurance.shtml accessed 2/27/2010 2 http://www.naplia.com/employeedishonesty/index.shtml 3 http://en.wikipedia.org/wiki/Professional_liability_insurance accessed 2/27/2010 
+
+=== Attachment F ===
+[Excel file - text extraction not supported]
+
+=== Agenda ===
+GiveWell Board Meeting Agenda ­ August 18, 2014 
+3pm­5pm PT 
+ 
+3:00­3:15pm: Votes on sundry items ­ Attachment E 
+●Amendment to bylaws on expenses that require Board Chair and Treasurer approval. 
+Vote necessary. 
+●Election of board members. Vote necessary. Please vote to re­elect all current board 
+members. 
+ 
+Email Holden to vote on both items.  
+ 
+Other items to review, no vote necessary:  
+●Mission/vision and roster of directors. 
+●Insurance review. 
+●Compensation arrangement review. 
+ 
+3:15pm­3:30pm: Check­in on the GiveWell/Good Ventures relationship.  No attachment. 
+ 
+3:30­4:00pm: Discussion of proposed budget and fundraising needs. Attachments A, B and D. 
+ 
+4:00pm­4:30pm: Attachment C.  
+●Discussion of executive compensation. Elie and Holden leave the meeting. 
+●Board ex­Elie/Holden vote on proposed compensation 
+ 
+4:30pm­5:00pm:  
+●Additional discussion of budget/fundraising. 
+●Vote on proposed budget. Attachment F. 
+
+Generate a comprehensive summary (approximately 1000 words):

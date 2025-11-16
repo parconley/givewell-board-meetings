@@ -1,0 +1,194 @@
+Based on the following board meeting documents for a Clear Fund Board Meeting held on August 14, 2013, generate a comprehensive ~1000-word summary that acts as a professional brief.
+
+The summary should cover:
+- Key decisions made and votes taken
+- Important discussions and debates
+- Financial/budget information with specific numbers
+- Strategic direction or policy changes
+- Personnel or organizational changes
+- Any significant outcomes or action items
+
+Keep the tone professional and factual. Focus on substance over process. Be specific with numbers, names, and decisions.
+
+Meeting Documents:
+=== Minutes ===
+Minutes for August 14, 2013 meeting of the Clear Fund (aka GiveWell) Board of Directors  00:00:00 Meeting called to order  00:01:49 Board begins discussion of GiveWell’s fundraising policy (see Attachment B)  00:24:57 Board begins discussion of GiveWell’s financial update (see Attachment A)  00:57:57 Board has discussion about why GiveWell’s fundraising situation is unique  01:05:36 Meeting adjourned 
+
+=== Attachment A ===
+
+             Financial update and fundraising plan – August 2013
+
+Summary
+
+    • We propose a fundraising policy  that  separates  “operating  expenses
+      based on individual donors” and “operating  expenses  based  on  major
+      donors,” and in both cases considers an appropriate level of operating
+      expenses to be up to 15% of projected money moved.
+    • In light of recent and projected hiring, we have a substantial deficit
+      for the coming 12 months: ~$1.1 million in (conservatively)  projected
+      expenses, ~$650,000 in projected revenues.
+    • We plan to create a series of blog posts explaining these  points  and
+      then to fundraise for our operating expenses. While  we  will  discuss
+      our fundraising needs on the blog and  in  conversations  with  donors
+      that we have appropriate relationships with,  our  primary  “ask”  for
+      first-time donors and the emphasis of our website will remain  focused
+      on giving  to  our  top  charities  rather  than  supporting  GiveWell
+      directly.
+    • We are also working on better analysis of what the trajectory of staff
+      compensation should look like, and will be presenting this at a future
+      meeting.
+
+Our general fundraising policy and philosophy
+
+We’ve created a draft fundraising policy (Attachment B). It states that
+
+ • We believe it is appropriate for our operating expenses to  equal  up  to
+   15% of our projected “money moved.” (The policy document provides support
+   for this figure.)
+ • We will first attempt to raise enough funds – primarily  from  individual
+   donors, though partly from major donors and institutions – to support the
+   lesser of (our desired level of operating expenses) and (15% of projected
+   “money moved” from individual donors).
+ • We will then determine whether a higher level of  operating  expenses  is
+   called for in  light  of  GiveWell’s  additional  projected  impact  from
+   influencing major donors (donors giving more than $250,000 per year).  If
+   so, we will attempt to raise any gap between the amount raised in #2  and
+   the amount needed from the major donors that GiveWell serves.
+ • We may also raise money from major donors for particular expenses that we
+   would be likely to incur differently (or not incur)  in  the  absence  of
+   such donors. Examples include contractor expenses and shared office space
+   (in both cases, we would not budget as much for these items  if  we  were
+   serving only individual donors).
+ • While  we  will  discuss  our  fundraising  needs  on  the  blog  and  in
+   conversations with donors that we have  appropriate  relationships  with,
+   our primary “ask” for first-time donors and the emphasis of  our  website
+   will remain focused on giving to our top charities rather than supporting
+   GiveWell directly.
+
+
+Short-term budget changes and funding needs
+
+Since our last budget update, we have:
+    • Converted one trial hire to a full-time hire.
+    • Added another trial hire who is currently active.
+    • Made arrangements for another (future) trial hire with someone who
+      previously declined a full-time offer from GiveWell in 2011.
+    • Increased the priority of recruiting in light of the fact that (a) we
+      perceive a great deal of need for more capacity at both the junior and
+      senior level; (b) we feel our recruiting and evaluation process has
+      improved significantly via an increased emphasis on referrals for
+      recruiting and trial hires for evaluation.
+
+Accordingly, our projected expenses have increased, and we now project
+expenses of ~$1.1 million over the next 12 months, against ~$650,000 in
+projected revenues.
+
+This is a conservative expense projection, based on the assumption that we
+hire 1 more senior and 2 more junior staff starting in January 2014, in
+addition to converting all trial hires discussed above into full-time hires
+and maintaining one “ongoing trial hire” slot. However, the expense
+projection also excludes rent and research contractors, both of which are
+being paid for via in-kind donations or earmarked funding from Good
+Ventures, consistent with the policy discussed in the previous section.
+|                     |          |Aug-Oct    |Nov       |Feb-Apr   |May-Jul   |
+|                     |          |2013       |2013-Jan  |2014      |2014      |
+|                     |          |           |2014      |          |          |
+|Payroll: other       |8 analysts|$146,222.71|$169,280.8|$215,396.9|$223,919.2|
+|                     |on 8/1/13;|           |0         |7         |6         |
+|                     |4 more    |           |          |          |          |
+|                     |hires (2  |           |          |          |          |
+|                     |senior)   |           |          |          |          |
+|                     |starting  |           |          |          |          |
+|                     |January   |           |          |          |          |
+|                     |2014; plus|           |          |          |          |
+|                     |trial hire|           |          |          |          |
+|                     |slot      |           |          |          |          |
+
+Our plans regarding fundraising
+
+The current projected expenses, ~$1.1 million, are both substantially
+larger than projected revenue and smaller than our benchmark of 15% of
+projected money moved from individual donors (we project ~$9 million of
+money moved, implying appropriate operating expenses of up to ~$1.35
+million).
+
+We plan to
+    • Create a series of blog posts explaining the points in this document.
+    • Go to major “customer-donors” with these blog posts in hand and
+      solicit direct donations.
+
+
+
+=== fundraising policy ===
+
+             Fundraising Policy for The Clear Fund aka GiveWell
+
+GiveWell’s fundraising approach is to:
+
+   1. Identify an appropriate level of operating expenses, as a function  of
+      projected “money moved” from retail donors. In this  context,  “retail
+      donors” means donors giving $250,000 or less per year.  “Money  moved”
+      is   GiveWell’s   proximate   metric   for   its   own   impact   (see
+      http://www.givewell.org/about/impact).
+   2. Attempt to raise enough funds  to  support  this  level  of  operating
+      expenses, primarily from the sorts  of  retail  donors  that  GiveWell
+      serves, though institutions seeking to support GiveWell’s work serving
+      these donors may contribute as well.
+   3. Determine whether a higher level of operating expenses is  called  for
+      in light of GiveWell’s additional projected  impact  from  influencing
+      major donors (donors giving $250,000 or more per year).
+   4. If so, raise any gap between the amount raised in #2  and  the  amount
+      needed from the major donors that GiveWell serves.
+   5. We may also raise money from major donors for particular expenses that
+      we would be likely to incur differently (or not incur) in the  absence
+      of such donors. Examples include contractor expenses and shared office
+      space (in both cases, we would not budget as much for these  items  if
+      we were serving only individual donors).
+
+What is an appropriate level of operating expenses as a function  of  “money
+moved?”
+
+GiveWell has concluded  that  it  is  appropriate  to  spend  an  amount  on
+operating expenses equal to up to 15% of projected “money moved,”  based  on
+the following observations:
+
+   1. Most  importantly,  this  figure  appears  in  line  with  what  major
+      foundations spend on operating expenses,  as  a  percentage  of  their
+      annual grants. We have assembled the relevant  data  for  the  top  10
+      private foundations in the U.S.,  and  looked  for  similar  data  for
+      foundations whose grantmaking is in  the  range  of  our  2012  “money
+      moved” from individual donors (~$6-7 million), though we’ve only found
+      it for one foundation  in  the  latter  category.  5  of  the  top  10
+      foundations (as well as the  foundation  in  the  2nd  category)  have
+      operating expenses equal to at least 15% of their annual  grantmaking.
+      The median figure is 13.67%, and the mean is 13.88%.
+   2. This figure also appears to be in a reasonable range when  considering
+      more vaguely analogous standard fees from  other  industries  (all  of
+      these figures are taken either from background knowledge or from quick
+      Googling; we haven’t attempted high precision  or  robustness  because
+      we’re just giving a general sense of the range):
+        a. “Normal” hedge fund fees tend to be around 2% of assets  managed
+           plus 20% of realized returns. For a 10% return, these would come
+           out to 4% of assets managed;  a  foundation  that  spent  4%  of
+           assets on operating expenses, while granting out 5-10% of assets
+           , would have an operating-expense-to-grants ratio of 40-80%.
+        b. Real estate broker fees tend to range  from  4-7%  of  the  sale
+           price.[1]
+        c. Contingency recruiters  tend  to  charge  20-25%  of  first-year
+           compensation for a placement.[2]
+        d.  Talent  agents  tend  to  charge  10%  of  the  payments   they
+           negotiate.[3]
+
+We believe that one could argue for a higher figure than 15% if  there  were
+a compelling case that more were  needed  to  do  a  good  job  serving  our
+audience of individual donors. However, we don’t anticipate this  being  the
+case in the near future.
+-----------------------
+[1] http://www.realtor.com/home-finance/homebuyer-information/about-real-
+estate-agents-fee-for-service.aspx
+[2] http://www.bankrate.com/brm/news/advice/20040525a1.asp
+[3] https://en.wikipedia.org/wiki/Talent_agent
+
+
+
+Generate a comprehensive summary (approximately 1000 words):

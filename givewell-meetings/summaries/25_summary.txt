@@ -1,0 +1,55 @@
+GIVEWELL BOARD MEETING #27 - AUGUST 18, 2014
+
+BOARD GOVERNANCE AND POLICY CHANGES
+
+The board approved a motion to change GiveWell's spending policy, eliminating the requirement for Treasurer and Chairman approval for expenditures over $5,000 while maintaining Board approval requirements for expenditures over $25,000. This streamlined operational decision-making and reduced administrative burden for routine expenses while preserving board oversight of significant financial commitments.
+
+Amendment 6 to the bylaws modified authority to sign checks and notes, allowing the Executive Director to sign checks, drafts, promissory notes, and orders for payment up to $25,000 for any given signing. All expenses must still be approved by the Board either in advance or after being incurred, with the Executive Director submitting all expenses for board approval within one year and remaining fully liable for any unapproved expenses.
+
+All board members were re-elected through private ballot submission to the Secretary. The full board at this time consisted of Tom Rutledge (Chair), Tim Ogden (Vice-Chair), Cari Tuna (Treasurer), Holden Karnofsky (Secretary), Elie Hassenfeld, Greg Jensen, Rob Reich, Brigid Slipka, and Phil Steinmeyer.
+
+The board completed required annual reviews including insurance coverage (maintained through Philadelphia Insurance Companies with workplace violence coverage newly added since the last review), compensation arrangements, and confirmation that GiveWell had no noteworthy partnerships, joint ventures, or arrangements with management organizations requiring special scrutiny.
+
+BUDGET AND FINANCIAL PROJECTIONS
+
+As of September 1, 2014, GiveWell projected 12-month forward expenses of $1.9 million and held reserves of $1.6 million. Looking ahead to March 1, 2015 (six months out), the organization projected 12-month forward expenses of $2.3 million and expected to hold $2.1-2.5 million in reserves. These projections reflected continued aggressive staff expansion and investment in both traditional research and GiveWell Labs (increasingly being called the Open Philanthropy Project).
+
+Current "consistent" revenue (from donors giving more than $5,000 who committed to giving again, plus assuming constant giving under $5,000) totaled $1.5 million per year. Under a conservative Scenario 1, projected 12-month forward revenues reached $1.8 million by adding: $120,000 from maintaining 2012-2013 levels of one-off donations; $55,000 from small donors giving as much in the second half of 2014 as the first half; and $87,000 from donors tagged as "somewhat likely" and "unlikely" to give again recurring at 33% and 10% respectively.
+
+Under a less conservative Scenario 2 (considered the median outcome), projections reached $2.1 million in 12-month forward revenues. This added: $35,000 from 50% growth in donations under $5,000 (versus 116% growth thus far in 2014); $200,000 from new donors giving $5,000+ (projected at 50% of funds received from previously unidentified donors in the previous period); and $40,000 from higher recurrence rates for somewhat likely and unlikely donors (50% and 20% respectively).
+
+REVENUE SOURCES AND DIVERSITY
+
+Summary of consistent revenue sources showed institutional funding totaling $540,000: Good Ventures at $240,000, an anonymous institution at $200,000, and Hewlett Foundation at $100,000. Individual support totaled $1,027,000 across: 3 individuals giving at least $100,000 totaling $400,000; 5 individuals giving $25,000-$100,000 totaling $210,000; approximately 25 individuals giving $5,000-$25,000 totaling approximately $235,000; and many individuals giving under $5,000 totaling approximately $182,000.
+
+The diversity of funding sources analysis showed 12% of 12-month forward revenues coming from Good Ventures, 48% from the 5 largest donors, 67% from the 10 largest donors, and 76% from the 20 largest donors. This indicated meaningful concentration risk while also demonstrating growing diversification compared to earlier years when the organization was more dependent on a handful of major supporters.
+
+REVENUE GROWTH DRIVERS 2013-2014
+
+Between the end of 2012 (when consistent income was $640,000) and mid-2014 (when it reached approximately $1.5 million), consistent income grew by approximately $950,000. The growth broke down as: $290,000 from two foundations (Good Ventures increased by $190,000 from $50,000 to $240,000; anonymous institution increased by $100,000 from $100,000 to $200,000); $250,000 from two new individual donors; $260,000 from 18 donors giving between $5,000 and $75,000; and $150,000 from donors giving less than $5,000.
+
+Changes in 2013 included $190,000 additional from Good Ventures, $145,000 from direct solicitations (including $75,000 and $50,000 from two major top charities donors plus $5,000-$10,000 from 4 other large donors), $75,000 from previous donors giving more without direct solicitation, $121,000 from new donors planning to continue donating (mostly one $100,000 donor), $24,000 lost in expected revenue, and $112,000 increase from small donors under $5,000.
+
+From the end of 2013 to mid-2014, consistent income grew an additional $330,000 through: $100,000 from an anonymous institutional funder; $150,000 per year from a new donor; $38,000 from other donors and new unsolicited donors planning to continue; $7,000 from direct solicitation; and $40,000 increase from small donors (who gave $111,000 in the first half of 2014, conservatively projected to give at least that much in the second half including giving season).
+
+FUNDRAISING STRATEGY
+
+GiveWell planned to maintain its current level of fundraising effort including: publishing a blog post updating the audience on funding situation and encouraging giving to GiveWell; directly contacting top charities donors to ask them to consider giving to GiveWell operations; and adding an option for donors giving online to top charities to contribute 10% of their donation to support GiveWell's operating costs.
+
+Good Ventures was providing $240,000 in cash plus approximately $130,000 in donated office space as in-kind donation. GiveWell planned to request an additional $30,000 from Good Ventures (for total of $400,000) to maintain Good Ventures' giving at 20% of 12-month forward projected expenses of $2 million, consistent with the policy established in prior board meetings.
+
+EXECUTIVE COMPENSATION
+
+The board approved a proposal to raise co-Executive Director salaries from $110,000 to $130,000. The compensation review included comparisons to economics professors at UC Berkeley (three professors with BAs in 2003 or later had total compensation of $119,000, $121,000, and $174,000, noting professors have approximately 3 months per year plus one day per week during remaining months for side engagements while Holden and Elie work full-time) and senior staff at young nonprofits founded by social entrepreneurs.
+
+For the social entrepreneur comparisons, GiveWell reviewed compensation at Center for Effective Philanthropy, Benetech, Kiva, Root Capital, Water for People, and VisionSpring. The median budget size was $10.1 million (25th percentile $7.3 million, 75th percentile $13 million), substantially larger than GiveWell's operating budget though consistent with a budget including money moved. Median total compensation was $144,000 (25th/75th percentile $118,000/$167,000), or $170,000 adjusted for San Francisco cost of living ($123,000/$199,000).
+
+In addition to salary, GiveWell covered health benefits for employees and families, representing an additional $5,000-$15,000 per year. The board had this discussion with GiveWell staff not present for part of the deliberation, then approved the compensation increase.
+
+GOOD VENTURES RELATIONSHIP
+
+The board discussed the state of GiveWell's relationship with Good Ventures, with Good Ventures staff not present for part of the discussion. The deepening partnership was driving substantial changes to GiveWell's work and budget, with Good Ventures becoming both a major funder of operations and the primary partner for GiveWell Labs/Open Philanthropy Project work. The shared office space and collaborative grantmaking represented an increasingly integrated working relationship.
+
+BUDGET APPROVALS
+
+The board voted to approve GiveWell's 2013 and 2014 budgets. The 2013 budget was being approved retroactively as part of formalizing financial governance. The 2014 budget approval incorporated the expanded staffing plans, increased Good Ventures support, and continued investment in building capacity for both traditional charity research and the emerging Open Philanthropy Project.

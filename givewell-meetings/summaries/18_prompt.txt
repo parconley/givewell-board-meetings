@@ -1,0 +1,684 @@
+Based on the following board meeting documents for a Clear Fund Board Meeting held on August 9, 2012, generate a comprehensive ~1000-word summary that acts as a professional brief.
+
+The summary should cover:
+- Key decisions made and votes taken
+- Important discussions and debates
+- Financial/budget information with specific numbers
+- Strategic direction or policy changes
+- Personnel or organizational changes
+- Any significant outcomes or action items
+
+Keep the tone professional and factual. Focus on substance over process. Be specific with numbers, names, and decisions.
+
+Meeting Documents:
+=== Minutes ===
+Minutes for August 9, 2012 meeting of the Clear Fund (aka GiveWell) Board of Directors 00:00:00 Meeting called to order  00:01:06 Board begins discussion of GiveWell's potential shifts in direction, including types of giving opportunities to pursue, how much attention to focus on retail donors vs. major funders, and relationship with Good Ventures 01:28:27 Meeting adjourned 	  
+
+=== Document ===
+
+This document was sent out as preparation for an  August  9  GiveWell  Board
+meeting. The basic conclusion reached was that
+    • GiveWell continues to prioritize research aimed at finding outstanding
+      giving opportunities for  individual  donors.  GiveWell  continues  to
+      place a high importance on providing enough of these opportunities  to
+      keep up with demand.
+    • GiveWell's research process is evolving and becoming more "foundation-
+      like" in some ways, while remaining distinct from the work of existing
+      foundations  in  tangible  ways,  particularly   our   commitment   to
+      transparency.  The  evolution  of  GiveWell's  research   process   is
+      necessary in order to find the best giving opportunities possible  for
+      all funders, both small and large.
+    • GiveWell will continue to work closely with  Good  Ventures,  and  may
+      prioritize outreach to other potential major-funder partners. However,
+      it does not plan to merge with Good Ventures or to become a consultant
+      to  Good  Ventures  or  any  other  "major  funder."  The  purpose  of
+      GiveWell's working with Good Ventures, and of  outreach  to  potential
+      major funders, is to find people who share GiveWell's core values  and
+      seek to support its mission - not to customize or alter  its  work  to
+      suit major funders.
+
+                                Summary/intro
+
+GiveWell's mission: we find outstanding  giving  opportunities  and  publish
+the full details of our analysis to help donors decide where to give.
+
+GiveWell's  vision:  a  world  in  which  donors  reward  effectiveness   in
+improving lives.
+
+We're currently reflecting on which giving opportunities, and which  donors,
+we should be prioritizing.
+
+    • On the research front, we feel that we've hit diminishing  returns  to
+      our  approach  of  focusing  on   no-strings-attached   donations   to
+      organizations focused on proven cost-effective interventions. In order
+      to find more outstanding giving opportunities, we  may  need  to  "act
+      more like a foundation" in terms of considering  giving  opportunities
+      with less evidence behind them  and/or  considering  "active  funding"
+      (funding  specific  projects,  rather  than  just  no-strings-attached
+      grants to organizations).
+    • Some of these giving opportunities may  be  better  suited  to  "major
+      funders" (giving $1m+ per year) than  to  "retail  donors"  (giving  <
+      $250,000 per year). At the moment, we aren't facing much in the way of
+      tradeoffs between serving the two groups, but we recognize that we may
+      in the future, and we're  reflecting  on  which  group  we  should  be
+      prioritizing in principle.
+    • Good Ventures is a "major funder"  that  we've  been  working  closely
+      with. Due to the high degree  of  current  overlap  in  our  missions,
+      research priorities, and preferences regarding hiring and managing, we
+      feel there are efficiency gains to close coordination; there are  also
+      potential risks to such coordination.
+    • Good Ventures is the largest "major funder" we've  been  working  with
+      and the one with which we've worked  most  closely  but  there  are  a
+      handful of other "major funders" with whom we may collaborate.
+
+This document summarizes what we see  as  our  options  for  addressing  all
+three issues, and  what  challenges  (including  communications  challenges)
+would be raised by the different options.
+
+Overriding theme of the change of direction we're contemplating
+
+On all three fronts, we're contemplating a move in  the  general  conceptual
+direction of placing higher priority on larger funders and/or on  the  sorts
+of giving opportunities that can appeal to these funders - which means  that
+in some ways GiveWell may come to resemble a foundation more.
+
+
+Our preference is to move in this direction,  while  still  viewing  retail-
+donor-targeting as a core priority (and hoping to provide enough service  to
+retail donors to keep up with demand). At the same time, we believe we  will
+continue to differ, in important ways, from charitable foundations  such  as
+the Gates Foundation, Hewlett Foundation, etc. Below  we  briefly  summarize
+our vision of the similarities and differences.
+
+
+GiveWell is similar to such foundations in that:
+    • We see our role as helping to allocate particular funds (our "money
+      moved") as effectively as possible.
+    • We don't endorse any rigid formula or procedure for determining the
+      best giving opportunities. We are open to using intuition and judgment
+      calls in deciding what to prioritize and what to recommend.
+
+GiveWell is different from such foundations in that our brand is built on
+transparency. We expect to be held accountable for publishing the full
+details and reasoning behind our analysis, and therefore we expect to be
+held accountable by a broad audience for qualities such as being focused on
+impact (choosing issue areas and charities based on our judgment of how to
+accomplish the most good, not based on personal passions or personal
+relationships) and being self-critical.
+
+Through this distinguishing factor, we believe we can bring a new level of
+critical inquiry and public debate to charitable giving, which in turn will
+move toward our vision of a world in which donors reward effectiveness in
+improving lives.
+
+The rest of this document goes into  more  detail  on  the  decisions  we're
+facing and the paths we're considering.
+    Should GiveWell "act more like a foundation" in terms of the sorts of
+                    giving opportunities we'll consider?
+
+As laid out at a recent blog post,
+    • We have previously focused on giving opportunities that are  "passive"
+      (we have focused  on  finding  the  best  existing  organizations  and
+      supporting them with no-strings-attached donations, rather than a more
+      "active" approach of designing our own strategy, treating charities as
+      partners in carrying out  this  strategy,  and  restricting  donations
+      accordingly)
+    • We have previously focused on giving opportunities  that  are  "proven
+      cost-effective" (situations where a donor can be reasonably  confident
+      - based on empirical evidence - that his/her donation will  result  in
+      lives being changed for the better, at a high rate of  "expected  good
+      accomplished per dollar spent.")
+    • We feel that we will not find enough outstanding giving  opportunities
+      if  we  retain  these  criteria.  We  are  considering  relaxing  both
+      criteria.
+
+For     more      detail,      see      the      recent      blog      post:
+http://blog.givewell.org/2012/07/20/some-history-behind-our-shifting-
+approach-to-research/
+
+Note that we were considering  project  funding  as  early  as  February  of
+2011;[1] these issues have been becoming  more  salient  for  a  long  time,
+independently of our relationship with Good Ventures, and we  feel  that  we
+would be facing this choice regardless of that relationship.
+
+Our options:
+    • Option  1:  retain  both  criteria.  We  would  find  few  new  giving
+      opportunities fitting these criteria; we could potentially reduce  the
+      size of GiveWell and/or deepen our due diligence.
+    • Option 2: relax only one criterion. We could become more open to "non-
+      proven" ideas but still provide only  no-strings-attached  support  to
+      organizations. Alternatively, we could stick with  "proven  effective"
+      interventions, but become willing to promote them with active funding.
+    • Option 3: relax both criteria.
+    • Option 4: relax both criteria for a subset of  GiveWell,  whose  hours
+      are capped (this is the "GiveWell Labs" approach).
+    •  Option  5:  relax  both  criteria,  but  place  a  high  priority  on
+      maintaining enough  "room  for  more  money  moved"  in  opportunities
+      meeting these criteria to satisfy demand for such opportunities.
+
+Our preference: Option 5
+
+Considerations:
+    • In favor of Option 1:
+         o Some donors see us as "standing above the fray."  Higher  levels
+           of subjectivity, and especially "active" funding,  could  lessen
+           their trust in GiveWell.
+         o We wouldn't need as much capacity as we currently have. We could
+           shrink GiveWell and/or deepen our due diligence.
+    • In favor of Option 3:
+         o We believe that the best giving opportunities may well  not  fit
+           our existing criteria.
+         o We're personally more excited to explore new areas than  we  are
+           to deepen our due diligence.
+         o Option 3 gives us more appeal for major funders.
+    • Options 2 and 4 may provide ways  to  get  some  of  the  benefits  of
+      expanding without the costs.
+
+
+Potential communication issues:
+    • Most of the language on our website already revolves  around  "finding
+      outstanding giving opportunities" rather than "charity evaluator,"  so
+      there isn't much that would need to be changed.
+    • We would consider drawing a bright line between  giving  opportunities
+      that fit the original criteria and giving opportunities that don't.
+    • We would need to clearly lay out why we're doing what we're doing.
+
+Opportunities for more investigation:
+    • Survey donors on how they feel about the change and whether  it  would
+      reduce their interest in supporting our top giving opportunities
+
+ When in situations where we have to make a tradeoff, should GiveWell target
+                     "retail donors" or "major funders?"
+
+We define "retail donors" as people capable of giving $250,000 per  year  or
+less. ("Major funders" are people capable of giving more.)  At  the  moment,
+we aren't facing much in the  way  of  tradeoffs  between  serving  the  two
+groups, but we recognize that we may in the future.
+
+In addition to questions about whom we should be prioritizing  for  outreach
+and customer service, there are potential research questions as well.  There
+may be giving opportunities that are a better fit  for  major  funders  than
+for individual donors (generally when giving needs to happen in a  "discrete
+chunk," i.e., a substantial pool of funds  must  be  committed  at  once  in
+order to allow a  project  to  go  forward.)  We  may  find  mechanisms  for
+enabling individual donors to participate  in  such  opportunities,  but  we
+also may face tradeoffs.
+
+Some context on giving size:
+    • In 2011, retail donors accounted for $3.25 million in donations to our
+      top charities; in 2012, growth has been slower than in  2011  so  far,
+      but  still  strong  (~150%  year-over-year  growth  as  of  6/30/2012,
+      compared to ~300% year-over-year growth as of 6/30/2011).
+    • Good Ventures gave $1.1 million to our top charities in 2012.
+    • We have relationships with a few other major funders,  giving  in  the
+      range of $1 million per year, possibly more in the future. We are also
+      hoping to form more such relationships through networking.
+
+Our options:
+
+Question A: should we focus our resources on giving opportunities that  make
+sense for retail donors?
+    • Option A1: Exclusively  investigate  giving  opportunities  that  make
+      sense for retail donors.
+    • Option A2: Investigate giving opportunities without  regard  to  their
+      fit for retail donors.
+    • Option A3: Cap the hours spent on "investigating giving  opportunities
+      without regard to their fit for  retail  donors";  this  guarantees  a
+      minimum allocation to giving opportunities that are a fit.
+    • Option A4: Commit to provide enough outstanding  giving  opportunities
+      for individual donors to absorb all projected "money moved" from these
+      donors. Otherwise, investigate giving opportunities without regard  to
+      their fit for retail donors.
+
+Our preference: A4
+
+Question B: how much effort should we put into activities  that  are  mostly
+targeting individual donors: search engine optimization, website  conversion
+optimization, optimizing the online  giving  process,  thank-you  notes  and
+phone calls, answering emails to info@givewell.org,  relationship  building,
+advertising/media, [what else?]
+
+    • Option B1: go after all  "low-hanging  fruit"  (reasonably  high  time
+      allocation)
+    • Option B2: move toward a "minimum" needed to "keep  the  store  open":
+      automate  thank-you  emails,  keep  the   status   quo   on   donation
+      processing/advertising/website   conversions,   do   not   do   active
+      outreach/relationship building, do not do media outreach  except  when
+      it appears to have very high returns, do not respond to questions sent
+      to info@givewell.org
+    • Option B3: mostly  like  B2,  but  with  a  couple  more  concessions:
+      continue building relationships with donors who give more than $10,000
+      per year, continue answering questions sent to info@givewell.org
+
+Our preference: B3
+
+Note that the following things will be maintained regardless;  these  relate
+to transparency in general, not retail donors specifically.
+    • Publishing the full details of the analysis and  thinking  behind  our
+      recommendations
+    • Regular blog posts
+    • Responding to blog comments
+    • Blogging on relevant topics that are in the news
+
+Question C: whom do we approach first about a given giving  opportunity?  Do
+we publish first and bring in  major  funders  only  after  we've  seen  the
+behavior of retail donors? Do we shop opportunities to major  funders  first
+and publish later?
+
+    • Option C1: set a consistent hierarchy between retail and major funders
+    • Option C2: approach it on a case-by-case basis,  but  tend  to  go  to
+      retail donors first when there aren't major efficiency losses to doing
+      so
+
+Our preference: C2
+
+Considerations:
+    • We'd guess that major  funders  offer  substantially  more  (and  more
+      flexible,  i.e.,  capable  of  taking  advantage   of   more   diverse
+      opportunities) potential "money moved" over the next 1-10 years.
+    • On the other hand, a base of retail donors is more robust. The loss of
+      a single relationship could put a major dent in money moved from major
+      funders; this is not true of retail donors.
+    • Having a "service for retail donors" has advantages in  terms  of  the
+      kind of attention it can create for us and the kind of conversation it
+      can create. We value the fact that many critical,  intelligent  people
+      are highly interested in GiveWell; we feel that this can lead (and has
+      led) to both critical feedback and publicity.
+    • On the specific question of "whom should we go to first" for  a  given
+      opportunity: some donors may feel shortchanged if we go to them  first
+      (since they would have saved their money if  they  knew  someone  else
+      might fund the opportunity); some donors may feel shortchanged  if  we
+      go to others first (since they may feel that others are getting "first
+      opportunity" to fund outstanding opportunities). Because we see  major
+      funders as more  "flexible,"  we  feel  more  good  is  likely  to  be
+      accomplished by going to individual donors  first  when  there  aren't
+      major efficiency losses to doing so. (On the other hand, when there is
+      a major funder that is not highly aligned with us we will tend  to  go
+      to this funder first, with similar  reasoning  about  maximizing  good
+      accomplished.)
+
+Potential communication issues:
+    • We need to be clear about what commitments we do  and  don't  make  to
+      retail donors, in terms of
+         o Customer service
+         o Capacity allocated to  finding  giving  opportunities  that  fit
+           individual donors
+         o Our general philosophy of "whom we'll go to first"
+    • For specific giving opportunities, we should make sure to discuss what
+      to disclose about major funders' giving plans.  (Our  audience  should
+      have some sense of how much money we expect from major funders  for  a
+      given opportunity, and what size funding gap this would leave.)
+    • We may need to look into rebranding parts of  our  website/pitch  that
+      currently play up our focus on retail donors.
+
+Opportunities for more investigation:
+    • Poll retail donors on whether they'd prefer to be "first" or  "second"
+      in line to fund outstanding giving opportunities
+    • Poll retail donors on what "customer  service"  they'd  be  upset  vs.
+      indifferent to lose
+
+
+         What relationship should GiveWell have with Good Ventures?
+
+GiveWell and  Good  Ventures  find  themselves  substantially  in  alignment
+regarding  the  most  promising  directions  for  investigating  new  giving
+opportunities. The organizations  are  currently  capable  of  helping  each
+other in the following ways:
+    • As a major funder, Good Ventures has  provided  operating  support  to
+      GiveWell (~10% of our operating budget for 2011)  and  has  also  made
+      grants based on its recommendations.
+    • Good  Ventures  has  an  easier  time  getting  access  to  charities,
+      foundations, scholars, etc.  than  GiveWell  and  has  been  extremely
+      helpful in getting this access, which is essential to  maximizing  the
+      quality of GiveWell's research.
+    • Good Ventures has full-time staff  (possibly  only  one  staffer,  but
+      possibly more in the future) whose interests and abilities  are  well-
+      suited to helping with GiveWell's mission; due to the mission overlap,
+      Good Ventures is willing to provide some help of this nature.
+    • GiveWell has a substantially  larger  staff  and  more  organizational
+      experience than Good Ventures.  It  can  thus  potentially  help  Good
+      Ventures via
+         o Its staff's work furthering  its  own  mission,  which  overlaps
+           heavily with Good Ventures's mission
+         o Advising Good Ventures on particular  giving  opportunities  and
+           recommendations
+         o General advice on how to run an organization that is focused  on
+           transparency  and  is  sector-agnostic  in   its   approach   to
+           accomplishing good
+         o Helping with recruiting, training and managing staff
+
+Some of these items would be best facilitated by  close  coordination,  such
+as sharing office space  and  allowing  employees  of  one  organization  to
+provide general support to the other.
+
+Below, we list options but don't list our  preference  as  we  have  yet  to
+reach conclusions about each.
+
+Our options:
+
+Question  A  (overarching):  what  should  the  general  structure  of   the
+relationship be?
+    • Option A1: merge into one organization (note that this  has  not  been
+      proposed by either party; rather, we’re attempting  to  list  all  the
+      conceivable options for the purpose of discussion.)
+    • Option A2: remain separate organizations, but establish  policies  for
+      coordinating closely together, including a  joint  recruiting/training
+      process for new hires and potential co-location
+    • Option A3: take more formal measures to publicly emphasize limitations
+      of the relationship, potentially including a cap  on  general  support
+      provided by GiveWell to Good Ventures,  a  cap  on  operating  support
+      provided by Good Ventures to GiveWell, and lack of co-location
+
+Question B: how should  the  two  organizations  coordinate  on  recruiting,
+hiring, training and management?
+    • Option B1: merger - employees are hired,  trained  and  managed  by  a
+      single organization
+    • Option B2: Good Ventures and GiveWell hire, train and manage  entirely
+      separately
+    • Option B3: GiveWell helps Good  Ventures  with  hiring,  training  and
+      management but considers this help to be "general support," subject to
+      the "general support" guidelines in Appendix A.
+    • Option B4: (not mutually exclusive with Option 3)  Good  Ventures  and
+      GiveWell can "trade" person-hours  between  them;  these  person-hours
+      will be tracked and any imbalance will be reimbursed  at  TBD  billing
+      rates (the imbalance may be capped as well).
+
+Question C: should GiveWell and Good Ventures co-locate?
+
+    • Option C1: co-locate
+    • Option C2: do not co-locate
+    • Option C3: co-locate but with specific provisions  for  ensuring  that
+      each organization has ample opportunity to interact without the  other
+      present and reconsider the relationship  over  time.  For  example,  a
+      requirement that the organizations  work  separately  with  a  certain
+      frequency and revisit the relationship with a certain frequency.
+
+
+Question D: how much operating support would  it  be  appropriate  for  Good
+Ventures to provide GiveWell?
+
+
+    • Option D1: no limit
+    • Option D2: cap the amount of operating support any particular funder
+      may provide to GiveWell, to help ensure independence
+    • Option D3: Option 2 + allow "earned revenue" for general support as
+      defined in Appendix A, subject to a TBD billing rate
+
+Considerations:
+    • The two organizations are capable of providing major support  to  each
+      other  in  accomplishing  their   missions.   The   less   close   the
+      relationship, the less effectively this can be done.
+    • Recruiting/hiring/management present the biggest challenges.  The  two
+      organizations are currently looking for essentially the same  employee
+      profile and have a large degree of overlap in their missions. The most
+      purely efficient arrangement would seem to  be  "sharing  staff,"  and
+      this would facilitate optimal hiring (bringing on  the  right  mix  of
+      people to contribute to the shared  mission).  However,  any  sort  of
+      "sharing staff" raises challenges around (a) day-to-day management and
+      (b) ultimate authority over  an  employee  if  the  two  organizations
+      overlap less in the future.
+    • More minor challenges: we  would  like  to  make  it  easier  for  all
+      employees to be privy to the same confidential information and for all
+      employees  to  be  available  as  "organization  representatives"   in
+      meetings. We believe these can be worked around with the organizations
+      remaining separate.
+    • The closer the relationship,  the  more  challenging  it  may  be  for
+      GiveWell to retain substantive and perceived control of  its  research
+      agenda. This is important for its credibility to  retail  donors,  and
+      potentially to major funders as well
+    • A  merger  would  raise  major  challenges  in  terms  of  determining
+      authority, which could have implications for the long-term success  of
+      both organizations.
+
+Potential communication issues:
+    • We'll need to make the case publicly (and create appropriate  policies
+      to ensure) that any relationship with Good Ventures does not  stop  us
+      from
+         o Setting our research agenda based on our beliefs about the  most
+           promising avenues of exploration
+         o Making recommendations based  on  our  beliefs  about  the  best
+           giving opportunities
+         o Writing honestly about the strengths, weaknesses, successes  and
+           failures of the groups we recommend
+         o Publicly critiquing groups supported by Good Ventures, and  Good
+           Ventures itself, when warranted
+    • We'll need to clearly lay out our policies for  forming  relationships
+      with other funders, and under  what  conditions  they  would  reach  a
+      similar level to our relationship  with  Good  Ventures  (we  have  an
+      outline of this in Appendix A)
+    • We'll commit to clearly articulating what Good Ventures's role  is  in
+      each investigation/recommendation we make.
+    • The closer the  relationship,  the  more  intensified  the  challenges
+      around "retail vs. major funders" become.
+
+Opportunities for more investigation:
+    • Speak with an attorney to get a sense of any legal  issues  raised  by
+      close coordination/the partnership
+    • Speak with a sample of major retail donors to get their thoughts
+    • Speak with people who have for-profit  or  nonprofit  experience  with
+      mergers and partnerships to get their thoughts
+
+
+
+
+
+ Overriding theme: in what ways should GiveWell resemble, and differ from, a
+                                 foundation?
+
+
+
+
+Above, we've discussed the following questions:
+
+
+      Should GiveWell "act more like a foundation" in terms of the sorts  of
+      giving opportunities we'll consider?
+
+
+      Should GiveWell target "retail donors" or "major funders?"
+
+
+      What relationship should GiveWell have with Good Ventures?
+
+
+
+
+
+All three contemplate a move in the direction of, in some sense,  coming  to
+resemble a foundation more. Our preference is to  move  in  this  direction,
+while still providing enough retail-donor-targeting service to keep up  with
+demand. As we do so, we think it's worth stepping back  and  noting  how  we
+envision the similarities and differences between  GiveWell  and  charitable
+foundations such as the Gates Foundation, Hewlett Foundation, etc.
+
+
+GiveWell is similar to such foundations in that:
+    • We see our role as helping to allocate particular funds (our "money
+      moved") as effectively as possible.
+    • We don't endorse any rigid formula or procedure for determining the
+      best giving opportunities. We are open to using intuition and judgment
+      calls in deciding what to prioritize and what to recommend.
+
+GiveWell is different from such foundations in that:
+    • Our brand is built on transparency. We expect to be held accountable
+      for publishing the full details and reasoning behind our analysis.
+    • We are "sector-agnostic": we expect to be held accountable for
+      choosing issue areas and charities based on our judgment of how to
+      accomplish the most good, not based on personal passions or personal
+      relationships.
+    • We believe that we hold ourselves to an unusually high standard in
+      terms of being self-critical. For any given giving opportunity, we try
+      to ask (and encourage others to ask) critical questions and make
+      serious efforts to answer them. While other foundations may have the
+      same belief about their self-criticality, our transparency means we
+      can (and expect to) be held accountable for this quality.
+
+Through these distinguishing factors, we believe we can bring a new level
+of critical inquiry and public debate to charitable giving, which in turn
+will move toward our vision of a world in which donors reward effectiveness
+in improving lives.
+
+Next steps
+
+
+After we resolve the above issues, we should deal with the following:
+
+
+Communication issues
+
+    • Write about what decisions we've made and why; solicit feedback
+    • Revisit
+         o Our mission and vision statements  (we  don't  expect  these  to
+           change)
+         o Our standard "pitches": pitches to major funders, pitches to the
+           media
+         o Our website, advertisements and job postings
+
+
+Research agenda
+
+    • Lay out our current priorities and reasoning
+    • Lay out the criteria by which we decide which giving opportunities and
+      sectors to investigate vs. drop
+    • Lay out the criteria by which we decide which giving opportunities to
+      recommend for funding
+
+
+Partnerships
+
+    • Lay out criteria by which we would take on future partnerships at
+      different levels of involvement (related to the criteria by which we
+      decide which giving opportunities and sectors to investigate vs. drop)
+                                 Other notes
+
+
+Transparency
+
+    • Over the past year we've had many challenges with transparency due to
+      our higher profile and higher number of in-person conversations.
+    • Our current process for conversations is generally to
+         o Record conversations
+         o Have a staff member produce a summary of the conversations in a
+           relatively short amount of time; run it by the person we spoke
+           with and ask for any changes before we post
+         o Be up front with anyone we speak with about our plans and give
+           them the opportunity to opt-out of recording and/or having notes
+           from the conversation published
+    • Our current process for charity/giving opportunity writeups is
+      generally to
+         o Notify the organization up front that we would like to write
+           about our thinking, good or bad, but that it will have the
+           opportunity to withhold any nonpublic information if it chooses
+           to do so (and will also have the opportunity to respond with a
+           prominent public "charity response")
+         o Once we have reached a conclusion on an organization, offer it
+           the choice of reviewing a draft writeup or simply declining to
+           participate in our process
+         o Draft a writeup, send it to them for approval, and be fairly
+           liberal about engaging in any conversations they'd like to have,
+           considering any changes they'd like to make, etc.
+    • Our current process for blog posts is generally to
+         o Draft a post
+         o Send it to any parties that may have issues with it
+         o Be fairly liberal about engaging in any conversations they'd
+           like to have, considering any changes they'd like to make, etc.
+    • Our feeling about our current approach is that
+         o It results in a large quantity of publicly available information
+         o There are some tense moments and tense conversations, but no
+           apparent cases of outright anger or burned bridges
+         o The process is time-consuming for us and for the groups we work
+           with
+         o We feel the benefits - in terms of being able to be public about
+           our thinking and provide an example of a transparency-
+           emphasizing approach to giving - outweigh the costs
+
+ Appendix A: draft guidelines for "general support" provided by GiveWell to
+                  other organizations with mission overlap
+
+GiveWell believes that its relationship with Good Ventures is important and
+that Good Ventures's general mission has significant overlap with
+GiveWell's. For both of these reasons, GiveWell believes that providing
+"general support" to Good Ventures (i.e., helping Good Ventures with its
+own to-do list even where this list does not directly overlap with
+GiveWell's) has value for GiveWell's mission.
+
+
+For the time being, GiveWell is willing to spend up to 20 total person-
+hours per week on general support, of which up to 10 person-hours per week
+may be Co-Executive Director time. GiveWell will carefully track which of
+its person-hours are spent on general support to Good Ventures, and will
+revisit this matter if it finds that the figures are consistently or
+significantly exceeding these targets.
+
+GiveWell anticipates that in the future, there may be more funders that it
+makes sense to provide some general support to. GiveWell anticipates that
+it will follow similar guidelines with any such funders. The "target person-
+hour allocations" (the amounts we're aiming not to exceed) could change
+over time and depending on the situation, but we will make sure that our
+targets for *total* person-hours spent on general support for other funders
+remain a reasonable proportion of our overall person-hours, leaving us
+plenty of capacity to pursue other priorities.
+
+GiveWell will work with other funders depending on:
+      • Value of the relationship - what the organization can/will do to
+        help GiveWell directly, in terms of operating support, "money
+        moved," networking, etc.
+      • Independent impact of the organization receiving general support
+        - (a) how powerful/influential the organization is or will be; (b)
+        how aligned its mission is with ours.
+General support vs. strategic overlap
+
+For purposes of targeting, it's important to distinguish between spending
+time on "general support to Good Ventures [or other funders]" and spending
+time on "strategic overlap." The latter refers to activities that would be
+high priorities for GiveWell even aside from any considerations of building
+relationships or building general capacity for other organizations such as
+Good Ventures. "Strategic overlap" activities aren't subject to the targets
+above, regardless of whether they involve assisting/working closely with
+another organization.
+
+To help make the distinction clear, we provide a few examples from the past
+few months:
+     • Good Ventures is interested in evaluating a grantee. GiveWell would
+       not assign a high priority to investigating this organization in the
+       absence of Good Ventures. However, GiveWell does seek to build its
+       general understanding of policy advocacy (the field in which this
+       grantee works) and believes the best way to start doing so is to
+       recruit part-time contractors with more policy experience than
+       GiveWell's current staff and work with them to evaluate some policy
+       advocacy organization. Good Ventures's access to the grantee, and
+       its capacity for hiring and managing such contractors, are useful
+       for this purpose. GiveWell has helped Good Ventures to identify and
+       evaluate such contractors; we consider this strategic overlap.
+     • GiveWell has offered to help evaluate candidates that Good Ventures
+       has sourced as potential employees. The main purpose is to build
+       Good Ventures's general capacity. Time spent interviewing these
+       candidates is general support.
+     • GiveWell has assigned an employee to transcribe the audio of the
+       recent Board meeting, so that Good Ventures can more easily
+       determine what confidential information needs to be redacted from
+       the public version. We would do this for any Board member, in line
+       with our goal of allowing Board members to speak freely. We consider
+       this strategic overlap.
+     • The President of Good Ventures spoke at a gathering of major
+       philanthropists, and GiveWell helped prepare for this. We believe
+       that this work furthered the general goal of promoting certain core
+       values of GiveWell (impact-oriented giving; strategic cause
+       selection), but a major consideration in helping with this was to
+       increase Good Ventures's overall capacity. We consider this a
+       borderline case, but would count it as general support. 
+     • GiveWell has provided some support in recommending foundations for
+       Good Ventures to engage with. It has also provided some support on
+       co-funding (by offering advice to Good Ventures on which projects
+       proposed by other foundations to participate in financially).
+       Learning more in general about major foundations, particularly
+       through co-funding, would be a very high priority for us if we had
+       the resources and access to do so, so we consider all of this work
+       strategic overlap.
+-----------------------
+[1] http://blog.givewell.org/2011/02/21/givewells-plan-for-2011-specifics-
+of-research/
+
+
+
+Generate a comprehensive summary (approximately 1000 words):

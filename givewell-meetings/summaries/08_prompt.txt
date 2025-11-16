@@ -1,0 +1,3742 @@
+Based on the following board meeting documents for a Clear Fund Board Meeting held on July 27, 2009, generate a comprehensive ~1000-word summary that acts as a professional brief.
+
+The summary should cover:
+- Key decisions made and votes taken
+- Important discussions and debates
+- Financial/budget information with specific numbers
+- Strategic direction or policy changes
+- Personnel or organizational changes
+- Any significant outcomes or action items
+
+Keep the tone professional and factual. Focus on substance over process. Be specific with numbers, names, and decisions.
+
+Meeting Documents:
+=== Budget Update ===
+
+
+         Final expenses for FY 2008 (audited financials forthcoming)
+
+                                    [pic]
+
+   Notes:
+    • Projections for 2008 expenses were consolidated based  on  projections
+      for Jan-Apr 2008 (approved at Dec 2007 meeting) and the final approved
+      projection for May-Dec 2008 (approved at Nov 2008 meeting).
+    • The projections approved  at  the  Dec  2007  meeting  put  co-Founder
+      salaries at $65,000, but these salaries were later lowered  by  $5,000
+      each as a penalty for inappropriate marketing.  This is the reason for
+      the lower-than-expected salary costs.
+    • Accounting costs are overstated due  to  year-end  estimate  of  audit
+      prep.  We initially (for  the  projection)  estimated  audit  prep  as
+      costing $1500, but estimated it at $5000  near  year-end  due  to  our
+      decision  to  outsource  bookkeeping  costs.   The  final   cost   was
+      $4,234.35, but it was counted as $5000 on the 2008  financials  (which
+      are now closed).  An offsetting entry was made in the 2009  financials
+      (see below).
+    • Funds intended for regranting have been held until this meeting, where
+      we will be voting on granting them.  The $25,000 listed was granted to
+      our DAF for administrative reasons (in order to open the account).
+
+
+                     Final expenses for 1/1/09 – 6/30/09
+
+                                    [pic]
+
+Notes:
+    • Accounting costs attributed to 2008 – the $6,500 fee and a substantial
+      portion of bookkeeping costs – were erroneously included in this
+      projected budget.  Actual 2009 bookkeeping costs were offset to
+      correct for the overestimate of costs in 2008 (see above).
+    • It appears that salaries & benefits for co-founders were
+      underestimated in the most recent projection (the projection read "5
+      months" when in fact it was a projection for 6 months).
+    • Payroll processing fees are currently included in "salaries &
+      benefits" rather than in "Accounting."
+
+                                Future budget
+Cash reserves
+
+                                    [pic]
+
+Projected expenses
+[pic]
+
+
+How long we could operate with no further revenue
+
+
+                                    [pic]
+
+
+
+Excess reserves
+
+
+We wish to be  an  organization  that  (a)  continually  has  to  "earn  our
+existence" (b) does not excessively hold reserves that could  reasonably  be
+given out to accomplish concrete good.
+
+Consistent with this principle, we  intend  to  create  an  "Reserve  Assets
+policy" that formally defines "excess reserves" – i.e.,  reserves  over  and
+above what we feel  is  reasonable  to  hold  in  our  own  accounts,  which
+therefore can and should be granted to outstanding charities.
+
+We have  not  yet  settled  on  a  formal  policy  for  determining  "excess
+reserves."  For this meeting, we take a  fairly  conservative  approach:  we
+define "excess reserves" as unrestricted reserves over  and  above  what  we
+would need to operate through 6/30/2010, according to the most  conservative
+projection above.
+
+                                    [pic]
+
+
+
+=== Progress and Priorities ===
+
+
+                                   Summary
+
+
+On 7/1, we published our 2008-2009 recommendations and reasoning for
+international aid.  Major priorities for the remainder of the year are:
+
+    • Improving and "reality checking" the content of our 2008-2009 report
+         o Getting and responding to feedback on the report
+         o Researching and awarding a $250,000 grant for economic
+           empowerment in sub-Saharan Africa
+         o Adding optional but valuable content to our existing report,
+           largely by managing new hires
+         o Visiting the field operations of our top charities
+    • Pursuing new sources of funding for operating expenses (foundations
+      and fellowships)
+    • Annual self-evaluation and formal plan for our next year
+    • Improving the packaging and presentation of our research
+
+
+
+
+                       Progress since 3/31/09 meeting
+
+
+Between 3/31/09-7/1/09, our focus was on publishing our 2008-2009
+international aid recommendations and reasoning.
+
+We published this report on 7/1 – see http://www.givewell.net/node/435
+
+The report includes
+    • Reviews of two "top-rated charities" that we have significantly more
+      confidence in than any other charity we have evaluated to date,
+      including the recommended charities from our 2007-2008 research on
+      international aid.
+    • Reviews of four "recommended charities" that we believe are
+      substantially stronger than other charities we've evaluated, though
+      not as strong as our "top-rated" charities.  The six "recommended" or
+      "top-rated" charities are all options for people who have made
+      GiveWell Pledges or GiveWell Advance Donations.
+    • Substantial detail on other charities we examined and why we highlight
+      the charities we do.
+
+Since 7/1/09, we have focused on
+
+    • Getting and incorporating feedback on our 2008-2009 recommendations
+      (primarily from charities and supporters at this point).
+    • Managing and evaluating two new hires – Melissa Krauss and Natalie
+      Stone – who have primarily worked on adding what we consider "optional
+      but valuable" content to the 2008-2009 report (including proofreading,
+      financial analysis of recommended charities, and background on non-
+      recommended interventions).
+    • Beginning work on giving out a grant in economic empowerment (more
+      below)
+    • Preparing new policies and other materials for this Board meeting.
+
+
+                   Priorities for 7/27/09 through 12/31/09
+
+
+
+One of our priorities is to complete a thorough self-review and detailed
+plan.  We have not yet completed this, and here we give only a rough
+overview of important goals and our planned time allocation.
+
+
+Note that "time costs" refer only to Holden Karnofsky/Elie Hassenfeld time.
+ We do not include here, but will need to continue spending time on,
+miscellaneous tasks such as completing our financial audit, responding to
+emails and networking opportunities, etc.
+
+
+
+
+Research: Feedback
+
+Time cost: intermittent; 2-3 hours total (including setting up calls,
+talking, and cleaning up notes) per person consulted
+
+We plan on actively pursuing feedback on our report from people with
+relevant experience and expertise, particularly the people we have already
+spoken with about our report in progress (see
+http://www.givewell.net/node/383).  We will record and publicly post as
+much as we can from these conversations.
+
+
+Research: Economic Empowerment Grant
+
+
+Time cost: significant
+
+
+We have $250,000 that is earmarked to be regranted by 12/31/2009 to a
+charity focusing on economic empowerment in sub-Saharan Africa.  To date we
+have located no outstanding economic empowerment charities (see
+http://givewell.net/node/413).
+
+We are currently compiling a list of potentially eligible charities.  We
+plan on inviting eligible charities to apply for grants, using a process
+similar to the research process from our first year (although we will be
+aiming to make simpler, more specific requests – based on our independent
+research – in our "field narrowing" round 1).
+
+If we are unable to identify an outstanding charity, we will use the
+$250,000 to fund further research and/or evaluation in this area.  The
+donor who provided the $250,000 has signed off on this plan.
+
+
+Research: Optional but Valuable Content
+
+Time cost: ~60 hours of our time; much of the work to be done by new hires
+
+We intend to add content to our existing report including:
+    • Paraphrased transcripts of conversations we've had with international
+      aid experts and charity representatives.  We already have these
+      transcripts in rough form; they will need to be cleaned up and
+      approved by the people we spoke with.
+    • More examined charities (i.e., keeping up with new submissions through
+      our "charity submission form" as well as scanning a few more sources
+      of eligible charities)
+    • Writeups on programs commonly run by charities, discussing the
+      available information and major concerns about such programs.  (Note
+      that we already have many such writeups, particularly for the programs
+      we find most promising and for those that are most prominent.)
+    • Integration of new materials from current recommended charities, and
+      updates on "pending" charities
+
+
+Research: Visit(s) to the Developing World
+
+
+Time cost: 1-2 weeks (40-80 working hours lost) per trip; 1-2 trips total
+
+
+We would like to observe and report on the operations of our top-rated
+charities in the field, in person (and to look at some other representative
+charities if we can).
+
+
+Fundraising
+
+Time cost: intermittent/hard to estimate at this point.  5-10 hours per
+donor that we engage with seriously.
+
+We intend to explore foundations and fellowships as sources of stable
+operating funding.  We have a preliminary list of target foundations and
+fellowships, and intend to get in touch with them and apply to the most
+promising ones.
+
+
+Annual self-evaluation and plan
+
+
+Time cost: 40-80 hours
+
+
+We intend to complete a thorough evaluation of our second year, and plan
+for our third year, along the lines of the report we completed for our
+first year (available at http://givewell.net/business-plan-
+history#Firstyearreviewpublished6192008).
+
+
+Packaging/presentation of research
+
+Time cost: unknown; likely significant
+
+We aim to dramatically improve the packaging and presentation of our
+research, both by completing a print presentation and by improving our
+website (likely involving a professional website consultant).
+
+
+=== Report on Professional Development ===
+
+                     Report on professional development
+
+
+Summary
+
+
+At our 11/10/2008 meeting, we agreed that:
+
+    • The co-Founders and senior staff of GiveWell – and in particular
+      Holden Karnofsky, the hopeful Executive Director – lack life and
+      business experience, and would benefit from a professional development
+      effort: a concerted effort to learn from those who have such
+      experience.
+    • The most promising approach to professional development is through
+      mentor relationships with GiveWell supporters.
+    • Formal programs appear to hold little promise, although highly
+      competitive programs (specifically Ashoka, Draper Richards and Echoing
+      Green) may be worth applying to.
+
+Since then, we have developed a set of mentor relationships, as well as
+looking into (but ultimately, to this point, not pursuing) other options.
+We now feel that:
+
+    • We have complied with the Board's decision and have substantially
+      improved our ability (and tendency) to get feedback from more
+      experienced people.
+    • Holden Karnofsky and Elie Hassenfeld should be named co-Executive
+      Directors, primarily for reasons of transparency (they have been
+      filling these roles "de facto" throughout GiveWell's existence).
+      Certain forms, particularly grant applications, request the name of
+      the Executive Director, and we have had to respond that we have none.
+
+Details on our professional development efforts follow.
+
+
+Professional development through mentor relationships
+
+
+Lindy Miller: We have had phone updates with Board member Lindy Miller,
+generally with both Holden and Elie on the line, approximately once per
+week.  We have updated her on our progress and priorities and asked
+questions about a variety of issues, particularly relating to
+recruiting/hiring/managing new employees.
+
+Rob Shavell: We have had periodic in-person and phone updates with Rob
+Shavell, a supporter with Silicon Valley startup experience.  Earlier in
+the year, we were speaking with him once every 1-2 weeks about time
+management, prioritization, and recruiting/hiring.  Updates were less
+frequent during May and June as we focused on completing our research
+report, but we are expecting more frequent contact again as we put more
+effort into improving our website and "packaging" of our research.
+
+Rob has also been included on biweekly updates and in discussions of our
+name/domain.
+
+Phil Steinmeyer: We have periodic phone and email conversations with Phil
+Steinmeyer, who has been following our project closely and has an
+entrepreneurial background.  He has given big-picture feedback on the major
+challenges and priorities of GiveWell as a whole, as well as feedback on
+the progress of our research (over the research-feedback email list).
+
+Phil has also been included on biweekly updates and certain other specific
+discussions.
+
+Adam Goozh: Adam emailed the Harvard-Startups email list I subscribe to
+offering to share his experience from successfully starting a company.  I
+contacted him and we had a couple general conversations about GiveWell, its
+mission, and its priorities; we have also included him in discussions about
+our name/domain and gotten a referral from him for a website consultant.
+We have not included him in biweekly updates.
+
+
+Other professional development options
+
+
+We have not put much effort into pursuing formal entrepreneurship groups
+since the 11/10/08 meeting, at which we agreed that such options hold
+little promise.  We have continued to monitor the Entrepreneurs'
+Organization, for which we are ineligible because we are a nonprofit, and
+Holden attended the first meeting of the "Social Entrepreneurship / Non-
+Profit Career Group" at the Harvard Club of New York (as we said he would
+at the 11/10/2008 meeting) but found it to be a poor fit (it was targeted
+at people currently employed in for-profit jobs who were considering
+helping nonprofits on the side).
+
+We have done some inquiry into the three competitive programs mentioned at
+the 11/10/08 meeting.  We are ineligible (too large) for the Echoing Green
+program; we are eligible for the Ashoka and Draper Richards programs.  Both
+Ashoka and Draper Richards accept applications on a rolling basis but have
+long (several months) processes for deciding; we have not yet applied to
+either.
+
+
+
+=== Proposed Policies III ===
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Policies and Procedures Manual
+The Clear Fund
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TABLE OF CONTENTS
+ CHAPTER 1.  Fiscal Policies and Procedures - Introduction    2
+CHAPTER 1.  Fiscal Policies and Procedures - Introduction     3
+  The Control Environment    3
+  The Accounting System      3
+  Control Procedures   3
+  The Accounting Cycle 4
+  Sarbanes-Oxley Act   5
+CHAPTER 2.  Revenue, Accounts Receivable, and Cash Receipts   6
+  2.1  CASH RECEIPTS AND BANK DEPOSITS  6
+  2.2  REVENUE RECOGNITION AND ACCOUNTS RECEIVABLE 8
+  2.3  CONTRIBUTIONS: ACKNOWLEDGMENT AND DISCLOSURE      9
+CHAPTER 3.  Purchasing, Accounts Payable, and Cash Disbursements    10
+  3.1 PURCHASING  10
+  3.2  PROCESSING ACCOUNTS PAYABLE 12
+  3.3 CREDIT AND DEBIT CARDS 14
+  3.4 EMPLOYEE TRAVEL AND BUSINESS EXPENSE    16
+  3.5 APPROVAL AUTHORIZATION POLICY     18
+CHAPTER 4.  Personnel and Payroll 20
+  4.1 PERSONNEL   20
+  4.2  PAYROLL    21
+  4.3  INDEPENDENT CONTRACTORS AND CONSULTANTS     23
+CHAPTER 5.  Reporting, General Ledger and Financial Statements      25
+  5.1 BUDGETING   25
+  5.2  MONTHLY CLOSE AND FINANCIAL REPORTING  27
+  5.3  DOCUMENT RETENTION POLICY   29
+CHAPTER 6.  Assets and Liabilities      32
+  6.1  CAPITAL ASSETS  32
+  6.2  INVESTMENTS     37
+  6.3  INSURANCE  39
+  6.4  ASSUMPTION AND AUTHORIZATION OF DEBT   40
+CHAPTER 7.  Governance 41
+  7.1 Finance and Audit Responsibilities of the Board of Directors  41
+  7.2 Code of Ethics   43
+  7.3 Conflict of Interest Policy  44
+  7.4 Whistleblower Policy   44
+CHAPTER 8.  Employment Policies   46
+  8.1 Equal Employment Opportunity Policy     46
+  8.2 Sexual Harassment Policy     46
+  8.3 Policy for Resolving Discrimination and Sexual Harassment Complaints
+  47
+CHAPTER 9.  Communications Policies     47
+  9.1 Official Speaking Engagements     47
+  9.2 Mass Emails 48
+  9.3 Public Internet communication on GiveWell.Net      48
+  9.4 Public Internet communication outside of GiveWell.Net    48
+  9.5 Communication with the Media 48
+  9.6 Contained Communication (Emails and Personal Communication)   49
+CHAPTER 10.  Other Policies  49
+  10.1 Gifts      49
+  10.2 Backing Up Data 49
+  10.3 Reserve Assets  49
+
+
+
+
+
+ CHAPTER 1.  Fiscal Policies and Procedures - Introduction
+
+
+
+The Clear Fund is committed to developing and maintaining fiscal policies
+and procedures that ensure sound internal controls, fiscal responsibility
+and accountability in accordance with Generally Accepted Accounting
+Principles (GAAP), and adherence to the Financial Accounting Standards
+Board (FASB) rules and regulations.  As a not-for-profit organization, The
+Clear Fund is entrusted with funds granted by government, private
+foundations, and/or individual contributors and must adhere to high of
+standards of accounting.
+
+The internal control structure consists of policies and procedures that
+have been established to achieve The Clear Fund’s objectives. More
+specifically, the control structure represents those policies and
+procedures that affect the organization’s ability to process, record,
+summarize, and report financial information.  This structure is established
+and maintained to reduce the potential unauthorized use of The Clear Fund’s
+assets or misstatement of account balances.
+
+The internal control structure is composed of the following basic elements:
+(1) the control environment; (2) the accounting system; (3) control
+procedures; and (4) the accounting cycle.
+
+
+
+
+
+The Control Environment
+
+The control environment reflects the importance The Clear Fund places on
+internal controls as part of its day-to-day activities.  Factors that
+influence the control environment can include management and Board
+philosophy, organizational structure, ways of assigning authority and
+responsibility, methods of management and control, personnel policies and
+practices, protection of informants of improper activities, and external
+influences such as significant funder expectations.
+
+
+
+
+
+The Accounting System
+
+The accounting system comprises the methods, accounting software, and
+records used to identify, assemble, classify, record, and report accounting
+transactions.  At a minimum, it is set up to:
+
+      • Identify and record all of The Clear Fund’s transactions.
+
+      • Describe the transactions in enough detail to allow classification
+        for financial reporting.
+
+      • Indicate the time period in which transactions occurred in order to
+        record them in the proper accounting period.
+
+
+
+
+
+Control Procedures
+
+Control procedures are the procedures set up to strengthen The Clear Fund’s
+internal control structure and thus safeguard the agency assets.  They are
+divided into the following:
+
+      • Segregation of Duties: Allocation of tasks are needed so that one
+        individual does not have the ability to both make an accounting
+        error (either intentionally or unintentionally) and also cover it
+        up.
+
+      • Restricted Access: Physical access to valuable and movable assets
+        is restricted to authorized personnel.  Systems access to make
+        changes in accounting records is restricted to authorized
+        personnel.
+
+      • Document Control:  To ensure that all documents are captured by the
+        accounting system, all documents must be pre-numbered and the
+        sequence for documents must be accounted for.  To ensure compliance
+        with the Sarbanes-Oxley Act’s provision to prevent destruction of
+        litigation-related documents, The Clear Fund has adopted policies
+        and procedures for document retention.
+
+      • Processing Control:  This is designed to catch errors before they
+        are posted to the general ledger.  Common processing controls are
+        the following:  batch controls; source document matching; clerical
+        accuracy of documents; and general ledger account code checking.
+
+      • Reconciliation Controls:  These are designed to catch errors after
+        transactions have been posted to the general ledger, including
+        reconciling selected general ledger control accounts to subsidiary
+        ledgers.
+
+
+
+
+The Accounting Cycle
+
+The overall purpose of an accounting system is to accurately process,
+record, summarize, and report transactions of The Clear Fund.
+
+The component bookkeeping cycles fall into one of four primary functions:
+
+   1. Revenue, accounts receivable, and cash receipts
+
+      Key steps in this area are:
+
+      • Processing cash receipts
+
+      • Making deposits
+
+      • Recording cash receipts in the general ledger and subsidiary
+        records
+
+      • Performing month-end reconciliation procedures
+
+   2. Purchases, accounts payable, and cash disbursements
+
+      Key steps in this area are:
+
+      • Authorizing the procurement of goods and/or services
+
+      • Processing purchase transactions
+
+      • Processing invoices
+
+      • Issuing checks
+
+      • Recording checks in the general ledger and in cash disbursements
+        journals
+
+      • Performing month-end reconciliation procedures
+
+      • Year-end reporting-1099 forms
+
+
+   3. Payroll
+
+      The payroll process consists of processing payroll and remitting
+      amounts due to employees, the government, and other agencies such as
+      health insurers, retirement plan trustees, etc.
+
+      Key steps in this area are:
+
+      • Obtaining and gathering information for processing
+
+      • Preparing payroll checks and depositing payroll taxes
+
+      • Performing month-end reconciliation procedures
+
+      • Preparing quarterly payroll tax returns
+
+      • Preparing W-2s, the W-3, and other annual payroll tax returns
+
+   4. General Ledger and Financial Statements
+
+      The general ledger process consists of posting the period’s
+      transactions to the general ledger and preparing the financial
+      statements.
+
+      Key steps in this area are:
+
+      •     Preparing monthly, quarterly, and annual journal entries
+
+      •     Reconciling bank accounts and other general ledger accounts
+
+      •     Reviewing general ledger activity and posting adjusting journal
+        entries
+
+      •     Producing the general ledger and financial statements
+
+
+
+
+Sarbanes-Oxley Act
+
+The American Competitiveness and Corporate Accountability Act of 2002, also
+known as the Sarbanes-Oxley Act, was passed in response to the corporate
+accounting scandals that took place in 2001 and 2002.  According to the
+law, publicly traded companies must now adhere to new governance standards
+that give board members a greater oversight role regarding financial
+transactions and auditing procedures.  Although most of the provisions of
+the act apply only to publicly traded corporations, two provisions of the
+law apply to not-for-profit organizations including provisions for
+whistleblowers and document retention.
+
+Whistleblower:  Section 1107 of the act, Retaliation Against Informants,
+applies to all entities, public or private.  It states that it is illegal
+to retaliate against a “whistleblower.”  The Sarbanes-Oxley Act does not
+require organizations to have a whistleblower policy; however, it is in an
+organization’s best interest to do so.  The Clear Fund has adopted a
+whistleblower policy that provides clear procedures for handling
+whistleblower complaints.  It can be found in Chapter 7.
+
+Document Retention:  The Sarbanes-Oxley Act also addresses the destruction
+of litigation-related documents.  The law makes it a crime to alter, cover
+up, falsify, or destroy any document (or persuade someone else to do so) to
+prevent its use in an official proceeding.  Like their for-profit
+counterparts, not-for-profits need to maintain appropriate records about
+their operations.  The Clear Fund has adopted a written, mandatory document
+retention policy.  The policy can be found in Chapter 5 of this manual.
+
+
+
+
+
+CHAPTER 2.  Revenue, Accounts Receivable, and Cash Receipts
+
+
+
+
+2.1  CASH RECEIPTS AND BANK DEPOSITS
+
+Policies & Controls
+
+   1. All cash receipts are received, logged, and appropriately endorsed on
+      a timely basis.
+
+   2. Cash receipts are accurately processed and recorded on the accrual
+      basis of accounting.
+
+
+
+Agency Procedures to Implement These Policies
+
+   1. All cash receipts are received, logged, and appropriately endorsed on
+      a timely basis.
+
+           Opening the mail
+
+All mail is directed to the Manager of Finance and Administration (Manager
+of Finance). The Manager of Finance segregates checks, logs them in on a
+daily basis on the Daily Check Log, and restrictively endorses all checks
+“for deposit only” payable to The Clear Fund.
+
+The Manager of Finance and Administration (Manager of Finance) makes a copy
+of all checks and provides the copies with the Daily Check Log to the co-
+Executive Director who is not the Manager of Finance (Independent
+Executive). The Independent Executive codes the check copy with the
+appropriate revenue code and places it in the “Checks Received” folder for
+recording into the accounting system by the Manager of Finance.
+
+           Preparing the bank deposit
+
+The Manager of Finance prepares the checks with the general bank account
+number and prepares a deposit ticket for each account for which checks are
+received. Deposits are consecutively numbered for each account.
+
+            Making the deposit
+
+Checks are deposited as soon as possible by the Manager of Finance.  Checks
+that are not deposited on the day of receipt are kept in a secure location,
+access to which is limited to the Independent Executive and Manager of
+Finance.
+
+
+
+   2. Cash receipts are accurately processed and recorded on the accrual
+      basis of accounting.
+
+           Verifying the deposit
+
+Deposits are verified against authenticated deposit tickets on a periodic
+basis.  Upon receipt, the validated deposit ticket is matched against
+pending deposits in the “Checks Received” folder by the Independent
+Executive. The deposit ticket is stapled to the check copy and filed by the
+Manager of Finance. Any discrepancy is resolved jointly by the Manager of
+Finance and the Independent Executive.
+
+           Recording receipts
+
+The Manager of Finance records the deposit in the fundraising module and
+marks the deposit package “posted” upon completion of data entry.
+
+           Processing and recording electronic funds transfers
+
+For receipts other than cash or checks (for example, electronic funds
+transfers including contract or grant payments), the Independent Executive
+codes the relevant advice document with the appropriate revenue code, and
+forwards it to the Manager of Finance.
+
+Notices/advices received in the mail are coded by the Executive Director.
+
+The Manager of Finance reconciles the deposit with the receivable and
+records it to the fundraising module.
+
+Processing and recording stock donations
+
+When The Clear Fund is contacted by a donor who wishes to make a stock
+donation, the Executive Director directs the donor to The Clear Fund’s
+broker for immediate transfer of stock. Stock donations are liquidated
+immediately upon receipt unless donor stipulates otherwise. Stock donations
+are recorded at their fair market value at the time of receipt.  All stock
+donations are reviewed and approved by the Independent Executive who then
+forwards them to the Manager of Finance to record in the general ledger.
+Copies of documentation reflecting the fair market value of the donated
+stock are also forwarded to the Board Treasurer at the end of the quarter.
+
+
+
+
+2.2  REVENUE RECOGNITION AND ACCOUNTS RECEIVABLE
+
+Policies & Controls
+
+   1. Revenue is recognized when earned and when contributions are received
+      or awarded.
+
+
+
+Agency Procedures to Implement These Policies
+
+   1. Revenue is recognized when earned and when contributions are received
+      or awarded.
+
+           Pledges/grants receivable
+
+In compliance with accounting principles, revenue is recognized when earned
+and when contributions are received or awarded on the accrual basis of
+accounting.
+
+All grant letters, pledges and promises to give are forwarded to the
+Manager of Finance upon receipt.  The Manager of Finance reviews the
+documentation and records promises to give as receivable depending on the
+probability of receipt.
+
+The Manager of Finance offsets receivable accounts with payments received.
+On a quarterly basis, the Manager of Finance forwards the accounts
+receivable aging report to the Independent Executive to determine what, if
+any, steps are needed to collect or adjust the remaining receivables.
+
+The Manager of Finance reconciles donations received to the fundraising
+module on a monthly basis during the bank reconciliation.
+
+
+
+
+
+2.3  CONTRIBUTIONS: ACKNOWLEDGMENT AND DISCLOSURE
+
+Policies & Controls
+
+   1. Acknowledgment letters with appropriate disclosures are sent to donors
+      to substantiate donations.
+
+
+
+Agency Procedures to Implement These Policies
+
+   1. Acknowledgment letters with appropriate disclosures are sent to donors
+      to substantiate donations.
+
+           Acknowledgment letters
+
+For each contribution received, regardless of amount, the Executive
+Director issues an acknowledgment of receipt of the contribution to the
+donor.  The acknowledgment includes:
+
+      • The amount of cash and a description of any other property
+        contributed
+
+      • A statement about whether The Clear Fund provided any goods or
+        services in return for the contribution
+
+      • A description and an estimated value of the item provided if The
+        Clear Fund provided something in return for the contribution
+
+Additional guidance in the form of examples and suggested language for
+acknowledgements can be found at http://www.irs.gov/pub/irs-pdf/p1771.pdf.
+
+           Written Disclosure
+
+Since a donor may only take a contribution deduction to the extent that
+his/her contribution exceeds the fair market value of the goods or services
+the donor receives in return for the contribution, donors need to know the
+value of the goods or services provided by The Clear Fund.  A written
+disclosure of the quid pro quo amount, or value of goods and services
+received by the donor in exchange for the contribution, is required by The
+Clear Fund if the donor makes any payment in excess of $75.
+
+
+
+CHAPTER 3.  Purchasing, Accounts Payable, and Cash Disbursements
+
+
+
+
+
+3.1 PURCHASING
+
+Policies and Controls
+
+3.1.1 Goods and services are purchased using the best combination of
+      quality, service, and price.
+
+3.1.2 Only authorized purchase commitments are made and received.
+
+
+
+Agency Procedures to Implement These Policies
+
+3.3.1 Goods and services are purchased using the best combination of
+      quality, service, and price.
+
+           Purchase requests
+
+All purchases and expenditures are reviewed and approved by the Executive
+Director prior to purchase commitment.
+
+           Competitive bidding
+
+Two written or verbal bids are required for the purchase of furnishings,
+equipment, and technology items costing $5,000 or more. Written
+advertisements (including copies of web-based prices) of available products
+will be deemed acceptable evidence of bid price. Original bid documentation
+supporting the vendor selection and vendor invoice is reviewed by the
+Executive Director.
+
+Whenever the vendor selected is not the lowest bidder, the reasons for the
+selection (e.g., service, timeliness, special features) are documented and
+maintained with the disbursement documentation in the files.
+
+Certain professional services, due to their nature, are not subject to the
+bidding process. However, any purchase or contract that costs $25,000 or
+more must be approved by the Board of Directors.
+
+Board members and employees sign written conflict-of-interest statements
+(see the Clear Fund Bylaws) to maintain a high level of integrity from self-
+dealing issues.
+
+           Sole Sourced Vendors
+
+In the rare exception where only one vendor is available for a product or
+service, the vendor is considered a sole sourced vendor.  In the case of
+sole sourced vendors, no competitive bidding is required.  Any sole sourced
+vendor purchases should be documented and approved by the appropriate level
+of management.
+
+            Preferred Vendor Listing
+
+Negotiations with preferred vendors are highly recommended for areas like
+office supplies and food, where bulk or wholesale rates may apply.  The
+preferred vendor listing is maintained and updated by the Manager of
+Finance.  Competitive bidding does not need to be performed for purchases
+made from vendors on this listing.
+
+
+      Exemption from sales tax
+
+The Clear Fund is recognized as a tax-exempt organization under Federal, NY
+State, and local laws. As such, The Clear Fund is exempt from sales taxes
+on goods purchased for its own use. All purchasers are expected to use the
+sales tax exemption form for all purchases. Sales tax will not be
+reimbursed to employees for purchases in amounts greater than $10.00.
+
+The Clear Fund staff may use the sales tax exemption form only when
+purchasing goods and services on behalf of The Clear Fund.  Tax exemption
+does not apply to hotel, airfare, or communication-related taxes such as
+those on telephone bills.
+
+
+
+3.1.2 Only authorized purchase commitments are made and received.
+
+           Receipt of goods and merchandise
+
+The Manager of Finance signs for and receives goods and merchandise and
+performs the following:
+
+      • Verifies that each item on the packing slip has been received.
+
+      • Notes any back orders or discrepancies as to quantity or price.
+
+      • Retains original documents with noted discrepancies (if any).
+
+
+
+3.2  PROCESSING ACCOUNTS PAYABLE
+
+Policies and Controls
+
+3.2.1 Only authorized and accurate expenditures are made and recorded.
+
+3.2.2 Only authorized and accurate check disbursements are made.
+
+
+
+Agency Procedures to Implement These Policies
+
+3.2.1 Only authorized and accurate expenditures are made and recorded.
+
+           Receipt of invoice
+
+All mail is directed to the Manager of Finance, who marks invoices with a
+“received date” upon receipt. Invoices are given to the Independent
+Executive, who codes the invoice with the appropriate expense code and
+approves it for payment. The invoice is placed in a folder for the Manager
+of Finance. The Manager of Finance is responsible for the following:
+
+      • Verifying that proper accounting codes are assigned per the chart
+        of accounts
+
+      • Accruing the expense to the appropriate expense category and
+        fund/cost center if applicable for major expenses
+
+      • Investigating and resolving any outstanding back order issues with
+        the individual responsible for the purchase
+
+The Manager of Finance or outsourced fiscal consultant enters in the
+invoice into the accounting system.
+
+           Other payment requests
+
+Disbursements are made based on original invoices. In the case that there
+is no invoice (for example, a travel advance) the employee requesting the
+disbursement prepares the request in writing, and submits it to the
+Executive Director for approval.  Once approved, this request is processed
+in the same manner as an invoice.
+
+            Cash Advances
+
+Cash Advances are not issued by The Clear Fund.
+
+            Stipends
+
+Stipends are not issued by The Clear Fund.
+
+
+
+
+      3.2.2 Only authorized and accurate check disbursements are made.
+
+           Paying invoices
+
+Approval is needed for any payment issued by The Clear Fund, according to
+the guidelines set out in Section 3.5.
+
+Once approval is secured for a particular invoice, the Manager of Finance
+may pay the invoice using the online bill payment system of the Clear
+Fund's (checking) bank account.  The Manager of Finance may alternately
+elect to pay the invoice using a manual check (which requires signatures
+according to the guidelines set out in Section 3.5), a credit/debit card
+(subject to the guidelines in Section 3.3), or a payroll credit (in the
+case of employee reimbursements).
+
+When a payment is made, the check register is updated by the Manager of
+Finance or outsourced fiscal consultant in the accounting system. This
+update process reduces the accounts payable balance and the cash account
+balance to the general ledger.
+
+Outstanding payables are paid when due.
+
+           Check writing security
+
+All check stock is kept in a locked drawer, access to which is limited to
+the Manager of Finance.  All checks taken are logged to ensure that a
+reconciliation of checks taken and processed can be performed.
+
+Credit card payments and employee reimbursements may not be made via manual
+check.
+
+           Authorized signatures
+
+Authorized check signers are laid out in Section 3.5. Authorized signers
+review the contracts, invoices, coding, and other supporting documentation
+prior to signature.
+
+No employee may sign a check payable to himself/herself. On an annual
+basis, the Independent Executive submits a list of all bank accounts and
+authorized signers to the Board of Directors for approval.
+
+           Mailing checks
+
+Following payment, a vendor invoice is filed in the paid bills files by
+vendor. The Manager of Finance marks the invoice "PAID" with the date,
+check number and amount paid.
+
+
+
+3.3 CREDIT AND DEBIT CARDS
+
+Policies and Controls
+
+
+3.3.1 Only authorized personnel are issued credit cards and must agree to
+      adhere to The Clear Fund’s credit card policies.
+
+3.3.2 Policies ensure that only appropriate expenses are reimbursed.
+
+3.3.3 All supporting documentation is received prior to payment.
+
+3.3.4 Employees will reimburse The Clear Fund for non-reimbursable
+      expenses.
+
+
+
+Agency Procedures to Implement These Policies
+
+3.3.1 Only authorized personnel are issued credit cards and must agree to
+      adhere to The Clear Fund’s credit card policies.
+
+           Issuing credit cards
+
+The Manager of Finance holds a debit card to be used for business purposes
+only. Staff can be issued a card with approval from the Executive Director.
+ Employees who receive a credit or debit card are required to sign the The
+Clear Fund Credit/Debit Card Agreement stating policies and procedures to
+be followed for the use of the card.
+
+Individuals who do not adhere to these policies and procedures risk
+revocation of their credit/debit card privileges and/or disciplinary
+action, up to and including termination.
+
+Agency credit/debit cards are issued in the name of the employee and the
+employee is responsible for:
+
+      • Ensuring security of the credit/debit card
+
+      • Restricting use to business purposes
+
+      • All balances on the account
+
+
+
+3.3.2 Policies ensure that only appropriate expenses are reimbursed.
+
+           Proper and improper use of cards
+
+Credit/debit cards may be used for authorized travel, administrative, and
+program-related expenses incurred during the course of conducting business.
+Credit/debit cards are never to be used for personal expenses. Cash
+advances on credit/debit cards are prohibited.
+
+Procedures regarding pre-approvals for purchases and competitive bidding
+apply to credit/debit card purchases.   Additionally, cardholders should
+make every effort to ensure that purchases do not include sales tax.
+
+           Transaction limits
+
+The spending limit for each credit/debit card issued must be adhered to,
+and cardholders must monitor their usage to ensure that spending does not
+exceed the limit.
+
+
+
+3.3.3 All supporting documentation is received prior to payment.
+
+           Documentation and recordkeeping requirements
+
+An employee may request use of a credit card and must obtain pre-approval
+from the Executive Director. After making the purchase, the employee
+submits original receipts to the Independent Executive who codes expenses
+to the appropriate projects and forwards original receipts to the Manager
+of Finance for reconciliation to the monthly credit card statement (or bank
+statement in the case of a debit card).
+
+The Manager of Finance reconciles the monthly statement and ensures that
+all expenses are supported with receipts. Any discrepancies are brought to
+the attention of the Board Treasurer if necessary.
+
+           Periodic review of credit card use
+
+The Independent Executive approves all payments to any credit card
+companies, as well as all bank statements, and in so doing reviews all
+charges to the cards.
+
+
+
+3.3.4.      Employees will reimburse The Clear Fund for non-reimbursable
+expenses.
+
+Cardholders who use The Clear Fund -issued credit/debit cards improperly
+will be held liable for any and all unapproved purchases. Employees will
+reimburse The Clear Fund for unapproved purchases within 60 days of the
+purchase.
+
+
+
+3.4 EMPLOYEE TRAVEL AND BUSINESS EXPENSE
+
+Policies and Controls
+
+3.4.1 All travel and business expenses are pre-approved.
+
+3.4.2 Travel and business expenses are kept to a reasonable level.
+
+3.4.3 Expense reporting is complete, supported with appropriate
+      documentation, and submitted on a timely basis for proper processing.
+
+
+
+Agency Procedures to Implement These Policies
+
+3.4.1 All travel and business expenses are pre-approved.
+
+           Overnight and out of town travel approval
+
+All overnight and out of travel must be approved in advance, either in
+writing or verbally, by the Executive Director.
+
+A request for authorization of overnight travel should include:
+
+      • Name and title of employee traveling
+
+      • Purpose of travel
+
+      • Destination
+
+      • Estimated cost for transportation (plane, train, bus, auto), meals
+        and lodging, and registration fees
+
+      • Date of departure and date of return
+
+           Method of payment
+
+An employee can pay for travel and business expenses via a variety of
+methods.  An employee may purchase approved services with his or her own
+personal funds and be reimbursed by The Clear Fund.  No reimbursement for
+local travel and expenses may be made through petty cash. Alternately, a
+Clear Fund credit/debit card may be used for authorized expenses.
+
+3.4.2 Travel and business expenses are kept to a reasonable level.
+
+           Overnight and out of town travel expenses
+
+Overnight and out of town travel will be reimbursed using reasonable and
+actual expense amounts. Costs incurred by the employee above reasonable
+amounts will not be reimbursed by The Clear Fund.  Federal per diem rates
+are used to get obtain a basis for “reasonable” rates.  Information on
+current rates can be found at www.gsa.gov/HP_01Trvl_perdiem.
+
+           Local travel
+
+To the extent possible, employees will use public transportation or common
+carrier for all local travel. Taxis or car services are permitted in some
+situations (e.g., if there is a safety concern or significant timing
+advantage) with appropriate approval.
+
+Only authorized employees may drive their personal vehicles for official
+business. Employees may be reimbursed at current allowable IRS rates.
+Driving directions between locations serve as appropriate documentation for
+mileage reimbursement.
+
+Parking and tolls will be reimbursed upon presentation of receipts. Gas is
+not reimbursable for employee-owned vehicles; the standard mileage rate
+assumes gas and normal wear and tear.
+
+Regular commutation expenses are not reimbursable.
+
+
+
+   3. Expense reporting is complete, supported with appropriate
+      documentation, and submitted on a timely basis for proper processing.
+
+           Completion of the Expense Reimbursement Form
+
+Reasonable travel and business expenses incurred by employees necessary to
+The Clear Fund operations is reimbursed upon submission of an Expense
+Reimbursement Form with appropriate supporting documentation.  Expense
+reports must include complete descriptions of expenses, including the date
+the expense occurred, the activity for which it occurred, and the business
+purpose fulfilled by the activity.
+
+           Inclusion of appropriate supporting documentation
+
+Receipts supporting travel and business expenses are required for all
+amounts, except for subway or local bus travel. Original receipts must be
+attached to the Expense Reimbursement Form.
+
+           Approval and submission of form
+
+All employee expense reports are reviewed and approved by the Board
+President and Board Treasurer. The Board President and Board Treasurer
+ensure that expenses are reasonable and in accordance with organization
+policies. The Independent Executive is responsible for coding the expenses
+to the appropriate general ledger accounts.
+
+Approved forms are then submitted directly to the Manager of Finance.
+
+           Processing of reimbursement requests
+
+The Manager of Finance receives all approved travel and expense
+reimbursement forms.  The Manager of Finance ensures that all expenses are
+properly coded and appropriate approval has been obtained on the form.
+
+The expense reimbursement form is then treated in the same manner as an
+invoice (see Chapter 3.2).
+
+           Travel advances
+
+Travel advances are not permitted.  All travel expenses should be charged
+by credit/debit card or paid by cash, and submitted for reimbursement.
+
+
+
+ 3.5 APPROVAL AUTHORIZATION POLICY
+
+3.5.1 All major expenditures are reviewed and approved by individuals with
+      fiscal oversight and fiduciary responsibility to the organization.
+
+
+
+|Transactions Type     |Amount(s)             |Title of Approver (s) |
+|Contracts             |Up to $4,999          |Independent Executive |
+|                      |$5,000 to $24,999     |Board President and   |
+|                      |$25,000 and over      |Board Treasurer       |
+|                      |                      |Board of Directors    |
+|Consultant Agreements |Up to $4,999          |Independent Executive |
+|                      |$5,000 to $24,999     |Board President and   |
+|                      |$25,000 and over      |Board Treasurer       |
+|                      |                      |Board of Directors    |
+|Strategic Agreements  |Up to $4,999          |Independent Executive |
+|with Suppliers        |$5,000 to $24,999     |Board President and   |
+|                      |$25,000 and over      |Board Treasurer       |
+|                      |                      |Board of Directors    |
+|Leases                |Up to $4,999          |Independent Executive |
+|                      |$5,000 to $24,999     |Board President and   |
+|                      |$25,000 and over      |Board Treasurer       |
+|                      |                      |Board of Directors    |
+|Sole Sourced  Vendor &|Up to $4,999          |Independent Executive |
+|Bidding Exception Form|$5,000 to $24,999     |Board President and   |
+|                      |$25,000 and over      |Board Treasurer       |
+|                      |                      |Board of Directors    |
+|Blanket Purchase      |Up to $4,999          |Independent Executive |
+|Orders                |$5,000 to $24,999     |Board President and   |
+|                      |$25,000 and over      |Board Treasurer       |
+|                      |                      |Board of Directors    |
+|Purchase Orders       |Up to $4,999          |Independent Executive |
+|                      |$5,000 to $24,999     |Board President and   |
+|                      |$25,000 and over      |Board Treasurer       |
+|                      |                      |Board of Directors    |
+|Check Requests        |Up to $4,999          |Independent Executive |
+|                      |$5,000 to $24,999     |Board President and   |
+|                      |$25,000 and over      |Board Treasurer       |
+|                      |                      |Board of Directors    |
+|Travel and Expense    |Up to $4,999          |Independent Executive |
+|Reports               |$5,000 to $24,999     |Board President and   |
+|                      |$25,000 and over      |Board Treasurer       |
+|                      |                      |Board of Directors    |
+|Bank Check Signatories|Up to $4,999          |Independent Executive |
+|                      |$5,000 to $24,999     |Board President and   |
+|                      |$25,000 and over      |Board Treasurer       |
+|                      |                      |Board of Directors    |
+|Wire transfers        |Up to $4,999          |Independent Executive |
+|                      |$5,000 to $24,999     |Board President and   |
+|                      |$25,000 and over      |Board Treasurer       |
+|                      |                      |Board of Directors    |
+
+
+
+
+CHAPTER 4.  Personnel and Payroll
+
+
+
+
+
+4.1 PERSONNEL
+
+Policies and Controls
+
+4.1.1 Personnel files are maintained and stored securely to limit
+      inappropriate access to confidential information.
+
+4.1.2 Personnel files include updated information required by local, state,
+      and federal law.
+
+
+
+Agency Procedures to Implement These Policies
+
+4.1.1 Personnel files are maintained and stored securely to limit
+      inappropriate access to confidential information.
+
+The Employment Officer accumulates information and files it in the employee
+personnel file along with documentation of all employee pay or job status
+changes.  All new hires, promotions, demotions, terminations and changes in
+salary are supported by a Personnel Action Form.
+
+The personnel file is kept both locked and confidential.  Access to
+personnel files is limited to the Employment Officer and Manager of
+Finance.
+
+
+
+4.1.2 Personnel files include updated information required by local, state,
+      and federal law.
+
+All personnel files include the following:
+
+           Offer of employment and job description
+
+Every full-time position at The Clear Fund is supported by an employment
+contract which includes both the job title and a description of duties.
+The employment contract also reflects an employee’s designated reporting
+relationships as well as his or her salary or wage rate.
+
+           Completed and signed W-4 forms
+
+The completed W-4 forms serves as a basis for employee withholding.  An
+employee may amend his/her withholding allowances as needed.  Employees are
+required to file an amended W-4 form in the event that decreases the number
+of withholding allowances.  The Manager of Finance will incorporate the
+necessary information into the next payroll processing.
+
+When a W-4 form is received, the Manager of Finance must comply with the
+withholding instructions in the next payroll cycle.  The Clear Fund
+completes W-4 requirements in accordance with Federal and State guidelines.
+
+Because of their importance to both the IRS and to employees, The Clear
+Fund retains signed original W-4 Forms (no copies), in accordance with its
+document retention policies.   The withholding instructions continue to
+apply until the employee amends the W-4 form.
+
+           Employee classifications
+
+Employee minimum wage and overtime requirements are set by the Fair Labor
+Standards Act (FLSA) and the States where The Clear Fund operates.  Each
+position is reviewed by the Employment Officer to determine whether it is
+exempt or not exempt from the provisions of the FLSA.
+
+           Employees work authorization
+
+In accordance with the Immigration Reform and Control Act of 1986 (IRCA),
+The Clear Fund is required to inspect certain documents (chosen by the
+employee) proving the employee’s identity and authorization to work in the
+United States and complete INS Form I-9.  Failure to properly complete and
+maintain INS Forms I-9 may carry penalties.
+
+All Form I-9s will be retained in accordance with The Clear Fund’s document
+retention policies and IRCA guidelines.
+
+            New York State requirement to report new hires
+
+New York State law requires that all employers report to the New York State
+Department of Taxation and Finance certain identifying information about
+each newly hired employee after employees are hired.  The purpose of the
+New Hire Program is to facilitate the accurate and prompt determination of
+child support obligations so that all children will receive the financial
+support to which they are entitled.  The payroll processing company
+provides this service for The Clear Fund.
+
+
+4.2  PAYROLL
+
+Policies and Controls
+
+4.2.1 Payroll is processed for work performed.
+
+4.2.2 Payroll amounts and deductions are properly calculated, processed,
+      and recorded in the accounting system.
+
+4.2.3 Terminated employees are promptly removed from the system to prevent
+      unauthorized or erroneous payroll disbursements.
+
+
+
+Agency Procedures to Implement These Policies
+
+4.2.1 Payroll is processed for work performed.
+
+           Employee timesheets
+
+Hourly employees are responsible for keeping accurate records of time
+worked on timesheets.  Hourly (non-exempt) employees complete, sign, and
+submit timesheets to their supervisors on a regular basis.
+
+Independent Executive forwards approved timesheets to the Manager of
+Finance.  The Manager of Finance processes only those timesheets with
+Independent Executive approval, and maintains them in secured personnel
+files.
+
+
+
+4.2.2 Payroll amounts and deductions are properly calculated, processed,
+      and recorded in the accounting system.
+
+           Processing of all payroll updates
+
+The Employment Officer completes and approves a Personnel Action Form to
+communicate new hires, pay increases and decreases, and terminations
+immediately upon status change of an hourly or salaried employee.  Any
+changes to the Employment Officer or Executive Director salary and status
+are performed by the Board.  The Independent Executive then forwards a copy
+of the form to the Manager of Finance for timely status change in the
+Payroll Masterfile at least 5 days prior to the end of the pay period for
+processing in the current pay period.
+
+           Calculating gross pay
+
+The payroll processing firm calculates gross pay. Salaried employees
+receive the same gross pay each pay period regardless of the number of
+hours worked.
+
+Hourly employees are paid based on the number of hours and/or days worked
+from the approved and submitted timesheets using the most recent approved
+hourly pay rate for that employee.
+
+           Payment of overtime
+
+All state and federal laws and regulations are followed when calculating
+pay for overtime worked by hourly employees.
+
+           Salary allocations
+
+The Clear Fund currently allocates employees’ time on the basis of
+program/activity assignments.  Salaries and wages are allocated by
+functional area (program, administration, and fundraising) and by program
+activity.  These allocations are determined by the Independent Executive
+each pay period and are maintained by the Manager of Finance in a
+spreadsheet.  Payroll is posted to the general ledger to reflect these
+allocations.
+
+           Processing deductions
+
+To accurately compute an employee’s net pay, The Clear Fund accumulates the
+nature and amount of any other payroll deductions, such as for retirement
+plans, insurance, or loan repayments.  Original documents supporting the
+authorization of each deduction are maintained in the employee’s personnel
+file.  The Fair Labor Standards Act (FLSA) requires payroll records to
+clearly show the date, amount, and description of deductions from wages.
+
+            Employee advances
+
+Employee advances are not distributed.
+
+           Processing payroll
+
+Payroll is processed using a payroll processing company.  Prior to each pay
+date, the Manager of Finance sends the employees’ hours worked, including
+other pertinent information such as sick and vacation days taken, to the
+payroll processing company.
+
+The payroll processing company calculates gross pay and all withholdings,
+provides paychecks (paystubs), transmits payroll taxes and produces
+quarterly and annual payroll tax returns.
+
+The payroll processing company provides a payroll package which is
+delivered to the Independent Executive. This package is reviewed by the
+Independent Executive for accuracy and completeness.
+
+           Recording payroll into the general ledger
+
+Based on the payroll processing company records, the Manager of Finance or
+outsourced fiscal consultant records the payroll into the general ledger on
+a monthly basis.  The payroll reports are secured with the personnel files.
+
+           Reconciliation of the payroll accounts
+
+On a quarterly basis, the Manager of Finance or outsourced fiscal
+consultant reconciles deductions made from employees to the payments made
+to insurers, benefit plan providers, and other payees.
+
+On a quarterly basis, the Manager of Finance or outsourced fiscal
+consultant performs a reconciliation of all salary accounts in the general
+ledger, as compared to the salary reported by the payroll processing
+company on the Quarterly Payroll Return.  Any variances are researched and
+cleared in a timely manner.
+
+On an annual calendar basis, the Manager of Finance or outsourced fiscal
+consultant performs a reconciliation of the following:
+
+      • Gross salaries per all Forms 941
+
+      • Gross salaries per W-2 forms
+
+      • Gross salaries per General Ledger
+
+      • Variances
+
+           Manual payroll checks
+
+Manual payroll checks are issued only in case of emergency. The manual
+check is issued after consultation with the Executive Director and
+following the payroll processing company’s recommended breakdown of gross
+pay and applicable deductions. All manual payroll checks are submitted to
+the payroll processing company on the next payroll submission, for purposes
+of updating the employee payroll records.
+
+
+
+4.2.3 Terminated employees are promptly removed from the system to prevent
+      unauthorized or erroneous payroll disbursements.
+
+The Employment Officer completes and approves a Personnel Action Form
+immediately upon termination of an hourly or salaried employee.  The
+Personnel Action Form is forwarded to the Manager of Finance for timely
+status change in the Payroll Masterfile.
+
+The Manager of Finance ensures that terminated employees and those who have
+resigned are removed from the payroll immediately after their final
+paycheck has been processed.  The Manager of Finance processes the change
+for the last payroll check based on the date of termination.
+
+
+
+
+4.3  INDEPENDENT CONTRACTORS AND CONSULTANTS
+
+Policies and Controls
+
+4.3.1 Each consulting arrangement is supported by a consultant agreement
+      and appropriate documentation of services received prior to payment.
+
+4.3.2 Each consulting arrangement is reviewed and documented to ensure that
+      the consultant qualifies for consultant status and not for
+      classification as an employee.
+
+4.3.3 Consultants are not authorized to issue or approve disbursement
+      requests.
+
+
+
+Agency Procedures to Implement These Policies
+
+4.3.1 Each consulting arrangement is supported by a consultant agreement
+      and appropriate documentation of services received prior to payment.
+
+            Consulting agreements
+
+Certain professional services, due to their nature, are not subject to the
+competitive bidding process (see Chapter 3.1). However, any purchase or
+contract that costs $5,000 or more must be approved by Board President and
+Board Treasurer.
+
+Every consulting arrangement must be supported by a consultant agreement
+and a completed W-9 prior to payment.
+
+           Payment for services rendered
+
+In order to be paid, consultants must present an invoice indicating
+deliverables, hours worked, and dates of service covered by the invoice
+presented. The invoice must be approved by the person in charge of the
+engagement in addition to any other approvals required by the payment
+approval process.
+
+
+
+4.3.2 Each consulting arrangement is reviewed and documented to ensure that
+      the consultant qualifies for consultant status and not for
+      classification as an employee.
+
+           Determination of consultant status
+
+Prior to entering into a consulting arrangement, The Clear Fund will
+determine that the arrangement meets the criteria outlined by the Internal
+Revenue Service for independent contractors. Reclassification as an
+employee by the IRS can trigger additional payroll taxes and potential
+penalties to the agency.
+
+Specific guidance and examples from the IRS may be found in the Employer's
+Supplemental Tax Guide, Publication 15-A, found on the internet at
+http://www.irs.gov.
+
+The Executive Director will review all consulting agreements and attest to
+the appropriateness of the designation as independent contractor.
+
+            Documenting consultant status
+
+The consulting agreements are annually reviewed to ensure that the contents
+are in accordance with current Internal Revenue Service guidelines for
+consulting relationships.
+
+The Executive Director maintains a file of consulting agreements and
+supporting documentation.  All consulting arrangements are documented in a
+written agreement stating the following:
+
+      • Name, address and tax identification number/Social security number
+        of the consultant (Form W-9)
+
+      • Dates covered by the agreement
+
+      • Services to be performed or work product to be delivered
+
+      • Time frame for completion of the deliverables
+
+      • The Clear Fund staff person in charge of the engagement
+
+      • Dollar amount of the agreement, including additional expenses (if
+        any) for which the consultant is to be reimbursed.
+
+      • Contract termination clause
+
+      • Confidentiality statement
+
+      • Other special arrangements
+
+
+
+4.3.3 Consultants are not authorized to issue or approve disbursement
+      requests.
+
+Consultants are not employees of The Clear Fund and, as such, are not
+authorized to issue or approve disbursement requests.
+
+
+
+CHAPTER 5.  Reporting, General Ledger and Financial Statements
+
+
+
+
+
+5.1 BUDGETING
+
+Policies and Controls
+
+5.1.1 A budget is produced at least on an annual basis and approved by the
+      Board of Directors.  Any significant increases or decreases to the
+      budget are approved.
+
+5.1.2 The annual budget process and quarterly review process include an
+      analysis of cash flow.
+
+5.1.3    Bank accounts are reconciled on a monthly basis and
+      reconciliations are appropriately approved.
+
+
+
+Agency Procedures to Implement These Policies
+
+5.1.1 A budget is produced at least on an annual basis and approved by the
+      Board of Directors.  Any significant increases or decreases to the
+      budget are approved.
+
+            Budget development process
+
+Planning for the next fiscal year begins no later than the close of the
+fourth quarter of the current fiscal year. The Executive Director initiates
+the budget development process and produces an initial draft budget
+reflecting plans for the following year.
+
+            Approval of the budget
+
+The draft budget is submitted to the full Board of Directors. The full
+Board of Directors reviews and approves the budget at an official meeting,
+no less than once per year.
+
+            Budget monitoring and reporting
+
+The Board-approved budget is entered into the accounting system by the
+Manager of Finance or outsourced fiscal consultant. Prior to each official
+meeting of the Board of Directors, the Independent Executive produces the
+budget comparison reports reflecting variances between budget and actual
+revenues and expenses by program.  The Board of Directors reviews the
+reports for unusual activity and for use in strategic decision making.
+
+            Budget modification
+
+If there are significant material changes in the organization's financial
+projections, the Independent Executive makes changes to the operating
+budget and submits them to the Board of Directors for review. Budget
+modifications, if applicable, are approved by the Board of Directors at the
+the next official meeting.
+
+
+
+5.1.2 The annual budget process and quarterly review process include an
+      analysis of cash flow.
+
+            Cash flow model
+
+A cash flow model indicates, at an early point, the months during which The
+Clear Fund will face difficult cash flow issues.  On an annual basis, as
+part of the budget process, the Independent Executive prepares an annual
+cash flow worksheet where the expenditures for The Clear Fund are plotted
+on a monthly basis, flowing into a twelve-month model, as needed.  Once the
+expenditures are plotted on this timeline, in conjunction with the
+Independent Executive, the projected revenue flows are also plotted on a
+timeline.
+
+On a quarterly basis, once the accounting close has been completed, the
+Manager of Finance or outsourced fiscal consultant assists the Independent
+Executive in updating the cash flow projection given all information
+available at that time and provides the projection to the Independent
+Executive as part of the reporting process.
+
+
+
+5.1.3    Bank accounts are reconciled on a monthly basis and
+      reconciliations are appropriately approved.
+
+            Bank reconciliations
+
+All bank statements are mailed directly to the Manager of Finance, who
+opens them and reviews the statements and cancelled checks in order to
+identify any irregularities.  The Manager of Finance or outsourced fiscal
+consultant reconciles the bank statements to the accounting records.
+Following this review, the Independent Executive reviews and approves the
+reconciliations for accuracy and completeness. Any unusual items or
+exceptions are investigated and resolved by the Manager of Finance and
+communicated to the Independent Executive and Board Treasurer.
+
+
+
+5.2  MONTHLY CLOSE AND FINANCIAL REPORTING
+
+Policies and Controls
+
+   1. The Clear Fund performs a monthly, quarterly, and annual closing
+      process of the accounting records in a timely basis.
+
+   2. Financial reports are provided to management and the Board of
+      Directors on a timely basis to facilitate effective monitoring and
+      oversight.
+
+
+
+Agency Procedures to Implement These Policies
+
+   1. The Clear Fund performs a monthly, quarterly, and annual closing
+      process of the accounting records in a timely basis.
+
+           Monthly close process
+
+The Clear Fund completes its preliminary monthly accounting close by the
+second week of the month for the previous month.  This process is conducted
+by the Manager of Finance or outsourced fiscal consultan twith oversight by
+the Independent Executive. During the closing process, all bank
+reconciliations are completed, and appropriate month-end adjustments are
+recorded. These include:
+
+
+
+Quarterly:
+
+      • Confirming that all Accounts Payable and Accounts Receivable
+        control accounts agree to the subsidiary ledgers
+
+      • Recording standard Payroll general journal entries
+
+      • Performing general ledger integration for cash receipts and pledges
+
+      • Reconciling bank statements, general ledger accounts, and the trial
+        balance
+
+      • Printing and reviewing the cumulative general ledger, trial
+        balance, revenue and expense accounts
+
+      • Analyzing and investigating any discrepancies or significant
+        variances
+
+      • Reconciling payroll records and the related taxes (quarterly)
+
+      • Reconciling quarterly payroll statements to the general ledger
+
+
+
+Annually:
+
+      • Recording all accruals including grant revenues, receivables, and
+        accounts payables.
+
+
+
+   2. Financial reports are provided to management and the Board of
+      Directors on a timely basis to facilitate effective monitoring and
+      oversight.
+
+            Financial reports for management
+
+The monthly closing process generates the following reports:
+
+      • Statement of Revenues and Expenses by program
+
+
+
+The quarterly closing process generates the following reports:
+
+      • Statement of Financial Position (“Balance Sheet”)
+
+            • Accounts Receivable Aging
+
+            • Accounts Payable Aging
+
+      • Statement of Activities for the month to date and year to date
+
+      • Budget versus Actual Comparison Report for the current month and
+        year to date on an agency, department (program) and grant basis
+
+      • These reports provide the basis for the Independent Executive to
+        request that the Manager of Finance perform certain account
+        analysis in areas where variances seem inappropriate or where
+        additional information is needed.  Upon completion of these account
+        analyses and recording of additional adjustments as deemed
+        necessary, the final month-end closing package is prepared.
+
+           Financial reports for the Board of Directors
+
+On an annual basis, the Executive Director circulates the following
+information to the Board of Directors prior to the board meeting:
+
+      • Statement of Financial Position
+
+      • Budget versus Actual Comparison Report for the quarter to date and
+        year to date, incorporating a variance analysis explaining
+        variances in excess of 10% from the actual to the originally
+        approved budget
+
+      • Updated cash flow model for the coming months, highlighting any
+        periods of difficult cash flows
+
+      • Fundraising status update indicating the status of The Clear Fund’s
+        fundraising efforts and open proposals.
+
+
+
+5.3  DOCUMENT RETENTION POLICY
+
+Policies and Controls
+
+5.3.1 Records will be maintained for the periods sufficient to satisfy IRS
+      regulations, federal grant requirements, if applicable, and other
+      legal needs as may be determined.
+
+5.3.2 Record retention requirements are reviewed annually with the Board
+      and independent auditors to determine any necessary changes.
+
+
+
+Agency Procedures to Implement These Policies
+
+5.3.1 Records will be maintained for the periods sufficient to satisfy IRS
+      regulations, federal grant requirements, if applicable, and other
+      legal needs as may be determined.
+
+            Record retention
+
+The Clear Fund’s records are retained in compliance with government, legal,
+and funders’ requirements. When there is a conflict between federal, state
+and local record retention requirements, the longer retention period
+prevails. Certain important records, as determined by the Board, will be
+retained permanently, even if their retention is not required by law.
+
+            E-mail retention
+
+The retention requirement for e-mail messages is determined by its content.
+It is the user’s responsibility to appropriately classify an e-mail message
+according to categories listed in the record retention schedules below and
+set up parameters for archiving their e-mail messages.  Whether in
+electronic format or paper copy, e-mail correspondence is retained based on
+the record retention schedule.
+
+            Record destruction
+
+Once the retention period has expired, The Clear Fund may destroy the
+records in a manner that preserves the confidentiality of its contents. The
+Board of Directors approves all destruction of records prior to
+commencement.  Record destruction is performed under the direction of the
+Independent Executive and the Manager of Finance, who is responsible for
+maintaining the record disposal log, which lists all records that were
+destroyed.
+
+Upon receipt of any legal notice, all record destruction will cease until
+the end of the investigation.
+
+5.3.2 Record retention requirements are reviewed annually with the Board
+      and independent auditors to determine any necessary changes.
+
+            Review of policy
+
+Record retention requirements are reviewed annually with the Board and
+independent auditors to determine any necessary changes.
+
+
+|Type of Document                               |How Long to Retain      |
+|Accounting                                                              |
+|Accounts payable ledgers                       |7 years                 |
+|Accounts receivable ledgers                    |7 years                 |
+|Annual reports                                 |Indefinitely            |
+|Annuity gift agreements                        |Indefinitely            |
+|Audited financial statements                   |Indefinitely            |
+|Bank deposit records                           |3 years                 |
+|Bank reconciliations                           |7 years                 |
+|Bank statements                                |7 years                 |
+|Canceled checks (ordinary)                     |7 years                 |
+|Canceled checks (taxes, property and important |Indefinitely            |
+|payments)                                      |                        |
+|Contributions/donations/grants (unrestricted)  |7 years                 |
+|Contributions/donations/grants (temporarily    |Indefinitely            |
+|restricted)                                    |                        |
+|Contributions/donations/grants (perm.          |Indefinitely            |
+|restricted/endowment)                          |                        |
+|Expense analyses/distribution schedules        |7 years                 |
+|Fixed asset records, appraisals, depreciation  |Indefinitely            |
+|schedules                                      |                        |
+|Internal audit reports                         |3 years                 |
+|Invoices (to customers/from vendors)           |7 years                 |
+|Life income agreements                         |Indefinitely            |
+|Physical inventory records                     |7 years                 |
+|Purchase orders                                |3 years                 |
+|Requisitions                                   |7 years                 |
+|Shipping and receiving reports                 |3 years                 |
+|Subsidiary ledgers                             |7 years                 |
+|Tax returns (IRS form 990) and worksheets      |Indefinitely            |
+|Uncollectable accounts and write-offs          |6 years                 |
+|Vouchers for payment to vendors, employees and |7 years                 |
+|others                                         |                        |
+|Withholding tax statements (W4’s)              |4 years                 |
+|Corporate                                                               |
+|Charters, constitutions, bylaws                |Indefinitely            |
+|Contracts, mortgages, notes and leases         |7 years                 |
+|(expired)                                      |                        |
+|Contracts still in effect                      |Indefinitely            |
+|Deeds, mortgages, bills of sale                |Indefinitely            |
+|Incorporation records, 501(c)(3) determination |Indefinitely            |
+|Labor contracts                                |Indefinitely            |
+|Loan documents, notes                          |Indefinitely            |
+|Licenses                                       |Indefinitely            |
+|Minutes from board meetings                    |Indefinitely            |
+|Patents and related papers                     |Indefinitely            |
+|Trademark registrations and copyrights         |Indefinitely            |
+|Personnel                                                               |
+|Employment applications (not hired)            |3 years                 |
+|Garnishments                                   |7 years                 |
+|I-9’s (after termination)                      |1 years                 |
+|Payroll records and summaries                  |7 years                 |
+|Personnel files (after termination)            |7 years                 |
+|Retirement and pension records                 |Indefinitely            |
+|Time sheets                                    |7 years                 |
+|Insurance                                                               |
+|Accident reports and claims                    |Indefinitely            |
+|Fire inspection reports                        |6 years                 |
+|Group disability reports                       |6 years                 |
+|Insurance records (expired contracts)          |4 years                 |
+|OSHA logs                                      |8 years                 |
+|Worker’s compensation documentation            |10 years                |
+|Correspondence                                                          |
+|Correspondence (general)                       |3 years                 |
+|Correspondence (legal and important matters)   |Indefinitely            |
+|Electronic Documents                                                    |
+|Email                                          |30 days to 18 months    |
+|Records on servers, individual computers and   |Reviewed annually       |
+|diskettes                                      |                        |
+CHAPTER 6.  Assets and Liabilities
+
+
+
+
+6.1  CAPITAL ASSETS
+
+
+Policies & Controls
+
+
+6.1.1 Written requests for the purchase of capital assets are supported by
+      sufficient operational and financial justification and are
+      appropriately approved.
+
+6.1.2 All fixed assets are properly identified, tagged, tracked, and
+      inventoried on an annual basis.
+
+6.1.3.      Only leases and purchases that materially add to the value of
+      the property and prolong the useful life are deemed to be capital
+      assets.
+
+6.1.4 Depreciable and non-depreciable fixed assets are appropriately
+      recorded and depreciated.
+
+6.1.5 Disposals of capital assets are properly authorized and recorded.
+
+
+
+Agency Procedures to Implement These Policies
+
+
+
+6.1.1 Written requests for the purchase of capital assets are supported by
+      sufficient operational and financial justification and are
+      appropriately approved.
+
+           Capital budget
+
+When applicable, The Clear Fund prepares a capital budget as part of the
+annual budget process, which represents a long-term capital requirements
+analysis.  The Board approves the capital budget.
+
+           Asset purchase
+
+Capital assets are purchased in accordance with The Clear Fund's purchasing
+policies as outlined in Chapter 3.
+
+
+
+6.1.2 All fixed assets are properly identified, tagged, tracked, and
+      inventoried on an annual basis.
+
+           Identification of capital assets
+
+Acquisitions which add to the value of the property and prolong the useful
+life are deemed to be capital assets.  The Clear Fund considers fixed
+assets costing $1,000 or more to be capital assets.  Capital assets are
+categorized into one of the following categories:
+
+      • Land
+
+      • Buildings and building improvements
+
+      • Furniture, fixtures, and office equipment (includes desks, chairs,
+        file cabinets and copiers, telephone, etc.)
+
+      • Leasehold improvements (includes replacing floors, roofing, etc in
+        a leased building)
+
+      • Computer equipment (includes computers, printers, etc.)
+
+      • Construction in progress (includes work on a building that is not
+        complete)
+
+      • Automobiles and transportation equipment
+
+      • Equipment leased under terms that meet criteria for capital leases
+
+           Tagging and tracking of capital assets
+
+Detailed fixed asset subledgers are maintained for each of the capital
+asset categories.  At the time of acquisition, all capital assets are
+tagged with unique identifying numbers and entered into the fixed asset
+ledger.  The tags are numerically sequenced and placed on a visible area of
+the asset in order to provide a clear method of tracing the asset to the
+fixed asset ledger.  The following information is tracked:
+
+      • Name and description
+
+      • Serial number, model number, or other identification
+
+      • Vendor name, acquisition date and cost
+
+      • Location and condition of equipment
+
+      • Ultimate disposition data, including date of disposal
+
+If possible, persons other than those who maintain subsidiary records for
+individual assets are responsible for the custody of the assets.
+
+           Inventory process
+
+On an annual basis, The Clear Fund takes a physical inventory of all assets
+to ensure the completeness and accuracy of the agency’s records.  All
+assets are examined to determine that they are currently in use.
+
+The inventory of the assets on hand is compared to the fixed asset ledger.
+All differences are analyzed and resolved by the Manager of Finance and
+reviewed by the Independent Executive.  Adjustments to the agency’s records
+can be made only after appropriate approval has been received.
+
+
+
+6.1.3.      Only leases and purchases that materially add to the value of
+      the property and prolong the useful life are deemed to be capital
+      assets.
+
+           Lease-versus-purchase decision
+
+Property, plant, and equipment may be obtained through long-term leases as
+an alternative to outright purchase.  The purchase-versus-lease decision is
+incorporated into the annual capital budget.  Decisions are made based on
+the net cost of the asset, taking into consideration cash flow as well as
+type of asset being acquired.
+
+           Requirements for capitalization
+
+If a lease meets certain requirements, it is capitalized, with an
+offsetting capital lease obligation.  A lease meets the requirements of a
+capital lease if it is non-cancelable and has at least one of the following
+characteristics:
+
+      • It passes title to the lessee (The Clear Fund).
+
+      • It contains a bargain purchase option.
+
+      • The lease term is at least 75% of the asset’s estimated life.
+
+      • The present value of the minimum lease payments equals 90% of the
+        asset’s fair value.
+
+Operating lease payments are deemed to be equipment rental expense.  A
+determination that the lease is classified as a capital lease should be
+made prior to the beginning of the lease term.  The capital lease is
+recorded as an asset and a liability for an amount equal to the total
+minimum lease payments, and should be amortized over either the estimated
+useful life or the lease term depending on details of the lease
+transaction.
+
+           Expense versus capitalization of expenditures
+
+Repair and maintenance expenditures are distinguished from expenditures for
+improvements, additions, renovations, alterations, and replacements. The
+Clear Fund follows the following guidelines in classifying these
+expenditures:
+
+Repair and maintenance expenditures do not materially add to the value or
+extend the useful life of the property. Examples of repair expenses:
+
+      • Replacing loose or damaged shingles
+
+      • Replacing broken glass
+
+      • Painting and decorating the facility
+
+      • Resurfacing a parking lot
+
+      • Making temporary repairs to last less than one year
+
+      • Making minor repairs to fully depreciated assets
+
+Expenditures that increase the value of property, extend its life, or adapt
+it to a new or different use are capital expenditures.  Significant
+improvements to property leased by the agency, including improvements that
+add value to the leasehold, are also capitalized.
+
+If the useful life of the asset has been significantly extended, the
+remaining book value (original cost less depreciation) and the improvement
+costs are depreciated over the new life.  Examples of repair expenditures
+that are capital expenditures:
+
+      • Replacing a roof, thereby substantially prolonging its life
+
+      • Reconditioning equipment or machinery, thereby extending its life
+
+      • Installing a new boiler system
+
+      • Structural changes or alterations to organization-owned buildings,
+        which become a part of the building and increase its life or value
+
+      • Significant improvements to property leased by the organization,
+        improvements that add value to the leasehold (e.g., permanent
+        office partitions)
+
+           Assets purchased with government funds
+
+Assets purchased with government funds are tracked and monitored in the
+manner outlined above.  However, on an interim basis, these acquisitions
+are expensed as part of the program costs reportable under the grant.  At
+the end of the year, the full cost is capitalized and depreciated over the
+assigned asset life, in accordance with generally accepted accounting
+principles.
+
+
+
+6.1.4 Depreciable and non-depreciable fixed assets are appropriately
+      recorded and depreciated.
+
+           Basis for cost
+
+Depreciable assets are carried in the accounting records at the original
+net acquisition cost.  Acquisition costs include the invoice price plus all
+expenses incurred to prepare the asset for operations, including such costs
+as preliminary engineering studies and surveys, legal fees to establish
+title, installation costs, freight, and labor and material used in
+construction or installation.
+
+Non-depreciable capital assets (e.g., land) are carried in the records at
+the original net cost.
+
+           Capitalization of a construction project
+
+Expenditures such as those for materials, labor, engineering, supervision,
+salaries and expenses, legal expenses, insurance, overhead, and interest
+are capitalized as “construction-in-progress” until the project is
+completed and placed in service.  No depreciation is taken on construction-
+in-progress.
+
+Upon completion of construction and placement in service, the asset is
+removed from construction-in-progress and entered into the detailed fixed
+asset ledger under the appropriate classification.  Depreciation on the
+asset begins on the date the asset is placed in service.
+
+           Determination of useful life
+
+The useful life is estimated when a capital asset is acquired.  The useful
+life may be expressed in terms of time, units of production, or hours of
+service.  The cost of an asset is allocated over the useful life via
+depreciation or depletion.  When there is an indefinite useful life, such
+as that for land, no depreciation is taken.
+
+If there is a significant change in the estimate of the remaining useful
+life after the asset is placed into service, the remaining cost to be
+depreciated is spread over the revised remaining life.
+
+The Executive Director assigns the estimated useful life as part of the
+overall asset acquisition approval process.
+
+           Depreciation method
+
+Depreciation of property and equipment is calculated by the straight-line
+or accelerated method of the estimated useful lives of the assets.
+
+Circumstances when it may be appropriate to accelerate or decelerate
+depreciation charges for the current and future periods include:
+
+      • A significant change in the estimated useful life
+
+      • A change in the estimated salvage value
+
+The estimated useful lives of the various asset categories at The Clear
+Fund are as follows:
+
+|Description              |Years              |Method           |
+|Property and Plant       |39                 |Straight Line    |
+|Furniture & Fixtures     |7 years            |Straight Line    |
+|Office Equipment         |5 years            |Straight Line    |
+|Computer Equipment       |3 years            |Straight Line    |
+|Automobile and           |5 years            |Straight Line    |
+|Transportation Equipment |                   |                 |
+|Capital Leases           |Either lease term  |                 |
+|                         |or estimated useful|                 |
+|                         |life               |                 |
+|Leasehold Improvements   |Life of lease      |Straight Line    |
+|                         |not to exceed 10   |                 |
+|                         |years              |                 |
+
+
+As an alternative to prorating the depreciation in the year of acquisition
+or disposal, the agency takes one half year of depreciation in both the
+years of acquisition and disposal.
+
+
+
+   5. Disposals of capital assets are properly authorized and recorded.
+
+           Authorization of disposal
+
+Control over the disposition of property is maintained not only to preserve
+the accuracy of the records but also to ensure that assets are safeguarded,
+improper disposal is prevented, and the best possible terms are received
+for disposal.
+
+Disposal of capital assets occurs only after proper authorization has been
+given by the Executive Director and funding agency, if applicable.
+
+The following procedures apply to the retirement and disposal of The Clear
+Fund company assets:
+
+      • An asset disposal form is completed for all disposals.
+
+      • The asset disposal form is reviewed and approved by a responsible
+        employee who is knowledgeable of but not directly responsible for
+        the asset, with ultimate approval by the Executive Director.
+
+      • No item of property, plant, or equipment is removed from the
+        premises without a properly approved Asset Disposal Form.
+
+           Recording disposal
+
+Once the retirement or sale has been properly approved and documented, the
+following procedures apply to the recording of the transaction:
+
+      • The cost is removed from the appropriate asset account.
+
+      • The related accumulated depreciation, including depreciation to
+        date of disposal, is removed from the allowance for depreciation
+        account.  The profit or loss, adjusted for the cost of removal, is
+        recorded as an income (gain) or expense (loss) item.
+
+      • When the disposal is a trade-in of a similar asset, the acquired
+        asset is recorded at the book value of the trade-in asset plus any
+        additional cash paid.  In no instance should such cost exceed the
+        fair market value for the new asset.
+
+All disposals are recorded in the fixed assets ledger on a timely basis.
+
+           Fully depreciated assets
+
+Fully depreciated assets remain in the fixed asset ledger with the related
+accumulated depreciation as long as the property is still in use to ensure
+accurate tracking and safeguarding of assets.
+
+
+
+6.2  INVESTMENTS
+
+Policies & Controls
+
+6.2.1 The purchase and sale of investments are properly approved, recorded,
+      and reported.
+
+6.2.2 Investment statements are properly reconciled to the supporting books
+      and records on a periodic basis.
+
+
+
+Policies & Controls
+
+6.2.1 The purchase and sale of investments are properly approved, recorded,
+      and reported.
+
+           Approval of investment purchases and disposals
+
+The investment policies are set by the Board of Directors and are carried
+out by the Executive Director. All transactions regarding investments must
+be authorized by the Board Treasurer and properly communicated to the Board
+of Directors.  Such transactions include the purchase, sale, and movement
+of an investment to and from safekeeping (the physical safeguarding of
+assets through use of a vault, safe deposit box, or independent custodian).
+
+           Purchase of investments
+
+The Executive Director facilitates investment purchases after compliance
+with the following procedures:
+
+      • A determination that the Board Treasurer, in accordance with the
+        investments policy, properly authorizes the purchase transaction.
+
+      • Preparation of a check requisition or a bank transfer request to
+        accompany the investment purchase/sale authorization form.
+
+           Sale of investments
+
+The Executive Director facilitates investment sales after compliance with
+the following procedures:
+
+      • A determination that the sale transaction is properly authorized by
+        the Board and in accordance with the Board approved investments
+        policy.
+
+      • The written sales authorization is sent to the agent handling the
+        sale transaction for investments or to the custodian with off-site
+        access to the investment documents.  The custodian provides the
+        agency with a receipt documenting the release from safekeeping.
+
+           Investment sales gain or loss
+
+The Executive Director calculates the expected gain or loss upon sale or
+other disposition of an investment, before a decision regarding the sale is
+finalized.  The calculation is updated/finalized subsequent to the sale and
+documented in the investment file.
+
+           Investment sales proceeds
+
+Proceeds from the sale of investments are received either by check or bank
+transfer.  A copy of the receipt or deposit ticket is included in the
+investment file.
+
+           Investment Results Reports
+
+Monthly reports detailing the earnings and activity in all investment
+accounts are prepared by the Executive Director and distributed to the
+Board Treasurer.
+
+Investment statements are reconciled to the supporting books and records on
+a quarterly basis by the Manager of Finance or outsourced fiscal
+consultant.and the reconciliation is reviewed and approved by the
+Independent Executive
+
+
+
+6.2.2 Investment statements are properly reconciled to the supporting books
+      and records on a periodic basis.
+
+           Reconciliation of investment accounts
+
+General Ledger investment account balances are reconciled with third-party
+supporting documentation on a quarterly basis.  Quarterly reconciliations
+are reviewed and approved by the Independent Executive.
+
+
+
+6.3  INSURANCE
+
+Policies & Controls
+
+   1. Insurance coverage is maintained in adequate amounts to support The
+      Clear Fund’s operation and protect the employees and board members in
+      carrying out the organization’s exempt purpose.
+
+   2. Coverage is maintained at levels recommended by the Executive Director
+      and approved by the Board of Directors but at no less than the amounts
+      stipulated in funding agreements.
+
+
+
+Agency Procedures to Implement These Policies
+
+   1. Insurance coverage is maintained in adequate amounts to support The
+      Clear Fund’s operation and protect the employees and board members in
+      carrying out the organization’s exempt purpose.
+
+           Areas of coverage
+
+Annually, the Executive Director reviews with the Board of Directors the
+need for the following types of insurance coverage based on exposure of the
+organization to risk:
+
+      • Director and Officers liability
+
+      • General liability
+
+      • Business travel
+
+      • Fire/theft
+
+      • Employee dishonesty
+
+      • Hired and non-owned auto
+
+      • Professional Liability
+
+      • Employment practices
+
+      • Business interruption
+
+      • Hurricane/flood
+
+
+
+   2. Coverage is maintained at levels recommended by the Executive Director
+      and approved by the Board of Directors but at no less than the amounts
+      stipulated in funding agreements.
+
+           Approval and recommendations for revisions
+
+During the annual review process, the Executive Director reviews government
+grants and contracts in effect to ensure compliance with any stipulated
+limits.
+
+Recommendations developed in the annual review are passed on to the Board
+of Directors for approval. The Executive Director then implements the joint
+decision.
+
+Coverage for The Clear Fund is reviewed by the Board of Directors on an
+annual basis.
+
+
+
+6.4  ASSUMPTION AND AUTHORIZATION OF DEBT
+
+Policies & Controls
+
+6.4.1 All debt must be approved and documented by the Board of Directors in
+      accordance with the By-Laws of the Corporation.
+
+
+
+Agency Procedures to Implement These Policies
+
+6.4.1 All debt must be approved and documented by the Board of Directors in
+accordance with the By-Laws of the Corporation.
+
+           Debt approval and agreement
+
+The Board of Directors prepares a resolution to document the Board’s
+approval of the issuance of the debt. The authorization is documented in
+the minutes of the meeting of the Board. A copy of the resolution approving
+the issuance of the debt is maintained with the executed copy of the debt
+agreement.
+
+           Records and collateralization of debt
+
+A record is maintained of the assets collateralizing the debt, if any. The
+assets are specifically identified. The record is updated periodically
+(e.g., depreciation noted) to reflect the current book value of the assets.
+The Clear Fund ensures that an asset does not have funder-imposed
+restrictions prior to pledging such asset as collateral for a debt.
+
+           Board resolution
+
+A Board resolution is presented to the third party with whom the debt is
+being established.
+
+
+
+CHAPTER 7.  Governance
+
+
+
+The Board of Directors of The Clear Fund is committed to providing
+effective financial oversight, including having made financial decisions
+that further The Clear Fund’s mission, program and goals.   To that end,
+the Board has adopted the following charters and policies:
+
+      • Finance and Audit Responsibilities of the Board of Directors
+
+      • Code of Ethics
+
+      • Conflict of Interest Policy
+
+      • Whistleblower Policy
+
+
+
+
+
+7.1 Finance and Audit Responsibilities of the Board of Directors
+
+The Treasurer of the Board of Directors directs the finance and audit
+oversight functions.  The Treasurer takes the lead in reviewing and
+recommending internal accounting and financial controls, practices, and
+procedures for The Clear Fund.  The Treasurer makes recommendations to the
+full board on these issues.
+
+Board of Directors’ fiscal responsibilities
+
+The Board of Directors of The Clear Fund exercises its financial oversight
+to fulfill the following responsibilities:
+
+      • The Board approves the fiscal policies of The Clear Fund.  Policies
+        are adopted by the Board and annually updated.
+
+      • The Board is aware and knowledgeable of its fiscal
+        responsibilities.
+
+      • The Board reviews and approves The Clear Fund’s annual budget.  The
+        Board reviews and approves operating, cash, and capital budgets for
+        The Clear Fund annually.
+
+      • The Board monitors key variances between The Clear Fund budget and
+        the current financial reports on a regular basis.  The Treasurer of
+        the Board receives and reviews variance reports, and reports to the
+        Board.
+
+      • The Board approves large expenditures in excess of $25,000.  The
+        Clear Fund establishes a threshold amount on purchases for which
+        Board approval is required.
+
+           Board Treasurer's fiscal responsibilities
+
+   The Board Treasurer commits to:
+
+      • Inquire about significant risks or exposures facing the
+        organization; assess the steps management has taken or proposes to
+        take to minimize such risks; and periodically review compliance
+        with such steps.
+
+      • Review the adequacy of the organization’s internal controls
+        including computerized information system controls and security.
+
+      • Review procedures for receipt, retention and treatment of
+        complaints regarding accounting, internal controls, or auditing
+        matters by any party internal or external to the organization
+        (whistleblower policy).
+
+      • Review policies and procedures with respect to officers’ expense
+        accounts.
+
+   Audit Responsibilities
+
+   The Board Treasurer commits to:
+
+      • Review and evaluate the performance of the independent auditors and
+        review with the full board of directors any proposed discharge of
+        the independent auditors.
+
+      • Review the financial statements, audit of the financial statements,
+        judgments about the quality (not just acceptability) of
+        organization’s accounting principles, significant changes required
+        in the audit plan, and serious difficulties with management during
+        the audit.
+
+      • Review all material written communications between the independent
+        auditors and management, such as the management letter.
+
+      • Review legal and regulatory matters that may have a material impact
+        on the financial statements.
+
+      • Conduct executive sessions with the outside auditors, outside
+        counsel, and anyone else as desired by the Board of Directors.
+
+
+
+7.2 Code of Ethics
+
+   1. All of our activities are focused on our mission of providing
+      information to donors in order to help them accomplish as much good as
+      possible with their donations.
+
+   2. We are truthful in our broadcast, print and direct mail advertising,
+      using actual, current case histories and photography with honest
+      statements of purpose. We neither minimize nor overstate the human
+      needs of those whom we and/or our reviewed charities assist.
+
+   3. We are committed to spending the maximum amount of available resources
+      for the purposes for which they were given.
+
+   4. We will neither sell nor exchange, with any other agency or commercial
+      enterprise, the information of sponsors and contributors on our
+      mailing lists.
+       
+   5. We support financial reporting in accordance with the requirements of
+      the American Institute of Certified Public Accountants and will
+      publish and disclose on request to any person, agency or the media our
+      complete and independently audited financial statements.
+
+   6. We refuse to engage in fundraising methods that are intimidating,
+      harassing or misleading, that are not subject to adequate control, or
+      that create an undue sense of obligation such as mailing unsolicited
+      merchandise or canisters; paid canvassing; telephone solicitation to
+      the general public; combining appeals with commercial sales which do
+      not define specific benefits to the agency; conducting misleading
+      campaigns or events; and paying for or making use of insincere
+      endorsements.
+
+   7. We make economical and judicious use of all methods of fundraising,
+      including direct mail, broadcast and print advertising.
+
+   8. We demonstrate respect for the integrity, pride, beliefs and culture
+      of the people whom we and/or our reviewed charities serve, respecting
+      their dignity. We will not denigrate them in our advertising and
+      promotion.
+
+   9. Our objective in all our efforts is to further the good of the
+      children, their families and communities who are in need; and to
+      increase the goodwill and support of our constituents and the public
+      on the one hand, and of the people and governments of the nations we
+      and our reviewed charities serve on the other.
+
+  10. We are governed by a Board of Directors, serving without compensation,
+      operating under bylaws ensuring adequate voting trusteeship, and whose
+      members have no financial or other conflict of interest with the goals
+      of the organization. We receive and act upon critical advice from an
+      Advisory board, comprised of prominent experts from around the world,
+      in various fields of activity.
+
+  11. We are committed to a policy and practice of full public disclosure of
+      all relevant information concerning agency goals, programs, finances
+      and governance.
+
+7.3 Conflict of Interest Policy
+
+
+
+
+The Clear Fund's Conflict of Interest Policy is included in Article 9 of
+its bylaws.
+
+
+
+
+7.4 Whistleblower Policy
+
+           Background
+
+The Sarbanes-Oxley Act of 2002, Section 1107, Retaliation Against
+Informants, applies to all companies, public or private.  It states that it
+is illegal to retaliate against a “whistleblower.”  It is in an
+organization’s best interest to have a policy that provides clear
+procedures for handling whistleblower complaints.  Proper handling of such
+complaints will help protect organizations from being accused of
+retaliation against whistleblowers.  Such a policy, to be effective, must
+be circulated to all employees and board members.  It is recommended the
+Board review and adopt a Whistleblower Policy.
+
+           General
+
+The Clear Fund’s Code of Ethics and Conduct (“Code”) requires directors,
+officers and employees to observe high standards of business and personal
+ethics in the conduct of their duties and responsibilities. As employees
+and representatives of The Clear Fund, we must practice honesty and
+integrity in fulfilling our responsibilities and comply with all applicable
+laws and regulations.
+
+           Reporting Responsibility
+
+It is the responsibility of all directors, officers and employees to comply
+with the Code and to report violations or suspected violations in
+accordance with this Whistleblower Policy.
+
+           No Retaliation
+
+No director, officer or employee who in good faith reports a violation of
+the Code shall suffer harassment, retaliation or adverse employment
+consequence. An employee who retaliates against someone who has reported a
+violation in good faith is subject to discipline up to and including
+termination of employment. This Whistleblower Policy is intended to
+encourage and enable employees and others to raise serious concerns within
+The Clear Fund prior to seeking resolution outside the agency.
+
+           Reporting Violations
+
+The Code addresses The Clear Fund’s open door policy and suggests that
+employees share their questions, concerns, suggestions or complaints with
+someone who can address them properly. In most cases, an employee’s
+supervisor is in the best position to address an area of concern. However,
+if you are not comfortable speaking with your supervisor or you are not
+satisfied with your supervisor’s response, you are encouraged to speak with
+anyone in management or on the Board of Directors whom you are comfortable
+in approaching. Supervisors and managers are required to report suspected
+violations of the Code of Conduct to The Clear Fund’s Compliance Officer,
+who has specific and exclusive responsibility to investigate all reported
+violations. For suspected fraud, or when you are not satisfied or
+uncomfortable with following The Clear Fund’s open door policy, individuals
+should contact The Clear Fund’s Compliance Officer directly.
+
+           Compliance Officer
+
+The Clear Fund’s Compliance Officer is responsible for investigating and
+resolving all reported complaints and allegations concerning violations of
+the Code and, at his discretion, shall advise the Executive Director and/or
+the Executive Committee. The Compliance Officer has direct access to the
+Executive Committee of the board of directors and is required to report to
+the Executive Committee at least annually on compliance activity.
+
+           Accounting and Auditing Matters
+
+The Executive Committee of the board of directors shall address all
+reported concerns or complaints regarding accounting practices, internal
+controls or auditing. The Compliance Officer shall immediately notify the
+Executive Committee of any such complaint and work with the committee until
+the matter is resolved.
+
+           Acting in Good Faith
+
+Anyone filing a complaint concerning a violation or suspected violation of
+the Code must be acting in good faith and have reasonable grounds for
+believing the information disclosed indicates a violation of the Code. Any
+allegations that prove not to be substantiated and which prove to have been
+made maliciously or knowingly to be false will be viewed as a serious
+disciplinary offense.
+
+           Confidentiality
+
+Violations or suspected violations may be submitted on a confidential basis
+by the complainant or may be submitted anonymously. Reports of violations
+or suspected violations will be kept confidential to the extent possible,
+consistent with the need to conduct an adequate investigation.
+
+           Handling of Reported Violations
+
+The Compliance Officer will notify the sender and acknowledge receipt of
+the reported violation or suspected violation within five business days.
+All reports will be promptly investigated and appropriate corrective action
+will be taken if warranted by the investigation.
+
+
+
+CHAPTER 8.  Employment Policies
+
+
+
+The Board of Directors of The Clear Fund is committed to providing a
+productive work environment that furthers The Clear Fund’s mission, program
+and goals.   To that end, the Board has adopted the following charters and
+policies:
+
+      • Equal Employment Opportunity Policy
+
+      • Sexual Harassment Policy
+
+      • Policy for Resolving Discrimination and Sexual Harassment
+        Complaints
+
+
+
+
+
+8.1 Equal Employment Opportunity Policy
+
+Our company is committed to the principles of Equal Employment Opportunity
+and is committed to making employment decisions based on merit and value.
+We are committed to complying with all Federal, State, and local laws
+providing Equal Employment Opportunities, as well as all laws related to
+terms and conditions of employment. We desire to keep a work environment
+which is free of harassment or discrimination because of sex, race,
+religion, color, national origin, sexual orientation, physical or mental
+disability, marital status, age or any other status protected by Federal,
+State or local laws.  We value diversity and are willing to employ men and
+women of all ethnic and racial groups, ranging in age from the teens to the
+sixties and older, and representing a broad spectrum of religions and
+national origins.  The company will make every reasonable effort to
+accommodate those physical or mental limitations of an otherwise qualified
+employee, unless undue hardship would result for the company.
+
+Just as the company bears a responsibility towards this policy, each of us
+must clearly communicate our disinterest in, or offense taken to, any
+perceived verbal or physical discrimination or harassment.  We are all
+responsible for upholding this Equal Employment Opportunity policy and
+commitment.  Equal Employment Opportunity laws afford each one of us the
+chance to succeed or fail based on individual merit.
+
+8.2 Sexual Harassment Policy
+
+The Clear Fund prohibits sexual harassment of its employees and applicants
+for employment by any employee, non-employee or applicant. Such conduct may
+result in disciplinary action up to and including discharge. This policy
+covers all employees. The Clear Fund will not tolerate, condone or allow
+sexual harassment, whether engaged in by fellow employees, supervisors,
+associates, clients or other non-employees who conduct business with the
+Clear Fund.
+
+Sexual harassment is any behavior that includes unwelcome sexual advances
+and other verbal or physical conduct of a sexual nature when:
+
+• submission to, or rejection of, such conduct is used as the basis for
+promotions or other employment decisions;
+
+• the conduct unreasonably interferes with an individual's job performance
+or creates an intimidating, hostile or offensive work environment.
+
+Clear Fund employees are entitled to work in an environment free from
+sexual harassment and a hostile or offensive working environment. We
+recognize sexual harassment as unlawful discrimination, just as conduct
+that belittles or demeans any individual on the basis of race, religion,
+national origin, sexual preference, age, disability, or other similar
+characteristics or circumstances.
+
+No manager or supervisor shall threaten or imply that an employee's refusal
+to submit to sexual advances will adversely affect that person's
+employment, compensation, advancement, assigned duties, or any other term
+or condition of employment or career development. Sexual joking, lewd
+pictures and any conduct that tends to make employees of one gender "sex
+objects" are prohibited.
+
+
+8.3 Policy for Resolving Discrimination and Sexual Harassment Complaints
+
+Employees who have complaints of discrimination or harassment in violation
+of this policy should (and are encouraged to) report such complaints to a
+supervisor. If an employee's supervisor is the cause of the offending
+conduct, or for any reason the employee is uncomfortable reporting such
+complaints directly to a supervisor, the employee may report this matter
+directly to the Compliance Officer or to any member of the Board of
+Directors. The complaint will be promptly and thoroughly investigated.
+Confidentiality of reports and investigations of discrimination and
+harassment will be maintained to the greatest extent possible. Any manager,
+supervisor, or employee who, after appropriate investigation, is found to
+have engaged in discrimination against or harassment of another employee
+will be subject to disciplinary action, up to and including discharge.
+
+If any party directly involved in a discrimination or harassment
+investigation is dissatisfied with the outcome or resolution, that
+individual has the right to appeal the decision to the full Board of
+Directors. The dissatisfied party should submit his or her written comments
+to the Board President.
+
+The Clear Fund will not in any way retaliate against any individual who
+makes a report of discrimination or harassment nor permit any employee to
+do so. Retaliation is a serious violation of this policy and should be
+reported immediately. Any person found to have retaliated against another
+individual for reporting discrimination or harassment will be subject to
+appropriate disciplinary action, up to and including termination.
+
+
+
+
+
+CHAPTER 9.  Communications Policies
+
+
+
+The policies in this chapter set forth policies under which Clear Fund
+staff may communicate on behalf of The Clear Fund.
+
+Note that the Communications Officer must be a non-staff member of the
+Board of Directors.
+
+
+9.1 Official Speaking Engagements
+
+Prior to accepting any official speaking engagement, a Clear Fund staff
+member consults with the Communications Officer about the relevance of the
+engagement and the essentials of the message to be focused on.
+
+Staff may generally only accept an official speaking engagement with the
+Communications Officer's approval.
+
+If a staff member cannot reach the Communications Officer before the
+deadline for accepting an official speaking engagement, the staff member
+may, at his or her discretion, accept the engagement.  In this case, the
+staff member must secure approval from the Communications Officer before
+participating in the official speaking engagement.
+
+
+9.2 Mass Emails
+
+Any email that a Clear Fund staff member sends to ten or more recipients
+must receive prior approval from at least two of the following:
+
+    • Officer-level staff of The Clear Fund.
+
+    • Communications Officer of The Clear Fund.
+
+All emails sent by Clear Fund staff members on behalf of the Clear Fund /
+GiveWell must clearly identify the staff member, including his or her first
+and last name and affiliation with The Clear Fund / GiveWell.
+
+Emails to the Research Feedback Email List
+(http://groups.yahoo.com/group/givewell) are subject to the requirements
+outlined in this section.
+
+
+9.3 Public Internet communication on GiveWell.Net
+
+Content posted to givewell.net and blog.givewell.net is considered to be
+"public Internet communication on GiveWell.net."
+
+All such content must receive approval, prior to posting, from at least two
+of the following:
+
+    • Officer-level staff of The Clear Fund.
+
+    • Communications Officer of The Clear Fund.
+
+Exceptions may be made for minor edits to existing pages.
+
+File uploads to the Clear Fund website are subject to special precautions
+when such files contain (a) information and materials provided by a charity
+other than The Clear Fund; (b) information about Clear Fund Board meetings,
+including audio from such meetings.
+
+All such uploads must be examined by a staff member other than the staff
+member performing the upload, in order to ensure that no confidential
+information is advertently shared.
+
+9.4 Public Internet communication outside of GiveWell.Net
+
+"Public Internet communication outside of GiveWell.net" refers to the
+creation of publicly accessible Internet content that does not appear
+exclusively on the GiveWell.net domain.  All such creation of content by
+GiveWell staff is considered to be "public Internet communication outside
+of GiveWell.net" whether or not it pertains to GiveWell.
+
+All such content must receive approval, prior to posting, from the
+Communications Officer.
+
+
+9.5 Communication with the Media
+
+A person is considered to be a member of the media if he or she is
+regularly paid to provide content for a medium of mass distribution,
+including a radio or television channel, print publication, or website with
+Alexa rank of at least [[ELIE FILL THIS IN]].
+
+A staff member must generally secure the approval of the Communications
+Officer prior to any communication – via email, phone, in-person
+conversation, or any other medium – with a member of the media.
+
+If a staff member cannot reach the Communications Officer before the
+deadline for speaking with a member of the media, the staff member may, at
+his or her discretion, conduct the conversation.  In this case, the staff
+member must review the conversation with the Communications Director and
+gain retroactive approval, after the conversation is completed.
+
+The Communications Officer may, at his or her discretion, designate members
+of the media as "trusted media members" with whom staff may speak without
+further explicit approval.
+
+
+9.6 Contained Communication (Emails and Personal Communication)
+
+The above restrictions shall not apply to contained communications:
+personal discussion with individuals (excluding official speaking
+engagements and communications with members of the media) and emails with
+fewer than 10 recipients.
+
+
+
+
+CHAPTER 10.  Other Policies
+
+
+
+
+10.1 Gifts
+
+
+GiveWell staff may not accept gifts of any kind from organizations or
+employees of organizations that could potentially be recommended charities.
+ Prohibited gifts include, but are not limited to, meals paid for by a
+charity or charity representative.
+
+Exceptions: the following items are excluded from this policy.
+
+    • Materials whose primary purpose is informational in nature, such as
+      annual reports and other publications.
+
+    • Books received for the purpose of book reviews on The GiveWell Blog.
+
+    • Any gift whose value is less than $10
+
+
+10.2 Backing Up Data
+
+
+The Technology Officer is responsible for creating a backup of all high-
+importance electronic files maintained by the Clear Fund, including:
+
+    • All databases and files that comprise the content of GiveWell.net
+    • All accounting- and donor-related records
+    • Key research-related files
+    • Key correspondence
+    • Information on The Clear Fund's contacts
+
+The Technology Officer ensures that these files are backed up every two
+weeks at a minimum, both to a staff member's hard drive and to an external
+location.
+
+The Technology Officer conducts a quarterly test to ensure that backed up
+files are accessible.
+
+10.3 Reserve Assets
+
+
+[Reserve assets policy forthcoming.]
+
+
+
+|Effective Date:                   |Approved:                         |
+|                                  |                                  |
+|                                  |Title:                            |
+
+
+
+
+=== Proposed Amendment to Bylaws ===
+
+
+                   Proposed amendment to Clear Fund Bylaws
+
+
+We propose the following amendment to our Bylaws.  The amendment amends
+Article 3, Section 8, pertaining to regular meetings, in order to set the
+minimum number of official meetings per year at 3 rather than 4.
+
+We intend to continue meeting at least four times per year, but due to the
+geographic dispersion of our Directors, we seek as much flexibility as
+possible to have virtual meetings.  Reducing the number of required
+official meetings effectively reduces the number of required in-person
+meetings, while still being in compliance with the Better Business Bureau's
+standards for charity accountability.
+
+We are also removing the language specifying the dates, times and locations
+of meetings and replacing it with "at the Board's discretion," to reflect
+how we schedule these meetings in practice.
+
+
+Amendment 2 – Regular meetings
+
+
+Article 3, Section 8 is amended to read as follows.  (Changes from the
+original text are underlined.)
+
+Regular meetings of directors shall be held at the Board's discretion.  The
+frequency of the meetings of directors may be no less than 3 meetings
+annually.
+
+A majority of the governing body members (at least 50%, on average) should
+be in attendance. A conference call of the full board can substitute for
+one of the three meetings of the governing body. Proxy attendance is not
+counted for purposes of determining if the charity meets the above
+attendance requirement. For all meetings, alternative modes of
+participation are acceptable for those with physical disabilities.
+
+If this corporation makes no provision for members, then, at the regular
+meeting of directors held in June, directors shall be elected by the board
+of directors. The time of the election of the directors may be changed by
+an act of the board, but must have a specified time for election of
+directors at one scheduled board meeting annually. Voting for the election
+of directors shall be by written ballot. Each director shall cast one vote
+per candidate, and may vote for as many candidates as the number of
+candidates to be elected to the board. The candidates receiving the highest
+number of votes up to the number of directors to be elected shall be
+elected to serve on the board. Board members not attending may vote
+electronically by emailing their vote to the chairperson of the board.
+
+
+=== Proposed Grant Disbursements ===
+
+Summary
+
+We propose to
+
+    • Grant a total of $85,047.10, divided evenly between  VillageReach  and
+      the Stop Tuberculosis Partnership.
+    • Recommend that our donor-advised fund grant  a  total  of  $25,047.89,
+      divided  evenly  between  VillageReach  and  the   Stop   Tuberculosis
+      Partnership
+    • Reserve the right to ask VillageReach  and/or  the  Stop  Tuberculosis
+      Partnership to meet some basic conditions (still to be determined)  in
+      order to receive funds.  In the case of noncompliance,  we  may  grant
+      more to one charity than the other, but in any case will disburse  all
+      of the funds to some combination of the  two  charities  within  three
+      weeks.
+    • Make other recommendations to our  donor-advised  fund  based  on  the
+      preferences of other donors who gave  to  the  fund,  consistent  with
+      http://givewell.net/givewell-advance-donation
+
+
+
+                             Funds to be granted
+
+
+
+Restricted funds
+
+
+As of 6/30/09, we have received $320,817.20 in contributions  earmarked  for
+regranting to recommended charities from our 2008-2009 report.
+
+$250,000 of this  is  earmarked  specifically  for  a  grant  to  a  charity
+focusing on economic empowerment in sub-Saharan  Africa.   As  discussed  in
+Attachment B, we are not yet ready to make this grant.
+
+The remaining $70,817.20 should be granted to outstanding charities as  soon
+as possible.
+
+
+Unrestricted funds
+
+
+As of 6/30/09,  our  unrestricted  reserves  exceed  "needed  reserves"  (as
+defined  in  section  10.3  of  our  Policies  Manual,  Attachment   D)   by
+$14,229.90.  (See Attachment A for details).
+
+
+Donor-advised fund
+
+
+In 2008, we donated $25,000 to our donor-advised fund  (this  was  necessary
+in order to open the account).  Net of taxes and fees,  the  value  of  this
+investment is currently $25,047.89.
+
+Other funds in our donor-advised fund (whose holdings  total  $40,557.47  as
+of 6/30/09) are attributable to outside donors, who hope to  advise  on  the
+distribution of funds as specified at  http://givewell.net/givewell-advance-
+donation
+
+
+                             Choice of Charities
+
+
+As explained  at  http://www.givewell.net/node/447,  we  have  significantly
+more confidence in VillageReach and the Stop Tuberculosis  Partnership  than
+in any other charity.
+
+We feel that making a decision between these  two  would  be  difficult  and
+unnecessary and propose to split the designated funds between  them,  though
+we request approval for tying receipt of funds to basic conditions still  to
+be determined by staff.  If one of  these  charities  fails  to  meet  these
+conditions, we may grant all or most of our funds to the other; however,  we
+will disburse all of our funds to some combination of the two  within  three
+weeks.
+
+
+=== Document ===
+
+Budget Update – See Attachment A for details
+
+Final expenses for FY 2008 (audited financials forthcoming)
+
+                                    [pic]
+
+Final expenses for 1/1/09 – 6/30/09
+
+                                    [pic]
+
+Future budget
+
+Cash reserves
+
+                                    [pic]
+
+Projected expenses
+[pic]
+
+
+How long we could operate with no further revenue
+
+
+                                    [pic]
+
+           Progress and Priorities – see Attachment B for details
+
+On 7/1, we published our 2008-2009 recommendations and reasoning for
+international aid.  Major priorities for the remainder of the year are:
+
+    • Improving and "reality checking" the content of our 2008-2009 report
+         o Getting and responding to feedback on the report
+         o Researching and awarding a $250,000 grant for economic
+           empowerment in sub-Saharan Africa
+         o Adding optional but valuable content to our existing report,
+           largely by managing new hires
+         o Visiting the field operations of our top charities
+    • Pursuing new sources of funding for operating expenses (foundations
+      and fellowships)
+    • Annual self-evaluation and formal plan for our next year
+    • Improving the packaging and presentation of our research
+
+      Report on Professional Development – see Attachment C for details
+
+At our 11/10/2008 meeting, we agreed that:
+
+    • The co-Founders and senior staff of GiveWell – and in particular
+      Holden Karnofsky, the hopeful Executive Director – lack life and
+      business experience, and would benefit from a professional development
+      effort: a concerted effort to learn from those who have such
+      experience.
+    • The most promising approach to professional development is through
+      mentor relationships with GiveWell supporters.
+    • Formal programs appear to hold little promise, although highly
+      competitive programs (specifically Ashoka, Draper Richards and Echoing
+      Green) may be worth applying to.
+
+Since then, we have developed a set of mentor relationships, as well as
+looking into (but ultimately, to this point, not pursuing) other options.
+We now feel that:
+
+    • We have complied with the Board's decision and have substantially
+      improved our ability (and tendency) to get feedback from more
+      experienced people.
+    • Holden Karnofsky and Elie Hassenfeld should be named co-Executive
+      Directors, primarily for reasons of transparency (they have been
+      filling these roles "de facto" throughout GiveWell's existence).
+      Certain forms, particularly grant applications, request the name of
+      the Executive Director, and we have had to respond that we have none.
+
+           Update on Corporation name – see Attachment E for more
+
+[REDACTED TO MAINTAIN CONFIDENTIALITY]
+
+ Proposed Amendment to Bylaws – see Attachment F for full text of amendment
+
+We propose an amendment to our Bylaws.  The amendment amends Article 3,
+Section 8, pertaining to regular meetings, in order to set the minimum
+number of official meetings per year at 3 rather than 4.
+
+We intend to continue meeting at least four times per year, but due to the
+geographic dispersion of our Directors, we seek as much flexibility as
+possible to have virtual meetings.  Reducing the number of required
+official meetings effectively reduces the number of required in-person
+meetings, while still being in compliance with the Better Business Bureau's
+standards for charity accountability.
+
+We are also removing the language specifying the dates, times and locations
+of meetings and replacing it with "at the Board's discretion," to reflect
+how we schedule these meetings in practice.
+
+         Proposed Grant Disbursements – see Attachment G for details
+
+We propose to
+
+    • Grant a total of $85,047.10, divided evenly between  VillageReach  and
+      the Stop Tuberculosis Partnership.
+    • Recommend that our donor-advised fund grant  a  total  of  $25,047.89,
+      divided  evenly  between  VillageReach  and  the   Stop   Tuberculosis
+      Partnership.
+    • Make other recommendations to our  donor-advised  fund  based  on  the
+      preferences of other donors who gave  to  the  fund,  consistent  with
+      http://givewell.net/givewell-advance-donation
+     Proposed Policies for Adoption – see Attachment D for full proposed
+                               policies manual
+
+
+CHAPTER 7.  Governance
+
+
+
+The Board of Directors of The Clear Fund is committed to providing
+effective financial oversight, including having made financial decisions
+that further The Clear Fund’s mission, program and goals.   To that end,
+the Board has adopted the following charters and policies:
+
+      • Finance and Audit Responsibilities of the Board of Directors
+
+      • Code of Ethics
+
+      • Conflict of Interest Policy
+
+      • Whistleblower Policy
+
+
+
+
+
+      7.1 Finance and Audit Responsibilities of the Board of Directors
+
+The Treasurer of the Board of Directors directs the finance and audit
+oversight functions.  The Treasurer takes the lead in reviewing and
+recommending internal accounting and financial controls, practices, and
+procedures for The Clear Fund.  The Treasurer makes recommendations to the
+full board on these issues.
+
+Board of Directors’ fiscal responsibilities
+
+The Board of Directors of The Clear Fund exercises its financial oversight
+to fulfill the following responsibilities:
+
+      • The Board approves the fiscal policies of The Clear Fund.  Policies
+        are adopted by the Board and annually updated.
+
+      • The Board is aware and knowledgeable of its fiscal
+        responsibilities.
+
+      • The Board reviews and approves The Clear Fund’s annual budget.  The
+        Board reviews and approves operating, cash, and capital budgets for
+        The Clear Fund annually.
+
+      • The Board monitors key variances between The Clear Fund budget and
+        the current financial reports on a regular basis.  The Treasurer of
+        the Board receives and reviews variance reports, and reports to the
+        Board.
+
+      • The Board approves large expenditures in excess of $25,000.  The
+        Clear Fund establishes a threshold amount on purchases for which
+        Board approval is required.
+
+           Board Treasurer's fiscal responsibilities
+
+   The Board Treasurer commits to:
+
+      • Inquire about significant risks or exposures facing the
+        organization; assess the steps management has taken or proposes to
+        take to minimize such risks; and periodically review compliance
+        with such steps.
+
+      • Review the adequacy of the organization’s internal controls
+        including computerized information system controls and security.
+
+      • Review procedures for receipt, retention and treatment of
+        complaints regarding accounting, internal controls, or auditing
+        matters by any party internal or external to the organization
+        (whistleblower policy).
+
+      • Review policies and procedures with respect to officers’ expense
+        accounts.
+
+   Audit Responsibilities
+
+   The Board Treasurer commits to:
+
+      • Review and evaluate the performance of the independent auditors and
+        review with the full board of directors any proposed discharge of
+        the independent auditors.
+
+      • Review the financial statements, audit of the financial statements,
+        judgments about the quality (not just acceptability) of
+        organization’s accounting principles, significant changes required
+        in the audit plan, and serious difficulties with management during
+        the audit.
+
+      • Review all material written communications between the independent
+        auditors and management, such as the management letter.
+
+      • Review legal and regulatory matters that may have a material impact
+        on the financial statements.
+
+      • Conduct executive sessions with the outside auditors, outside
+        counsel, and anyone else as desired by the Board of Directors.
+
+
+
+
+                             7.2 Code of Ethics
+
+   1. All of our activities are focused on our mission of providing
+      information to donors in order to help them accomplish as much good as
+      possible with their donations.
+
+   2. We are truthful in our broadcast, print and direct mail advertising,
+      using actual, current case histories and photography with honest
+      statements of purpose. We neither minimize nor overstate the human
+      needs of those whom we and/or our reviewed charities assist.
+
+   3. We are committed to spending the maximum amount of available resources
+      for the purposes for which they were given.
+
+   4. We will neither sell nor exchange, with any other agency or commercial
+      enterprise, the information of sponsors and contributors on our
+      mailing lists.
+       
+   5. We support financial reporting in accordance with the requirements of
+      the American Institute of Certified Public Accountants and will
+      publish and disclose on request to any person, agency or the media our
+      complete and independently audited financial statements.
+
+   6. We refuse to engage in fundraising methods that are intimidating,
+      harassing or misleading, that are not subject to adequate control, or
+      that create an undue sense of obligation such as mailing unsolicited
+      merchandise or canisters; paid canvassing; telephone solicitation to
+      the general public; combining appeals with commercial sales which do
+      not define specific benefits to the agency; conducting misleading
+      campaigns or events; and paying for or making use of insincere
+      endorsements.
+
+   7. We make economical and judicious use of all methods of fundraising,
+      including direct mail, broadcast and print advertising.
+
+   8. We demonstrate respect for the integrity, pride, beliefs and culture
+      of the people whom we and/or our reviewed charities serve, respecting
+      their dignity. We will not denigrate them in our advertising and
+      promotion.
+
+   9. Our objective in all our efforts is to further the good of the
+      children, their families and communities who are in need; and to
+      increase the goodwill and support of our constituents and the public
+      on the one hand, and of the people and governments of the nations we
+      and our reviewed charities serve on the other.
+
+  10. We are governed by a Board of Directors, serving without compensation,
+      operating under bylaws ensuring adequate voting trusteeship, and whose
+      members have no financial or other conflict of interest with the goals
+      of the organization. We receive and act upon critical advice from an
+      Advisory board, comprised of prominent experts from around the world,
+      in various fields of activity.
+
+  11. We are committed to a policy and practice of full public disclosure of
+      all relevant information concerning agency goals, programs, finances
+      and governance.
+
+                       7.3 Conflict of Interest Policy
+
+
+
+
+The Clear Fund's Conflict of Interest Policy is included in Article 9 of
+its bylaws.
+
+
+
+
+                          7.4 Whistleblower Policy
+
+           Background
+
+The Sarbanes-Oxley Act of 2002, Section 1107, Retaliation Against
+Informants, applies to all companies, public or private.  It states that it
+is illegal to retaliate against a “whistleblower.”  It is in an
+organization’s best interest to have a policy that provides clear
+procedures for handling whistleblower complaints.  Proper handling of such
+complaints will help protect organizations from being accused of
+retaliation against whistleblowers.  Such a policy, to be effective, must
+be circulated to all employees and board members.  It is recommended the
+Board review and adopt a Whistleblower Policy.
+
+           General
+
+The Clear Fund’s Code of Ethics and Conduct (“Code”) requires directors,
+officers and employees to observe high standards of business and personal
+ethics in the conduct of their duties and responsibilities. As employees
+and representatives of The Clear Fund, we must practice honesty and
+integrity in fulfilling our responsibilities and comply with all applicable
+laws and regulations.
+
+           Reporting Responsibility
+
+It is the responsibility of all directors, officers and employees to comply
+with the Code and to report violations or suspected violations in
+accordance with this Whistleblower Policy.
+
+           No Retaliation
+
+No director, officer or employee who in good faith reports a violation of
+the Code shall suffer harassment, retaliation or adverse employment
+consequence. An employee who retaliates against someone who has reported a
+violation in good faith is subject to discipline up to and including
+termination of employment. This Whistleblower Policy is intended to
+encourage and enable employees and others to raise serious concerns within
+The Clear Fund prior to seeking resolution outside the agency.
+
+           Reporting Violations
+
+The Code addresses The Clear Fund’s open door policy and suggests that
+employees share their questions, concerns, suggestions or complaints with
+someone who can address them properly. In most cases, an employee’s
+supervisor is in the best position to address an area of concern. However,
+if you are not comfortable speaking with your supervisor or you are not
+satisfied with your supervisor’s response, you are encouraged to speak with
+anyone in management or on the Board of Directors whom you are comfortable
+in approaching. Supervisors and managers are required to report suspected
+violations of the Code of Conduct to The Clear Fund’s Compliance Officer,
+who has specific and exclusive responsibility to investigate all reported
+violations. For suspected fraud, or when you are not satisfied or
+uncomfortable with following The Clear Fund’s open door policy, individuals
+should contact The Clear Fund’s Compliance Officer directly.
+
+           Compliance Officer
+
+The Clear Fund’s Compliance Officer is responsible for investigating and
+resolving all reported complaints and allegations concerning violations of
+the Code and, at his discretion, shall advise the Executive Director and/or
+the Executive Committee. The Compliance Officer has direct access to the
+Executive Committee of the board of directors and is required to report to
+the Executive Committee at least annually on compliance activity.
+
+           Accounting and Auditing Matters
+
+The Executive Committee of the board of directors shall address all
+reported concerns or complaints regarding accounting practices, internal
+controls or auditing. The Compliance Officer shall immediately notify the
+Executive Committee of any such complaint and work with the committee until
+the matter is resolved.
+
+           Acting in Good Faith
+
+Anyone filing a complaint concerning a violation or suspected violation of
+the Code must be acting in good faith and have reasonable grounds for
+believing the information disclosed indicates a violation of the Code. Any
+allegations that prove not to be substantiated and which prove to have been
+made maliciously or knowingly to be false will be viewed as a serious
+disciplinary offense.
+
+           Confidentiality
+
+Violations or suspected violations may be submitted on a confidential basis
+by the complainant or may be submitted anonymously. Reports of violations
+or suspected violations will be kept confidential to the extent possible,
+consistent with the need to conduct an adequate investigation.
+
+           Handling of Reported Violations
+
+The Compliance Officer will notify the sender and acknowledge receipt of
+the reported violation or suspected violation within five business days.
+All reports will be promptly investigated and appropriate corrective action
+will be taken if warranted by the investigation.
+
+
+
+CHAPTER 8.  Employment Policies
+
+
+
+The Board of Directors of The Clear Fund is committed to providing a
+productive work environment that furthers The Clear Fund’s mission, program
+and goals.   To that end, the Board has adopted the following charters and
+policies:
+
+      • Equal Employment Opportunity Policy
+
+      • Sexual Harassment Policy
+
+      • Policy for Resolving Discrimination and Sexual Harassment
+        Complaints
+
+
+
+
+
+                   8.1 Equal Employment Opportunity Policy
+
+Our company is committed to the principles of Equal Employment Opportunity
+and is committed to making employment decisions based on merit and value.
+We are committed to complying with all Federal, State, and local laws
+providing Equal Employment Opportunities, as well as all laws related to
+terms and conditions of employment. We desire to keep a work environment
+which is free of harassment or discrimination because of sex, race,
+religion, color, national origin, sexual orientation, physical or mental
+disability, marital status, age or any other status protected by Federal,
+State or local laws.  We value diversity and are willing to employ men and
+women of all ethnic and racial groups, ranging in age from the teens to the
+sixties and older, and representing a broad spectrum of religions and
+national origins.  The company will make every reasonable effort to
+accommodate those physical or mental limitations of an otherwise qualified
+employee, unless undue hardship would result for the company.
+
+Just as the company bears a responsibility towards this policy, each of us
+must clearly communicate our disinterest in, or offense taken to, any
+perceived verbal or physical discrimination or harassment.  We are all
+responsible for upholding this Equal Employment Opportunity policy and
+commitment.  Equal Employment Opportunity laws afford each one of us the
+chance to succeed or fail based on individual merit.
+
+                        8.2 Sexual Harassment Policy
+
+The Clear Fund prohibits sexual harassment of its employees and applicants
+for employment by any employee, non-employee or applicant. Such conduct may
+result in disciplinary action up to and including discharge. This policy
+covers all employees. The Clear Fund will not tolerate, condone or allow
+sexual harassment, whether engaged in by fellow employees, supervisors,
+associates, clients or other non-employees who conduct business with the
+Clear Fund.
+
+Sexual harassment is any behavior that includes unwelcome sexual advances
+and other verbal or physical conduct of a sexual nature when:
+
+• submission to, or rejection of, such conduct is used as the basis for
+promotions or other employment decisions;
+
+• the conduct unreasonably interferes with an individual's job performance
+or creates an intimidating, hostile or offensive work environment.
+
+Clear Fund employees are entitled to work in an environment free from
+sexual harassment and a hostile or offensive working environment. We
+recognize sexual harassment as unlawful discrimination, just as conduct
+that belittles or demeans any individual on the basis of race, religion,
+national origin, sexual preference, age, disability, or other similar
+characteristics or circumstances.
+
+No manager or supervisor shall threaten or imply that an employee's refusal
+to submit to sexual advances will adversely affect that person's
+employment, compensation, advancement, assigned duties, or any other term
+or condition of employment or career development. Sexual joking, lewd
+pictures and any conduct that tends to make employees of one gender "sex
+objects" are prohibited.
+
+
+  8.3 Policy for Resolving Discrimination and Sexual Harassment Complaints
+
+Employees who have complaints of discrimination or harassment in violation
+of this policy should (and are encouraged to) report such complaints to a
+supervisor. If an employee's supervisor is the cause of the offending
+conduct, or for any reason the employee is uncomfortable reporting such
+complaints directly to a supervisor, the employee may report this matter
+directly to the Compliance Officer or to any member of the Board of
+Directors. The complaint will be promptly and thoroughly investigated.
+Confidentiality of reports and investigations of discrimination and
+harassment will be maintained to the greatest extent possible. Any manager,
+supervisor, or employee who, after appropriate investigation, is found to
+have engaged in discrimination against or harassment of another employee
+will be subject to disciplinary action, up to and including discharge.
+
+If any party directly involved in a discrimination or harassment
+investigation is dissatisfied with the outcome or resolution, that
+individual has the right to appeal the decision to the full Board of
+Directors. The dissatisfied party should submit his or her written comments
+to the Board President.
+
+The Clear Fund will not in any way retaliate against any individual who
+makes a report of discrimination or harassment nor permit any employee to
+do so. Retaliation is a serious violation of this policy and should be
+reported immediately. Any person found to have retaliated against another
+individual for reporting discrimination or harassment will be subject to
+appropriate disciplinary action, up to and including termination.
+
+
+
+
+=== Agenda ===
+
+Clear Fund Board of Directors
+                        Meeting Agenda for 7/27/2009
+
+1. Introductions.  5 minutes.
+
+2. Elections. 15 minutes.
+
+
+ • Bob Elliott has resigned as President.  Tom Rutledge, as Vice-President,
+   is now Acting President.
+ • We propose:
+ • Election of Tom Rutledge as Board President.
+ • Election of Lindy Miller as Board Vice-President.
+ • Transfer of Board Treasurer role from Greg Jensen to Ari Herman.
+ • Election of Jon Behar as Director.
+
+3. Vote on proposed amendment to bylaws.  Allow 5 minutes.  See Attachment
+   F.
+
+
+4. Report on professional development.  Allow 15 minutes.  See Attachment
+   C.
+
+5. Update on Corporation's Name.  Allow 15 minutes.  See Attachment E.
+
+
+6. Approval of Policies Manual.  Allow 30 minutes.  See Attachment D.
+
+Proposed assignments for new positions:
+ • Co-Executive Directors: Holden Karnofsky and Elie Hassenfeld
+ • Manager of Finance: Holden Karnofsky
+ • Employment Officer: Elie Hassenfeld
+ • Technology Officer: Elie Hassenfeld
+ • Compliance Officer: Lindy Miller
+ • Communications Officer: Tim Ogden
+
+7. Update on progress and priorities.  Allow 30 minutes.  See Attachment B.
+
+
+8. Budget approval, not including grant disbursements. Allow 30 minutes.
+   See Attachment A.
+
+
+9. Grant disbursements.  Allow 30 minutes.  See Attachment G.
+
+
+                    Total projected meeting time: 3 hours
+
+Attachments:
+   A. Budget update
+   B. Progress and priorities
+   C. Report on professional development
+   D. Policies manual
+   E. Update on Corporation's Name
+   F. Proposed amendment to bylaws
+   G. Proposed grant disbursements
+
+
+
+Generate a comprehensive summary (approximately 1000 words):

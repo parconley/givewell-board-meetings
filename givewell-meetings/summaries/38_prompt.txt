@@ -1,0 +1,1187 @@
+Based on the following board meeting documents for a Clear Fund Board Meeting held on April 30, 2019, generate a comprehensive ~1000-word summary that acts as a professional brief.
+
+The summary should cover:
+- Key decisions made and votes taken
+- Important discussions and debates
+- Financial/budget information with specific numbers
+- Strategic direction or policy changes
+- Personnel or organizational changes
+- Any significant outcomes or action items
+
+Keep the tone professional and factual. Focus on substance over process. Be specific with numbers, names, and decisions.
+
+Meeting Documents:
+=== Minutes ===
+Minutes	for	the	April	30,	2019	Meeting	of	The	Clear	Fund	(dba	GiveWell)	Board	of	Directors		A	meeting	of	the	Board	of	Directors	("Board")	of	The	Clear	Fund	dba	GiveWell	("GiveWell")	was	held	on	April	30,	2019	at	10:00	am	Pacific	Time,	via	conference	call.	Notice	was	duly	and	timely	given	to	each	member	of	the	Board.			The	following	members	of	the	Board	were	present	(in	person	unless	otherwise	noted):		• Elie	Hassenfeld	• Holden	Karnofsky	• Cari	Tuna	• Tim	Ogden	• Julia	Wise	(via	conference	call)		The	following	individual	was	also	present:		• Whitney	Shinkle,	Director	of	Operations,	GiveWell		Tim	called	the	meeting	to	order.		2018	in	review	and	2019	plans	discussed			Elie	led	a	discussion	on	GiveWell's	progress	in	2018	and	its	plans	for	2019.	Topics	included,	but	were	not	limited	to:		• New	areas	of	research	• Expansion	of	outreach	efforts,	including	recent	hires	• Organizational	strengthening	and	expansion		Votes	on	administrative	Items		Whitney	introduced	a	proposal	for	a	vote	by	the	Board	(Attachment	A).	The	proposal	covered	five	administrative	items,	including:		• A	proposal	to	reduce	the	size	of	the	Board	to	five	members	• Appointing	new	Board	officials,	with	Tim	Ogden	becoming	Chair	and	Holden	Karnofsky	Vice	Chair	• Appointing	new	GiveWell	staff	officers,	with	Natalie	Crispin	becoming	Vice	President	and	Treasurer	and	Whitney	Shinkle	becoming	Secretary	and	Vice	Treasurer	• A	proposal	to	dissolve	several	Board	committees	and	appoint	members	to	the	remaining	Audit	Subcommittee	• A	proposal	to	ratify	several	prior	decisions	of	the	Board	
+
+	The	vote	passed	unanimously.		Update	on	GiveWell's	financial	planning	and	staffing		Whitney	provided	the	board	with	an	update	on	GiveWell's	financial	processes.	Topics	included,	but	were	not	limited	to:		• Accounting	• Financial	analytics	• Work	with	a	consulting	CFO		Staff	feedback	and	review	of	Elie's	performance		Elie	led	a	discussion	of	GiveWell	staff	feedback	on	his	performance,	detailed	in	Attachment	E.			Q	&	A	about	2018	review	and	2019	plans			Elie	led	additional	discussion	of	material	related	to	the	following	documents:		• Draft	of	2018	review	blog	post	(Attachment	B)	• Draft	of	2018	detailed	progress	report	(Attachment	C)	• Draft	of	2019	plan	blog	post	(Attachment	D)	
+
+=== Attachment A ===
+Administrative Items for Vote  
+ 
+*Note that directors are being asked to vote collectively on all of the following five items (A -E). 
+ 
+A. Size of the GiveWell Board  
+WHEREAS, several directors of the board of directors of The Clear Fund d/b/a GiveWell 
+(“GiveWell”) have resigned; and  
+ 
+WHEREAS, the remaining directors determine it to be in the best interests of the organization 
+to reduce the size of the board;  
+ 
+NOW, THEREFORE, BE IT RESOLVED, that t he Board of Directors (“Board”) of GiveWell  
+hereby determines the size of the GiveWell board of directors to be five (5) members.  
+ 
+FURTHER RESOLVED, that the Board hereby authorizes the officers of GiveWell to do and 
+perform all such further acts and to e xecute such documents as shall be necessary or advisable in 
+order to carry out the foregoing resolutions.  
+ 
+ 
+B. Board of Directors - Officials  
+WHEREAS, several directors of GiveWell’s  Board  have resigned; and  
+ 
+WHEREAS, one of the directors to resign was the Chair of the board of directors; and  
+ 
+WHEREAS, the Vice Chair of the board of directors has agreed to fulfill the role of Chair; and  
+ 
+WHEREAS the board of directors determines it to be in the best interests  of the organization to 
+elect a new Vice Chair to continue to preserve operational continuity;  
+ 
+NOW, THEREFORE, BE IT RESOLVED, that the Board of Directors (“Board”) of The 
+Clear Fund d/b/a GiveWell (“GiveWell”) hereby elects the following persons to act in official 
+capacity on behalf of the board of directors:  
+Tim Ogden, Chair of the board of directors  
+Holden Karnofsky , Vice Chair of the board of directors  
+ 
+FURTHER RESOLVED, that each of these directors shall continue to hold  these positions 
+until his successor is elected and qualifies, or until his or her earlier death, resignation, or 
+removal.  
+ 
+FURTHER RESOLVED, that the Board hereby authorizes the officers of GiveWell to do and 
+perform all such further acts and to execute such documents as shall be necessary or advisable in 
+order to carry out the foregoing resolutions.  
+ 
+ 
+C. GiveWell – Officers  
+WHEREAS, GiveWell’s Board  has determined that  the actions required of GiveWell officers ar e 
+currently being implemented by staff; and  
+
+ 
+WHEREAS, it is in the best interests of the organization for these duties to be implemented 
+consistently  by those persons who are already effectively undertaking them ;  
+ 
+NOW, THEREFORE, BE IT RESOLVED, that the Board hereby appoints the following 
+persons to act as these specified officers of the organization:  
+ Natalie Crispin, Vice President and Treasurer  
+ Whitney Shinkle, Secretary  and Vice Treasurer  
+ 
+FURTHER RESOLVED, th at because it is not allowable for an individual to hold the roles of 
+both President and Treasurer, and it is foreseeable that the Vice President may at some point 
+have to act as President, the Vice Treasurer shall immediately take on the role of Treasurer  
+should the Vice President be called upon to act as President.  
+ 
+FURTHER RESOLVED, that each of these officers shall continue to hold these positions until 
+her successor is appointed, or until her earlier death, resignation, or removal.  
+ 
+FURTHER RESOLVED, t hat the Board hereby authorizes the officers of GiveWell to do and 
+perform all such further acts and to execute such documents as shall be necessary or advisable in 
+order to carry out the foregoing resolutions.  
+ 
+ 
+D. Board Committees  
+WHEREAS, several directors of GiveWell’s Board  have resigned; and  
+ 
+WHEREAS, the remaining number of directors makes it impractical  to have multiple separate 
+committees to address administrative matters;  
+ 
+NOW, THEREFORE, BE IT RESOLVED, that the Board hereby dissolves the following 
+committees:  
+• Finance Subcommittee  
+• Strategy Subcommittee  
+• Grant -making Subcommittee  
+ 
+FURTHER RESOLVED, that  the following di rectors are appointed to  sit on the remaining 
+committee, the Audit Subcommittee:  
+• Tim Ogden  
+• Julia Wise  
+• Holden Karnofsky  
+ 
+FURTHER RESOLVED, that the Board hereby authorizes the officers of GiveWell to do and 
+perform all such further acts and to execute such documents as shall be necessary or advisable in 
+order to carry out the foregoing resolutions.  
+  
+ 
+E. Prior Decisions of the Board  
+
+WHEREAS, GiveWell’s Board approved a revision of the bylaws in December 2018 to 
+clarify, update, and streamline this governance do cument, and 
+ 
+WHEREAS, this revision result ed in the removal of language related to certain past board 
+decisions that were deemed unnecessary or inappropriate for inclusion in the bylaws, but 
+which the board would like to retain as internal guidance,  
+ 
+NOW, THEREFORE, BE IT RESOLVED, that the Board  confirms its approval of the 
+following past decisions and directs GiveWell management to record them as internal policy 
+directions:  
+ 
+1. Board Meetings  
+ 
+Regular meetings of directors shall be held at the Board's d iscretion. The frequency of the meetings of 
+directors may be no less than 3 meetings annually.  
+ 
+ 
+2. Duties of Directors  
+ 
+It shall be the duty of the directors to:  
+ 
+1. Formally review the performance of the chief executive officer at least once every two yea rs. 
+ 
+2. Formally approve the budget.  
+ 
+3. Ensure that arrangements with outside fund raising firms are made in writing.  
+ 
+4. Receive information (for example, a written summary) about the financial arrangements with such 
+firms and, if applicable, the anticip ated portion of the gross proceeds that goes to the charity.  
+ 
+5. Formally approve a conflict of interest policy and monitor it to ensure adherence,  
+appoint a voting member of the board (e.g., treasurer, finance committee chair, or some similar title) to 
+oversee the charity’s finances and report to the board.  
+ 
+6. Ensure that no person holds the offices of both chair and treasurer at the same time.  
+ 
+7. Receive and review, on an annual basis, each of the following applicable items:  
+a. the charity's IRS Form 990  
+b. the charity's audited financial statement  
+c. auditor's management letter (if one is issued)  
+d. if there is no audited statement, then th e charity's unaudited financial statement  
+ 
+8. Perform any and all duties imposed on them collectively or individually by law, by the articles of 
+incorporation, or by these bylaws.  
+ 
+9. Appoint and remove, employ and discharge, and, except as otherwise prov ided in these bylaws, 
+prescribe the duties and fix the compensation, if any, of all officers, agents, and employees of the 
+corporation.  
+
+ 
+10. Meet at such times and places as required by these bylaws.  
+ 
+11. Register their addresses with the secretary of the corporation, and notices of meetings mailed or 
+telegraphed to them at such addresses shall be valid notices thereof.  
+ 
+ 
+3. Executive Director Authority Regarding Checks and Notes  
+ 
+Except as otherwise specifically determined by resolution of the board of directors, or as otherwise required 
+by law, the executive director shall be authorized to sign checks, drafts, promissory notes, orders for the 
+payment of money, and other evidence o f indebtedness of the corporation that represent unbudgeted expenses 
+in amounts of up to 10% of the previously board -approved 12 month expenses for GiveWell. All expenses 
+exceeding such amounts shall be approved by the audit committee of the board.  
+ 
+The Ex ecutive Director may delegate authority to sign checks and notes to any employee of GiveWell. The 
+Executive Director remains responsible for ensuring that all such checks and notes follow the applicable 
+requirements laid out elsewhere in these By -Laws.  
+ 
+4. Compensation Approval Policies  
+ 
+Section 1. Compensation Approval Policies   
+ 
+A voting member of the governing board who receives compensation, directly or indirectly, from the 
+corporation for services is precluded from voting on matters pertaining to that member's compensation.  
+ 
+A voting member of any committee whose jurisdiction includes compensation matters and who receives 
+compensation, directly or indirectly, from the corporation for services is precluded from voting on matters 
+pertaining to that member's compensation.  
+ 
+No voting member of the governing board or any committee whose jurisdiction includes compensation 
+matters and who receives compensation, directly or indirectly, from the corporation, either individually or 
+collectively, is prohibited from providing information to any committee regarding compensation.  
+ 
+When appr oving compensation for directors, officers and employees, contractors, and any other 
+compensation contract or arrangement, in addition to complying with the corporation’s conflict of interest 
+requirements and policies, the board or a duly constituted compe nsation committee of the board shall also 
+comply with the following additional requirements and procedures:  
+ 
+a. The terms of compensation shall be approved by the board or compensation committee prior to the first 
+payment of compensation,  
+ 
+b. All members  of the board or compensation committee who approve compensation arrangements must 
+not have a conflict of interest with respect to the compensation arrangement as specified in IRS 
+Regulation Section 53.4958 -6(c)(iii), which generally requires that each boa rd member or committee 
+member approving a compensation arrangement between this organization and a "disqualified person" 
+(as defined in Section 4958(f)(1) of the Internal Revenue Code and as amplified by Section 53.4958 -3 
+of the IRS Regulations):  
+
+ 
+1. is n ot the person who is the subject of the compensation arrangement, or a family member of such 
+person;  
+ 
+2. is not in an employment relationship subject to the direction or control of the person who is the subject 
+of the compensation arrangement;  
+ 
+3. does not receive compensation or other payments subject to approval by the person who is the subject of 
+the compensation arrangement;  
+ 
+4. has no material financial interest affected by the compensation arrangement; and  
+ 
+5. does not approve a transaction pr oviding economic benefits to the person who is the subject of the 
+compensation arrangement, who in turn has approved or will approve a transaction providing benefits to 
+the board or committee member.  
+ 
+c. The board or compensation committee shall obtain an d rely upon appropriate data as to comparability 
+prior to approving the terms of compensation. Appropriate data may include the following:  
+ 
+1. Compensation levels paid by similarly situated organizations, both taxable and tax -exempt, for 
+functionally comp arable positions. "Similarly situated" organizations are those of a similar size, purpose, 
+and with similar resources.  
+ 
+2. The availability of similar services in the geographic area of this organization.  
+ 
+3. Current compensation surveys compiled by indepe ndent firms.  
+ 
+4. Actual written offers from similar institutions competing for the services of the person who is the 
+subject of the compensation arrangement.  
+ 
+As allowed by IRS Regulation 4958 -6, if this organization has average annual gross receipts (inc luding 
+contributions) for its three prior tax years of less than $1 million, the board or compensation committee 
+will have obtained and relied upon appropriate data as to comparability if it obtains and relies upon data 
+on compensation paid by three compar able organizations in the same or similar communities for similar 
+services.  
+ 
+d. The terms of compensation and the basis for approving them shall be recorded in written minutes of the 
+meeting of the board or compensation committee that approved the compens ation. Such documentation 
+shall include:  
+ 
+1. The terms of the compensation arrangement and the date it was approved.  
+ 
+2. The members of the board or compensation committee who were present during debate on the 
+transaction, those who voted on it, and the v otes cast by each board or committee member.  
+ 
+3. The comparability data obtained and relied upon and how the data was obtained.  
+ 
+
+4. If the board or compensation committee determines that reasonable compensation for a specific position 
+in this organization or for providing services under any other compensation arrangement with this 
+organization is higher or lower than the range of comparability data obtained, the board or committee 
+shall record in the minutes of the meeting the basis for its determination.  
+ 
+5. If the board or committee makes adjustments to  comparability data due to geographic area or other 
+specific conditions, these adjustments and the reasons for them shall be recorded in the minutes of the 
+board or committee meeting.  
+ 
+6. Any actions taken with respect to determining if a board or committ ee member had a conflict of 
+interest with respect to the compensation arrangement, and if so, actions taken to make sure the member 
+with the conflict of interest did not affect or participate in the approval of the transaction (for example, a 
+notation in t he records that after a finding of conflict of interest by a member, the member with the conflict 
+of interest was asked to, and did, leave the meeting prior to a discussion of the compensation arrangement 
+and a taking of the votes to approve the arrangemen t).  
+ 
+7. The minutes of board or committee meetings at which compensation arrangements are approved must 
+be prepared before the later of the date of the next board or committee meeting or 60 days after the final 
+actions of the board or committee are taken with respect to the approval of the compensation 
+arrangements. The minutes must be reviewed and approved by the board and committee as reasonable, 
+accurate, and complete within a reasonable period thereafter, normally prior to or at the next board or 
+commi ttee meeting following final action on the arrangement by the board or committee.  
+ 
+Section 2. Annual Statements   
+ 
+Each director, principal officer, and member of a committee with governing board delegated powers shall 
+annually sign a statement which affir ms such person:  
+a. has received a copy of the conflicts of interest policy,  
+b. has read and understands the policy,  
+c. has agreed to comply with the policy, and  
+d. understands the corporation is charitable and in order to maintain its federal tax exemp tion it must 
+engage primarily in activities which accomplish one or more of its tax -exempt purposes.  
+ 
+Section 3. Periodic Reviews   
+ 
+To ensure the corporation operates in a manner consistent with charitable purposes and does not engage 
+in activities that c ould jeopardize its tax -exempt status, periodic reviews shall be conducted. The periodic 
+reviews shall, at a minimum, include the following subjects:  
+a. Whether compensation arrangements and benefits are reasonable, based on competent survey 
+information, and the result of arm's -length bargaining.  
+b. Whether partnerships, joint ventures, and arrangements with management organizations conform to 
+the corporation's written policies, are properly recorded, reflect reasonable investment or payments for 
+goods an d services, further charitable purposes, and do not result in inurement, impermissible private 
+benefit, or in an excess benefit transaction.  
+ 
+Section 4. Use of Outside Experts   
+ 
+
+When conducting the periodic reviews as provided for in Section 3, the corporation may, but need not, use 
+outside advisors. If outside experts are used, their use shall not relieve the governing board of its 
+responsibility for ensuring periodic reviews are  conducted.  
+ 
+FURTHER RESOLVED, that the Board hereby authorizes the officers of GiveWell to do and 
+perform all such further acts and to execute such documents as shall be necessary or advisable in 
+order to carry out the foregoing resolutions.  
+ 
+ 
+These actions collectively taken by the board of directors on April 30, 2019.  
+
+=== Attachment B ===
+4/24/2019 [Draft] Review of GiveW ell's work in 2018 - The GiveW ell Blog
+https://blog.givewell.or g/?p=1 1977&preview=true 1/5The GiveWell Blog
+[Draft] Review of GiveWell’s
+work in 2018
+April 24, 2019 (updated on: April 24, 2019) | by Catherine Hollander
+2018 was a successful year for GiveWell. We achieved most of
+our goals, our money moved (donations made to our
+recommended charities due our research) increased
+signiﬁcantly, and, GiveWell raised more money for our
+operations than we spent; we remain in a strong ﬁnancial
+position.
+Each year, we look back at the goals we set the previous year
+and reﬂect on how our progress compared to our expectations.
+This post will brieﬂy discuss our key achievements and failures
+in 2018. We describe in detail our progress on the goals we
+outlined in 2018 here.
+In 2018, we:Recent Blog Posts
+Want to stay updated on
+GiveWell's research? Read
+our blog or follow us by
+email, Facebook, Twi er, or
+RSS.
+Allocation of
+discretionary
+funds from Q4
+2018
+March 2019 open
+thread
+What is it like to
+work at
+GiveWell?
+Announcing a call
+for grant
+applicants in
+Southeast Asia
+and Bangladesh     
+ 
+GIVING EFFECTIVELY HOW WE WORK TOP CHARITIES RESEARCH OUR MISTAKES
+ABOUT UPDATESDONATE
+HOME
+Previous Post
+
+4/24/2019 [Draft] Review of GiveW ell's work in 2018 - The GiveW ell Blog
+https://blog.givewell.or g/?p=1 1977&preview=true 2/5Key achievements
+Outreach and operations
+We made two key senior hires in 2018: (1) Whitney Shinkle, who
+joined us in April as our new Director of Operations, and (2) Ben
+Bateman, who joined us in June as our ﬁrst-ever Head of
+Growth.
+We expect Whitney and Ben to play critical roles in laying the
+foundation to increase the amount of funding we can direct to
+our top charities. Whitney’s team, for example, is responsible for
+processing donations to our recommended charities, and for
+preparing GiveWell to increase the size of its staﬀ. Ben is
+leading experiments to evaluate diﬀerent ways we might
+increase the amount of funding we direct to our top charities
+via marketing and outreach.
+Full details of our performance against our 2018 outreach and
+operations goals are here.
+Research
+We completed several projects that improved the quality of our
+cost-eﬀectiveness estimates and how we write about them, andHow GiveWell’s
+research is
+evolving
+Schedule a quick
+call to make
+giving easier
+December 2018
+open thread
+Staff members’
+personal
+donations for
+giving season
+2018
+We’ve added
+more options for
+cryptocurrency
+donors
+Response to
+concerns about
+GiveWell’s
+spillovers
+analysis
+FOLLOW US:
+Recent CommentsAdded senior hires in operations and outreach: a
+Director of Operations (Whitney Shinkle) and Head of
+Growth (Ben Bateman)..
+Continued to improve and expand our core research
+product, completing new intervention reports,
+deepening our analysis for several key inputs into our
+cost-eﬀectiveness model, and providing more
+transparent explanations for how we decided to allocate
+funds between top charities..
+
+4/24/2019 [Draft] Review of GiveW ell's work in 2018 - The GiveW ell Blog
+https://blog.givewell.or g/?p=1 1977&preview=true 3/5that we believe led to be er decisions about where to allocate
+funds. For example, we made a major change to how we
+calculate worm intensity in the areas where our top charities
+work.
+We also improved our transparency about these decisions,
+breaking our blog posts announcing our top charities into
+component parts to make them easier to follow (see 1, 2, and 3)
+and delving into more detail on our principles and funding gap
+analyses.
+We published ﬁve new intervention reports, two of which were
+on the evidence for community-based management of acute
+malnutrition and syphilis screening and treatment during
+pregnancy, and recommended ﬁve new GiveWell Incubation
+Grants and two grant renewals. Two of our new grants
+supported Evidence Action Beta’s incubator and J-PAL’s
+Innovation in Government Initiative, respectively.
+Full details of our performance on our 2018 research goals are
+here.
+Key failures
+Outreach and operations
+We took a number of steps to improve our outreach to
+GiveWell’s existing donors. We had hoped this would lead to
+material improvements in retention of our donors as well as the
+amount of funding we were able to direct to our top charities
+from our donors. We haven’t completed a careful assessment of
+this work, but our belief at this point is that the steps we took
+last year are unlikely to have had a signiﬁcant impact on donor
+retention.
+ResearchJAMES (GIVEWELL)
+COMMENTED ON
+What is it like to
+work at
+GiveWell?
+JOHN COMMENTED ON
+What is it like to
+work at
+GiveWell?
+SAM COMMENTED ON
+Allocation of
+discretionary
+funds from Q4
+2018
+WAYNE CHANG
+COMMENTED ON
+Allocation of
+discretionary
+funds from Q4
+2018
+ISABEL ARJMAND
+COMMENTED ON
+Allocation of
+discretionary
+funds from Q4
+2018
+MILAN GRIFFES
+COMMENTED ON
+March 2019 open
+thread
+JOSH (GIVEWELL)
+COMMENTED ON
+
+4/24/2019 [Draft] Review of GiveW ell's work in 2018 - The GiveW ell Blog
+https://blog.givewell.or g/?p=1 1977&preview=true 4/5New Comme nt
+Logged in as Catherine Hollander. Log
+out?
+Comment *
+You are subscribed to this entry.
+Manage your subscriptions.
+POST COMMENTWe made relatively li le progress in exploring new areas of
+research (i.e., policy-oriented causes).
+Conclusion
+This page has more details on our progress toward the goals we
+laid out in early 2018.
+We plan to publish a post soon detailing our plans for 2019.
+Posted in GiveWell internal metrics | Permalink | EditMarch 2019 open
+thread
+DARIO SILI Ć
+COMMENTED ON
+What is it like to
+work at
+GiveWell?
+ODEKE NICHOLAS
+EMMY COMMENTED
+ON
+March 2019 open
+thread
+MILAN GRIFFES
+COMMENTED ON
+March 2019 open
+thread
+Full archive
+All posts
+ArchivesPrevious Post
+2019
+March
+February
+2018
+
+4/24/2019 [Draft] Review of GiveW ell's work in 2018 - The GiveW ell Blog
+https://blog.givewell.or g/?p=1 1977&preview=true 5/52017
+2016
+2015
+2014
+2013
+2012
+2011
+2010
+2009
+2008
+2007
+2006
+HOME  CONTACT  STAY UPDATED  FAQ  FOR CHARITIES  SITE MAP  
+PRIVACY POLICY
+FOLLOW US:
+  EMAIL ADDRESS S u b m i tSUBSCRIBE TO EMAIL UPDATES:
+GiveWell, aka The Clear Fund (a tax-exempt 501(c)(3) public charity). This work is licensed under a
+Creative Commons A ribution-Noncommercial-Share alike 3.0 United States License
+
+=== Attachment C ===
+4/24/2019 [Draft] Progress in 2018
+https://www .givewell.or g/print/node/3088 1/8
+Published on GiveW ell (https://www .givewell.org/node/3088)
+[Draft] Progress in 2018
+This page provides details on our progress toward our stated goals for 2018. For a brief overview ,
+please see this blog post .
+Research
+We wrote about our 2018 research goals here.
+When assessing our progress toward each goal and its component parts, we asked two questions:
+1. Did we meet the deﬁnition  of the goal?
+2. Did we meet the spirit  of the goal?
+We indicate in the table below which goals were met in spirit, rather than in deﬁnition.
+1. Explore areas that may be more cost-effective than our current
+recommendations but don’t ﬁt neatly into our current criteria
+2018 post: goal 2018 post: What does success look like?Did we
+achieve
+this
+goal?
+Explore areas that may be more cost-
+effective than our current
+recommendations but don’t ﬁt neatly
+into our current criteriainvestigating (i) interventions aimed at
+inﬂuencing policy in low- and middle-income
+countries and (ii) opportunities to inﬂuence
+major aid agencies.(i) No
+(ii) Yes
+(in spirit)
+On goal (i), we spent some time investigating causes within policy-oriented philanthropy in the ﬁrst
+part of 2018, and made progress in our understanding of tobacco taxation and lead paint regulation.
+We also completed an investigation of J-P AL's Innovation in Government Initiative  and
+recommended a grant in support of its work.
+By June 2018, however , we decided to reallocate how the researcher leading our policy work,
+James Snowden, spent his time, and he shifted his focus to our current top charities. W e did not
+meet our goal for progress in this area in 2018.
+On goal (ii), we made progress toward better understanding how governments allocate aid and had
+several preliminary conversations to explore ways in which GiveW ell could be helpful.
+2. Find new top charities that meet our current criteria
+2018 2018 post: What does success look like? Did we
+
+4/24/2019 [Draft] Progress in 2018
+https://www .givewell.or g/print/node/3088 2/8post:
+goalachieve
+this
+goal?
+Find
+new top
+charities
+that
+meet
+our
+current
+criteria(i) completing intervention reports for at least two interventions we think are
+likely to result in GiveW ell top charities by the end of 2019, (ii) considering
+renewal of GiveW ell Incubation Grants to current grantee organizations that
+may become top charities in the future and making new Incubation Grants,
+and (iii) developing and maintaining high-quality relationships with charities,
+funders, and inﬂuencers in the global health and development community; on
+(iii), we set speciﬁc goals of:
+having at least one call or meeting with at least 60 dif ferent charities that
+we have not recommended or made an Incubation Grant to and at least
+100 such calls or meetings in total.
+having at least ﬁve multi-program organizations with budgets of more
+than $50 million annually express interest in being considered for our
+top charity recommendation for a speciﬁc, promising program, if we
+invite them to apply
+prioritizing research work beyond an initial, brief evidence assessment
+on at least ﬁve interventions that we became aware of through
+professional networks.(i) Yes
+(in spirit)
+(ii) Yes
+(iii) No
+In the case of (i), we evaluated and published reports on ﬁve new programs: community-based
+management of acute malnutrition , syphilis screening and treatment during pregnancy ,
+breastfeeding promotion , Alive & Thrive , and intermittent preventive treatment of malaria during
+pregnancy . We also named Georgetown University Initiative on Innovation, Development, and
+Evaluation's Zusha! Road Safety Campaign  as a standout charity .
+In the case of (ii), we made ﬁve new Incubation Grants: Evidence Action Beta’ s work on iron and
+folic acid supplementation , Nick Otis’ s forecasting research , Fortify Health , Evidence Action Beta’ s
+incubator , and J-PAL’s Innovation in Government Initiative . We also completed renewals for two
+Incubation Grants: IDinsight’ s embedded team  and phase 2 of Evidence Action Beta’ s work on iron
+and folic acid supplementation .
+In the case of (iii), we decided to deprioritize this goal. W e are no longer pursuing this as an
+independent goal, and plan to develop relationships in service of other major goals.
+3. Improve our internal processes to support the above goals
+2018 post: goal 2018 post: What does success look like?Did we
+achieve
+this
+goal?
+Improve our internal
+processes to
+support the above
+goalsWe plan to continue to [(i)] delegate signiﬁcant parts of our top
+charity update process to non-management staf f and [(ii)] to
+improve our year-end process for making recommendations.(i)
+Partially
+(ii) Yes
+(in spirit)
+
+4/24/2019 [Draft] Progress in 2018
+https://www .givewell.or g/print/node/3088 3/8Related to goal (i), we signiﬁcantly reduced the amount of senior staf f time spent on work related to
+top charity updates. Newer and more junior staf f took on a large amount of work related to top
+charity updates , cost-ef fectiveness analyses , tracking new academic evidence, updating our
+intervention reports , and managing conversation notes .
+Related to goal (ii), we made signiﬁcant improvements to our year-end process for making charity
+recommendations. W e failed to meet two internal deadlines we set for completing intervention-
+related work and top charity work, though we did publish many of our top charity reviews well in
+advance of our external deadline, which left more time for staf f engagement with our
+recommendations this year . This enabled us to better vet and communicate about our conclusions.
+4. Continue following our top charities and address priority questions
+2018 post:
+goal2018 post: What does success look like?Did we
+achieve
+this
+goal?
+Continue
+following our top
+charities and
+address priority
+questionsWe are devoting fewer resources than we have in the past to top
+charity updates. W e plan to continue gathering up-to-date information
+to allow us to make high-quality allocation decisions for giving
+season, and to answer a small number of high-priority questions.Yes
+We made important updates to our understanding of our top charities and the interventions they
+implement. These included:
+Making a major change to how we calculate worm intensity  in the areas where our top
+charities that implement deworming programs work.
+Beginning to account for the potential long-term development beneﬁts  of vitamin A
+supplementation in our cost-ef fectiveness model, in order to be more consistent with the
+approach we take for our other priority programs.
+Assessing new research on the potential spillover ef fects of cash transfers .
+Updating our views on how successful several top charities have been in collecting information
+about the reach and ef fectiveness of their programs (their monitoring data). For Helen Keller
+International's vitamin A supplementation program, Malaria Consortium's seasonal malaria
+chemoprevention program, and Sightsavers' deworming program, our conﬁdence in their
+monitoring data increased. For the Against Malaria Foundation and Evidence Action's Deworm
+the W orld Initiative, our conﬁdence in the consistency with which they collect and share
+monitoring data decreased somewhat.
+Incorporating new information from our top charities on their past spending, results achieved,
+and future plans to model how best to allocate additional funding among our top charities to
+maximize cost-ef fectiveness.
+5. Secondary: Improve the quality of our decisions and transparency about our
+decision-making process
+2018 post: goal2018 post: What does
+success look like?Did we
+achieve this
+goal?
+Secondary: Improve the quality of our decisions and
+transparency about our decision-making process.Not speciﬁed. Yes
+
+4/24/2019 [Draft] Progress in 2018
+https://www .givewell.or g/print/node/3088 4/8We made progress on this goal (potentially at the expense of our primary goals) by:
+Creating a more detailed explanation of our funding recommendations to Good V entures  and
+other donors.
+Adding additional clarity about our decision-making process by attempting to quantify  potential
+beneﬁts and downside not included in our cost-ef fectiveness analysis.
+Adding a country selection tab  to our cost-ef fectiveness analysis so that users can toggle
+between overall and country-speciﬁc cost-ef fectiveness estimates.
+6. Secondary: Hire more ﬂexible research capacity to increase our output
+2018 post: goal2018 post: What does
+success look like?Did we achieve
+this goal?
+Secondary: Hire more ﬂexible research
+capacity to increase our output.Not speciﬁed. Yes
+We hired a Senior Research Analyst, a Senior Fellow , and three Content Editors. In addition, two
+Research Analysts accepted of fers to work at GiveW ell. However , three research staf f left GiveW ell
+in 2018.
+7. Secondary: Complete reviews of two new potential top charities
+2018 post: goal2018 post: What does
+success look like?Did we achieve
+this goal?
+Secondary: Complete reviews of two new
+potential top charities.Not speciﬁed. No
+We did not publish reviews of any new potential top charities in 2018, outside of GiveW ell Incubation
+Grant recipients, which may be potential future top charities, but are outside of the scope of what
+this goal was intended to capture.
+Outreach
+We wrote about our 2018 outreach goals here.
+1. Hire a Head of Growth
+2018 post: goal2018 post: What does success look
+like?Did we achieve this
+goal?
+Hire a Head of
+Growth.Hire a Head of Growth Yes
+We hired Ben Bateman as GiveW ell's Head of Growth. He joined GiveW ell in June 2018.
+2. Improve the post-donation experience
+2018
+post:
+goal2018 post: What does success look like?Did we
+achieve
+this
+goal?
+
+4/24/2019 [Draft] Progress in 2018
+https://www .givewell.or g/print/node/3088 5/8Improve
+the post-
+donation
+experience.Signiﬁcantly improve our process for post-donation follow-up before giving
+season 2018.
+At this point, we’re still in the earliest stages of ﬁguring out how we’ll do
+this, so we don’t have concrete goals for the year beyond ﬁnalizing our
+plan in the next few months. Our stretch goal for the year is to succeed in
+achieving measured improvement in our dollar retention rate/lifetime value
+of each donor .No
+We made signiﬁcant progress on developing our framework for donor retention, including by
+cleaning up the data we have so we can more reliably send mass emails and considering our
+outreach strategies. W e also completed an email ﬂow to encourage donors to give by year-end.
+However , we have yet to ﬁgure out how to best serve most of our donors, and we don't believe the
+work we did in 2018 will signiﬁcantly change our donor retention.
+3. Secondary: Continue advertising on podcasts
+2018 post: goal 2018 post: What does success look like?Did we
+achieve this
+goal?
+Secondary goal: Continue
+advertising on podcasts.Advertise on new podcasts and measure results
+to decide how much to spend in 2019.Yes
+In 2018, we spent ~$245,000 on podcast advertising, up from ~$90,000 in 2017 , on podcast ads.
+We spent more in part due to higher prices to advertise on the same podcasts as last year , and also
+because we were experimenting with new podcasts that targeted wider audiences. W e advertised
+on The Ezra Klein Show , The W eeds, FiveThirtyEight Politics, V ery Bad Wizards, Science Vs.,
+Radiolab, and Rationally Speaking.
+The ads we ran in 2018 had signiﬁcantly lower directly-measured returns than the ads in 2017
+(~45% vs. ~100% in 2017). Some loss of ROI may be due to large donors migrating to our check
+and wire transfer forms (which is how we recommend larger donors give ), which don't include the
+question "where did you hear about GiveW ell?" (and so thus would not be credited to podcast
+advertising); we would guess this doesn't account for the full picture. Podcast ad prices were also
+higher this year overall and podcasts may have been running more ads in general, which may have
+contributed to worse ROI overall if each individual ad was less ef fective.
+4. Secondary: Receive coverage in major news outlets
+2018 post: goal 2018 post: What does success look like?Did we
+achieve this
+goal?
+Secondary goal: Receive
+coverage in major news
+outlets.Pitch major news outlets on at least ﬁve stories
+in total and get at least one story covered.No
+We did not prioritize pitching major media on coverage of GiveW ell, although we did receive
+coverage in major news outlets, including The New Y ork T imes , Vox, and The Economist .
+5. Secondary: Deepen relationships with the effective altruism community
+
+4/24/2019 [Draft] Progress in 2018
+https://www .givewell.or g/print/node/3088 6/82018 post: goal 2018 post: What does
+success look like?Did we achieve
+this goal?
+Secondary goal: Deepen relationships with the
+effective altruism community .Not speciﬁed. Yes
+Catherine Hollander , a research analyst focused on outreach at GiveW ell, spoke at three effective
+altruism (EA)  conferences in 2018: in San Francisco , Melbourne, and London . She also attended
+two EA retreats, and deepened her relationships with her counterparts at EA organizations.
+Additional GiveW ell staf f attended the EA conferences in San Francisco and London, and had
+contact with EA organizations at various points in the year .
+Operations
+We wrote about our 2018 operations goals here.
+1. Appoint a new Director of Operations (complete)
+2018 post: goal2018 post:
+What does
+success
+look like?Did we
+achieve
+this
+goal?
+Appoint a new Director of Operations (complete). In April 2018, we hired
+Whitney Shinkle as our new Director of Operations. Between January
+and April 2018, Natalie Crispin served as our interim Director of
+Operations.Appoint a
+new Director
+of Operations.Yes
+Whitney Shinkle joined GiveW ell as Director of Operations in April 2018.
+2. Prepare our systems for major growth in outreach
+2018 post: goal2018 post: What
+does success look
+like?Did we
+achieve
+this goal?
+Prepare our systems for major growth in outreach, which we
+expect to lead to increases in spending, staf f, and
+donations.Not speciﬁed. Partially
+Spending (ﬁnance) . We made several major improvements to our ﬁnance work in 2018, including
+consolidating our schedule and accounting processes with our bookkeeping ﬁrm and setting a more
+aggressive timeline for major annual ﬁnancial milestones with our tax and audit partners; initiating
+production of new metrics to track our accounting processes and organizational ﬁnancial health; and
+executing the ﬁrst draft of a ﬁnancial policy and procedures guide to codify and record our ﬁnance
+practices (this provides clarity , protection, and consistency across vendors, personnel, and
+regulatory changes).
+Donations . We continue to explore options to increase donations-processing efﬁciency , but we didn't
+identify a comprehensive approach that we're conﬁdent would support 4-10x growth in volume of
+donations. W e made or are testing individual improvements to our data entry and donations-
+processing systems, which have anecdotally had positive results.
+3. Maintain critical operations across domains
+
+4/24/2019 [Draft] Progress in 2018
+https://www .givewell.or g/print/node/3088 7/82018 post: goal2018 post: What
+does success look
+like?Did we
+achieve this
+goal?
+Maintain critical operations across domains: donations,
+ﬁnance, HR, ofﬁce, website, recruiting, and staf f cohesion.Not speciﬁed. Yes
+We maintained our critical operations in 2018. These include, but aren't limited to:
+Processing donations we receive from donors and responding to questions related to
+donations in a timely manner .
+Addressing legal and governance issues to stay in compliance with nonproﬁt laws and satisfy
+internal due diligence questions.
+Maintaining a clean, efﬁcient professional workspace.
+Hiring and onboarding new staf f to serve key roles at GiveW ell.
+Hosting events to encourage staf f cohesion.
+4. Major operations projects we aim to complete in the ﬁrst half of 2018:
+Signiﬁcant improvement in our approach to budgeting
+2018 post: goal2018 post: What
+does success
+look like?Did we
+achieve
+this goal?
+A signiﬁcant improvement in our approach to budgeting making
+it signiﬁcantly easier for us to share updated actual spending
+versus budget.Not speciﬁed. Partially
+We completed programming of our ﬁnancial management software to enable us to track revenue
+and expenses in close to real time and run multiple levels of reports on up-to-a-daily basis.
+5. Major operations projects we aim to complete in the ﬁrst half of 2018:
+Compensation consultant
+2018 post: goal2018 post: What
+does success look
+like?Did we
+achieve
+this goal?
+We retained a compensation consultant to help us
+benchmark GiveW ell staf f compensation to comparable
+organizations.Not speciﬁed. Yes
+We retained this consultant and adjusted staf f compensation based on this project.
+6. Major operations projects we aim to complete in the ﬁrst half of 2018: 2017
+money moved report
+2018 post: goal2018 post: What
+does success look
+like?Did we
+achieve
+this goal?
+Secondary: W e published our 2016 metrics report  and plan
+to publish our 2017 money moved report by the end of
+June.Publish our 2017
+metrics report by end
+of June.Yes
+
+4/24/2019 [Draft] Progress in 2018
+https://www .givewell.or g/print/node/3088 8/8We published our 2017 metrics report on June 29, 2018. Y ou can view the report here.
+Source URL (modiﬁed on 04/24/2019 - 17:59):  https://www .givewell.org/node/3088
+
+=== Attachment D ===
+4/24/2019 [Draft] GiveW ell's plans for 2019 - The GiveW ell Blog
+https://blog.givewell.or g/?p=12069&preview=true 1/8The GiveWell Blog
+[Draft] GiveWell’s plans for
+2019
+April 24, 2019 (updated on: April 24, 2019) | by Catherine Hollander
+Our top priorities this year support our goals to (a) increase the
+impact of the funds we direct and (b) increase our money
+moved. In 2019, we are focused on:
+Building research capacityRecent Blog Posts
+Want to stay updated on
+GiveWell's research? Read
+our blog or follow us by
+email, Facebook, Twi er, or
+RSS.
+Allocation of
+discretionary
+funds from Q4
+2018
+March 2019 open
+thread
+What is it like to
+work at
+GiveWell?
+Announcing a call
+for grant
+applicants in
+Southeast Asia
+and Bangladesh     
+ 
+GIVING EFFECTIVELY HOW WE WORK TOP CHARITIES RESEARCH OUR MISTAKES
+ABOUT UPDATESDONATE
+HOME
+Previous Post
+Building research capacity. (More) .
+Experimenting with approaches to outreach to ﬁnd ones
+that we can scalably use to drive additional money
+moved. (More).
+Exploring new areas of research. (More) .
+Improving GiveWell’s organizational strength. (More) .
+Ongoing research. (More) .
+
+4/24/2019 [Draft] GiveW ell's plans for 2019 - The GiveW ell Blog
+https://blog.givewell.or g/?p=12069&preview=true 2/8We announced earlier this year our plans to hire researchers at
+three levels of seniority, listed here from most junior to most
+senior: Research Analyst, Senior Research Analyst, and Senior
+Fellow. Our goal is to have 3-5 signed oﬀer le ers in hand from
+new research staﬀ by the end of 2019.
+We’re hoping to that additional research capacity will enable us
+to expand the scope of GiveWell’s research, with the aim of
+ﬁnding opportunities that are more cost-eﬀective than our
+current top charities. We’re planning to roughly double the size
+of the research team over the next few years.
+Outreach experimentation
+We plan to expand our outreach to current and potential
+donors going forward, with the aim of increasing the amount of
+money we direct to our recommended charities. As part of this
+work, we recently hired Stephanie Stojanovic as our ﬁrst Major
+Gi s Oﬃcer. Our goal is to decide by the end of the 1st quarter
+of 2020 whether to scale our staﬀ capacity further in the area of
+major gi s, based on Stephanie’s initial work.[1]
+We’re also planning to conduct experiments in 2019 related to
+how we message about our work to reach more people. These
+experiments could include work on search engine optimization
+and building landing pages that aim to communicate what
+GiveWell does and why it’s valuable, among other possibilities.
+We expect to have results by early 2020, as the bulk of donations
+we receive are made in December.
+Finally, we’re planning to search for a Director of Outreach to
+oversee work across outreach domains (including major gi s,
+donor retention, advertising, marketing, and wri en
+communications). We guess there is a 50 percent chance we
+make a hire for this role in 2019.
+Exploring new areas of researchHow GiveWell’s
+research is
+evolving
+Schedule a quick
+call to make
+giving easier
+December 2018
+open thread
+Staff members’
+personal
+donations for
+giving season
+2018
+We’ve added
+more options for
+cryptocurrency
+donors
+Response to
+concerns about
+GiveWell’s
+spillovers
+analysis
+FOLLOW US:
+Recent Comments
+
+4/24/2019 [Draft] GiveW ell's plans for 2019 - The GiveW ell Blog
+https://blog.givewell.or g/?p=12069&preview=true 3/8As mentioned above, we’re in the early stages of expanding the
+scope of GiveWell’s research. We plan to look into several new
+areas in 2019, including public health regulation and possible
+paths to support government aid agencies.
+This work is new for GiveWell, and as noted in our 2018 review
+post, we failed to make as much progress as we hoped in 2018 on
+our work on public health regulation. In 2019, we’re aiming to
+get substantially closer to the point where we have the staﬀ
+structure to support grantmaking in new areas, though given
+how early we are in this work, we don’t yet have concrete goals
+we’re conﬁdent that we’ll achieve.
+A stretch goal for 2019 is to se le on a structure that we believe
+will support grantmaking in public health regulation and begin
+making grants in that area.
+We also plan to continue our investigation into possible paths to
+support government aid agencies; in particular, we plan to
+complete an investigation into an opportunity to do so in the
+area of results-based ﬁnancing.
+Improving GiveWell’s organizational
+strength
+We expect to need additional operations capacity to maintain
+critical functions as GiveWell grows and to improve the
+organization going forward. We plan to hire one Operations
+Associate this year to assist with general operations needs, such
+as improving HR practices and facilitating organizational
+learning opportunities.
+We plan to hire many new staﬀ over the coming years. In
+preparation, we plan to improve our procedures and
+information for recruiting, ve ing, and onboarding staﬀ to
+GiveWell this year, such as by improving inclusive recruitment
+practices, tailoring the substantive content of our onboardingJAMES (GIVEWELL)
+COMMENTED ON
+What is it like to
+work at
+GiveWell?
+JOHN COMMENTED ON
+What is it like to
+work at
+GiveWell?
+SAM COMMENTED ON
+Allocation of
+discretionary
+funds from Q4
+2018
+WAYNE CHANG
+COMMENTED ON
+Allocation of
+discretionary
+funds from Q4
+2018
+ISABEL ARJMAND
+COMMENTED ON
+Allocation of
+discretionary
+funds from Q4
+2018
+MILAN GRIFFES
+COMMENTED ON
+March 2019 open
+thread
+JOSH (GIVEWELL)
+COMMENTED ON
+
+4/24/2019 [Draft] GiveW ell's plans for 2019 - The GiveW ell Blog
+https://blog.givewell.or g/?p=12069&preview=true 4/8activities, and taking a more employee-centric approach to
+onboarding. We also plan to improve our systems for soliciting
+feedback from staﬀ about how GiveWell can improve as an
+organization, in order to give management be er insight into
+how things are going.
+To accommodate our planned expansion, we plan to move to a
+new oﬃce that be er suits our expected size and staﬀ
+requirements.
+Ongoing research
+We have a number of ongoing research projects, detailed here.
+These include:March 2019 open
+thread
+DARIO SILI Ć
+COMMENTED ON
+What is it like to
+work at
+GiveWell?
+ODEKE NICHOLAS
+EMMY COMMENTED
+ON
+March 2019 open
+thread
+MILAN GRIFFES
+COMMENTED ON
+March 2019 open
+thread
+Full archive
+All posts
+ArchivesCompleting a full dra  of qualitative assessments of our
+top charities.
+In theory, we aim to maximize one thing with our top
+charity recommendations—total improvement in well-
+being per dollar spent—and this is what our cost-
+eﬀectiveness estimates intend to capture. In practice,
+there are costs and beneﬁts that we do not observe and
+are not estimated in our models, and so we allow for
+qualitative adjustments to aﬀect our recommendations.
+We’re in the process of laying out a framework for
+qualitatively assessing relative organizational strength..
+Updating key inputs into our cost-eﬀectiveness
+estimates, such as:.
+How we use vitamin A deﬁciency data. .
+Using new malaria prevalence and child
+mortality data..
+Using new data to update the our estimates of
+costs incurred and target population reached for.2019
+March
+February
+2018
+
+4/24/2019 [Draft] GiveW ell's plans for 2019 - The GiveW ell Blog
+https://blog.givewell.or g/?p=12069&preview=true 5/8Conclusion
+The concrete goals we aim to achieve in 2019 follow. We plan to
+revisit this list in early 2020 to assess our progress relative to
+our expectations, and to publish a blog post accounting for our
+work:ﬁve of our top charities: Malaria Consortium’s
+seasonal malaria chemoprevention program, the
+Against Malaria Foundation, Helen Keller
+International’s vitamin A supplementation
+program, Sightsavers’ deworming program, and
+Evidence Action’s Deworm the World Initiative.
+Be er understanding the counterfactual to the
+work Evidence Action’s Deworm the World
+Initiative has done in India (more information
+below). This goal is one we hope to achieve if we
+have time, but is not critical to our assessment..
+Publishing charity and intervention assessments that
+we completed but have not published yet. We wrote
+about our failure to publish research in a timely manner
+on our mistakes page in 2018; we plan to begin to reduce
+this backlog by publishing 5 shallow-level charity and
+intervention reports by the end of 2019..
+Building research capacity .
+Have 3-5 signed oﬀer le ers in hand from new
+research staﬀ..
+Outreach experimentation .
+Decide whether to scale up Major Gi s work. .2017
+2016
+2015
+2014
+2013
+2012
+2011
+2010
+2009
+2008
+2007
+2006
+
+4/24/2019 [Draft] GiveW ell's plans for 2019 - The GiveW ell Blog
+https://blog.givewell.or g/?p=12069&preview=true 6/8NotesConduct experiments related to messaging about
+our work to reach more people..
+Begin search for a Director of Outreach. .
+Exploring new areas of research .
+Look into several new areas, including public
+health regulation and possible paths to support
+government aid agencies. Get substantially closer
+to the point where we have the staﬀ structure to
+support grantmaking in new area..
+Stretch goal: Se le on a structure that we believe
+will support grantmaking in public health
+regulation and begin making grants in that area..
+Improving GiveWell’s organizational strength .
+Hire one Operations Associate. .
+Improve procedures for onboarding staﬀ to
+GiveWell..
+Improve systems for soliciting feedback from
+staﬀ..
+Move to a new oﬃce. .
+Ongoing research .
+Our full list of concrete research goals for 2019 is
+in this document..
+
+4/24/2019 [Draft] GiveW ell's plans for 2019 - The GiveW ell Blog
+https://blog.givewell.or g/?p=12069&preview=true 7/8New Comme nt
+Logged in as Catherine Hollander. Log
+out?
+Comment *
+You are subscribed to this entry.
+Manage your subscriptions.
+POST COMMENT1. The majority of donations in support of GiveWell’s
+recommended charities are made in the fourth quarter of the
+year, and we generally don’t have a clear sense of the total
+amount given to GiveWell directly until the ﬁrst quarter of the
+following year (and the second quarter for direct-to-charity
+donations that are reported to us), so we think this is the right
+time frame on which to assess major gi s work.
+Posted in GiveWell internal metrics | Permalink | Edit
+Previous Post
+
+4/24/2019 [Draft] GiveW ell's plans for 2019 - The GiveW ell Blog
+https://blog.givewell.or g/?p=12069&preview=true 8/8HOME  CONTACT  STAY UPDATED  FAQ  FOR CHARITIES  SITE MAP  
+PRIVACY POLICY
+FOLLOW US:
+  EMAIL ADDRESS S u b m i tSUBSCRIBE TO EMAIL UPDATES:
+GiveWell, aka The Clear Fund (a tax-exempt 501(c)(3) public charity). This work is licensed under a
+Creative Commons A ribution-Noncommercial-Share alike 3.0 United States License
+
+=== Attachment E ===
+  Feedback from Elie Hassenfeld 360° Review  Conducted by Scott Garrell  SUMMARY   Elie has been meeting with executive coach Scott Garrell once a month since February 2018.  In late 2018 Garrell created and conducted an anonymous 360° review of Elie that surveyed six of Elie’s direct reports from the senior staff.   Overall, the review of Elie’s management and GiveWell’s status were positive. No major areas of concern were raised. Several consistent areas for improvement were noted.  Elie and Scott have discussed and are working on a plan to address the following identified areas for improvement:  ● Listening  ● Delegation  ● Inspirational Leadership   The detailed responses from staff are available in the following document (anonymous and with staff permission). [REDACTED]  We will be considering this model as part of our exploration of options for instituting feedback on GiveWell’s managers organization-wide later in 2019.  
+
+=== Agenda ===
+GiveWell Board Meeting Agenda  April 20, 2019  10:00am – 12:30pm PST   ADMINISTRATION - BOARD VOTES (10:05 am– 10:15 am)  The Board will be asked to vote in aggregate on the following resolutions:  A. Board Size Recommendation: Reduce board to 5 members.  B. Director Roles Recommendation: Elect Tim Ogden as Chair, Holden Karnofsky as Vice Chair.  C. Officer Roles  Recommendation: Appoint Natalie VP and Treasurer, Whitney Shinkle as Secretary and Vice Treasurer  D. Board Committees Recommendation: Dissolve board subcommittees   E. Prior Decisions of the Board Recommendation: Confirm the prior decisions of the board  Related Document: Attachment A – Resolutions for Board Vote   KEY SUBSTANTIVE TOPICS (10:15 am – 12:30 pm)  10:15a 2018 in Review – Elie will present an overview of 2018 and take questions. Related Document: Attachment B – 2018 Review Blog Post [DRAFT]     Attachment C – 2018 Detailed Progress Report [DRAFT]  11:00a 2019 Plans  - Elie will discuss key elements of the 2019 plans and take questions. Related Document: Attachment D – 2019 Plan Blog Post [DRAFT]   12:00p  Updates on Past Subjects – Whitney will discuss progress on recent topics of board attention. A. Finance B. Staff feedback – Related Document: Attachment E – 360 Review Elie Hassenfeld    
+
+Generate a comprehensive summary (approximately 1000 words):

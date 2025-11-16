@@ -1,0 +1,104 @@
+GiveWell Board Meeting Summary - Episode 18
+Meeting Number: 20
+Date: August 9, 2012
+Duration: Approximately 1 hour 28 minutes
+
+OVERVIEW
+This board meeting addressed fundamental strategic questions about GiveWell's direction, including types of giving opportunities to pursue, balance between serving retail donors versus major funders, and relationship with Good Ventures. The meeting resulted in important clarifications about GiveWell's mission and approach as it evolved while maintaining core commitments.
+
+STRATEGIC DECISIONS AND DIRECTION
+The board reached several fundamental conclusions about GiveWell's strategic direction:
+
+Research priorities: GiveWell would continue to prioritize research aimed at finding outstanding giving opportunities for individual donors, placing high importance on providing enough opportunities to keep up with demand from this audience.
+
+Research evolution: GiveWell's research process would evolve and become more "foundation-like" in some ways while remaining distinct from existing foundations, particularly through commitment to transparency. This evolution was necessary to find the best giving opportunities for all funders, both small and large.
+
+Good Ventures relationship: GiveWell would continue working closely with Good Ventures and might prioritize outreach to other potential major-funder partners. However, it would not merge with Good Ventures or become a consultant to Good Ventures or any other major funder. The purpose of working with Good Ventures and reaching out to major funders was to find people sharing GiveWell's core values and seeking to support its mission - not to customize or alter work to suit major funders.
+
+RESEARCH APPROACH - RELAXING PREVIOUS CRITERIA
+GiveWell confronted the reality that it had hit diminishing returns to its previous approach of focusing on no-strings-attached donations to organizations focused on proven cost-effective interventions. To find more outstanding giving opportunities, the organization needed to "act more like a foundation."
+
+Previous criteria being reconsidered:
+- "Passive" funding: Previously focused on finding best existing organizations and supporting them with no-strings-attached donations rather than more "active" approach of designing strategies, treating charities as partners, and restricting donations accordingly
+- "Proven cost-effective": Previously focused on situations where donors could be reasonably confident based on empirical evidence that donations would result in lives being changed for better at high rate of expected good accomplished per dollar
+
+Staff felt these criteria were too restrictive to find enough outstanding giving opportunities and was considering relaxing both.
+
+The organization's preferred option (Option 5) was to relax both criteria but place high priority on maintaining enough "room for more money moved" in opportunities meeting original criteria to satisfy demand for such opportunities. This balanced evolution toward more diverse giving opportunities while ensuring traditional GiveWell donors still had strong options.
+
+RETAIL DONORS VERSUS MAJOR FUNDERS
+The meeting addressed how GiveWell should balance serving "retail donors" (giving under $250,000 annually) and "major funders" (giving over $1 million annually).
+
+Research allocation: GiveWell's preferred approach (Option A4) was to commit to providing enough outstanding giving opportunities for individual donors to absorb all projected money moved from these donors, but otherwise investigate giving opportunities without regard to their fit for retail donors. This ensured retail donor needs were met while allowing exploration of opportunities better suited to major funders.
+
+Outreach and service: GiveWell would maintain a "minimum needed to keep the store open" with some concessions - continuing relationship building with donors giving over $10,000 annually and continuing to answer questions sent to info@givewell.org, but moving away from active outreach and media work except when returns appeared very high. Thank-you emails would be automated, status quo maintained on donation processing/advertising/website conversions.
+
+Approach sequence: GiveWell would handle giving opportunities on case-by-case basis (Option C2) but tend to go to retail donors first when there weren't major efficiency losses to doing so. Some donors might feel shortchanged if approached first (saving money if knowing others might fund opportunity); others might feel shortchanged if approached second (missing "first opportunity" to fund outstanding opportunities). Because major funders were seen as more "flexible," more good was likely accomplished by going to individual donors first when efficiency losses weren't major.
+
+Certain activities would be maintained regardless as they related to transparency generally rather than retail donors specifically: publishing full analysis details, regular blog posts, responding to blog comments, blogging on relevant news topics.
+
+GOOD VENTURES PARTNERSHIP FRAMEWORK
+The meeting extensively discussed appropriate relationship structure with Good Ventures, recognizing both significant opportunities and risks from close coordination.
+
+Ways organizations could help each other:
+- Good Ventures provided operating support (~10% of GiveWell's 2011 operating budget) and made grants based on recommendations
+- Good Ventures had easier access to charities, foundations, and scholars, being extremely helpful in getting access essential to research quality
+- Good Ventures had full-time staff whose interests and abilities were well-suited to GiveWell's mission and was willing to provide some help
+- GiveWell had substantially larger staff and more organizational experience, potentially helping Good Ventures via staff work on overlapping missions, advice on giving opportunities, general organizational advice, and recruiting/training/management support
+
+Close coordination (sharing office space, allowing employees of one organization to provide general support to the other) could facilitate efficiency but raised challenges around day-to-day management, ultimate authority over employees if organizations diverged, and maintaining GiveWell's research agenda independence.
+
+General support guidelines: GiveWell was willing to spend up to 20 total person-hours per week on general support to Good Ventures, of which up to 10 person-hours could be co-Executive Director time. This would be carefully tracked with targets subject to revision. GiveWell anticipated following similar guidelines with any future funders meriting general support.
+
+"General support" was distinguished from "strategic overlap" - activities that would be high GiveWell priorities aside from relationship considerations. Strategic overlap activities weren't subject to person-hour targets.
+
+MAINTAINING INDEPENDENCE AND CREDIBILITY
+A central concern was ensuring the Good Ventures relationship wouldn't compromise GiveWell's ability to:
+- Set research agenda based on beliefs about most promising exploration avenues
+- Make recommendations based on beliefs about best giving opportunities
+- Write honestly about strengths, weaknesses, successes and failures of recommended groups
+- Publicly critique groups supported by Good Ventures, and Good Ventures itself, when warranted
+
+The organization needed clear policies for forming relationships with other funders and conditions under which they would reach similar level to Good Ventures relationship.
+
+For each investigation/recommendation, GiveWell would commit to clearly articulating Good Ventures's role.
+
+SIMILARITIES AND DIFFERENCES FROM FOUNDATIONS
+The meeting clarified how GiveWell would resemble and differ from charitable foundations:
+
+Similarities:
+- Sees role as helping allocate particular funds (money moved) as effectively as possible
+- Doesn't endorse rigid formula or procedure for determining best giving opportunities
+- Open to using intuition and judgment calls in deciding what to prioritize and recommend
+
+Differences:
+- Brand built on transparency with expectation of publishing full analysis details and reasoning, enabling accountability by broad audience
+- "Sector-agnostic" with expectation of being held accountable for choosing issue areas and charities based on judgment of how to accomplish most good, not personal passions or relationships
+- Unusually high standard of self-criticism - trying to ask and encouraging others to ask critical questions for any giving opportunity and making serious efforts to answer them; transparency enables accountability for this quality
+
+Through these distinguishing factors, GiveWell believed it could bring new level of critical inquiry and public debate to charitable giving, moving toward vision of world where donors reward effectiveness in improving lives.
+
+TRANSPARENCY PROCESSES
+With higher profile and more in-person conversations, transparency processes included:
+
+Conversations: Record, have staff produce summary in short timeframe, run by conversation partner for changes before posting, be up-front about plans with opt-out opportunities
+
+Charity/giving opportunity writeups: Notify organization up-front about plans to write about thinking (good or bad) with opportunity to withhold nonpublic information and provide prominent public "charity response"; once conclusion reached, offer choice of reviewing draft writeup or declining to participate; be fairly liberal about engagement and considering requested changes
+
+Blog posts: Draft post, send to parties who may have issues, be fairly liberal about engagement and considering changes
+
+Staff felt this resulted in large quantity of publicly available information, some tense moments but no apparent outright anger or burned bridges, time-consuming process, but benefits outweighing costs in being public about thinking and providing transparency example.
+
+FINANCIAL CONTEXT
+In 2011, retail donors accounted for $3.25 million in donations to top charities. Growth in 2012 had been approximately 150% year-over-year as of June 30, 2012 (compared to 300% year-over-year growth as of June 30, 2011). Good Ventures gave $1.1 million to top charities in 2012. GiveWell had relationships with a few other major funders giving in range of $1 million annually, possibly more in future.
+
+Major funders offered substantially more (and more flexible) potential money moved over next 1-10 years. However, base of retail donors was more robust - loss of single relationship could significantly impact money moved from major funders, not true of retail donors.
+
+Having "service for retail donors" had advantages for attention and conversation GiveWell could create. Many critical, intelligent people being highly interested in GiveWell could lead to both critical feedback and publicity.
+
+STRATEGIC SIGNIFICANCE
+This meeting crystallized GiveWell's approach to a critical juncture in its development. The organization chose to evolve its research methods and deepen major funder relationships while maintaining commitment to serving individual donors and preserving transparency as core differentiator.
+
+The decision not to merge with Good Ventures or become a consultant preserved GiveWell's independence and credibility. The commitment to maintaining enough giving opportunities for retail donors ensured the organization wouldn't abandon its original audience. The framework for "general support" to Good Ventures with clear hour limits and tracking demonstrated thoughtful approach to partnership benefits while managing risks.
+
+Most fundamentally, the meeting established that GiveWell would become more foundation-like in research flexibility while remaining distinct through transparency, sector-agnostic impact focus, and high standard of self-criticism. This positioning aimed to bring new level of critical inquiry and public debate to charitable giving rather than simply becoming another private foundation.

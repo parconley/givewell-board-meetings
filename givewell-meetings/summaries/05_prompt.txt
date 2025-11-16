@@ -1,0 +1,1626 @@
+Based on the following board meeting documents for a Clear Fund Board Meeting held on November 10, 2008, generate a comprehensive ~1000-word summary that acts as a professional brief.
+
+The summary should cover:
+- Key decisions made and votes taken
+- Important discussions and debates
+- Financial/budget information with specific numbers
+- Strategic direction or policy changes
+- Personnel or organizational changes
+- Any significant outcomes or action items
+
+Keep the tone professional and factual. Focus on substance over process. Be specific with numbers, names, and decisions.
+
+Meeting Documents:
+=== Professional Development Report ===
+
+                 Report on Professional Development Options
+
+We have agreed that the co-Founders and current sole employees  of  GiveWell
+– and in particular Holden Karnofsky, the hopeful Executive Director –  lack
+life  and  business  experience,  and  would  benefit  from  a  professional
+development effort: a concerted effort to learn from  those  who  have  such
+experience.
+
+After investigating many options, including the  leads  that  Board  members
+sent  us,  we  believe  that  the  most  promising  paths  to   professional
+development are, in order:
+
+   1. Establishing mentor relationships with GiveWell  supporters  who  have
+      relevant skills and experience.   Doing  so  will  be  a  gradual  and
+      challenging process, as it’s essential to both identify and  win  over
+      successful and helpful people.
+   2. Joining a new social entrepreneurship group at the Harvard  Club.   Of
+      the (relatively) open-invitation programs we’ve seen, this is the only
+      one that we are both eligible for and feel we might gain from.
+   3. Possibly applying for fellowships in competitive  programs.   We  will
+      have to weigh  the  potential  benefits  against  the  time  costs  of
+      applying.
+
+1. Mentor relationships
+
+We believe that the most  direct  path  to  accomplishing  our  professional
+development  goals  is  establishing  mentor  relationships  with   GiveWell
+supporters who have relevant skills and experience.  Specifically, we will:
+
+    • Seek people with experience with  productive  and  successful  startup
+      businesses, either through founding (and working on) such startups  or
+      working as a venture capitalist or consultant to help ventures grow.
+    • Ask each potential mentor to receive our biweekly reports.
+    • Discuss each biweekly report (via phone, email,  or  in  person)  with
+      each mentor.
+
+We feel that our biweekly reports give a good picture  of  how  we’re  using
+our time and what tactical and strategic decisions  we’re  making.   Sharing
+and discussing them with supporters is the most direct  way  to  learn  from
+people with relevant skills and experience, in a  way  that  stays  directly
+relevant to the work we’re doing at GiveWell.
+
+We expect finding mentors to be a difficult and  gradual  process,  for  the
+same  reason  that  finding  strong  professional  development  options   is
+generally difficult:  we  need  to  find  people  who  are  experienced  and
+successful yet willing to invest significant time in us.
+
+Our current top candidates for mentors are:
+
+
+Information on specific individuals withheld from  public  version  of  this
+document
+
+
+We currently have two mentors.  We hope to have four by June 1, 2009.
+
+2. Formal, open-invitation entrepreneurship groups
+
+We  have  had  little  success  locating  open-invitation   entrepreneurship
+groups.  Even where we have found them, there is a large question of how  to
+assess the quality of the participants.
+
+At this point, Holden is planning on going to the first  meeting  of  a  new
+“Social Entrepreneurship / Non-Profit Career Group” organized  by  a  former
+classmate of his, via the Harvard Club of New York.  He has  had  relatively
+limited interaction with this  classmate,  but  enough  to  prioritize  this
+group above the few others we have found (via meetup.com).
+
+We also see  promise  in  the  EONetwork,  an  entrepreneurship  group  that
+matches our needs well; it  coordinates  monthly  meetings  with  relatively
+small groups of entrepreneurs, all of whom  must  be  the  principal  of  an
+organization with $1 million or more in  annual  sales.   However,  we  have
+been told that  we  are  ineligible  both  for  this  program  and  for  the
+affiliated Accelerator program (for businesses with $250,000-$1  million  in
+annual sales) because we are a nonprofit.
+
+3. Competitive programs
+
+We have identified  several  competitive  programs  that  provide  intensive
+mentoring, and in some cases funding.
+
+Program name: Ashoka
+Application deadline: rolling
+First step: an email nominating GiveWell (see http://ashoka.org/nominate)
+Application process: relatively  vague.   Website  contains  no  information
+aside from the nomination process; we called and asked for more details  but
+were not given any, aside from a very rough  and  informal  guess  that  the
+process could be expected to take somewhere around 3 months.
+Mentoring: very vague: “We also provide our Fellows with  a  global  support
+network of their peers and partnerships with professional consultants.”
+Other benefits: “a living stipend for an average of  three  years,  allowing
+them to focus full-time on building their institutions and  spreading  their
+ideas.”  Ashoka is also relatively prestigious.
+
+Program name: Echoing Green
+Application deadline: Dec. 1 for first-round online application
+First step: online application.  Would probably take a few hours.
+Application process: “mailed  materials”  (unspecified)  due  Feb.  9.   In-
+person interviews at selection weekend, April 30-May 2.   Results  announced
+at the end of May.
+Mentoring: “We provide technical assistance and consultations  to  help  new
+leaders build organizations, increase  their  organization’s  capacity,  and
+manage  growth.  We  also  facilitate  peer-to-peer  learning   to   enhance
+leadership skills and ensure organizational sustainability.  We harness  the
+experience and expertise of our global network of  social  entrepreneurs  to
+share best practices and ensure success for all.”
+Other benefits: funding (unspecified amount).  “We provide  seed  grants  to
+help Echoing Green Fellows transform innovative ideas into action.”
+
+Program name: Draper Richards Foundation
+Application deadline: Rolling
+First step: 3page proposal.
+Application process: very unclear.  From the phone conversation,  it  sounds
+like  a  relatively  non-systemized  process,  i.e.,  like  applying  to   a
+foundation.  “I think that you would have a down easier than an up within  a
+short period of time, the directors try to get back to the fellows within  2
+weeks to a month for the initial contact, it can take a couple months,  it’s
+definitely not something that’s rushed.”  I continued pressing  for  a  time
+estimate and eventually got them to estimate “2-3 months.”
+Mentoring: “We provide portfolio organizations with strategic guidance and
+coaching, often by taking an active role as a board member, with focus
+given to fundamentals that build strong and sustainable organizations
+including governance, fund development and data gathering for long-term
+evaluation.”
+Other benefits: $100,000 annually for three years.
+
+Program name: StartingBloc
+Application Deadline: December 1
+First step: Online application with a few essays – probably 1-2 hours.
+Application process: Notifications Jan 15.
+Mentoring: there are 3 different programs, all of them basically short,
+high-intensity workshops (1-2 weekends).  They look fairly basic: “Finance
+Basics, Business Plan Writing, and How to Attract Investors and Donors. The
+Institute will also offer additional networking events, thus facilitating
+greater interactions between Fellows.”  Graduates “enter the alumni
+network.”  Unclear exactly what that means.
+Other benefits: N/A.  $450 fee for NY; $1200 for London.
+
+
+Other, lower-priority approaches to professional development
+
+
+We see a small amount of potential value in entrepreneurship-related books
+(The Mouse Driver Chronicles; Founders at Work) and blogs (Seth Godin; Guy
+Kawasaki).  Given our learning styles, we feel that books and blogs offer
+most of the benefits that formal courses would.
+
+We have three resources that we can turn to for highly specific questions
+that our official mentors can’t answer: SCORE NYC, the Small Business
+Development Center at Baruch College, and an active Harvard-Startups email
+list that Holden subscribes to.
+
+
+
+
+Other leads we pursued
+
+
+    • Backpocket COO: coaching/mentoring services offered by Cameron Herold
+      (whom we encountered via a blog post on entrepreneurship that we
+      related to).  We find the cost prohibitive at $3500/mo.
+    • NetImpact: cites networking opportunities, but seems more focused on
+      social change than on entrepreneurship.
+    • Social Venture Network: claims “networking opportunities” but has no
+      specifics.  The organization and its events are in SF.
+    • Harvard Business School and Columbia Business School: both have
+      Executive Education programs that would likely eat up significant
+      time, and we have little confidence that they would be relevant enough
+      to justify it.  We called both asking for more informal networking
+      opportunities and got nowhere.
+    • Social Enterprise Institute: offers formal programs in Texas; emailed
+      them asking for leads and got no response.
+    • Endeavor: a social entrepreneur program that focuses on the developing
+      world.
+    • Emerging Practitioners in Philanthropy: a group centered on nonprofit
+      employees (not founders).
+    • Open Society Institute: we were referred here by two different people,
+      but calling and emailing led us nowhere (the guy I talked to said he
+      had no idea what I was talking about, and the email response said that
+      the Open Society Institute does not facilitate or know of the kind of
+      networking opportunities we’re looking for).
+    • IPE Group – recommended by a Board member’s contact, but appears
+      inactive since at least January ’08 and does not address
+      entrepreneurship.
+
+
+=== Vision Document ===
+
+Note: this document is an  informal  sketch  of  our  long-term  vision  for
+GiveWell.   The  details  of  this  vision  are  (a)  expected   to   change
+significantly  over  time;  (b)  not  formally  approved  by  the  Board  of
+Directors.  The intent of the document is to lay out  a  concrete  sense  of
+the general size and scope we’re ultimately aiming for, as well as  the  key
+variables that will both drive and reflect progress toward our vision.
+
+                      “Steady-state” vision for GiveWell
+
+
+
+Summary     1
+Summary of the plan to reach the vision 1
+Details     2
+  The product: depth, breadth, and presentation of research   2
+    Depth, breadth, and presentation of research: end goal     2
+    Depth, breadth, and presentation of research: how we’ll get to the end
+    goal outlined above      3
+    Depth, breadth, presentation of research: important milestones  4
+  Capacity and operating funding  4
+    Capacity and operating funding: end goal  5
+    Capacity and operating funding: how we’ll get to the end goal outlined
+    above   5
+    Capacity and operating funding: key milestones 6
+  Money moved    6
+    Money moved: end goal    6
+    Money moved: how we’ll get to the end goal outlined above  6
+    Money moved: key milestones   8
+  High-credibility/high-visibility supporters 8
+    High-credibility/high-visibility supporters: end goal      8
+    High-credibility/high-visibility supporters: how we’ll get to the end
+    goal outlined above      9
+    High/credibility/high-visibility supporters: key milestones     9
+  Brand value / name recognition  9
+    Brand value / name recognition: end goal  9
+    Brand value / name recognition: how we’ll get to the end goal outlined
+    above   9
+Possible paths to our vision 10
+
+
+                                   Summary
+
+
+GiveWell’s ultimate vision is of a world in which:
+
+    • Individual donors can easily find actionable information about what
+      charities do and whether it works.
+    • A large amount of money from these donors flows systematically to the
+      charities with the most proven, cost-effective, scalable ways of
+      helping people.
+    • This dynamic – charities competing for funding based on demonstrated
+      impact – leads to an ongoing public dialogue about how to help people,
+      and to constant improvement in the way charitable resources are
+      allocated.
+
+We believe we can bring this vision about if we can reach the state
+outlined in this document, in terms of the following key variables:
+
+    • Depth, breadth, and presentation of research: GiveWell will publish up-
+      to-date research on seven broad causes: developing-world aid, disease
+      research, global warming prevention/mitigation, equality of
+      opportunity in the U.S., mitigation of suffering in the U.S.,
+      tolerance in the U.S., and animal welfare.  It will recommend several
+      charities per cause (including one for each subcause, outlined in the
+      body of our vision document) and provides basic ratings for much
+      larger numbers of charities.
+    • Capacity and operating funding: GiveWell will have a staff of about
+      twenty, and operate on about $1.7 million per year.  Its staff will be
+      sufficient to provide broad, deep research as well as maintaining an
+      excellent website and active marketing efforts.
+    • Money moved: GiveWell will affect a large amount of money – at least
+      $15 million, 9 times operating costs – through a variety of methods
+      outlined in the body of this document.
+    • High-credibility/high-visibility supporters: GiveWell will have a 10-
+      person Board of Directors, composed primarily of major donors who are
+      successful and well-connected in the for-profit world.  It will also
+      maintain a separate Advisory Board for each broad cause covered by its
+      research, composed of 3-10 people with significant expertise in that
+      particular area.
+    • Brand value / name recognition:  GiveWell will occupy a place in
+      annual coverage of giving similar to that currently occupied by
+      Charity Navigator.  It will be covered in multiple mainstream media
+      pieces during giving season of each year.  Its research will be
+      frequently referenced and linked to in online blog posts and
+      discussions of relevant issues.
+
+Each of the above variables (depth/breadth/presentation of research;
+capacity and operating funding; money moved; high-credibility/high-
+visibility supporters; brand value / name recognition) has the potential to
+influence the others, and there are multiple paths we might take to get to
+our vision.
+
+The path we are focused on now, outlined in a separate document, focuses
+for the short term on the depth, breadth, and presentation of our research;
+promoting our research and pursuing customers is a secondary priority until
+our research is substantially deeper and broader.  We estimate that
+reaching the depth and breadth of research outlined in this document will
+take approximately 3-6 years and require $1.5-2.5m in operating expenses.
+
+
+                                   Details
+
+
+
+The product: depth, breadth, and presentation of research
+
+
+
+
+
+Depth, breadth, and presentation of research: end goal
+
+
+GiveWell will publish a report each year on each of the causes listed
+below.[1]
+
+    • For each broad (first-order) cause, GiveWell will publish a review of
+      literature on the most promising interventions.
+    • For each narrower (second-order) cause, GiveWell will publish a list
+      of charities working in this area, along with the interventions they
+      focus on, and will aim to recommend at least one charity within each
+      second-order cause.
+    • Recommended charities will have more in-depth reviews than other
+      listed charities; reviews will be similar to those currently at
+      www.givewell.net and will include discussion of financials, monitoring
+      & evaluation reports, and site visits.
+    • GiveWell will also publish some ratings system for all charities
+      working in each area.
+
+GiveWell’s research will be available at several different levels of
+detail, putting recommendations and highlights up front for those with
+little time and linking to the full, referenced details for others.  It
+will be presented as intuitively and engagingly as possible.
+
+1) Developing-world aid
+   a) Direct health interventions
+   b) Advocacy for legislative health interventions (micronutrient
+      fortification, tobacco taxes, highway safety, etc.)
+   c) Economic empowerment programs (microfinance, agricultural training,
+      irrigation, etc.)
+   d) Targeted research on neglected developing-world-specific diseases (for
+      example, development of vaccines for malaria and tuberculosis)
+   e) Care, support and adoption of OVC (orphans and vulnerable children)
+   f) Interventions targeted at child slavery and sex slavery
+   g) Primary and secondary education (scholarships, school building)
+   h) Disaster relief and reconstruction
+2) Disease research: cancer, AIDS, Alzheimer’s, diabetes, etc.
+3) Global warming mitigation/prevention
+   a) Research on alternative energy
+   b) Research on improved prediction models
+   c) Advocacy for appropriate legislation (carbon tax, etc.)
+   d) Programs targeted at helping individuals reduce energy consumption
+4) Equality of opportunity in the U.S.
+   a) Early childhood care
+   b) K-12 education
+   c) K-12 youth development (non-academic)
+   d) College preparation and scholarship programs
+   e) Employment assistance and training programs
+5) Mitigation of suffering in the U.S.
+   a) Food, shelter, etc. for homeless and other extremely low-income people
+   b) Hospice care
+   c) Financial and other support of veterans, widows, and other non-self-
+      supporting people
+   d) Financial and other support of OVC
+   e) Care of the mentally and physically disabled
+6) Tolerance in the U.S.
+   a) Prevention/reduction of violence against women
+   b) Civil rights
+   c) Aid for immigrants
+7) Animal welfare
+
+
+Depth, breadth, and presentation of research: how we’ll get to the end goal
+outlined above
+
+
+Key variables are time and capacity/operating funding.
+
+
+
+Our rough estimate that one “broad cause” should take approximately four
+“man-years” of Holden’s and Elie’s time.  In our first year, the two of us
+covered three of the areas listed under “Equality of opportunity in the
+U.S.” as well as a preliminary analysis of developing-world health and
+economic empowerment.  In our second year, we believe we will be able to
+cover about half of what we’ve listed above under developing-world aid.
+
+This estimate could be overly optimistic because:
+
+    • We set regional restrictions for our first year; lifting these, and
+      covering a broad range of regions, could lead to more work.  We do not
+      anticipate covering every city in the U.S. or every country in Africa,
+      but we hope to cover a few different regions as well as recommending
+      at least one large national/international organization.
+    • We hope to improve the quality (depth) of our recommendations, and in
+      particular to get more personal exposure to the organizations and
+      regions under review.
+
+This estimate could be overly pessimistic because:
+
+    • We anticipate improving our efficiency as we learn from our
+      experiences and develop improved approaches (as we have already done
+      from year 1 to year 2).
+    • As our “money moved” and brand value grow, we anticipate getting more
+      information, more easily, from charities.
+    • We also anticipate growing our volunteer corps and our ability to
+      leverage them (something that has already happened from year 1 to year
+      2).  We may also be able to pay particularly capable people, such as
+      graduate students in relevant fields, part-time.
+
+Assuming that the estimate is appropriate, that Holden and Elie will each
+be able to spend at least 50% of their time on research, and that associate
+researchers are at least 50% as productive as Holden and Elie, leads to the
+estimate that GiveWell should be able to cover .5 + N/8 broad causes per
+year, where N is the number of new research staff hired.
+
+
+Depth, breadth, presentation of research: important milestones
+
+
+Current status: we have relatively low-depth research (with heavy use of
+heuristics and very few recommended charities) on 1a, 1c, 4a, 4b, 4c.
+
+Milestone: high-depth research of a single broad cause, with at least one
+recommended charity within each subcause.  We are currently working on this
+goal for developing-world aid.  Reaching it will likely not only improve
+our appeal to donors interested in this particular cause, but will give us
+a better sense of the time and resources necessary for deep research.
+
+Milestone: low-depth research of all broad causes listed above, with at
+least one recommended charity for each broad cause.  Reaching this
+milestone may improve our ability to pursue several different strategies
+for increasing “money moved,” particularly those for which breadth of
+research is key (see #2-4 under “Money moved” below).  It may also improve
+our sense of the total amount of time and resources needed to reach our
+ultimate goal.
+
+High-depth research for each of the above broad causes is a milestone that
+will improve the breadth of our appeal to donors.
+
+
+Capacity and operating funding
+
+
+
+Capacity and operating funding: end goal
+
+
+GiveWell will employ:
+
+
+    • Two Co-Founders @ $250,000 ea.
+    • One Marketing Director @ $150,000
+    • One website specialist (full-time employee responsible for making our
+      website as usable and engaging as possible) @ $75,000
+    • Ten research associates @ $50,000 ea.
+    • Five administrative/support associates @ $35,000 ea.
+
+All figures are inclusive of payroll taxes and benefits.
+
+Other expenses will include:
+
+    • Expenses and auditing fees: $15,000
+    • Subscriptions and research expenses: $5,000
+    • Advertising/PR expenses: $50,000
+    • Rent: $16,000 per month
+    • Misc: $15,000
+
+Total expenses will be around $1.7 million per year.
+
+
+Capacity and operating funding: how we’ll get to the end goal outlined
+above
+
+
+The key variables in building this capacity are time and operating funding.
+ Potential funders include:
+
+    • Foundations, such as Hewlett, Gates, Robert Wood Johnson, Packard,
+      Skoll, Ford, Charles Stewart Mott, Knight, Kellogg, Koch
+    • Core individual donors, including
+         o Former coworkers (~$300k/yr)
+         o Other individuals who have become extremely invested in our
+           mission (have accounted for $38,000 so far in 2008-09)
+
+The following table gives examples of other organizations with a general
+mandate of serving the philanthropy sector, and funding from the
+foundations listed above.
+
+
+           [pic]
+
+We expect that our ability to raise funding for the above expenses will
+hinge on our ability to demonstrate that the other aspects of this vision –
+namely, quality research that moves a significant amount of money – will
+accompany them.  The key variables are thus the key indicators for the
+other aspects of this vision:
+
+    • Depth, breadth, and presentation quality of research
+    • High-credibility/high-visibility supporters
+    • Money moved
+
+
+Capacity and operating funding: key milestones
+
+
+Current status: 2 Co-Founders; no office; minimal expenses.
+
+Each new hire, once integrated, will materially increase our capacity to
+move other key variables.
+
+
+Money moved
+
+
+
+Money moved: end goal
+
+
+“Money moved” refers to  the  sum  of  (a)  grants  given  directly  by  the
+GiveWell  and  (b)  individual  donations  that  are  made  to   recommended
+charities, with the choice of charities directly attributable to  GiveWell’s
+research.
+
+We intend to maximize the “money moved” by GiveWell,  but  the  minimum  for
+continuing  to  operate  will  be  9  times  its  operating   expenses,   or
+approximately $15 million.   Sources  of  “money  moved”  will  include  the
+following; for each, the importance of each key variable is specified.
+
+
+Money moved: how we’ll get to the end goal outlined above
+
+
+
+   1. Donations directly  from  www.givewell.net  from  donors  specifically
+      seeking its recommendations.  Such donors will find GiveWell through:
+        a. Advertising targeted at potential customers (our current profile
+           of a potential customer is someone who is between 24 and 40  and
+           makes between $100,000 and $1,000,000 per year).  Key variables:
+           operating funds available for advertising; depth,  breadth,  and
+           presentation of research.
+        b. Earned media – see “Brand value / name recognition” below.
+   2. Donations made through GiveWell’s partners: other  websites  aimed  at
+      raising and facilitating online  giving,  which  will  use  GiveWell’s
+      content for substantive recommendations.  Key variables:  breadth  and
+      presentation of research; high-credibility/high-visibility supporters;
+      brand value / name recognition.  Note that some partnerships should be
+      possible at our current stage.  Such websites include:
+        a. Websites focusing on financial data for charities
+               1. GuideStar.org
+               2. Charity Navigator
+               3. Better Business Bureau Wise Giving Alliance
+               4. CharityWatch.org (American Institute of Philanthropy)
+        b. Donation sites
+               1. NetworkForGood.org
+               2. JustGive.org
+        c. Social networking charity sites
+               1. Change.org
+               2. SixDegrees.org
+               3. YourCause,com
+   3. Partnerships with corporate giving and matching programs, which  often
+      (though every company is different) support and  recommend  particular
+      charities.  Key variables: breadth, presentation  of  research;  high-
+      credibility/high-visibility   supporters;   brand   value    /    name
+      recognition.
+   4. Partnerships with donor-advised funds (such as those run by  Vanguard,
+      Fidelity and Schwab), which represent pools of  money  that  has  been
+      committed to charitable giving in general  but  not  to  any  specific
+      charity.  Key variables:  breadth,  presentation  of  research;  high-
+      credibility/high-visibility   supporters;   brand   value    /    name
+      recognition.
+   5. Partnerships with individual wealth advisors.  Key  variables:  depth,
+      breadth, presentation  of  research;  high-credibility/high-visibility
+      supporters; brand value / name recognition.
+   6.  Partnerships  with  fundraisers  who  focus  on  causes  rather  than
+      organizations.  Key variables: depth of research, brand value.
+   7. GiveWell Pledges and GiveWell Project Funding (explanation below) from
+      donors who are highly committed to  GiveWell.   Donors  will  opt  for
+      these because of the extra recognition (from GiveWell) that comes with
+      them as well as the added  benefits  from  an  altruistic  perspective
+      (detailed below).  GiveWell will find donors to participate  in  these
+      programs by:
+        a. Contacting those who have made major gifts through  the  website
+           before (and have given consent to be contacted).
+        b. Arranging to speak at companies and conferences that are  likely
+           to have large numbers of potential customers.  Target  companies
+           include those in the  software,  venture  capital,  and  finance
+           industries, all of which often have large numbers of  relatively
+           young people with relatively high disposable incomes.
+
+Definitions:
+
+    • A GiveWell Pledge is a formal, advance commitment to give  to  one  of
+      our recommended charities from the next round of research in  a  given
+      area.  See http://www.givewell.net/plan
+    • GiveWell Project Funding is not currently offered, and may or may  not
+      be in the future.  It represents the opportunity to commit  a  certain
+      amount to fund a discrete project (not  an  unrestricted  gift  to  an
+      organization) recommended by GiveWell’s research team.  GiveWell  will
+      raise commitments  for  GiveWell  Project  Funding,  list  recommended
+      projects, and then let  donors  who  have  committed  funds  rank  the
+      projects in their order of preference to determine which  get  funded.
+      This setup will  help  donors  to  coordinate  their  funds  and  fund
+      discrete projects, an ability that is currently  generally  restricted
+      to larger funders.
+
+
+Money moved: key milestones
+
+
+Current status: The total “money moved” for our first year of  research  was
+approximately $175,000.  Our current research has about $150,000 pledged  to
+it (in the form of GiveWell Pledges as well  as  restricted  donations);  we
+expect the final “money moved” figure  to  be  higher,  as  having  concrete
+recommendations will appeal to donors  who  weren’t  willing  to  commit  in
+advance.  (Also, several donors  have  yet  to  specify  numbers  for  their
+GiveWell Pledges).
+
+Milestones: Reaching $1 million, $5 million, and $10 million in money  moved
+may have some impact on our general  credibility,  and  on  our  ability  to
+generate earned media.
+
+
+High-credibility/high-visibility supporters
+
+
+
+
+
+High-credibility/high-visibility supporters: end goal
+
+
+GiveWell will have a 10-person Board of Directors, composed primarily of
+major donors who are successful and well-connected in the for-profit world.
+ At least two slots will be held by people with significant experience in
+the nonprofit sector.
+
+For each of the broad causes listed below, GiveWell will maintain a
+separate Advisory Board composed of 3-10 people with significant expertise
+in that particular area.  Each Advisory Board will include people with both
+academic expertise (i.e., familiarity with the relevant literature) and on-
+the-ground expertise (i.e., significant personal experience with relevant
+nonprofit work, and the relevant regions and populations).
+
+GiveWell will also seek the support – via GiveWell Pledges and endorsements
+– of as many other high-credibility/high-visibility people as possible.
+
+
+High-credibility/high-visibility supporters: how we’ll get to the end goal
+outlined above
+
+
+We will actively pursue relationships with potential Directors and
+Advisors.  We expect that the case for their involvement will be
+strengthened by the following key variables:
+
+    • Money moved
+    • High-credibiliy/high-visibility supporters (this goal is self-
+      reinforcing)
+    • Brand value / name recognition
+
+
+High/credibility/high-visibility supporters: key milestones
+
+
+Current status: our Board of Directors has 6 members, 2 of whom have
+substantial nonprofit sector experience and 2 of whom have substantial for-
+profit sector experience.  We have two Advisory Board members; one is a
+relatively high-profile professor and another has a fairly strong resume in
+developing-world health, having been in charge of metrics and evaluation
+for both Partners in Health and the Millennium Villages Project.
+
+Milestones: Each Board member or Advisory Board member recruited will be a
+minor milestone, improving our credibility and ability to reach more
+candidates.
+
+
+Brand value / name recognition
+
+
+
+Brand value / name recognition: end goal
+
+
+GiveWell will occupy a place in annual coverage of giving  similar  to  that
+currently occupied by Charity Navigator.  It will  be  covered  in  multiple
+mainstream media pieces during giving season of  each  year.   Its  research
+will be frequently referenced  and  linked  to  in  online  blog  posts  and
+discussions of  relevant  issues  (including,  for  example,  education  and
+foreign aid).
+
+
+Brand value / name recognition: how we’ll get to the end goal outlined
+above
+
+
+We expect that the most promising avenues to earned media coverage will be:
+
+    • Cultivating relationships with members of the media.   Key  variables:
+      time; progress on research (which will give us newsworthy findings  to
+      publish).
+    • High-credibility/high-visibility endorsers and supporters.
+    • Money moved.
+
+We expect that the promising avenues to more frequent coverage from  smaller
+online communities will be:
+
+    • Depth, breadth, presentation of research.
+    • High-credibility/high-visibility endorsers and supporters.
+
+-----------------------
+[1]  Note that the creation of the initial report – incorporating a review
+of academic research, search for relevant organizations, etc. – will be far
+more time-consuming than updating a report each year (which will require
+only reviewing new materials released both by academics and charities, as
+well as evaluating any new charities that apply).
+
+
+
+=== Tactical Plan ===
+
+                 Tactical plan: 11/10/2008 through 6/1/2009
+
+
+Introduction/summary
+
+
+GiveWell’s ultimate vision is of a world in which:
+
+    • Individual donors can easily find actionable information about what
+      charities do and whether it works.
+    • A large amount of money from these donors flows systematically to the
+      charities with the most proven, cost-effective, scalable ways of
+      helping people.
+    • This dynamic – charities competing for funding based on demonstrated
+      impact – leads to an ongoing public dialogue about how to help people,
+      and to constant improvement in the way charitable resources are
+      allocated.
+
+Our vision document lays out the specific assets we feel we’ll need to
+reach this vision:
+
+   1. Staff capacity (and the operating funds to pay for it)
+   2. Depth, breadth, and presentation quality of research
+   3. Money moved
+   4. High-credibility/high-visibility supporters
+   5. Brand value / name recognition
+
+We feel that the appropriate focus for our next year is on #1 and #2
+because:
+
+    • We are unlikely to make significant progress on #3-5 given the current
+      state of #1-2.
+    • We may make more progress on #3-5 if we had significantly deeper and
+      broader research.
+    • Serious progress on #1-2 is well within our reach, and is unlikely to
+      be affected much by #3-5.
+
+Our priorities for the coming year, in order, are as follows.
+
+Priority 1: hire a Research Analyst in order to improve our ability to
+accomplish our other goals (below).
+Time allocation: approximately 5 hours per week devoted to recruiting
+(prior to the hire) and management/review (after the hire is made).
+Deliverable: hire one Research Analyst by Jan. 1, 2008.  Complete thorough
+review of hire by Mar. 30, 2008.
+
+Priority 2: Complete an in-depth research report on developing-world aid,
+while systemizing as much as possible of the research process.  Doing so
+will add greatly to our understanding of the time and resources necessary
+to reach the level of research laid out in our vision document; it will
+also improve our appeal to donors and high-credibility/high-visibility
+supporters interested in this cause.
+Time allocation: approximately 40 hours per week of Holden’s and Elie’s
+time, and 25 hours per week of the Research Analyst’s time.
+Deliverable: in-depth research report on developing-world aid completed by
+6/1/2009.  See below for details on the contents of this report.
+
+Priority 3: Continue to pursue customers in order to a) measure demand and
+b) get substantive feedback on the materials we produce.
+Time allocation: approximately 10 hours per week of Holden’s and Elie’s
+time.
+Deliverable: none as of now.  Progress on metrics (directly below) will be
+monitored and assessed after the fact.
+Metrics:
+    • Money moved (defined as the to the sum of Clear Fund grants, GiveWell
+      Pledges, and all other donations that are directly attributable to
+      GiveWell’s research).
+    • Money moved through donors who know us only from GiveWell.
+    • Number of donations moved through donors who know us only from
+      GiveWell.
+    • Links from other blogs and websites (taking into consideration the
+      significance, as measured by Alexa and Technorati rank, of these blogs
+      and websites).
+    • Mentions in mainstream media.
+    • Traffic to website and blog.
+    • Subscribers to blog and email list(s).
+    • Partnerships with donor advised funds, wealth advisors, and online
+      donor resources.
+
+Priority 4: Pursue important relationships including:
+    • Successful supporters to serve as mentors and members of the Board of
+      Directors
+    • Partners who can help us reach potential users of our research
+    • Donors who can increase our money moved and continue to build our
+      network
+    • High-credibility supporters for our Advisory Board
+Time allocation: approximately 15 hours per week of Holden’s and Elie’s
+time.
+Deliverable by 6/1/2009:
+    • A total of three experienced entrepreneurs who serve as mentors to us
+      on a regular basis.  (We currently have one.)
+    • A total of five highly credible and/or visible figures who serve on
+      our Advisory Board and endorse our research.  (We currently have two.)
+
+Total hours per week add to 70, out of our average of 80.  The remaining 10
+are allocated to miscellaneous tasks such as accounting and legal issues
+and Board-related communications.
+
+Below, we lay out specific plans for pursuing these priorities.
+
+
+Goal 1: expand our staff
+
+
+We aim to hire one Research Analyst by Jan. 1, 2008.  In hiring, we will
+start with our existing base of volunteers, and seek the following
+qualities:
+
+    • Strong analytical abilities.
+    • Strong interest in GiveWell.
+    • A good work ethic.
+
+The Research Analyst will be paid a salary of $35,000 per year plus health
+benefits.  Including employer payroll taxes and the cost of health
+benefits, the total cost to GiveWell of the Research Analyst will be
+approximately $41,500 per year.
+
+The responsibilities of the Research Analyst will primarily be:
+
+    • Examining the websites and annual reports of over 800 charities and
+      summarizing their activities.
+    • Examining and summarizing the academic literature on 15 categories of
+      developing-world interventions.
+    • Examining and summarizing the academic literature on a set of other
+      relevant questions such as the relationship between health and
+      economic growth, and the possible negative effects of international
+      aid.
+
+More on what the Research Analyst will do and how we will evaluate and
+manage him/her will be written up in our Research Analyst Hiring Document.
+
+We believe that the nature of our research plan and the clarity of our
+expectations merit a hire.  This was not the case when we made a previous
+hire in late 2007.
+
+After we have worked with the Research Analyst for 3 full months and
+completed our first quarterly review, we will reassess our needs and
+determine whether we should hire further, scale back, or stay at the
+current staff level.  For now, the only goal we are committing to is the
+hiring of one capable Research Analyst.
+
+
+Timeline
+
+
+11/14/2008 – writeup completed on prospective salaries, duties, and
+evaluation for new hire.  Two top candidates contacted and asked to
+complete a preliminary project if interested.
+
+11/28/2008 – Preliminary projects due.
+
+12/2/2008 – preliminary evaluation of preliminary projects completed.  Hire
+is made if possible; if neither of the top two candidates demonstrates both
+interest and a strong preliminary project, we broaden the search by:
+
+    • Posting the position opening on our blog.
+    • Contacting several friends whom we believe will provide us with
+      referrals.
+    • Public postings via sites such as Monster.com and Doostang.com if we
+      do not receive applications within a few days.
+
+12/9/2008 – preliminary project given to interested applicants.
+
+12/23/2008 – preliminary projects due.
+
+Hire made by Monday, Jan. 5.
+
+1/5/2009 – 1/12/2009 – training period for new hire.
+
+1/19/2009 – first formal audit and evaluation of new hire, focusing on
+execution of instructions.
+
+1/26/2009 – second audit and evaluation of new hire.
+
+2/16/2009 – third audit and evaluation of new hire.
+
+3/2/2009 – fourth audit and evaluation of new hire.
+
+3/30/2009 – fifth audit and evaluation of new hire, focusing on value
+added.  At this point, we will give most serious consideration to whether
+to continue the relationship.
+
+
+Goal 2: complete an in-depth research report on developing-world aid
+
+
+We aim to publish an in-depth research report on developing-world aid by
+June 1, 2009.  The report will include:
+
+    • Activities listings and basic ratings for each of the approximately
+      800 US-registered international-aid charities with annual budgets in
+      excess of $1 million.
+    • At least 10 recommended charities in all, and at least one recommended
+      charity within each of the following areas:
+         o Direct health interventions
+         o Economic empowerment programs (microfinance, agricultural
+           training, irrigation, etc.)
+         o Primary and secondary education (scholarships, school building)
+    • Literature reviews on several general questions about international
+      aid (see http://blog.givewell.net/?p=303)
+    • Detailed notes on two focus regions
+
+We anticipate devoting half of our time (40 total focused hours per week)
+to research.  We anticipate that our Research Analyst will work 30 total
+focused hours per week, of which 25 will be devoted to research, and that
+we will get at least another 5 focused hours per week from volunteers.
+
+Completing this report will require completing the following tasks.
+
+Task 1: Review literature on the cost-effectiveness of different health
+interventions; identify priority interventions.
+Time estimate:  Done; took approx. 200 hours of our time and 40 hours of
+volunteer time.  This estimate includes all discussion, brainstorming, and
+writing up findings.
+
+Task 2: Review literature on economic empowerment programs and primary and
+secondary education; identify priority interventions.
+Time estimate: 240 hours (6 weeks) of our time.  We have already looked
+preliminarily at the literature in both of these areas, and believe that
+there is significantly less to go through in the two combined than in
+health.
+
+Task 3: Creating a dataset summarizing the major activities of as many
+international aid organizations as possible, including the ~800 in the
+dataset we currently own (see http://www.givewell.net/applicants).
+Time estimate: 400 hours (13.3 weeks) of volunteer/assistant time.  We have
+had volunteers working on this task at a fairly consistent rate of 30
+minutes per charity.
+
+Task 4: Create ratings of charities by matching up their activities with
+our list of priority interventions.  Use these ratings to identify priority
+charities.
+Time estimate: 200 hours (5 weeks) of our time; 40 hours (1.3 weeks) of
+volunteer/assistant time.  We have no sense of how to do this estimate, and
+are assigning it an amount of time comparable to other major tasks.
+
+Task 5: Conduct literature reviews on other questions, including the
+general questions listed at http://blog.givewell.net/?p=303, and any
+literature review necessary to help choose our two focus regions
+Time estimate: 240 hours (6 weeks) of our time.  As with Task 4, we have no
+sense of how to do this estimate, and are assigning it an amount of time
+comparable to other major tasks.
+
+Task 6: Complete in-depth reviews of recommended charities.
+Time estimate: assuming 10 recommended charities, each of which takes 20
+hours of volunteer/assistant time and 20 hours of our time (these estimates
+based partly on our experiences writing such recommendations in Year 1 for
+PIH, PSI, NFP and KIPP), yields an estimate of 200 hours (5 weeks) of our
+time; 200 hours (6.7 weeks) of volunteer/assistant time.
+
+Task 7: Conduct and write up personal visits to our two focus regions
+Time estimate: 4 weeks of our time (2 weeks each for Holden and Elie)
+
+Task 8: polish final report/fudge factor.
+Time estimate: 200 hours (5 weeks) of our time; 200 hours (6.7 weeks) of
+volunteer/assistant time.
+
+
+Timeline
+
+
+12/22/2008 – literature review of economic empowerment and education
+completed.
+
+2/2/2009 – literature review of general aid-related questions completed.
+
+2/11/2009 – dataset summarizing activities of international aid
+organizations completed.
+
+3/9/2009 – ratings completed for each charity; priority charities
+identified and contacted.  Site visit #1 begins.
+
+3/30/2009 – Site visit #1 completed; site visit #2 begins.
+
+4/13/2009 – Site visit #2 completed.
+
+4/27/2009 – reviews of recommended charities completed.
+
+6/1/2009 – final report released.
+
+
+
+
+Goal 3.  Continue to pursue customers and measure demand.
+
+
+We feel it is important to continuing pursuing more “customers,” i.e.,
+people who will use our research for their charitable giving.  We feel this
+way because:
+
+    • Our ability to recruit customers reflects on the viability of our
+      project as a whole.
+    • Getting feedback from customers about where our resource is falling
+      short will help us to focus on the right areas.
+    • Moving more money increases the attractiveness of our project to the
+      current supporters of our operating expenses.
+
+At this point we do not have a single strategy for pursuing customers that
+we believe is cost-effective and reliable.  Instead, we have many possible
+strategies that we are interested in (or in the process of) experimenting
+with:
+    • Targeting companies in our target sectors (finance, consulting,
+      software).
+         o We have cold-emailed 18 companies that we found through a search
+           of corporate charity-matching programs.
+         o We will follow up with each company once by both email and
+           phone, and assess the results.  We will consider this strategy a
+           success (enough to continue it further) if we get either (a) an
+           opportunity to speak in front of at least 30 people (in a forum
+           that allows us to follow up with attendees and receive their
+           feedback on future research); (b) $10,000 in funds committed to
+           charities found through our research (either GiveWell pledges or
+           donations restricted to grants).
+    • Targeting relatively small family foundations.  We have cold-emailed
+      18 family foundations, and will follow up with each once by email and
+      once by phone and assess the results.  We will consider this strategy
+      a success (enough to continue it further) if we get at least $10,000
+      in funds committed to charities found through our research (either
+      GiveWell pledges or donations restricted to grants).
+    • Presenting our research results more engagingly and more frequently in
+      the hopes of increasing the interest of those on our email list, as
+      well as generating online attention (links from blogs, etc.)
+    • Partnering with major online giving resources such as Guidestar,
+      Charity Navigator, and Network for Good.  We are currently in contact
+      with GuideStar (scheduled to speak next in December), and are planning
+      on continuing to find and contact partners along these lines.
+    • Partnering with donor-advised funds such as those run by Vanguard,
+      Fidelity and Schwab.  We are currently in contact with these three
+      DAFs, and plan on gradually building relationships.
+    • Partnering with private wealth advisors.
+    • Partnering with organizations/people that focus on raising funds for
+      particular causes (or charity in general), as opposed to particular
+      organizations.
+    • Online advertising via platforms such as AdWords, Facebook, and
+      LinkedIn.
+    • Person-to-person networking.
+         o We have invested a high amount of time in this technique without
+           great returns so far; see our Overview of progress and new
+           evidence since 6/19/2008.
+         o We plan to continue following up with extremely promising
+           contacts, particularly those who actively contact us and/or
+           those that may be able to get us in front of large groups.
+         o We plan not to continue spending a significant amount of time
+           pushing for more introductions.
+
+At this point we do not have a good sense of the expected return on time
+for any of the following strategies, and as such do not want to commit to a
+specific deliverable.  Instead, we plan to allocate 10 hours per week to
+experimenting with these strategies (in the rough order of priority listed)
+and estimate the return on different strategies in terms of the following
+metrics:
+
+    • Money moved (defined as the to the sum of Clear Fund grants, GiveWell
+      Pledges, and all other donations that are directly attributable to
+      GiveWell’s research).
+    • Money moved through donors who know us only from GiveWell.
+    • Number of donations moved through donors who know us only from
+      GiveWell.
+    • Links from other blogs and websites (taking into consideration the
+      significance, as measured by Alexa and Technorati rank, of these blogs
+      and websites).
+    • Mentions in mainstream media.
+    • Traffic to website and blog.
+    • Subscribers to blog and email list(s).
+    • Partnerships with donor advised funds, wealth advisors, and online
+      donor resources.
+
+
+Goal 4. Pursue important relationships
+
+
+We seek to build relationships along the following lines
+
+    • Successful supporters to serve as mentors and members of the Board of
+      Directors
+    • Partners who can help us reach potential users of our research
+    • Donors who can increase our money moved and continue to build our
+      network
+    • High-credibility supporters for our Advisory Board
+
+We currently spend a total of about 15 hours per week on correspondence
+(via email) with current and potential contacts.  We believe that we can
+maintain this allocation and reach the following deliverables:
+
+    • A total of three experienced entrepreneurs who serve as mentors to us
+      on a regular basis.  (We currently have one.)
+    • A total of five highly credible and/or visible figures who serve on
+      our Advisory Board and endorse our research.  (We currently have two.)
+
+
+=== Transition Document ===
+
+                                  GiveWell
+            Overview of progress and new evidence since 6/19/2008
+
+Summary
+
+At our board meeting on 9/8/2008, we agreed that our top priority for this
+year was money moved, with research as a secondary priority.  We now feel
+that our top priority is research, with money moved as a lower priority.
+
+    • We believed that we could raise substantial amounts of money through
+      our network, particularly through high-net-worth donors.  We now
+      believe that this networking approach is too time-intensive, and that
+      the correct target market for us is medium-size donors whom we must
+      reach in more systematic, scalable ways.
+    • We believed that the current state of our research would be sufficient
+      to raise large amounts of money.  We now believe that in order to
+      reach our target market in a large-scale way, we need substantially
+      broader and deeper research.
+    • We believed that we had no way to create a substantially broader and
+      deeper set of research without extreme growth in staff.  We now
+      believe that a deep, broad resource can be built within a few years,
+      while scaling up from our current expenses to no more than $1.6
+      million per year.
+    • We believed that raising money through our network was the key to
+      “proving” demand and thereby raising more operating funds and drawing
+      more media exposure.  We now believe that investors – including us –
+      are unlikely to see money raised through our network as proof of
+      demand.  Instead, we must make progress toward a long-term goal of
+      moving money at scale.
+    • We believed that we could, and needed to, “prove” significant demand
+      in the short term.  We now believe that we can show incremental
+      progress on demand as we continue our research, but the full state of
+      demand for it can only be assessed once our research content is
+      substantially improved.
+
+The rest of this document lays out the supporting evidence for the above
+summary.
+
+How our view has changed     2
+Who is our target market?    2
+How can we reach our target market?     3
+What would it take to do substantially broader and deeper research? 3
+How can we demonstrate the project’s viability and scalability to
+investors?  3
+What is our long-term, steady-state vision, both in terms of research
+coverage and sources of money moved?    5
+Conclusion  5
+Notes on the pitches we’ve given to date     5
+      High net worth individuals   5
+      Referrals   6
+      People who submitted our feedback survey     6
+      People who found us    7
+      Friends and former coworkers 7
+
+
+
+
+
+
+
+How our view has changed
+
+
+On 6/19/2008, we published our plan for GiveWell Year 2.  The centerpiece
+of this plan was a focus on increasing the money moved by GiveWell:[1]
+
+      Goal 1  [increasing  our  money  moved]  not  only  answers  the  most
+      important current question  about  GiveWell  –  the  question  of  how
+      influential or model can be – but also is important  in  pursuing  all
+      three of our other goals, since our ability to move money will  affect
+      the likelihood that charities  share  information  with  us  and  that
+      qualified people collaborate with us.  It is  important  to  recognize
+      that this goal – increasing our “money moved” – is  by  far  the  most
+      important one for this year.  If and only if we make good progress  on
+      it, we will be much better positioned to accomplish our other goals  …
+      in future years.
+
+We now feel differently.  As outlined in our more recent tactical document,
+we believe that our top priority is further improving our research model,
+to the point where we can create a resource that is both broad and deep in
+its coverage of philanthropic options.
+
+This document lays out the new evidence and ideas since 6/19/2008, and why
+our view has changed.
+
+
+Who is our target market?
+
+
+In our previous plan, we wrote:
+
+      Without a strong brand or large advertising budget, we don’t see an
+      immediate path to reaching and influencing individual donors en masse.
+       We believe our best short-run strategy for increasing our influence
+      is to target major individual donors, whom we can reach and interact
+      with through personal relationships.
+
+
+We did not distinguish between donors of different ages or sizes (beyond
+focusing on “major” donors).
+
+Since then, we have had 78 total “pitch meetings,” in which we argued the
+case for a GiveWell Pledge to one or more people.  The results are
+summarized at the bottom of this document; one of the key findings is that
+going after high-net-worth individuals has been extremely unproductive.
+
+We believe that a given donor is much more likely to be a customer when
+s/he is not already highly involved in philanthropy, but is instead looking
+for a way to make an impact with relatively small donations and relatively
+little involvement.  Such customers are more similar to the original
+members of our 8-person project (before it went full-time) and of our
+original funders.
+
+
+How can we reach our target market?
+
+
+
+
+As discussed above, we initially planned to focus on person-to-person
+networking in order to increase our “money moved.”
+
+We now believe that if we are to move a significant amount of money, we
+must do so with scale – not simply via person-to-person networking.
+
+A large part of this belief is the relatively low return on investment from
+the pledge-raising we’ve done so far.  In our view, a reasonable return on
+investment would be one that would make it possible to move 9x as much
+money as our current operating costs (thus reducing our “operating expense
+ratio” to 10%) within a year, by spending half our time (40 hours per week)
+on marketing.  Such an endeavor would require a return on investment over
+$700 per hour; the only pledge-raising that has come close to this level is
+pledge-raising from those who already know us or who specifically sought us
+out via the web.  See the bottom of this document for details.
+
+Instead, we seek ways to reach large numbers of people in our target
+market.  Our vision document lays out several methods for doing so.
+However, we feel that nearly every such method would be substantially more
+viable if our research were substantially more comprehensive.
+
+
+What would it take to do substantially broader and deeper research?
+
+
+
+
+When we published our previous plan, we were still in the final stages of
+our year-1 research, which was conducted using a “bottom-up” approach:
+getting nearly all of our information from charities’ grant applications.
+We saw this intensive process as something that would have to be repeated
+each year, in full, for each cause we covered.  We therefore anticipated
+that we would need an extremely large staff to cover a broad array of
+causes.
+
+Since then, we have focused more on a “top-down” approach, identifying
+promising programs and collecting as much background information as
+possible, and aiming to involve charities only at the final step (checking
+adherence to a proven program).  We now believe that much of the necessary
+research for a given cause does not need to be performed nearly as
+frequently as once per year.
+
+As expressed in our vision document, we now believe we can create a broad
+and deep resource within a few years, and without excessive annual expenses
+(even the large-scale organization in our vision document has expenses in
+the range of $1.6 million per year, only about twice the budget of Charity
+Navigator).
+
+
+How can we demonstrate the project’s viability and scalability to
+investors?
+
+
+Our previous plan emphasized the importance of raising GiveWell Pledges as
+a way to “demonstrate” demand for our research.
+
+We believed that demonstrating demand would improve our ability to raise
+money from “investors,” i.e., people who pay our operating expenses in the
+hopes that we can grow our project and have a significant impact on
+philanthropy.  The two co-Founders also wanted to see GiveWell Pledges as
+evidence of demand, relevant to our own investment (of our labor) in the
+project.
+
+As discussed above, we now have a new picture of our target audience and
+how it can be reached – one that stresses the importance of improving our
+research before focusing on marketing.
+
+In addition, in speaking to high-net-worth individuals and foundations –
+potential investors – the most common concern we’ve heard (by far) has been
+the question of how we will take our project to scale: provide broad enough
+research coverage (causes and charities) and reach enough donors to have a
+significant impact on philanthropy.
+
+Such investors have not seen our ability to raise money directly from our
+network, in the range of $500,000 (our previous target for this year), as
+an indicator of our ability to take the project to scale, or of demand in
+general.  They instead were most interested in seeing that we had a
+systematic way of a) conducting our research and recommending charities
+(one that does not rely solely on Elie’s and Holden’s judgment) and b) a
+systematic, repeatable method for reaching our target market. After much
+discussion and reflection, we agree with them.
+
+Examples of these conversations:
+
+  Information on specific individuals withheld from public version of this
+                                  document
+
+   1. V.C. said specifically that he wouldn’t care at all if we could raise
+      $500,000 from our network. He was much more interested in seeing that
+      we had a method for consistently raising funds.
+   2. High-net worth individual questioned the scalability of our research
+      and the degree to which GiveWell relies on Elie and Holden,
+      specifically.
+   3. Foundation officer most wants to see a systematic way of reaching
+      donors and conducting our research.
+   4. Foundation officer II is more interested in research coverage than
+      “money moved.”
+
+As we can, we plan to speak to potential investors about what they would
+like to see from us to continue funding so we know what we need to deliver.
+
+We no longer believe that raising GiveWell Pledges from our network will
+lead to the kind of “evidence of demand” that will allow us to raise
+significantly more operating funds, or that will give us substantially more
+confidence in our ability to reach our long-term vision.
+
+Instead, in considering how to improve the case for our project to
+investors (including ourselves), we have focused on the end goal, how we
+can get there, and what indicators we can aim to measure along the way.
+See immediately below.
+
+
+What is our long-term, steady-state vision, both in terms of research
+coverage and sources of money moved?
+
+
+
+
+Our conversations with investors (see immediately above) pushed us to think
+harder about our long-term vision for GiveWell:
+
+      • The depth and breadth of research we need to move a significant
+        amount of money.
+      • The hoped-for eventual sources of “money moved.”
+
+This long-term vision is something that we hadn’t thought about hard enough
+or specifically enough before.  We have now outlined it in our vision
+document, and we see progress on research as the most promising short-term
+goal on the path to this vision.  The reasons for this view are laid out in
+our tactical plan; in a nutshell, we feel that most eventual sources of
+money moved will be much easier to partner with when we have a longer track
+record and more depth and breadth of research.
+
+
+
+
+Conclusion
+
+
+    • We no longer see GiveWell Pledges, raised through networking, as a
+      good general indicator of demand for our research.
+    • We believe that in order to reach our target market effectively and at
+      scale, we will need substantially more (deeper, broader) research than
+      we currently have.
+    • We no longer believe that our research need be extremely expensive on
+      a per-cause basis.  We believe that we can reach a strong level of
+      depth and breadth for a few million dollars over a few years.
+    • We therefore believe the best path toward our long-term vision begins
+      with improving our research, rather than trying to establish demand
+      for the limited product we offer now.
+
+
+Notes on the pitches we’ve given to date
+
+
+
+High net worth individuals
+
+
+Through referrals, we’ve spoken to 13 individuals that we perceive as
+having very large charitable budgets (in excess of $100,000 per year).
+
+    • 12 out of 13 declined to make a GiveWell pledge. The 1 that did each
+      made a relatively small pledge ($10,000, conditional on our raising
+      $240,000 in pledges from others).  Of those that declined:
+         o 7 cited their own ability to find charities they could have
+           confidence in, often through personal connections
+         o 2 had strong doubts about our research model and ability to find
+           better organizations for them to support
+         o 1 cited recent losses in the stock market as forcing him to
+           curtail giving
+         o 1 stated that he has committed his entire budget for the year
+           (though he plans to review our research and consider a pledge
+           for next year)
+         o 1 was uninterested in “charity” (preferring instead Kiva or an X-
+           Prize type vehicle).
+    • The 1 that agreed to pledge had supported us in our first year.
+
+Time cost (including time spent on getting referrals, following up, etc.):
+50-100 man-hours in addition to our week in California.
+
+Return on investment (backward-looking): below $200/hr.
+
+
+Referrals
+
+
+We went to 35 of our friends and former coworkers and asked them to refer
+us directly to people who might be interested in pledging. This process
+yielded 21 prospects. Of those;
+
+    • 4 agreed to pledge (1x$5,000, 2x$1,000, and 1 without yet giving an
+      amount)
+    • 6 reacted positively but have yet to make a final decision
+    • 6 did not want to pledge (3 said they were already happy with their
+      charities of choice, 1 said recent market conditions means they
+      likely won’t give this year, and 1 said he had recently left his job,
+      and 1 gave no reason)
+    • 5 we have yet to reach
+
+Time cost: ~75 hours.
+
+Return on investment: the 3 quantified pledges we have total $7,000.
+Assuming that the 7 who have yet to provide an amount pledge at the same
+rate would yield an (optimistic) estimate of $23,000, or about $300/hr.
+
+
+People who submitted our feedback survey
+
+
+We contacted 20 people who submitted a feedback survey through
+givewell.net, indicating (a) a charitable budget of $100,000+ per year or
+(b) both a charitable budget of $5,000+ per year and an interest in
+developing-world aid. Of those:
+
+    • 3 agreed to pledge (2x$2,500 and 1x250)
+    • 3 did not want to pledge  - 1 spoke with us on the phone by said he’s
+      not giving to charity right now; 2 responded to our intial email
+      saying they weren’t interested.
+    • 14 never responded to our initial email
+
+Time cost: 5-10 hours
+
+Return on investment: $500-1000/hr.
+
+
+People who found us
+
+
+We have made some contacts who actively found us and expressed an interest
+in supporting the project (not just submitting the feedback survey).
+Getting to the point of a yes/no on a GiveWell Pledge (or donation) often
+took multiple follow-ups, but led to good results:
+
+    • 2 pledges for $25,000 each
+    • 1 donation of $18,000
+    • 2 pledges for $10,000 each
+    • 1 pledge for $5,000
+    • 3 pledges of $2,000-$2,500 each
+    • 1 pledge of $500
+    • 2 pledges of (as yet) unspecified amounts
+
+Time cost: 20 total hours.
+
+Return on investment: ~$5,000/hr.
+
+
+Friends and former coworkers
+
+
+We pitched 33 people who are our own friends and former coworkers. The
+table below separates those people by result (Yes, No, still pending) and
+whether they supported GiveWell in year 1.  Note that most of those who
+have agreed to make a GiveWell Pledge have not yet specified an amount.
+
+           [pic]
+
+The 2 who said “No” cited financial concerns (1 due to a recent job change
+and 1 due to the financial crisis).
+
+Among those who are new supporters, we raised $26,000 from 9 people. One
+person has yet to give an amount for their pledge.
+
+Time cost: ~50 hours.
+
+
+-----------------------
+[1] “Money moved” refers to the sum of Clear Fund grants, GiveWell Pledges,
+and all other donations that are directly attributable to GiveWell’s
+research.
+
+
+
+=== Budget Update ===
+
+                        Clear Fund Board of Directors
+                         Attachment E: Budget Update
+
+                 5/1/2008 – 12/31/2008 (revised projection)
+
+                                    [pic]
+
+                      1/1/2009 – 5/31/2009 (projected)
+                                    [pic]
+
+                       Summary of financial situation
+
+                                    [pic]
+
+
+Notes:
+
+    • Holden’s and Elie’s salaries were lowered by $5,000 each for 2008 (pro-
+      rated) in reaction to their inappropriate  marketing  activities  (see
+      http://www.givewell.net/node/185).  They are slated to be restored  to
+      $65,000 ann. for 2009.
+    • This budget projection does not include the revenue from a likely, but
+      still pending, foundation grant of $100,000.
+    • GiveWell Pledges currently total $98,350.  These  do  not  affect  our
+      operating budget.
+
+
+=== Agenda ===
+
+                        Clear Fund Board of Directors
+                        Meeting Agenda for 11/10/2008
+
+   1. Introductions.  2 minutes.
+
+   2. Discussion of professional development plan.  Allow 30 minutes.  See
+      Attachment A.
+
+         • Staff proposes to establish formal mentoring relationships with
+           particular contacts (people whom we both have access to and have
+           substantial experience in business, particularly with creating a
+           successful startup).
+         • These contacts will receive and discuss each biweekly report.
+         • We currently have two such mentors and are planning on
+           soliciting more from among our current contacts; we aim to have
+           four such mentors by June of 2009.
+         • We also plan to pursue other options including a social
+           entrepreneurship group at the Harvard Club and several
+           competitive programs for social entrepreneurs.  However, the
+           heart of our professional development plan is mentoring
+           relationships.
+
+   3. Discussion of long-term vision for GiveWell.  Allow 45 minutes.  See
+      Attachment B.  GiveWell aims to reach the following “steady state”:
+
+      • Depth, breadth, and presentation of research: GiveWell publishes up-
+        to-date research on seven broad causes: developing-world aid,
+        disease research, global warming prevention/mitigation, equality of
+        opportunity in the U.S., mitigation of suffering in the U.S.,
+        tolerance in the U.S., and animal welfare.  It recommends several
+        charities per cause (including one for each subcause, outlined in
+        the body of our vision document) and provides basic ratings for
+        much larger numbers of charities.
+      • Capacity and operating funding: GiveWell has a staff of about
+        twenty, and operates on about $1.7 million per year.  Its staff is
+        sufficient to provide broad, deep research as well as maintaining
+        an excellent website and active marketing efforts.
+      • Money moved: GiveWell affects a large amount of money – at least
+        $15 million, 9 times operating costs – through a variety of methods
+        outlined in the body of this document.
+      • High-credibility/high-visibility supporters: GiveWell will have a
+        10-person Board of Directors, composed primarily of major donors
+        who are successful and well-connected in the for-profit world.  It
+        will also maintain a separate Advisory Board for each broad cause
+        covered by its research, composed of 3-10 people with significant
+        expertise in that particular area.
+      • Brand value / name recognition:  GiveWell will occupy a place in
+        annual coverage of giving similar to that currently occupied by
+        Charity Navigator.  It will be covered in multiple mainstream media
+        pieces during giving season of each year.  Its research will be
+        frequently referenced and linked to in online blog posts and
+        discussions of relevant issues.
+
+   4. Discussion of revised tactical plan for progressing toward our vision.
+       Allow 45 minutes.  See Attachment C for our tactical plan and
+      Attachment D for the reasons behind our change in direction from the
+      plan outlined at the last Board meeting.
+
+      • Priority 1: hire a research analyst in order to improve our ability
+        to accomplish our other goals (below).  5 hours per week.
+      • Priority 2: Complete an in-depth research report on developing-
+        world aid, while systemizing as much as possible of the research
+        process.  40 hours per week.
+      • Priority 3: Continue to pursue customers in order to a) measure
+        demand and b) get substantive feedback on the materials we produce.
+         10 hours per week.
+      • Priority 4: Pursue important relationships.  15 hours per week.
+            o Successful supporters to serve as mentors and members of the
+              Board of Directors
+            o Partners who can help us reach potential users of our
+              research
+            o Donors who can increase our money moved and continue to build
+              our network
+            o High-credibility supporters for our Advisory Board
+
+Total projected meeting time: 2 hours
+Next meeting: January 2009
+
+Attachments:
+   A. Professional development plan
+   B. Vision document.
+   C. Tactical business plan for progressing toward vision.
+   D. “Transition document”: overview of the reasons behind our change of
+      strategy.
+
+
+Generate a comprehensive summary (approximately 1000 words):

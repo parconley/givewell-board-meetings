@@ -1,0 +1,51 @@
+GIVEWELL BOARD MEETING #22 - APRIL 29, 2013
+
+BOARD GOVERNANCE AND COMPOSITION
+
+The board elected Brigid Slipka as a new board member and re-elected all current directors. The board positions were confirmed as follows: Tom Rutledge (President), Tim Ogden (Vice-President), Cari Tuna (Treasurer), and Holden Karnofsky (Secretary). The full board composition included these officers plus Elie Hassenfeld, Greg Jensen, and Phil Steinmeyer.
+
+ANNUAL REVIEW: MAJOR ACCOMPLISHMENTS IN 2012
+
+GiveWell completed a successful year with substantial progress across multiple dimensions. The organization strengthened its partnership with Good Ventures, which made $2 million in grants to GiveWell top charities in 2012, plus $1.1 million to organizations that were not top-rated charities. GiveWell played a significant role in directing these funds. The partnership became more formal with GiveWell relocating to San Francisco to share office space with Good Ventures, completing the move by February 2013.
+
+The organization added GiveDirectly to its list of top charities following a thorough review that included a site visit and comprehensive evaluation of evidence for unconditional cash transfers. This represented the first change to the top charities list in several years. GiveWell also conducted deeper research into existing top charities and interventions, including revisiting the evidence for insecticide-treated nets, examining insecticide resistance and malaria control, and reassessing the case for developmental effects of deworming. A new Cochrane review of deworming effectiveness was also analyzed.
+
+Money moved grew to over $9.57 million (finalized figure) in 2012, compared to approximately $5 million in 2011. Excluding two particularly large and unrepresentative donors, the growth was from $3.4 million in 2011 to $5.5-6 million in 2012. This represented continued strong growth, though at a slower pace than the previous 100% annual growth rate experienced through 2011.
+
+RESEARCH PROCESS IMPROVEMENTS
+
+The research process became more systematic and replicable in 2012. GiveWell established a stable pattern of initial phone calls and document requests to prioritize organizations, followed by deep-dive reviews of highly promising organizations including site visits. This was accompanied by intervention reports and cost-effectiveness analyses for interventions conducted by potential top charities. More thorough pre-publication internal reviews and post-publication external reviews of core research products increased confidence in recommendations.
+
+GiveWell investigated several new intervention areas including immunizations, Vitamin A supplementation, and salt iodization. However, these interventions did not appear to have the same room for more funding that existing top charities offered. The organization became more confident that they had identified the most evidence-supported interventions and groups working on them, leading to a sense of diminishing returns on traditional research.
+
+ORGANIZATIONAL CAPACITY AND CHALLENGES
+
+Staff capacity grew slower than anticipated. GiveWell had five full-time employees and one part-time employee at year-end 2012, compared to a goal of eight full-time employees. The organization made two full-time hires and one part-time hire during the year, but also experienced two departures. Recruiting remained a major priority for 2013.
+
+The review of GiveDirectly was led by co-founders rather than analysts due to time sensitivity, representing a shortcoming that caused GiveWell to miss its November 1st goal for having giving season updates ready. This time pressure had negative consequences for work on GiveWell Labs and long-term organizational capacity development. However, positive developments included the maturation of existing employees. Alexander Berger was promoted to Senior Research Analyst, and Natalie Crispin became Research Analyst and Financial Manager, taking over management of GiveWell's financials and donation processing.
+
+GIVEWELL LABS AND STRATEGIC DIRECTION
+
+Progress on GiveWell Labs was slower than anticipated, with substantially less staff time allocated than intended. The organization recommended a grant to the U.S. Cochrane Center and worked with Good Ventures on a $1 million co-funding project with the Gates Foundation. However, no new giving opportunities were ready to recommend to individual donors in this area.
+
+The board discussed a fundamental tension between maintaining quality traditional research (focusing on proven cost-effective interventions in global health and nutrition) versus broadening research scope through GiveWell Labs. The organization conducted a survey of followers to gauge interest in different research directions. Results showed that over 95% of respondents were interested in at least one category of research falling outside traditional work, and over 90% were interested in categories not directly connected to evidence-backed interventions. This suggested broader appetite for GiveWell Labs work than previously assumed.
+
+For 2013, GiveWell planned to prioritize GiveWell Labs more highly, aiming to allocate more total research time to Labs than to traditional work. Essential traditional work would include continuing charity updates on existing top charities, reviewing any charity with substantial chance of meeting traditional criteria as well as the current #1 charity, and hiring to enable more thorough traditional work at lower cost to Labs. The organization would not prioritize deeper investigation of academic evidence, searching for charities less outstanding than the current #1, investigating new delivery methods for proven interventions, or reviewing academic evidence for interventions without outstanding implementing charities.
+
+FINANCIAL PERFORMANCE
+
+Operating expenses for 2012 were $549,058, below the budgeted $632,677. The variance was driven by fewer hires than projected (one projected full-time hire went part-time; two rather than four full-time hires were made over summer), lower office space costs, only one site visit instead of multiple, and most advertising becoming free via Google Grants. The organization also incurred about $8,300 in moving expenses for the West Coast relocation.
+
+GiveWell's 2012 revenues exceeded expenses. The money moved to operating expenses ratio was approximately 13:1 for total money moved of $9+ million against expenses of roughly $700,000 (including $150,000 counted as in-kind donations and expenses from Google Grants). Excluding particularly large donors, the remaining $5.5 million produced approximately an 8:1 ratio, which the board considered more than sufficient to justify operating expenses.
+
+Website traffic continued to grow, roughly doubling from 2010 to 2011. The number of donors who gave to recommended charities grew by approximately 3x in 2011 compared to 2010. GiveWell's website processed more than twice as much giving as GuideStar's and about 80% as much as Charity Navigator's, despite offering far fewer charities, providing evidence that growth was due to GiveWell-specific factors rather than generalized increases in online giving.
+
+DONOR BASE CHARACTERISTICS
+
+The group of donors giving $10,000 or more grew from 55 to 96 individuals. These major donors remained predominantly young (60% of dollars from donors under age 40) and worked primarily in finance or technology. The most common ways they found GiveWell were through online searches, referral links, and Peter Singer. When asked how GiveWell changed their giving, the most common response was "I would have given a similar amount to another international charity."
+
+Growth was robust across all donor sizes, with a majority of overall growth in money moved coming from donors giving $10,000 or more. Against Malaria Foundation received about 60% of money moved, while Schistosomiasis Control Initiative and GiveDirectly each received over $1 million. Organizations previously designated as "standouts" (a designation discontinued in November) received relatively small amounts. Good Ventures directed $1.1 million to learning grants recommended by GiveWell.
+
+EXECUTIVE COMPENSATION
+
+The board discussed and approved salaries of $110,000 each for co-Executive Directors Elie Hassenfeld and Holden Karnofsky. The discussion referenced salary data for Executive Director roles at other nonprofits in California. With 2012 operating expenses of $714,476 (excluding $1,740,316 in direct grants) and total money moved of approximately $9.6 million, the board considered this compensation appropriate for an organization based in San Francisco.

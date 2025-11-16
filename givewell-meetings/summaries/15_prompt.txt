@@ -1,0 +1,226 @@
+Based on the following board meeting documents for a Clear Fund Board Meeting held on December 20, 2011, generate a comprehensive ~1000-word summary that acts as a professional brief.
+
+The summary should cover:
+- Key decisions made and votes taken
+- Important discussions and debates
+- Financial/budget information with specific numbers
+- Strategic direction or policy changes
+- Personnel or organizational changes
+- Any significant outcomes or action items
+
+Keep the tone professional and factual. Focus on substance over process. Be specific with numbers, names, and decisions.
+
+Meeting Documents:
+=== Minutes ===
+Clear Fund Board of Directors Meeting Minutes for 12/20/2011 Meeting documentation at http://www.givewell.org/about/official-records/board-meeting-17 	  Board	  reviews	  progress	  and	  plans.	  	  Board	  reviews	  financial	  update.	  
+
+=== Document ===
+
+           GiveWell's Financial Situation as of December 15, 2011
+
+Summary
+
+    • GiveWell intends to expand substantially over the coming year. We  are
+      having increasing influence and increasing research depth, as well  as
+      launching  a  new  initiative  (GiveWell  Labs)   that   will   create
+      substantially more work. We believe we can productively use more staff
+      to increase our capacity.
+    • Based on current projections, GiveWell projects  a  small  surplus  in
+      2012, and has a reasonable level of cash-on-hand. In the  short  term,
+      we can expand without needing to identify new revenue sources.
+    • GiveWell will need to fundraise and find new revenue sources in  order
+      to maintain the size we hope to reach in mid-2012. Our projected  2013
+      deficit (based on current revenue sources) is $100,000-$200,000.
+    • GiveWell has an  "excess  assets"  policy,  specifying  that  once  we
+      surpass a certain level of  unrestricted  assets,  we  grant  out  the
+      excess to top charities rather than continue  to  hold  it  ourselves.
+      This policy is intended to ensure that donors  to  GiveWell  need  not
+      worry about our room for more funding: when we have more than  we  can
+      productively use ourselves, the result is  more  grants  to  the  best
+      charities we've found.
+
+The case for expansion
+
+Our view, which we will discuss in more detail when doing our formal  annual
+self-evaluation in January 2011, is that GiveWell should be expanding.
+
+    • Our influence is growing rapidly.
+         o Donations to top charities tracked through the  website  are  up
+           about 200-300% in 2011 vs. 2010 (and in 2010 they were up  about
+           200% vs. 2009). For 2011, we project well  over  $1  million  in
+           donations through the website and well over $2 million in  total
+           donations to our top charities, counting only  donors  who  give
+           $250,000 and under (larger donors  are  now  being  tracked  and
+           dealt with  differently,  as  discussed  under  "GiveWell  Labs"
+           below). Given that we are still growing significantly,  that  we
+           have stuck to only a basic level of outreach efforts,  and  that
+           GiveWell-using donors are substantially younger than  a  typical
+           donor base, we expect these figures to rise significantly in the
+           future.
+         o Growth is robust: there has  also  been  strong  growth  in  the
+           number of donations (also up 200-300% in  2011  vs.  2010  after
+           only growing ~50% between 2010 and  2009).  Website  traffic  is
+           also up significantly year over year ( > 100% growth in 2011 vs.
+           2010).
+         o We have also gained credibility among academics  and  funders  -
+           partly because  of  our  growing  impact  on  donations,  partly
+           because of our improved network, and partly because of  specific
+           work we've done (for example, publishing substantial analysis of
+           the funding needs for the March 2011 relief effort in Japan  and
+           finding  major  errors  in  World  Health   Organization   cost-
+           effectiveness estimates).
+    • Our access is improving. Because of the  above,  our  ability  to  get
+      charities and scholars to engage  with  us  is  improving,  giving  us
+      access to a lot more information that we need the capacity to  analyze
+      and incorporate into our research.
+    • Our level of depth is increasing. For our 2011  top  charities,  we've
+      done far  more  investigation  and  analysis  than  for  previous  top
+      charities, including  extended  pre-recommendation  field  visits  and
+      detailed original cost-effectiveness analysis (we no  longer  rely  on
+      World Health Organization estimates now that we've  found  substantial
+      problems with them). We find this additional analysis to be  important
+      in making the best recommendation possible,  which  is  becoming  more
+      important with our higher profile and greater impact on donations.
+    • GiveWell Labs is a promising initiative that will create  a  lot  more
+      work. In addition to seeing growing  influence  among  $250k-and-under
+      donors, we now have relationships with a few people who are capable of
+      giving  greater  amounts,  and  we   have   launched   GiveWell   Labs
+      (http://blog.givewell.org/category/givewell-labs/)  to  better   serve
+      this audience (as well as  to  find  better  giving  opportunities  in
+      general). $1 million has been pre-committed to  this  initiative.  The
+      research process will be distinct from (though will have some  overlap
+      with) our core work  of  finding  great  charities,  and  may  involve
+      investigations into many causes we haven't previously covered.
+    • Our ability to hire and manage new talent is  improving.  All  of  the
+      above point to a need for more capacity. Fortunately, we feel we  have
+      developed good processes for identifying and managing new  talent.  In
+      the summer of 2011,  we  worked  productively  with  a  7-person  team
+      including two temporary hires; we are looking to get back up  to,  and
+      perhaps a bit above, this staff size. As of mid-January 2011, we  will
+      have 5 people on staff, all with strong and substantial track  records
+      of contributing to GiveWell.
+
+Projected expenses and revenues - Nov. 2011 through Dec. 2012
+
+As of December 15, 2011, our latest completed financial report is as of  the
+end of October 2011 (the November report is in progress). Thus,  we  present
+our financial situation and projections starting  November  1;  however,  we
+estimate "future expenses/revenues" following this date taking into  account
+major actual expenses and revenues between 11/1/11 and 12/15/11.
+
+[pic]
+
+Notes:
+    • We anticipate one new full-time hire,  or  two  new  part-time  hires,
+      starting in February 2012.  We  anticipate  two  new  full-time  hires
+      starting  July  2012.  This  timing  is  because  our  most  promising
+      prospects are college seniors, who we expect to be available  starting
+      in the summer.
+    •  Because  of  our  improved  access  (discussed  above),  we  now  see
+      substantial opportunities to travel for to meet with  specific  people
+      who can contribute to our research process.  We  have  thus  allocated
+      $5,000 for non-field-visit-related travel, in addition to $15,000  for
+      field visits (we spent $10,000 in 2011  on  two  field  visits:  three
+      staff went to Malawi and two went to Delhi).
+    • $40,000 of our projected revenue over this period is  one-time  (i.e.,
+      it will not repeat in future years).  Another  $100,000  is  projected
+      from the Hewlett Foundation, but we cannot be assured of  the  William
+      and Flora Hewlett Foundation's support, particularly since its CEO  is
+      soon stepping down.
+    • On the other hand, we will probably  see  some  unanticipated  revenue
+      over this period as well.
+
+Needs after 2012
+
+We project a small surplus  over  2012,  but  2013  projected  expenses  are
+$584,355.57, more if we want to continue expanding ($584,355.57 is based  on
+a staff size of 8, which we hope to reach around mid-2012). Because not  all
+of the 2012 revenue is  expected  to  recur  in  the  future  (as  discussed
+above), we have a projected gap of $100,000-$200,000 (depending  on  whether
+we retain the William and Flora Hewlett Foundation's support) that  we  need
+to close by then to avoid deficits.
+
+Thus, while we consider ourselves to be in a strong financial position  with
+the ability to expand as warranted, it is also necessary for us to  continue
+to fundraise and identify new revenue sources.
+
+"Excess assets" policy
+
+GiveWell has an "excess assets" policy, specifying that once  we  surpass  a
+certain level of unrestricted  assets,  we  grant  out  the  excess  to  top
+charities rather  than  continue  to  hold  it  ourselves.  This  policy  is
+intended to ensure that donors to GiveWell need not  worry  about  our  room
+for more funding: when we have more than we can productively use  ourselves,
+the result is more grants to the best charities we've found.
+
+We seek to hold a reasonable level of assets: one that gives  us  a  stable,
+predictable financial situation and the ability to  plan  and  to  take  any
+outstanding  opportunities  that  come  up  (particularly  with  regard   to
+hiring). Assets beyond what we feel we need in order to accomplish this  are
+granted        out.         Details         are         available         at
+http://www.givewell.org/about/official-records/Excess-Assets-Policy
+
+
+
+
+=== Document ===
+
+                   GiveWell - Possible Priorities for 2012
+
+    • GiveWell Labs
+    • Find more top-rated charities by focusing on the most promising
+      interventions (vaccines, nutrition, tuberculosis control, neglected-
+      tropical-disease control, and others)
+    • Find more top-rated charities through more open-ended investigation
+      (along the lines of our 2011 process)
+    • Put more effort into marketing/outreach, particularly at our former
+      employer (as a first step in figuring out how to succeed at outreach
+      in the financial sector)
+    • Promote GiveWell on college campuses, as a long-term strategy for
+      cultivating both potential employees and donors
+    • Improve our website
+    • Revisit the goal of having our work evaluated externally &
+      systematically
+
+
+=== Document ===
+
+                 GiveWell Progress Report, mid-December 2011
+
+Since our last  Board  meeting,  we  have  been  overwhelmingly  focused  on
+finding and researching top charities.
+
+We published our new recommendations and research on Tuesday,  November  29.
+We have two top charities, both of  which  we  have  researched  in  greater
+depth than any previous recommended charity, and both of which  we  consider
+outstanding.
+
+Since then, we have been focused on optimizing our website  in  response  to
+increased traffic and feedback, as well as reaching out to past  donors  for
+updates and discussions. We are aiming for daily blog posts through the  end
+of the calendar year, and will be focusing on these  as  well  as  continued
+donor relations/maintenance until January, at which point we will begin  our
+annual self-evaluation.
+
+Growth in influence continues to be strong:
+    • Donations tracked directly through  the  website  continue  to  be  up
+      between 300% and 400% over 2010 (this holds for December  specifically
+      as well as for the rest of the year). As of 11a on December 15,  2011,
+      we had tracked $543,115 through the website and $1,383,747 in  overall
+      money moved.
+    • Because of the fact that donations tend to be concentrated at the  end
+      of December (particularly the 31st), we  are  currently  projecting  a
+      2011 total of about $1.4 million  through  the  website  (compared  to
+      $400,000 in 2010) and about $2.5 million  overall  (compared  to  $1.6
+      million in 2010). The latter figure excludes $1 million  in  committed
+      funding for GiveWell Labs.
+    • Growth is robust: there has also been strong growth in the  number  of
+      donations (also up 200-300% in 2011 vs. 2010 after only  growing  ~50%
+      between 2010 and 2009). Website traffic is also up significantly  year
+      over year ( > 100% growth in 2011 vs. 2010).
+
+We intend to make GiveWell Labs a major focus of our work after the new
+year.
+
+
+Generate a comprehensive summary (approximately 1000 words):

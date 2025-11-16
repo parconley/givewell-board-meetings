@@ -1,0 +1,57 @@
+GIVEWELL BOARD MEETING #23 - MAY 6, 2013
+
+INSURANCE COVERAGE REVIEW
+
+The board conducted its annual review of insurance coverage as required by internal procedures. GiveWell maintained coverage through Philadelphia Insurance Companies for Directors & Officers Liability, Employment Practices, Internet Liability, Professional Liability, General Liability, and Property. The organization had no coverage for business travel (though trip-specific insurance had been purchased in the past), employee dishonesty/theft/embezzlement, hired and non-owned auto, business interruption, or hurricane/flood damage.
+
+The board noted that minimal property insurance was adequate because all important records and periodic backups (at least monthly) of website content were maintained electronically on personal computers and backed up in real-time to a remote server via the Carbonite service. Given the nature of GiveWell's operations and risk profile, the board found the current insurance coverage appropriate for organizational needs.
+
+FORMAL APPROVALS AND GOVERNANCE MATTERS
+
+The board retroactively approved several grants that had been made from restricted funds between December 2012 and March 2013 without prior board approval. These grants totaled $1,388,556.92 and included: $472,808.01 to Imperial College Foundation for Schistosomiasis Control Initiative, $398,000.98 to GiveDirectly, $443,368.23 to Against Malaria Foundation, $44,123.12 to Small Enterprise Foundation, $11,060.64 to Pratham, $9,367.65 to VillageReach, $4,161.38 to KIPP Houston, $2,310.88 to Nyaya Health, $1,293.03 to Innovations for Poverty Action, $1,062.95 to Nurse-Family Partnership, and $1,000 to Doctors Without Borders.
+
+Funds restricted to "general regranting" or "top charities" were allocated according to the recommended allocation posted on GiveWell's website, which at the time was 70% Against Malaria Foundation, 20% GiveDirectly, and 10% Schistosomiasis Control Initiative.
+
+The board also approved recommendations for future grants from The GiveWell Fund, a donor-advised fund held by Vanguard Charitable Endowment Program and advised by GiveWell. These grants totaled $113,230 and included: $95,750 to Against Malaria Foundation, $8,550 to Imperial College Foundation for Schistosomiasis Control Initiative, $8,000 to GiveDirectly, and $930 to Nyaya. These grants reflected the expressed preferences of donors who had contributed to the fund, with unmarked contributions distributed according to the standard allocation formula.
+
+BYLAWS AMENDMENT
+
+The board approved Amendment 5 to the bylaws regarding authority to sign checks and notes. The amendment specified that the Executive Director may delegate authority to sign checks and notes to another employee if desired, while remaining responsible for ensuring all such checks and notes follow regulations laid out elsewhere in the bylaws. This provided operational flexibility while maintaining clear accountability.
+
+OFFICIAL ADDRESS CHANGE
+
+The board formally recognized GiveWell's new official address as 182 Howard Street #208, San Francisco, CA 94105, completing the administrative aspects of the organization's relocation from New York to San Francisco.
+
+COMPENSATION AND PARTNERSHIP REVIEW
+
+As required by the bylaws, the board conducted its periodic review confirming that compensation arrangements and benefits were reasonable based on competent survey information and the result of arm's-length bargaining. The board also confirmed that GiveWell had no noteworthy partnerships, joint ventures, or arrangements with management organizations that would require special scrutiny under the organization's policies designed to protect tax-exempt status.
+
+BUDGET AND FINANCIAL SITUATION
+
+The 2012 actual expenses came in at $549,058 against a budget of $632,678. Significant variances included lower payroll costs for non-executive staff ($276,399 actual vs. $346,219 budgeted) due to one projected full-time hire going part-time and two rather than four full-time hires being made over summer. Office space costs were $12,062 actual versus $17,767 budgeted, partly due to fewer hires and partly due to less usage than projected. Site visit expenses were only $7,990 against a $20,000 budget because GiveWell conducted only one site visit due to the status of potential top charities.
+
+Other notable variances included approximately $8,300 in unbudgeted moving expenses for the West Coast relocation (included in $16,471 miscellaneous administration against $10,000 budgeted), higher bookkeeping costs of $16,928 versus $14,400 budgeted due to the bookkeeper raising rates, higher website costs of $11,326 versus $10,000 budgeted due to switching to a more expensive but better developer, and lower pledge-raising expenses of only $593 versus $5,000 budgeted because most advertising was now free via Google Grants.
+
+REVENUE PROJECTIONS FOR 2013
+
+GiveWell projected renewed revenue of $622,433 from existing donors with varying likelihood of renewal. This included $200,000 from two institutional donors (decent likelihood of renewal), $379,033 from 25 individual donors with "good" likelihood of renewal (ranging from $5,000 to $99,000+ per donor), $43,400 from 5 individual donors with "decent" likelihood of renewal, and $30,174 from small donors with unknown likelihood of renewal.
+
+The revenue breakdown by donor size showed: 6 individuals giving $20,000-$99,000 totaling $245,000, 6 individuals giving $10,000-$19,000 totaling $60,000, 13 individuals giving $5,000-$9,000 totaling $74,033, plus 3 more individuals at the $10,000-$19,000 level with decent likelihood totaling $32,400, and 2 more at the $5,000-$9,000 level with decent likelihood totaling $11,000.
+
+EXPENSE PROJECTIONS FOR 2013
+
+Projected expenses for 2013 totaled $803,648. This was based on starting with 3.5 analysts on January 1, 2013, adding one more by April 1, then adding four more (including two senior analysts) during summer, plus one slot for people doing trial work. Payroll for co-Executive Directors was projected at $224,469 for the year. Payroll for other staff was projected at $491,180, reflecting the substantial staff expansion plans.
+
+Office space was projected at zero cost as it was currently donated by Good Ventures. Other significant projected expenses included: $20,000 for site visits ($5,000 per quarter), $10,000 for other travel, $10,000 for miscellaneous administration, $27,500 for bookkeeping ($2,000 per month plus approximately $3,500 once a year for audit preparation), $10,000 for website maintenance, $4,000 for insurance, and $6,500 for the annual audit fee.
+
+Total projected revenues for 2013 were $656,433 against projected expenses of $803,648, creating a deficit. However, reserves stood at $625,494 as of the meeting, with 12-month-forward expenses of $789,072, providing adequate cushion.
+
+FUNDRAISING POLICY PROPOSAL
+
+The board discussed a proposed fundraising policy that would involve compiling data on foundation operating expenses as a percentage of grantmaking, both for the largest foundations and for foundations comparable to GiveWell's money moved ($6-7 million range). Using this data, GiveWell would set a target for "individual-based operating expenses" based on expected money moved from individuals, attempting to raise this full amount from individual supporters.
+
+If GiveWell determined it needed to spend more than individual-based money moved would support, based on relationships with major donors such as Good Ventures, the organization would seek to fill the gap between individual-based operating expenses and total desired operating expenses from major donors. This approach recognized that GiveWell might justify higher operating expenses when serving major donors in addition to individual donors.
+
+GOOD VENTURES RELATIONSHIP
+
+The board began discussion of GiveWell's relationship with Good Ventures, but this section was removed from the audio recording for confidentiality reasons. The shared office space arrangement and the co-funding relationships mentioned elsewhere in the meeting materials indicated a deepening partnership that was becoming central to GiveWell's operations and strategy.

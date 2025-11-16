@@ -1,0 +1,107 @@
+GiveWell Board Meeting Summary - Episode 9
+Meeting Number: 11
+Date: December 29, 2009
+Duration: Approximately 1 hour 42 minutes
+
+OVERVIEW
+This board meeting focused primarily on allocating GiveWell's $250,000 economic empowerment grant for sub-Saharan Africa after an extensive research process reviewing 485 organizations. The board also approved budget updates and additional grants totaling $34,813.40 to top-rated charities. The meeting demonstrated GiveWell's rigorous approach to grant-making even when unable to identify truly outstanding opportunities in a specific cause area.
+
+ECONOMIC EMPOWERMENT GRANT ALLOCATION
+The centerpiece of the meeting was voting on the distribution of $250,000 earmarked for economic empowerment organizations in sub-Saharan Africa. After extensive discussion beginning at 8:57 PM, the board unanimously voted at 9:09 PM to split the grant between Village Enterprise Fund and Small Enterprise Foundation, with a critical caveat: if it was not administratively possible to grant to Small Enterprise Foundation (which was not a US-registered 501(c)(3)), these funds would be held until the board could meet again.
+
+The recommended allocation was:
+- $100,000 to Small Enterprise Foundation, a microfinance institution in South Africa
+- $100,000 to Village Enterprise Fund, a charity distributing cash grants (not loans) and providing business training to extremely poor individuals in East Africa
+- $50,000 to BRAC, a large Bangladesh-based development organization expanding into Uganda, Tanzania, and other sub-Saharan African countries
+
+HONEST ASSESSMENT OF GRANT QUALITY
+Staff candidly acknowledged that none of the economic empowerment charities met the standards of GiveWell's health-focused top-rated charities. All three recommended organizations rated between 1 and 2 stars on GiveWell's rating scale, meaning GiveWell had at least one significant concern about each organization. This honest assessment reflected GiveWell's commitment to transparency over promotional spin.
+
+Staff did not believe there were significant, predictable differences in future impact among the three organizations. Grant size determinations reflected three principles:
+
+1. All organizations appeared able to productively use the proposed grant amounts to scale current activities
+2. GiveWell wanted to reward organizations for commitment to critical evaluation of their programs, making it better to reward more rather than fewer organizations as long as amounts were large enough to serve as meaningful rewards
+3. All else equal, favoring smaller organizations where GiveWell's funding and recommendations were more likely to create direct incentives for improvement over time
+
+EXTENSIVE RESEARCH PROCESS
+The economic empowerment grant research demonstrated GiveWell's systematic approach to identifying and evaluating charities. Staff reviewed 485 total organizations, finding them through multiple sources:
+
+- All economic empowerment organizations previously considered for the international research report
+- All charities listed as international economic development on Charity Navigator
+- All charities with IRS Form 990 activity code "Q30" (international development) and budgets of at least $1 million (311 organizations)
+- 45 microfinance institutions from MixMarket
+- Organizations publicized through blog announcements and various other sources
+
+From this initial set of 485 organizations, staff directly invited 197 to apply after excluding 285 that were not engaged in economic empowerment, lacked English-language information, operated outside Africa, lacked accessible URLs, or were not microfinance institutions when that was the search criteria.
+
+GiveWell made significant outreach efforts, successfully reaching 123 of 152 initially contacted organizations. Ultimately, 50 organizations submitted applications. Of the 52 organizations that declined to apply, reasons included limited time or resources (18), lack of technical reports (10), stating they did not do economic empowerment work in sub-Saharan Africa (9), no reason given (12), and various other factors.
+
+SMALL ENTERPRISE FOUNDATION EVALUATION
+Small Enterprise Foundation stood out for its exceptional commitment to monitoring and evaluation among all reviewed microfinance institutions. SEF had completed multiple surveys of clients to assess standard of living and surveyed program dropouts to understand reasons for exit rather than simply tracking dropout numbers.
+
+SEF had received a "Social rating" from M-CRIL, an independent microfinance ratings organization. The rating stated that "In a 'middle-income country' which has substantial consumer lending to salaried workers, SEF is the leading example of poverty focused microfinance, emphasising micro-credit for enterprise and women's self-employment." Rating components included mission clarity, poverty targeting, staff training and incentive structures, information systems for tracking client retention and financial situations, transparency of product terms, policies for death/illness, gender empowerment partnership showing encouraging randomized controlled trial results, women's representation on staff (64% overall), client satisfaction (~70% positive on most questions), and analysis of client income trends.
+
+On GiveWell's key microfinance evaluation criteria:
+
+Clients Served: SEF appeared to serve genuinely poor clients, sharing an internal evaluation using strong methodology showing most clients lacked basic amenities like flush toilets and electric power, plus an external check that was more difficult to interpret.
+
+Repayment Rates: The "true" repayment rate exceeded 96% over the past three years, indicating clients were meaningfully engaged as "paying customers" rather than receiving handouts.
+
+Interest Rates: Clients repaid loans at relatively high rates of interest, further supporting the "paying customer" interpretation.
+
+Dropout Rates: Clients dropped out at 15-25% per year, with surveys indicating the most common reasons related to dissatisfaction with the program. These rates appeared roughly average among institutions reporting dropout data.
+
+Room for More Funds: SEF was not yet profitable and used donations to support operations, projecting an operational deficit of $222,000 over the next 12 months, demonstrating clear ability to productively use additional funding.
+
+VILLAGE ENTERPRISE FUND EVALUATION
+Village Enterprise Fund provided small grants ($30 each) to five members in business groups, plus training to help participants run businesses. VEF grants totaled approximately 35% of revenues, a reasonably strong "cash grant ratio" compared to other cash transfer programs.
+
+VEF thoroughly monitored their program by recording participants' standard of living and monitoring changes for a subset over time.
+
+However, GiveWell identified a significant concern: VEF placed substantial power in the hands of "business mentors" (BMs) - local individuals often more powerful and wealthier than grant recipients who made decisions about fund distribution. This created potential for BMs to demand kickbacks from selected individuals. While VEF appeared to have a relatively strong system to ensure BMs distributed all funds, they lacked apparent mechanisms to prevent kickback collection, and VEF had reported some anecdotal evidence that kickbacks had occurred.
+
+BRAC EVALUATION
+BRAC was a large development organization (~$420 million in expenses) based in Bangladesh, currently expanding into sub-Saharan Africa. Given its size and diverse activities, GiveWell had not evaluated BRAC as a whole but identified several distinguishing features:
+
+BRAC operated the Ultra Poor Program (TUP), the strongest cash transfer program GiveWell had reviewed. This program accounted for about 10% of BRAC's expenses, had a "cash grant ratio" of 40% (meaning 40% of program expenses were distributed directly as cash), made a strong case for impact on participants' standards of living beyond mere wealth transfer, and was being scaled up and evaluated by Innovators for Poverty Action, a program evaluation group associated with MIT's Poverty Action Lab.
+
+BRAC had a strong reputation among on-the-ground organizations. A VisionSpring representative stated that "BRAC is a great partner because they're highly organized, they have a great reputation, and they have a lot of infrastructure to be able to roll out a program like this. They're sort of top of the line in terms of partners – but there's really only one BRAC." At least two other organizations GiveWell respected - LivingGoods and Seva Mandir - had chosen to partner with BRAC for similar reasons.
+
+BRAC demonstrated strong commitment to monitoring and evaluation through www.bracresearch.org, regularly publishing research reviewing its programs. GiveWell had identified and reviewed the TUP program based solely on information freely available on BRAC's website.
+
+However, GiveWell was not highly confident in BRAC overall. Its microfinance programs had "average" reporting insufficient to answer major concerns about microfinance. GiveWell had not investigated other programs including social businesses (which BRAC asserted were self-supporting), health programs, and education programs.
+
+OTHER ORGANIZATIONS CONSIDERED
+GiveWell provided detailed reasoning for rejecting other notable organizations:
+
+Large US Microfinance Organizations (Grameen Foundation, ACCION International, Opportunity International, Women's World Banking, Unitus): Rejected because they largely provided technical assistance rather than directly funding MFIs and could not demonstrate impact, plus they could not answer GiveWell's key microfinance questions.
+
+Heifer International: Provided confidential impact reports that GiveWell, after careful review and lengthy discussions with Heifer staff, did not find compelling.
+
+Women for Women International: Had a very poor "cash grant ratio" (~15% compared to VEF's 35% or BRAC's 40%), gave the same size grants ($10/month) in all locations regardless of wealth differences between Kosovo and rural Rwanda without clear logic, and distributed funds to many women in narrow geographical areas on the same day, raising concerns about local economic distortions that could offset impact.
+
+Microloan Foundation: The only other MFI that provided "real" repayment rate calculations and surveyed clients about exit reasons, but weaker than SEF in several ways including historical repayment issues, less systematic dropout surveying, and questions about whether reported repayment rates could be taken at face value.
+
+ADDITIONAL GRANTS AND BUDGET
+The board unanimously approved the budget at 8:55 PM, including $14,583.50 in restricted assets to be divided evenly between VillageReach and the Stop Tuberculosis Partnership.
+
+Additionally, the budget update proposed that $34,813.40 in restricted assets accumulated since the July meeting be divided evenly between the two top-rated charities ($17,406.70 each).
+
+Financial Position: GiveWell's reserves exceeded $600,000, providing more than sufficient coverage for the next 12 months of expenses. However, reserves were not at the level that would trigger the "excess reserves" policy, as funds available for operating costs exceeded anticipated 12-month expenses by only $141,185.49 - insufficient to cover another full year under conservative assumptions that 2011 expenses would be in the same range as 2010's.
+
+The projected budget for December 1, 2009 through November 30, 2010 (excluding grants) showed anticipated expenses for ongoing operations including salaries for co-founders and staff, accounting costs, insurance (notably, GiveWell had switched to a substantially more expensive but much clearer insurance policy with better service and now separately tracked workers' compensation and disability benefits), and other operating costs.
+
+ORGANIZATIONAL LEARNING AND TRANSPARENCY
+This meeting exemplified several important aspects of GiveWell's approach:
+
+Honest Assessment: Publicly acknowledging that economic empowerment charities did not meet the standards of health-focused recommendations, rating them 1-2 stars with significant concerns about each.
+
+Systematic Process: Reviewing 485 organizations through multiple sourcing methods and applying consistent evaluation criteria.
+
+Transparency About Limitations: Explaining specific concerns about each recommended organization (SEF's dropout rates, VEF's kickback risks, BRAC's limited evaluation of non-TUP programs) rather than simply promoting them.
+
+Contingency Planning: Building in the option to hold Small Enterprise Foundation funds if administrative barriers prevented granting, and the earlier agreement that unallocated economic empowerment funds could support further research rather than forcing suboptimal grant decisions.
+
+Principled Decision-Making: Articulating clear principles for grant sizing based on organizational capacity, incentive alignment, and ability to influence organizational behavior.
+
+The meeting demonstrated GiveWell's commitment to rigorous analysis and honest communication even when research outcomes were less satisfying than hoped, maintaining standards rather than compromising to deploy capital on schedule.

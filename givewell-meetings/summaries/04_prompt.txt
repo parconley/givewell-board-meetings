@@ -1,0 +1,187 @@
+Based on the following board meeting documents for a Clear Fund Board Meeting held on September 8, 2008, generate a comprehensive ~1000-word summary that acts as a professional brief.
+
+The summary should cover:
+- Key decisions made and votes taken
+- Important discussions and debates
+- Financial/budget information with specific numbers
+- Strategic direction or policy changes
+- Personnel or organizational changes
+- Any significant outcomes or action items
+
+Keep the tone professional and factual. Focus on substance over process. Be specific with numbers, names, and decisions.
+
+Meeting Documents:
+=== Budget May thru Dec 2008 ===
+
+                        Clear Fund Board of Directors
+                        Attachment B: Budget CY 2008
+
+         1/1/2008 – 4/30/2008 (approved at 12/17/2007 Board meeting)
+                                    [pic]
+
+Note: Holden’s and Elie’s salaries were lowered  by  $5,000  each  for  2008
+(pro-rated) in reaction to their inappropriate marketing (see above).
+
+                      5/1/2008 – 12/31/2008 (projected)
+
+                                    [pic]
+
+
+                       Summary of financial situation
+
+                                    [pic]
+
+
+=== Resolutions Concerning Banking Accounts ===
+
+                Resolution to create the GiveWell Pledge Fund
+
+WHEREAS it is GiveWell’s mission to advise and influence the non-profits to
+which donors contribute;
+
+WHEREAS a GiveWell supported Donor Advised Fund will enhance GiveWell’s
+abilities to achieve its mission;
+
+THEREFORE the Board of Directors authorizes and fully supports the
+establishment of the GiveWell Pledge Fund, a donor-advised fund.
+
+                     Resolution concerning bank accounts
+
+RESOLVED, that the Commerce Bank (routing number 026013673), at any  one  or
+more of its offices or branches, be and it hereby  is  designated   as   the
+Financial  Institution of and depository for the funds of this  Corporation,
+which  may be withdrawn on checks, drafts, advices of debit, notes or  other
+orders for the payment of monies bearing the  following  appropriate  number
+of signatures: any ____1___ of the following panel officers or employees  of
+this
+
+
+Corporation (“Agents”),
+
+Holden Karnofsky
+
+and that the Financial Institution shall be and is authorized to  honor  and
+pay the same whether or not they are payable to bearer or to the  individual
+order of any Agent or Agents signing the same.
+
+FURTHER RESOLVED, that the Financial Institution is hereby directed to
+accept and pay without further inquiry any item drawn against any of the
+Corporation’s accounts with the Financial Institution bearing the signature
+or signatures of Agents, as authorized above or otherwise, even though
+drawn or endorsed to the order of any Agent signing or tendered by such
+Agent for cashing or in payment of the individual obligation of such Agent
+or for deposit to the Agent’s personal account, and the Financial
+Institution shall not be required or be under any obligation to inquire as
+to the circumstances of the issue or use of any item signed in accordance
+with the resolutions contained herein, or the application or disposition of
+such item or the proceeds of the item.
+
+FURTHER RESOLVED, that any one of such Agents is authorized to endorse all
+checks, drafts, notes and other items payable to or owned by this
+Corporation for deposit with the Financial Institution, or for collection
+or discount by the Financial Institution, and to accept drafts and other
+items payable at the Financial Institution.
+
+FURTHER RESOLVED, that the Bank is authorized to conduct Check Card/ATM
+Card transactions in accordance with Financial Institution’s Business Check
+Card Agreement and Business Check Card Terms and Conditions.
+
+FURTHER RESOLVED, that the above named agents are authorized and empowered
+to execute such other agreements, including, but not limited to, special
+depository agreements and arrangements regarding the manner, conditions, or
+purposes for which funds, checks or items of the Corporation may be
+deposited, collected, or withdrawn and to perform such other acts as they
+deem reasonably necessary to carry out the provisions of these resolutions.
+
+FURTHER RESOLVED, that the authority hereby conferred upon the above named
+Agents shall be and remains in full force and effect until written notice
+of the revocation thereof shall have been delivered to and received by the
+Financial Institution at each location where an account is maintained.
+
+FURTHER RESOLVED, that the Corporation shall maintain the following four
+(4) accounts at the Financial Institution:
+   1. A checking account for general use, account number A (“primary
+      checking account of the Corporation”).
+   2. A money-market account for general use, account number B (“primary
+      money-market account of the Corporation”).
+   3. A checking account designated specifically for holding funds of the
+      GiveWell Pledge Fund, a donor-advised fund, account number C
+      (“checking account of the GiveWell Pledge Fund”).
+   4. A money-market account designated specifically for holding funds of
+      the GiveWell Pledge Fund, a donor-advised fund, account number D
+      (“money-market account of the GiveWell Pledge Fund”).
+
+FURTHER RESOLVED, that approval of both the Board Chair and Board Treasurer
+shall be required for the signing of checks, drafts, promissory notes,
+orders for the payment of money, and other evidence of indebtedness of the
+corporation, whenever the amount exceeds $5000 for any given signing.
+
+FURTHER RESOLVED, that all expenses of the Clear Fund must  be  approved  by
+the Board of Directors either in advance or after they  are  incurred.   The
+Executive Director shall be accountable for all expenses incurred, and  must
+submit all such expenses for Board  approval  within  a  year  of  incurring
+them; the Executive Director is fully liable  for  any  unapproved  expenses
+that he or she incurs.
+
+
+
+=== Agenda ===
+
+                        Clear Fund Board of Directors
+                         Meeting Agenda for 9/8/2008
+
+1. Introductions and new member nomination.  2 minutes.  We will vote on
+Lindy Miller’s addition to the Board.
+
+2. Resolutions concerning bank accounts.  2 minutes.  We will vote on the
+proposed resolutions to establish a donor-advised fund as well as new bank
+accounts (Attachment C).
+
+3. Performance review of staff, part I: Q&A with staff.  Allow one hour.
+
+The Board will discuss staff’s performance during our first year, with
+staff present.  Discussion may draw on the annual review prepared by staff
+(available at http://www.givewell.net/review-year-1 and also sent as
+Attachment A), as well as GiveWell’s online Issues Log
+(http://www.givewell.net/node/185).
+
+4. Performance review of staff, part II: Board only.  Allow 30 minutes.
+
+Staff will exit the meeting and the Board will discuss staff performance,
+and will then vote on the following proposals:
+
+   1. To pay both Holden and Elie at an annualized rate of $60,000 each plus
+      health insurance fees through December 2008.  Note that this rate was
+      lowered from $65,000 due to penalties assigned at the January 3 Board
+      meeting.
+   2. To restore Holden to his positions as Executive Director and Board
+      Secretary.
+
+5. 2008 budget.  Allow 30 minutes.
+
+Staff will re-enter the meeting for a discussion of and vote on the budget
+for May through December 2008.  See Attachment B.
+
+6. Metrics.  Allow 30 minutes.
+
+Board and Staff will discuss appropriate metrics for the coming year.
+Staff moves to set a goal of $500,000 of “money moved” from new donors,
+where “money moved” refers to the sum of (a) grants given directly by the
+Clear Fund and (b) individual donations that are made to recommended
+charities, primarily on our recommendation (including GiveWell Pledges).
+See our plan for the coming year (included in Attachment A) for more on why
+we feel this is the most important and appropriate metric for the coming
+year.  We are also considering, but leaning against, hiring a third-party
+evaluator to review our research.
+
+
+                   Total projected meeting time: 2.5 hours
+                         Next meeting: November 2008
+
+Attachments:
+   A. Year 1 review (5 documents; ZIP file)
+   B. Budget for CY 2008
+   C. Resolutions concerning bank accounts
+
+
+Generate a comprehensive summary (approximately 1000 words):

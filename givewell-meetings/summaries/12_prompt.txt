@@ -1,0 +1,16 @@
+Based on the following board meeting documents for a Clear Fund Board Meeting held on December 14, 2010, generate a comprehensive ~1000-word summary that acts as a professional brief.
+
+The summary should cover:
+- Key decisions made and votes taken
+- Important discussions and debates
+- Financial/budget information with specific numbers
+- Strategic direction or policy changes
+- Personnel or organizational changes
+- Any significant outcomes or action items
+
+Keep the tone professional and factual. Focus on substance over process. Be specific with numbers, names, and decisions.
+
+Meeting Documents:
+
+
+Generate a comprehensive summary (approximately 1000 words):

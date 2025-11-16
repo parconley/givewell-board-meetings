@@ -1,0 +1,1618 @@
+Based on the following board meeting documents for a Clear Fund Board Meeting held on October 30, 2017, generate a comprehensive ~1000-word summary that acts as a professional brief.
+
+The summary should cover:
+- Key decisions made and votes taken
+- Important discussions and debates
+- Financial/budget information with specific numbers
+- Strategic direction or policy changes
+- Personnel or organizational changes
+- Any significant outcomes or action items
+
+Keep the tone professional and factual. Focus on substance over process. Be specific with numbers, names, and decisions.
+
+Meeting Documents:
+=== Minutes ===
+ 
+Error! Unknown document property name.  Minutes for the June 6 , 2017 Meeting of The Clear Fund ( dba GiveW ell) 
+Board of Directors  
+ 
+A meeting of the Board of Directors ( “Board ”) of The Clear Fund dba GiveWell ( “GiveWell ”) was 
+held on June 6 , 2017 at 2:00 p.m. Pacific Standard Time, at the offices of GiveWell in San 
+Francisco, CA. Notice was duly and timely given to each member of the Board.  
+ 
+The following members of the Board were present:  
+ Elie Hassenfeld  
+ Holden Karnofsk y 
+ Timothy Ogden  
+ Rob Reich  
+ Tom Rutledge  
+ Brigid Slipka  
+ Cari Tuna  
+ Julia Wise  
+ 
+The following individuals were also present:  
+ Natalie Crispin, Senior Research Analyst, GiveWell  
+ Sarah Ward , Director of Operations, GiveWell  
+ 
+Tom Rutledge called the meeting to order, and Sarah Ward presented the agenda .  
+ 
+Approval of Minutes for the April 25 , 2017 Meeting  
+ 
+Upon motion duly made and seconded, the Board approved the resolutions approving the 
+Minutes for the April 25 , 2017 Meeting of T he Clear Fund (dba GiveWell) Board of Directors , as 
+set forth in Exhibit 1 .  
+ 
+Board Member Resignations and Resolutions to Decrease  Size of Board  
+ 
+Elie explained that Board members Jake Gibson and Phil Steinmeyer recently resigned from the 
+Board , primarily to help make the Board a more manageable size (for convening meetings, 
+obtaining written approvals, etc.). The Board had a general discussion about the proposal to 
+decrease the size of the Board to nine members.   
+ 
+Upon motion duly made and sec onded, the Board approved  the resolutions decreasing the size 
+of the Board , which are set forth in Exhibit 2.   
+ 
+Budget Review and Approval; Expense Approval Threshold  
+ 
+2017 Budget and Proposed Grant of Unrestricted Funds  
+ 
+Natalie  Crispin  gave an overview of GiveWell’s  budget -to-actuals for the 2016 -2017 budget year 
+and operating expense and revenue projections for June  2017 through December 2018. The 
+Board and management discussed the proposed forward -looking budget and projections.  
+ 
+
+ 
+2 
+ Natalie also explained a proposal to grant unrestricted funds equal to the amount in excess of 
+20% of an unrestricted contribution from a single donor , and Board members discussed the 
+merits of the proposal .    
+ 
+Upon motion duly made and seconded, the Board approved resolutions approving the July 2017 
+through June 2018  budget for GiveWell  and granting  to recommended charities  the amount in 
+excess of 20% of an unrestricted contribution received from a single donor,  which are set forth 
+in Exhibit 3 . 
+ 
+Expense Approval Threshold  
+ 
+Sarah explained th e rationale for the proposal to amend Article 6, Section 2 of the By -laws 
+again, in order to ensure that the Board’s goals for this section are met. There was a general 
+discussion of the se goals and how to achieve them .  
+ 
+Upon motion duly made and seconded, the Board approved the resolutions  to amend Article 6, 
+Section 2 of the By -laws of  GiveWell,  which are set forth in Exhibit 4 . 
+ 
+Executive Director Compensation Review  
+ 
+Elie described the process for developing a proposal for updating his compensation  from 
+$175,000 to $200,000 annually , including th e data used to select comparable compensation 
+figures . Elie, Holden, Natalie, and Sarah left the room and the remaining Boar d members 
+discussed the proposal.  These Board members also discussed setting up a formal Executive 
+Director performance evaluation process in advance of the next annual Executive Director 
+compensation review .   
+ 
+Upon motion duly made and seconded, the unconflicted members of the Board approved the 
+resolutions approving the Executive Director compensation proposal , which are set forth in 
+Exhibit 5 . 
+ 
+Miscellaneous Items for Review  
+ 
+The Board reviewed and discussed GiveWell’s d ocument retention and destruc tion policy , 
+insurance policies and limits, and o ther sundries . The Board and management agreed to look 
+into the possibility of purchasing earthquake insurance during the next annual insurance 
+renewal review .  
+ 
+Discussion of GiveWell’s Strategy and Priorities  
+ 
+The Board discussed GiveWell’s strategy and proposed priorities for the coming year. The Board 
+discussed the process for conducting a strategy review  involving the Board . Elie will confer with 
+Tim about a list of strategy -setting questions for management to answer before the next Board 
+meeting.     
+ 
+Adjournment  
+ 
+
+ 
+3 
+ Tom thanked everyone  for the discussion. There being no further business to come before the 
+Board, the meeting was duly adjourned  at 4:15 pm Pacific Standard Time . 
+     
+ 
+    
+ 
+  
+
+ 
+4 
+ Exhibit 1  
+APPROVAL OF APRIL 25, 2017 BOARD MEETING MINUTES  
+NOW, THEREFORE, BE IT RESOLVED, that the Board of Directors (“Board”) of The Clear Fund 
+d/b/a GiveWell (“GiveWell”) hereby approves the minutes of the meeting of the Board on April 
+25, 2017.  
+FURTHER RESOLVE D, that the Board hereby authorizes Sarah Ward to redact or modify the 
+minutes of such meeting, if necessary, solely for the purpose of posting such minutes to the 
+GiveWell website and otherwise making such minutes publicly available in accordance with 
+GiveWell’s commitment to transparency a nd confidentiality obligations.  
+FURTHER RESOLVED, that the Board hereby authorizes the officers of GiveWell to do and 
+perform all such further acts and to execute such documents as shall be necessary or advisable 
+in orde r to carry out the foregoing resolutions.   
+
+ 
+5 
+ Exhibit 2 
+ 
+RESOLUTION  DECREASING THE SIZE OF THE BOARD OF DIRECTORS  
+WHEREAS, Article 3, Section 1, of the By -laws of The Clear Fund d/b/a GiveWell (“GiveWell”) 
+provides that GiveWell  shall have no less than five directors and no more than eleven directors;  
+WHEREAS, the Board of Directors (“Board”) of GiveWell currently consists of eleven directors, 
+two positions for which are vacant; and  
+WHEREAS, in light of the vacancies, the Board  has determined that decreasing the number of 
+members of the Board is appropriate and in the best interests of GiveWell.  
+NOW, THEREFORE, LET IT BE RESOLVED, that the number of directors comprising the entire 
+Board is hereby reduced to consist of nine membe rs. 
+FURTHER RESOLVED, that the Board hereby authorizes the officers of GiveWell to do and 
+perform all such further acts and to execute such documents as shall be necessary or advisable 
+in order to carry out the foregoing resolution.  
+  
+
+ 
+6 
+ Exhibit 3  
+APPROVAL OF  THE 2017 BUDGET  AND GRANTING UNRESTRICTED FUNDS  
+NOW, THEREFORE, BE IT RESOLVED, that the Board of Directors (“Board”) of The Clear Fund 
+d/b/a GiveWell (“GiveWell”) hereby approves the July 2017 through June 2018 b udget for 
+GiveWell.  
+FURTHER RESOLVED, that  the Board hereby approves the proposal to grant to recommended 
+charities the amount in excess of 20% of an unrestricted contribution from a particular donor.  
+FURTHER RESOLVED, that the Board hereby authorizes the officers of GiveWell  to do and 
+perform all such further acts and to execute such documents as shall be necessary or advisable 
+in order to carry out the foregoing resolution s. 
+ 
+  
+
+ 
+7 
+ Exhibit 4  
+RESOLUTION REGARDING BOARD APPROVAL OF EXPENSES  
+WHEREAS, Article 6, Section 2 of the By -laws of The Clear Fund d/b/a GiveWell (“GiveWell”), as 
+amended, requires that the Board  approve expenditures the represent unbudgeted expenses in 
+amounts of up to 3% of the previously board -approved 12 month expenses  for GiveWell ; and 
+WHEREAS, the Board seeks to provide more flexibility for the Executive Director to incur 
+expenditures arising in the ordinary course of business operations.  
+NOW, THEREFORE, BE IT RESOLVED, that Article 6, Section 2 of the By -laws, as ame nded, 
+shall be deleted in its entirety and superseded by the following:  
+Section 2.  Checks and Notes  
+Except as otherwise specifically determined by resolution of the board of directors, or as 
+otherwise required by law, the executive director shall be autho rized to sign checks, 
+drafts, promissory notes, orders for the payment of money, and other evidence of 
+indebtedness of the corporation that represent unbudgete d expenses in amounts of up 
+to 10% of the previously board -approved 12 month expenses for GiveWel l. All expenses 
+exceeding such amounts shall be approved by the members of the Audit Subcommittee 
+of the board  of directors . 
+FURTHER RESOLVED, that the Board hereby authorizes the officers of GiveWell to do and 
+perform all such further acts and to execute such documents as shall be necessary or advisable 
+in order to carry out the foregoing resolution.  
+  
+
+ 
+8 
+ Exhibit 5  
+APPROVAL OF EXECUTIVE COMPENSATION PROPOSAL  
+NOW, THEREFORE, BE IT RESOLVED, that the Board of Directors (“Board”) of The Clear Fund 
+d/b/a GiveWell  (“GiveWell”) hereby approves  the Executive Compensation Proposal , increasing 
+the Executive Director’s annual salary from $175,000 to $200,000, effective July 1, 2017 . 
+FURTHER RESOLVED, that the Board hereby authorizes the officers of GiveWell to do and 
+perform all such further acts and to execute such documents as shall be necessary or advisable 
+in order to carry out the foregoing resolution.  
+  
+
+=== Minutes ===
+DRAFT October 19, 2017  
+  
+APPROVAL OF JUNE 6 , 2017 BOARD MEETING MINUTES  
+ 
+October 30, 2017  
+ 
+NOW, THEREFORE, BE I T RESOLVED , that the Board of Directors (“Board”) of The Clear 
+Fund d/b/a GiveWell (“GiveWell”) hereby approves the minutes of the meeting of the Board on 
+June 6 , 2017.  
+ 
+FURTHER RESOLVED , that the Board hereby authorizes Sarah Ward to redact or modify the 
+minutes of such meeting, if necessary, solely for the purpose of posting such minutes to the 
+GiveWell website and otherwise making such minutes publicly available in ac cordance with 
+GiveWell’s commitment to transparency and confidentiality obligations.  
+ 
+FURTHER RESOLVED , that the Board hereby authorizes the officers of GiveWell to do and 
+perform all such further acts and to execute such documents as shall be necessary or  advisable in 
+order to carry out the foregoing resolutions.  
+ 
+
+=== Minutes ===
+ 
+Error! Unknown document property name.  Minutes for the October 30 , 2017 Meeting of The Clear Fund ( dba GiveW ell) 
+Board of Directors  
+ 
+A meeting of the Board of Directors ( “Board ”) of The Clear Fund dba GiveWell ( “GiveWell ”) 
+was held on October 30 , 2017 at 2:00 p.m. Pacific Standard Time, via conference call . Notice 
+was duly and timely given to each member of the Board.  
+ 
+The following members of the Board were present  (via conference call) :  
+ Elie Hassenfeld  
+ Holden Karnofsky  
+ Timothy Ogden  
+ Rob Reich  
+ Tom Rutledge  
+ Brigid Slipka  
+ Cari Tuna  
+ Julia Wise  
+ 
+The following individuals were also present  (via conference call) :  
+ Charlene Abellana, Controller, GiveWell  
+ Sarah Ward , Director of Operations  and General Counsel , GiveWell  
+ 
+Tom Rutledge called the meeting to order, and Sarah Ward presented the agenda .  
+ 
+State of GiveWell  
+ 
+Elie walked the Board through the State of GiveWell – October 2017 document . The Board had 
+a general discussion about the summary .   
+ 
+Strategy  Review  
+ 
+Elie walked the Board through the GiveWell strategy r eview  – August 2017 . The Board had a 
+general discussion about the strategy summarized in the document.   
+ 
+Outreach Update  
+ 
+Elie walked the Board through the Outreach update – October 2017. The Board had a general 
+discussion about recent outreach activities and plans summarized in the document.   
+ 
+Update on Budget Process; Vote on Application of Excess Assets Policy  
+ 
+Elie updated the Board on the budgeting process and management’s proposal regarding the 
+application of the excess assets policy. The Board reviewed the GiveWell budget update – 
+October 2017, the Excess Assets Policy, and management’s analysis of the application of the 
+excess assets policy described in the resolutions regarding application of th e excess assets policy.  
+ 
+
+ 
+2 
+ The Board had a general discussion about the budgeting process and the goal to reduce the 
+amount of management time necessary to complete a full budget update. The Board discussed 
+the intent of and process described in the Excess Assets Policy, and the application of the policy 
+to the current budget.  
+ 
+Upon motion duly made and seconded, the Board approved the resolutions regarding application 
+of the excess assets policy, which are set forth in Exhibit 1 . 
+ 
+Approval of Minutes for the June 6, 2017 Meeting  
+ 
+Upon motion duly made and seconded, the Board approved the resolutions approving the 
+Minutes for the June 6, 2017 Meeting of The Clear Fund (dba GiveWell) Board of Directors, as 
+set forth in Exhibit 2.  
+ 
+Review Prior Conflicts of Interest  
+ 
+Sarah walked the Board through prior Open Philanthropy Project transactions that raised actual 
+or apparent conflicts of interest. She explained that these conflicts were identified by Board 
+members in annual conflict of interest declarations subm itted during Summer 2017 and 
+summarized the draft resolutions regarding prior Open Philanthropy Project transactions. The 
+Board discussed the transactions and conflicts of interest at issue.  
+ 
+[REDACTED.]  
+ 
+Formation of Finance Subcommittee  
+ 
+Sarah explained management’s recommendation to form a Finance Subcommittee. The Board 
+had a general discussion about the recommendation.  
+ 
+Upon motion duly made and seconded, the Board approved the resolutions to form Finance 
+Subcommittee, which are set forth in Exhibit 4 . 
+ 
+Follow -up Discussion Regarding Size of Board  
+ 
+The Board postponed this agenda item until the next Board meeting, due to a lack of sufficient 
+time for discussion and a vote on the draft resolutions.  
+ 
+Adjournment  
+ 
+Tom  thanked everyone  for the discussion. There being no further business to come before the 
+Board, the meeting was duly adjourned  at 4:00 pm Pacific Standard Time . 
+     
+ 
+    
+ 
+  
+
+ 
+3 
+ Exhibit 1  
+APPLICATION OF THE E XCESS ASSETS POLICY  
+ 
+WHEREAS , the Board of Directors (“Board”) of The Clear Fund d/b/a GiveWell (“GiveWell”) 
+has adopted an “excess assets” policy (“Policy”) to communicate to donors the intent to grant out 
+the excess of GiveWell’s unrestricted assets to recommended charities;  
+ 
+WHER EAS , the Policy provides that the Board will assess the level of GiveWell’s “excess 
+assets,” if any, at each Board meeting at which it approves a budget, or, in the case of 
+unrestricted assets arising from an extraordinary transaction, such as a sale of as sets, up to one 
+year following the closing of such transaction, and, if applicable, irrevocably earmark the 
+“excess assets” for regranting;  
+ 
+NOW, THEREFORE, BE I T RESOLVED , that, following review of the Policy and GiveWell’s 
+unrestricted assets as of Octob er 2017, GiveWell currently has no “excess assets” to be 
+earmarked for regranting.    
+ 
+FURTHER RESOLVED , that the Board hereby authorizes the officers of GiveWell to do and 
+perform all such further acts and to execute such documents as shall be necessary o r advisable in 
+order to carry out the foregoing resolution.  
+  
+
+ 
+4 
+ Exhibit 2 
+ 
+APPROVAL OF JUNE 6, 2017 BOARD MEETING MINUTES  
+NOW, THEREFORE, BE IT RESOLVED, that the Board of Directors (“Board”) of The Clear 
+Fund d/b/a GiveWell (“GiveWell”) hereby approves the minutes of the meeting of the Board on 
+June 6, 2017.  
+FURTHER RESOLVED, that the Board hereby authorizes Sarah Ward to redact or modify the 
+minutes of such meeting, if necessary, solely for the purpose of posting such minutes to the 
+GiveWell website and oth erwise making such minutes publicly available in accordance with 
+GiveWell’s commitment to transparency and confidentiality obligations.  
+FURTHER RESOLVED, that the Board hereby authorizes the officers of GiveWell to do and 
+perform all such further acts and to execute such documents as shall be necessary or advisable in 
+order to carry out the foregoing resolutions.   
+
+ 
+5 
+ Exhibit 3  
+[REDACTED.]  
+  
+
+ 
+6 
+   
+Exhibit 4  
+CREATION OF THE FINA NCE SUBCOMMITTEE  
+ 
+WHEREAS , Article 5, Section 2 of the By -laws of The Clear Fund d/b/a GiveWell (“GiveWell”) 
+provides that the Board of Directors (“Board”) of GiveWell may appoint such other committees 
+as may from time to time be designated by resolution of the Board.  
+ 
+NOW, THEREFORE, BE I T RESOLVED , that the Board hereby affirms and ratifie s the 
+formation of the Finance Subcommittee to carry out the powers and responsibilities typical of 
+such a subcommittee until such time as the Board adopts a charter for the subcommittee;  
+ 
+FURTHER RESOLVED , that the Board hereby affirms and ratifies the a ppointment of the 
+following members of the Board as members of the Finance Subcommittee for a term that 
+coincides with their term on the Board:  
+ 
+Timothy Ogden,  
+Rob Reich, and  
+Julia Wise.  
+ 
+FURTHER RESOLVED , that Timothy Ogden shall serve as the Chair of the  Finance 
+Subcommittee.  
+ 
+FURTHER RESOLVED , that the officers of GiveWell are authorized to do and perform all such 
+further acts and to execute such documents as shall be necessary or advisable in order to carry 
+out the foregoing resolutions.  
+ 
+
+=== Attachment A ===
+State ​  ​ of ​  ​ GiveWell ​  ​ - ​  ​ October ​  ​ 2017  
+  
+ This ​  ​ is ​  ​ a ​  ​ high-level ​  ​ overview ​  ​ of ​  ​ the ​  ​ current ​  ​ state ​  ​ of ​  ​ GiveWell.  
+ 1) ​  ​ Research ​ ​  ​ is ​  ​ in ​  ​ the ​  ​ best ​  ​ shape ​  ​ it's ​  ​ ever ​  ​ been ​  ​ in. ​  ​ We ​  ​ have ​  ​ areas ​  ​ that ​  ​ need ​  ​ improvement, ​  ​ but ​  ​ we're  
+ currently ​  ​ producing ​  ​ the ​  ​ highest ​  ​ quality ​  ​ research ​  ​ we ​  ​ ever ​  ​ have ​  ​ while ​  ​ covering ​  ​ more ​  ​ ground ​  ​ than ​  ​ we ​  ​ have  
+ in ​  ​ the ​  ​ past. ​  ​ Our ​  ​ top ​  ​ charities, ​  ​ collectively, ​  ​ have ​  ​ more ​  ​ room ​  ​ for ​  ​ more ​  ​ funding ​  ​ than ​  ​ they ​  ​ ever ​  ​ have ​  ​ before.  
+ ● This ​  ​ has ​  ​ been ​  ​ driven ​  ​ by ​  ​ Natalie ​  ​ Crispin ​  ​ and ​  ​ Josh ​  ​ Rosenberg ​  ​ who've ​  ​ been ​  ​ on ​  ​ the ​  ​ team ​  ​ for ​  ​ 8 ​  ​ and  
+ 4 ​  ​ years, ​  ​ respectively, ​  ​ growing ​  ​ and ​  ​ taking ​  ​ on ​  ​ more ​  ​ responsibility ​  ​ than ​  ​ they ​  ​ have ​  ​ before. ​  ​ They're  
+ managing ​  ​ almost ​  ​ all ​  ​ day ​  ​ to ​  ​ day ​  ​ research. ​  ​ The ​  ​ rest ​  ​ of ​  ​ the ​  ​ research ​  ​ team ​  ​ has ​  ​ continued ​  ​ to ​  ​ mature  
+ and ​  ​ gain ​  ​ experience, ​  ​ which ​  ​ has ​  ​ been ​  ​ crucial ​  ​ to ​  ​ the ​  ​ progress ​  ​ we've ​  ​ made.  
+ 2) ​  ​ Operations ​ ​  ​ (donations ​  ​ processing, ​  ​ HR, ​  ​ finance, ​  ​ accounting, ​  ​ legal, ​  ​ office ​  ​ management, ​  ​ and ​  ​ staff  
+ morale ​  ​ and ​  ​ cohesion) ​  ​ is ​  ​ now ​  ​ a ​  ​ functioning ​  ​ area ​  ​ at ​  ​ GiveWell, ​  ​ built ​  ​ up ​  ​ from ​  ​ a ​  ​ highly ​  ​ problematic ​  ​ situation  
+ over ​  ​ the ​  ​ past ​  ​ 18 ​  ​ months. ​  ​ We ​  ​ still ​  ​ need ​  ​ to ​  ​ improve ​  ​ Operations ​  ​ substantially.  
+ ● Brief ​  ​ history: ​  ​ operations ​  ​ was ​  ​ not ​  ​ a ​  ​ high ​  ​ priority ​  ​ for ​  ​ most ​  ​ of ​  ​ GiveWell's ​  ​ history; ​  ​ we ​  ​ just ​  ​ found ​  ​ the  
+ time ​  ​ to ​  ​ do ​  ​ what ​  ​ we ​  ​ had ​  ​ to.  
+ ○ In ​  ​ early ​  ​ 2015, ​  ​ we ​  ​ hired ​  ​ some ​  ​ dedicated ​  ​ operations ​  ​ staff ​  ​ (entry-level ​  ​ generalists). ​  ​ By ​  ​ early  
+ 2016, ​  ​ we ​  ​ had ​  ​ a ​  ​ small ​  ​ operations ​  ​ team ​  ​ but ​  ​ it ​  ​ didn't ​  ​ have ​  ​ any ​  ​ central ​  ​ leadership. ​  ​ This  
+ caused ​  ​ a ​  ​ major ​  ​ problem: ​  ​ low ​  ​ quality ​  ​ work ​  ​ and ​  ​ low ​  ​ morale.  
+ ○ In ​  ​ mid-2016, ​  ​ we ​  ​ hired ​  ​ Sarah ​  ​ Ward ​  ​ as ​  ​ our ​  ​ Director ​  ​ of ​  ​ Operations. ​  ​ She ​  ​ leads ​  ​ the ​  ​ team ​  ​ and  
+ we've ​  ​ filled ​  ​ it ​  ​ with ​  ​ (mostly) ​  ​ people ​  ​ who ​  ​ own ​  ​ specific ​  ​ domains.  
+ ○ As ​  ​ of ​  ​ late ​  ​ 2017, ​  ​ the ​  ​ team ​  ​ structure ​  ​ is ​  ​ mostly ​  ​ in ​  ​ place ​  ​ but ​  ​ we ​  ​ still ​  ​ need ​  ​ to ​  ​ improve ​  ​ our  
+ metrics/assessment ​  ​ of ​  ​ the ​  ​ team ​  ​ so ​  ​ that ​  ​ we ​  ​ set ​  ​ priorities ​  ​ strategically ​  ​ and ​  ​ can ​  ​ effectively  
+ track ​  ​ performance.  
+ ○ We ​  ​ also ​  ​ have ​  ​ to ​  ​ make ​  ​ important ​  ​ improvements ​  ​ in ​  ​ our ​  ​ ability ​  ​ to ​  ​ accurately ​  ​ report ​  ​ on  
+ GiveWell's ​  ​ money ​  ​ moved ​  ​ metrics, ​  ​ our ​  ​ budgeting ​  ​ capabilities ​  ​ and ​  ​ our ​  ​ HR ​  ​ department.  
+ 3) ​  ​ Donor ​  ​ outreach ​ ​  ​ is ​  ​ now ​  ​ a ​  ​ major ​  ​ organizational ​  ​ priority ​  ​ with ​  ​ the ​  ​ aim ​  ​ of ​  ​ substantially ​  ​ increasing ​  ​ the  
+ amount ​  ​ of ​  ​ money ​  ​ we ​  ​ direct ​  ​ to ​  ​ top ​  ​ charities. ​  ​ Our ​  ​ goal ​  ​ is ​  ​ to ​  ​ raise ​  ​ an ​  ​ additional ​  ​ $60-100 ​  ​ million ​  ​ dollars ​  ​ in  
+ non-Good ​  ​ Ventures, ​  ​ annual ​  ​ money ​  ​ moved ​  ​ by ​  ​ giving ​  ​ season ​  ​ 2022 ​  ​ (5 ​  ​ years ​  ​ from ​  ​ now). ​  ​ More ​  ​ detail ​  ​ in ​  ​ the  
+ outreach ​  ​ update ​  ​ attachment.  
+
+=== Attachment B ===
+ 
+ GiveWell strategy review - August 2017  
+ 
+Summary  
+Research  
+Outreach  
+Operations  
+Current Vision and Mission Statements  
+How aligned is current state and current operations to these statements? If not well aligned, 
+do they need review? Do priorities need to be realigne d? 
+Executive Leadership  
+Name Elie’s Top 3 priorities/investment areas with goals/metrics and relative priority of each  
+Discuss relative priority/inv estment in each of three major domains (research, operations, 
+and outreach)  
+Why does this shift make sense?  
+Research  
+Name top 3 goals/metrics in res earch  
+Discuss why you believe in this relative priority (facts, experience, external input)  
+Discuss what it would take to change your perspective  
+Things we could do differently on research:  
+What would cause me to prioritize X more highly than we currently are:  
+Discuss ways you would receive input required to change your perspective  
+Operations  
+Name top 3 goals/metrics in operations  
+Discuss why you believe in this relative priority (facts, experience, external input)  
+Discuss what it would take to change your perspective  
+Discuss ways you would receive input required to change your perspective  
+Outreach  
+Name top 3 goals/metrics in Outreach  
+Metrics  
+What is our average money moved 5 -10 years from now?  
+Discuss why you believe in this relative priority (facts, experience, external input)  
+Discuss what it would take to change your perspective  
+Discuss ways you would receive the input to change your pers pective  
+Summary  
+GiveWell's mission is to find and support the development of outstanding giving opportunities 
+and publish the full details of our analysis to help donors decide where to give.  
+ 
+
+ 
+ We assess our impact by (a) the quality of the recommenda tions we make and (b) the amount 
+of funding we direct to our recommendations.  
+ 
+GiveWell's work has three main components:  
+1. Research : aimed at identifying outstanding giving opportunities and publish ing our 
+reasoning  
+2. Outreach : aimed at increasing the amount of money that goes to our recommendations  
+3. Operations : aimed at supporting the above two goals via donation processing, HR, 
+finance and accounting, office management and legal.  
+ 
+Below, this document discusses our top priorities in each domain in details. He re, we briefly 
+summar ize: 
+Research  
+Our research team is in good shape. Our team is able to effectively research and publish 
+reports on the giving opportunities we want to consider. There are problems we need to fix but 
+the team has the capacity to make the  necessary changes. Adding additional capacity to the 
+research team would allow us to move faster / do more, but it wouldn't change the types of 
+research we're able to do.  
+Outreach  
+We put limited capacity into outreach historically, and it has significant  room for improvement.  
+ 
+The consistency of our outreach to major donors has improved significantly since we hired 
+Catherine Hollander (our only staff member dedicated to outreach), but she's capacity 
+constrained: we don't reach out to as many donors as we ideally would.  
+ 
+In addition, we have historically put limited effort into proactively increasing the amount of 
+funding we direct to our top charities. We see a major potential opportunity to increase our 
+money moved with a thoughtful strategy.  
+ 
+Developing  a promising strategy for outreach that increases our money moved as much as 
+possible is a top organizational priority.  
+Operations  
+We're in the process of building an operations team led by Sarah Ward (Director of Operations). 
+We still have room for improv ement but the team effectively executes all its day -to-day 
+responsibilities, and if it continues on its current trajectory, will be significantly improved in the 
+near future.  
+
+ 
+ Current Vision and Mission Statements  
+ 
+Mission: GiveWell finds and supports the d evelopment of outstanding giving opportunities and 
+publishes the full details of our analysis to help donors decide where to give.  
+ 
+Vision: a world in which donors reward charities for effectiveness in improving lives.  
+How aligned is current state and curr ent operations to these statements? If not well aligned, do 
+they need review? Do priorities need to be realigned?  
+With a small edit, the mission statement reflects what we're doing.  
+ 
+The vision seems fine.  
+Executive Leadership  
+Name Elie’s Top 3 priorities /investment areas with goals/metrics and relative priority of each  
+ 
+These are listed in order of priority:  
+ 
+1. Maximize the long term impact of staff, especially my reports.  
+a. For my reports (Natalie, Josh, Sarah and Catherine):  
+i. Do this via coaching, assessment , mentorship, training focusing both in 
+their project work and contributions and leadership/management 
+development.  
+ii. This includes working with them to set priorities and goals for them and 
+their teams (when applicable) and checking in to ensure their acti ons are 
+consistent with agreed upon goals.  
+iii. The goals / metrics varies by each person, so we should discuss what 
+sorts of goals/metrics would be most useful. At a high level, in most 
+cases, my goal is to expand the scope of what each person can do while 
+limiting the time I spend.  
+b. For the rest of staff:  
+i. Set culture and key improvements in culture/work environment. My 
+assessment is that there are aspects of our culture/work environment we 
+should work to resolve, but that a relatively low intensity effort (i.e., being 
+aware of and diligent about improvements) will likely yield sufficient 
+results.  
+ii. We recently retained a consultant to conduct interviews with all staff to 
+identify problems. That project led us to settle on two major improvements 
+we intend to a im to improve on. They are:  
+1. Responding to ideas and critiques. A core value of GiveWell's is 
+that we make decisions based on reason, logic, and evidence. It's 
+
+ 
+ clear from the feedback that staff perceive some decisions as 
+being made suboptimally, with a bia s towards the status quo and 
+away from new ideas.  
+2. Performance feedback. The way in which management, myself 
+included, has communicated with many on staff about your 
+performance and trajectory has caused confusion, anxiety, 
+uncertainty, and lack of motivati on. 
+iii. We don't believe we can easily track this quantitatively. Instead, we plan 
+to qualitatively track this via:  
+1. Elie's meetings 1:1 with all staff. (I meet with everyone at GiveWell 
+at least 1x/quarter.)  
+2. Manager s' 1:1s with direct reports. (Managers have 1 :1s with 
+reports 1x/week.)  
+3. Incorporating questions about the above into exit interviews  
+4. Running a similar process to interview staff about problems next 
+year (~April 2018) to see whether we have made progress  
+c. Recruiting - low level since other staff lead m ost proactive efforts, but keep an 
+eye out for great people/other vendors we might be able to retain. This may 
+become a higher priority if/when we aim to hire more senior staff (most likely in 
+outreach).  
+2. Decisions I make and/or work I do directly (e.g., w eigh in on research conclusions, 
+IDinsight relationship, GIG investigations, recruiting plans and decisions)  
+a. I still spend a significant time leading research projects or weighing in on 
+decisions that aren't explicitly targeted at developing staff.  
+b. My goal here is to reduce the amount of time I spend on this bucket by working 
+on priority #1 above.  
+3. Develop a plan and lead long -term project to increase GW money moved  
+a. We have a long -term goal of substantially increasing our money moved. We're 
+aiming to dev elop a more concrete plan for how we intend to accomplish this by 
+the end of the 3rd quarter of 2017.  
+b. Metrics:  
+i. Short -term: do we have a solid plan by the end of 3Q 2017  
+ii. Long -term: does money moved reach $100m, ex -Good Ventures by 
+giving season 2022.  
+ 
+Very roughly speaking, I'd guess that, over the past 6 months, priority #1 above has accounted 
+for 60%, #2 30% of my time/attention, and #3 10% of my attention but I expect that #3 will 
+increase substantially over the next 6 months.  
+Discuss relative priority/i nvestment in each of three major domains (research, operations, and 
+outreach)  
+ 
+In the first half of 2017, I spent ~60% of my GiveWell time on research, 20% on operations and 
+20% on outreach. (I spent 88% of my work hours on GiveWell and 12% on Open Philant hropy.)  
+
+ 
+  
+I allocated the most time to research because it has historically been our top organizational 
+priority, and my contributions have been necessary to move it forward as effectively as possible.  
+ 
+I expect that I'll devote more of my capacity to outreach in the future and continue to delegate 
+as much research ownership as possible to Josh and Natalie so that I can focus on outreach. I 
+expect that my research hours fall and my outreach hours rise in the 2nd half of the year.  
+ 
+I don't think I'll all ocate more time and attention to operations. Sarah Ward is running that team 
+and I think that that team will be successful without significantly more engagement from me; as 
+Sarah gets more experience, I expect the time I spend on operations to fall.  
+Why do es this shift make sense?  
+Our research is our product, so it has to remain high quality. I also suspect, based to some 
+extent on intuition and to some extent on my subjective impression of donors' reactions to our 
+research between 2013 and 2015 when we did n't produce a large amount of new research, that 
+our research has to continue to improve and push new frontiers to maintain donors' belief that 
+GiveWell represents the gold standard for recommendations to donors.  
+ 
+Over the past 18 months, a few things have  changed:  
+1. Our research capacity has increased substantially as we've added some new staff and 
+existing staff have matured. Excluding me, our research staff is able to cover a lot of 
+ground and continue to push our research to explore new areas.  
+2. The room fo r more funding among our recommendations has surpassed our money 
+moved. Several years ago, we estimated moderate room for more funding among our 
+top charities, and we worried about the possibility of finding new charities with additional 
+room for more fund ing. This has changed. Our estimated room for more funding at our 
+top charities exceeded our money moved by more than $100 million last year, excluding 
+GiveDirectly. In addition, GiveWell Incubation Grants are starting to generate larger 
+giving opportuniti es, and we've heard from top charities that some are nervous about our 
+total funding capacity.  
+3. Good Ventures is unlikely to give much more than $60 million to our recommendations in 
+the near future. Previously, it seemed plausible that Good Ventures would decide to give 
+substantially more to our recommendations.  
+ 
+At the same time, we have made some progress on outreach by hiring Catherine, and our 
+relations with existing donors are in good shape. However, we have made virtually no effort 
+raise additional fu nding. I don't think we currently have the capacity on staff to sufficiently push 
+outreach forward, which requires determining our strategy and deciding who to hire, unless I 
+focus on it.  
+
+ 
+ Research  
+Name top 3 goals/metrics in research  
+ 
+These are our four t op priorities, in order of importance:  
+ 
+1. Maintain our current product: follow and stay up -to-date on current top charities, 
+standouts and interventions; assess new charities and interventions that appear to be 
+promising based on our current criteria and ass essment of interventions; release new 
+recommendations annually; maintain quality standards for research.  
+a. Priority/time allocation: This is our core product offering (i.e., our annual release 
+of new top charities). We have worked hard to limit the amount of  work that goes 
+into this to the minimum necessary. Currently, this work is led by Natalie 
+(accounting for ~50% of her time). Natalie manages a team of 4 people, and I'd 
+roughly estimate that 2/3 of their time is devoted to this goal. In addition, Josh 
+spends a small amount of time (~10%) on intervention updates.  
+b. Metrics:  
+i. Do we stay up -to-date on our top charities and interventions and release 
+a high -quality update before December 1st?  
+ii. How many new charities do we assess?  
+iii. How many promising interventions do  we complete thorough reviews of?  
+iv. How much capacity/time does it take to accomplish this goal, especially 
+focused on updating our views on top charities and top charities' 
+interventions?  
+2. Intervention prioritization: There are many interventions we haven't sufficiently assessed 
+to have compelling reasons to not prioritize. This work aims to more systematically follow 
+and assess interventions that could lead to top charities.  
+a. Metrics:  
+i. How many new interventions do we assess at a shallow and medium 
+level?  
+ii. How promising do these interventions appear to be as measured by (a) 
+estimated cost -effectiveness and (b) plausibility as GiveWell top 
+charities?  
+iii. Does this work lead to new top charities or new Incubation Grants?  
+3. Build for the future: work we do today that won 't lead to significant impacts in the next 1 -
+2 years but we expect to have longer -term benefits. This is mostly (a) ongoing recruiting 
+efforts and (b) work on GiveWell Incubation Grants.  
+a. Metrics:  
+i. Do our recruiting efforts lead to hires that contribute sign ificantly to 
+GiveWell's research?  
+1. [Redaction]  
+ii. Do our Incubation Grants lead to new top charities?  
+iii. Do our grants lead to high quality public evidence on promising 
+interventions (whether or not they turn into top charities)?  
+
+ 
+ 4. Improve the robustness of our to ols (e.g., our cost -effectiveness model): our decisions 
+are a function of the data we have and the tools we use to analyze that data. Flaws in 
+those tools can lead us to make poor decisions. This work aims to improve the reliability 
+of the tools we use.  
+a. Metrics:  
+i. Do we successfully address and reduce the number of major 
+problems/weaknesses we see in our tools? How many problems do we 
+address?  
+Discuss why you believe in this relative priority (facts, experience, external input)  
+● Why is #1 prioritized most high ly? 
+○ Intuitively, it's compelling to me that GiveWell should be wary of letting the quality 
+and scope of its research product degrade given that we've been successful with 
+this product and we're not allocating an undue amount of capacity to it.  
+○ Conversatio ns with major donors often focus on (a) updates on our top charities 
+and (b) information about new top charities we're actively considering. These two 
+topics are the ones that major donors ask about most often. My impression from 
+those conversations is tha t they expect us to have a good understanding of those 
+organizations and what they're doing.  
+■ When we had no new top charities in 2014 and 2015, it seemed as if 
+donors and followers closest to us were skeptical of the value of our 
+ongoing work. New top char ities (especially Malaria Consortium, 
+implementing a new intervention) helped to address these concerns.  
+● Why is intervention prioritization prioritized 2nd?  
+○ In our experience, the decisive factor in our charity recommendation is the 
+evidence base and cost -effectiveness of interventions. We've consistently had 
+the experience that intervention results (strength of evidence and cost -
+effectiveness) drive our final  conclusions significantly more than organizational 
+factors do (see this post  discussing GiveDirectly vs SCI as an example). We 
+therefo re believe that assessing interventions is key to identifying charities that 
+we'll ultimately decide are as good as or better than our top charities.  
+○ We view this as a high priority because we know that are numerous interventions 
+in addition to large areas  (such as education or agriculture) that we haven't 
+recently assessed. I'd guess that the domains we haven't investigated (both 
+specific interventions and larger domains like education and agriculture) in depth 
+represent some of the most likely areas where  we'll find new priority programs as 
+promising or more promising than our top charities.  
+○ There will come a point where we complete this work and can lower its priority. In 
+the next 12 -24 months, I expect we'll make substantial progress on this work and 
+have a much better sense for whether we should continue this work or 
+change/stop it. My best guess is that this will move to a much lower priority within 
+the next two years (most likely subsumed under the goal above taking 
+significantly less capacity).  
+● Why is  GIG/building for the future prioritized 3rd?  
+
+ 
+ ○ GIG 
+■ Over the past few years, we've struggled to find new top charities that are 
+as promising as or more promising than our current top charities. 
+Notwithstanding the bullet above about intervention prioritization, I'd 
+guess that we've done a fairly good job identifying the low hanging fruit in 
+GiveWell's first 10 years. GIG -- directly supporting the development of 
+new top charities -- offers an opportunity to grow this pool directly.  
+■ Deciding how mu ch capacity to direct to GIG has been challenging. Over 
+the past 18 months, I've devoted a significant amount of my time to 
+building the program. I've also tasked other staff members -- Natalie, 
+Josh, and Sophie, in particular -- who've all played signific ant roles. I now 
+believe the program is operating well in that (a) we have grants/ongoing 
+projects that cover the full scope of the GIG pipeline (impact 
+evaluation/research, seed funding, and M&E support) and (b) important 
+potential partners (JPAL, IPA, CH AI, CEGA, Guide at Georgetown, GIF, 
+DIV, IDinsight, Evidence Action, the EA community) are aware of and 
+reach out to us about potential grant opportunities, but (c) we have little 
+information/reason to believe that the bets we've made (bets that specific 
+grants will lead to new top charities) will succeed. I'm hesitant to invest 
+more -- funding or capacity -- in this area until we have a better sense of 
+how well our bets will work out. (We expect the first concrete evaluation of 
+this strategy to come the fa ll of 2017 when we evaluate No Lean Season, 
+an early GIG grantee for a top charity recommendation).  
+■ We're currently allocating time to GIG to maintain our current set of 
+priorities and we're opportunistically considering additional grants if/when 
+they seem  particularly promising relative to our current portfolio, but we're 
+not proactively trying to grow the portfolio.  
+○ With recruitment, we have slowly built our research team and don't see pressing 
+concrete gaps to fill.  
+■ It's possible that we'll want to add additional specialists to evaluate 
+literature, but we're in the process of evaluating / will be in the process of 
+evaluating two this fall (Caitlin and Stephan), and I'd like to get a better 
+sense of their capabilities before hiring more.  
+■ Otherwise, we're aiming to try to add other people who are similar to 
+research staff who've been most successful in the past, i.e., values -
+aligned, technical people who have some work experience. We don't 
+currently see other gaps we think we could/should realistically try to fill.  
+● Improving tools such as our cost -effectiveness model  
+○ This is prioritized last because, based on past experience of (a) reanalyzing our 
+tools or (b) donors scrutinizing our tools, I think it's likely that GiveWell would be 
+OK -- survive/continue to  thrive -- even if our tools remain suboptimal for the next 
+couple of years. That's because we haven't historically fundamentally changed 
+our conclusions based on reassessing our tools and donors have rarely been 
+disappointed by the quality of our research . 
+
+ 
+ ○ Nonetheless, I think a crucial part of our past success -- both consistently 
+improving the quality of our research and analysis and showing donors that our 
+research is high quality -- has been due to offering the highest quality research 
+we can.  
+○ Given t hat we see important gaps in the quality of our tools, we want to work to 
+improve them. I'm worried about the long -term success of a GiveWell that 
+actively ignores known, obvious weaknesses in its methods.  
+Discuss what it would take to change your perspect ive 
+ 
+Below, I'm going to list a bunch of things we could do differently and then follow it up with what 
+would cause me to change my mind about each.  
+Things we could do differently on research:  
+ 
+1. More work on GIG via more networking/searching for grant oppor tunities and allocating 
+more of the funding we influence to GIG. One easy type of grant we could make more of 
+would be supporting the developing of high quality M&E systems for charities who might 
+be recommended if they had that.  
+2. Deepen our knowledge about  top charities via more closely following them and more site 
+visits  
+3. New approaches to serve other donors: we could focus our research on trying to bring in 
+more donors researching and writing about causes / topics that we think will get us 
+attention (e.g.,  disaster relief)  
+4. Intellectual home of giving blog: when Holden was blogging regularly, the GiveWell blog 
+was a place where we published posts about philosophy/theory of giving. With Holden's 
+move to Open Philanthropy, we've stopped this.  
+5. Be helpful to bil lionaires/foundations: we could pivot and take a more consultant -like 
+approach to understanding what UHNW donors want and trying to give that to them  
+6. A subset of this sort of work would be focusing research that might be useful in 
+influencing bilaterals. S ome specific possibilities: evaluations of major recipients of 
+bilateral funding (the Global Fund, GAVI, UNICEF); evaluations of elimination vs control 
+campaigns for malaria or NTDs.  
+7. Change approach and try to evaluate more charities more shallowly: we co uld go back 
+to our original vision and try to create a menu of charities that we evaluate at a shallow 
+level.  
+8. Focus evaluation on charities instead of interventions: we could go back to what 
+GiveWell did c. 2009 -2011 and focus more of our energy on findin g, talking to, and 
+evaluating charities independent of the independent evidence for the effectiveness/cost -
+effectiveness of their intervention  
+9. Make GW research smaller: we could scale down our staff and focus research primarily 
+on goal #1 above -- maintain  our traditional top charities product.  
+
+ 
+ What would cause me to prioritize X more highly than we currently are:  
+ 
+1. There are two major reasons I don't want to prioritize GIG more highly right now: (a) 
+we've taken a handful of bets on various incubation grants, and I'd like to see whether 
+our hit rate is high enough to justify increased investment and (b) I'm optimistic that non -
+GIG efforts (i.e., intervention prioritization and continuing to solicit applications from the 
+most promising charities we can f ind) will create new top charities. Either factor could 
+change and that would cause me to reassess GIG's priority.  
+2. If we made a major error in our assessment of a charity or if we heard donors pushing 
+back that we hadn't gone deep enough, I'd consider this . For now, my impression is that 
+we've historically gone deeper than necessary, and we're trying to tack in the other 
+direction.  
+3. For all research priorities where the goal is "raise money" rather than "find the best 
+opportunities possible," there are three  things that could affect prioritization: (a) we could 
+meet a major donor where the benefit of engagement is worth reprioritization (e.g., 
+another Good Ventures -sized donor would make me seriously consider changing 
+research priorities), (b) we fail to rais e money through other approaches to outreach and 
+using our research capacity seems like the most promising path, or (c) we believe that 
+our research capacity is unlikely to make meaningful progress on finding better giving 
+opportunities so it's worth alloc ating it to the goal of increasing our money moved.  
+4. See above.  
+5. See above.  
+6. The above is true though, in this case, my instinct is that using research capacity is more 
+likely. Amanda Glassman at CGD thinks we should take this approach; conversations 
+I've had  with DFID have often led to their asking us to provide follow up that utilizes 
+research capacity (minimal to date).  
+7. This seems very unlikely. I'm skeptical we can do this well (i.e., complete shallow 
+investigations that reach useful conclusions) and I'd b et that this wouldn't be useful to 
+many donor dollars based on our past experience with a GiveWell charities menu and 
+what I've heard from donors over the years about what they value in our research. If I 
+believed that a significant amount of funding truly  wanted this and I could see the path to 
+doing this successfully, I'd revisit.  
+8. Recent interactions with charities that we've reached out to implies that the M&E data 
+most charities have is similar to what they had in the 2009 -11 period, so this approach 
+wouldn't likely yield more top charities. If charities came to us with compelling impact 
+evaluation data, I'd change my mind.  
+9. We'd do this if the above didn't seem to be working.  
+Discuss ways you would receive input required to change your perspective  
+● The pr iority of GIG will most likely change based on the success/failure of our past 
+grants and our ongoing success with finding new top charities in other ways. I expect 
+that we're going to have to let time pass to decide whether or not we should change its 
+relative priority.  
+
+ 
+ ● Deciding to go deeper on charities would come in reaction to a problem. I feel good 
+about the level at which we're monitoring charities, and I could imagine discovering a 
+problem that causes us to want to invest more heavily in this priorit y. We speak to 
+donors regularly and we'd know if our major donors had concerns about the level of 
+depth/intensity of our reviews. So a change here would most likely be reactive to 
+problems or donor complaints.  
+○ The most likely ways we'd learn about problems  would be (a) our own ongoing 
+follow up identifies something we missed before, (b) donors ask us questions 
+about a charity that we can't answer but seem important; that, itself, might 
+convince us we made a mistake in not assessing a charity more deeply bef ore; 
+it's also possible investigation driven by a donor's question causes us to find a 
+problem; or (c) some external reporting (media or academic research) informs us 
+about a problem.  
+● Re: 4 -6: we're in the process of developing our outreach strategy; we'r e also having 
+conversations with people about how we might approach our project of influencing 
+bilaterals. This is an active area of investigation where we're talking to people with varied 
+experience: fundraising, marketing, media, work with/in bilaterals and those 
+conversations could change our prioritization of work within outreach. My preference is 
+to focus on outreach efforts that don't require a major shift in our research, but if other 
+approaches to outreach fail or if these seem like the most promisi ng approaches for 
+outreach, we'd revisit.  
+● I'm not planning proactive steps to reassess 7 -9. 
+Operations  
+Name top 3 goals/metrics in operations  
+ 
+1. Maintain quality of our work across operations' key domains: donations processing, 
+finance & accounting, office management (including IT and reception), HR, legal, and 
+website.  
+a. Metrics: Quantitative metrics are of limited value here, but they include things 
+like:  
+i. HR: are we completing all onboarding steps on a similar timeline / to 
+similar degree as we were in 2016 ? 
+ii. Donations: the donations team has some specific quantitative metrics for 
+things like turnaround time to respond to donor questions.  
+iii. IT: no significant internet downtime.  
+iv. Websites: similar levels of downtime (very low) for maintenance; similar 
+lag time on publishing content etc.  
+2. Build a team that has the appropriate capacity and expertise to maintain and improve 
+our work across our domains while maintaining good work/life balance for all team 
+members  
+
+ 
+ a. Leverage operations staff: Similar to Elie’s first goa l, a key priority for me is to 
+maximize the long term impact of operations staff, especially my reports. I’m 
+planning to take a similar approach to Elie to accomplish this, and to measure 
+success at a high level by expanding the scope of what each person c an do 
+while limiting the time I spend.  
+b. Hire new staff: In addition, we're actively recruiting a Controller, which will allow 
+us to consolidate all finance & accounting work under one person and reduce the 
+burden of that work on Sarah, other ops team member s (who we’d like to have 
+focus on other work), and Natalie (who still works on the budget, grant 
+reconciliation, and metrics).  
+i. After we onboard the Controller, we plan to assess the team’s capacity 
+and expertise to determine whether additional hiring is n ecessary.  
+c. Metrics:  
+i. Onboard Controller by September 2017?  
+ii. Eliminate the need to rely on non -ops staff for ops work (possibly with one 
+or two small exceptions, including research support management?) by 
+early 2018?  
+iii. Maintain the quality of operations work a nd make significant progress on 
+improvements without ops staff working more than they can/want 
+between now and mid -2018?  
+3. Implement significant improvements to operations and build for the future  
+a. We plan to make improvements across all of the key ops domai ns, to varying 
+degrees. Short -term projects we plan to accomplish in H2 2017 are described in 
+the Operations H2 2017 Vision and Plan  [LINK REMOVED].  That plan also 
+includes lower priority projects that we plan to tackle in 2018 (or sooner, 
+depending on how  much progress we make in 2017).  
+b. Metrics: Vary from domain to domain. High level goals for each domain (roughly 
+in order of priority; timeline to make significant progress varies depending on 
+priority, but we’d like to accomplish the bulk of this work by the end of 2018):  
+i. Technical work: Address highest -priority technical problems, largely in 
+donations tech. This work overlaps with / is essential for improvements 
+we want to make in other domains.  
+1. Highest priority improvement project in this domain: impleme nt a 
+better data integration system between our credit card processor 
+(Braintree) and CRM (Salesforce) by early 2018.  
+2. We have some assessment work to do before we prioritize and 
+start the other potential projects we could do in this area. This is 
+on hold until we hire a Controller, because the staff member who 
+will be responsible for this is handling some finance work in the 
+interim. We plan to prioritize these projects by the end of 2017.  
+ii. Finance & accounting: Reduce reliance on manual processes so that this 
+work takes staff less time and costs us less money relative to donation 
+volume (e.g., monthly close, grant reconciliation, updating the budget, 
+
+ 
+ audit). Improve and transition to different systems and processes so we’re 
+equipped to scale as donors/dona tions grow.  
+1. Projects are detailed here [LINK REMOVED].  
+iii. Donations processing: Improve systems and processes to reduce 
+reliance on manual processes, reduce room for error, and maintain or 
+improve the donor experience as the number of donors and donations 
+grow. 
+1. If we decide to switch to a new system for managing donor 
+communications, implement new system before giving season 
+2017 or, if that isn't possible due to other priorities and lack of in -
+house expertise, by mid -2018.  
+2. Other projects we plan to prioritiz e next are listed here [LINK 
+REMOVED].  
+iv. HR: Improve essential areas (essential = onboarding, offboarding, 
+benefits administration). E.g., onboarding needs to be streamlined and 
+reviewed for things that we can make smoother for new staff. Improve 
+areas outsi de of essential HR functions, including, e.g., offering staff more 
+frequent meetings with someone outside of their management chain.   
+v. Other tech: improve data security, separate GiveWell and Open Phil 
+systems, website improvements necessary for outreach w ork.  
+vi. Recruiting / retention: diversity & inclusion  
+vii. Legal / risk management: update miscellaneous outdated policies, 
+improve governance procedures, etc.  
+ 
+Discuss why you believe in this relative priority (facts, experience, external input)  
+Operations is generally performing its essential functions without major problems, but it's not 
+functioning optimally.  
+ 
+Building a team with appropriate capacity and expertise will allow us to continue maintaining ops 
+(priority #1) and set us up to make i mprovements and build for the future (priority #2). This goal 
+is also critical for retention – people will leave if we’re asking them to do too much on an 
+ongoing basis, and/or if we’re constantly asking people to perform tasks outside of their abilities 
+and interests. We based the decision to hire a Controller on input from contacts at other 
+organizations (Room to Read, Donors Choose, New Profit) and from our outsourced accounting 
+firm, BPM. We think several factors make this the right time to hire someone  with accounting 
+experience to lead this work: donations volume, number of payment platforms we use, our 
+grantmaking practices (numerous grants/year, including to international entities), increases in 
+number of employee expenses and AP payments.  
+ 
+Once we’ ve strengthened operations through a combination of goals 1 and 2, there are several 
+areas within operations that could be improved. Whether or not it’s worth it to do all of the 
+projects we could depends partly on whether or not our donations volume grows  and we invest 
+in outreach, because we could maintain things as they stand today without making many 
+
+ 
+ improvements. Some improvements are probably worthwhile either way (e.g., reducing some of 
+our reliance on manual processes to save staff time and reduce r oom for error). Others won’t be 
+necessary if we don’t invest in outreach and/or start to see significant growth in the number of 
+donations we’re processing (e.g., website improvements related to SEO, additional donations 
+processing improvements beyond the lowest hanging fruit).  
+Discuss what it would take to change your perspective  
+I folded this into my previous answer. I could try to separate these out if that seems helpful.  
+Discuss ways you would receive input required to change your perspective  
+I’m unsu re how to answer this in a way that's useful. Obviously, if the things I'm assuming above 
+don't play out as I expect, then I'd change my perspective, but that doesn't seem useful.  
+Outreach  
+Name top 3 goals/metrics in Outreach  
+1. Increase our long -term (i.e., 5-10 years from now) money moved as much as possible  
+2. To accomplish this goal, set the plan/structure for our outreach work going forward: i.e., 
+what approaches/segments should we focus on? How should we structure GiveWell to 
+increase the impact this work h as? 
+Metrics  
+1. What is our average money moved 5 -10 years from now?  
+2. Do we have a compelling plan/strategy for outreach 12 months from now?  
+Discuss why you believe in this relative priority (facts, experience, external input)  
+ 
+This prioritization is aimed at i ncreasing our long -term money moved. I'm happy to discuss why I 
+think money moved is the right goal at the expense of other possible goals such as (a) 
+maximizing the number of donors who use our research or (b) trying to increase 
+philanthropy's/donors' foc us in general towards metrics and rigorous evaluation.  
+Discuss what it would take to change your perspective  
+This framework may not work well in this case since we're explicitly in a phase of exploration 
+and assessment. We're actively trying to assess what  path we should take with outreach, so in 
+each of our high -potential approaches we're talking to advisors/external parties that may be 
+helpful and trying to take opportunities to experiment with possibilities in the hopes of learning 
+more about the potenti al impacts of various types of work.  
+ 
+
+ 
+ As part of developing this strategy, we'll have to figure out what sort of team/budget we want 
+outreach to have. In addition to the possibility of fundraising to increase our budget, we have 
+significant funding on hand  as a result of the split with Open Phil.  
+Discuss ways you would receive the input to change your perspective  
+ 
+I'm actively talking to people aiming to clarify my perspective. I expect it will evolve substantially 
+in the coming months.  
+ 
+Concretely:  
+● Aid Agencies - I've talked to people at USAID, DFID, CGD, Evidence Action, 
+GiveDirectly, Michael Anderson (former head of CIFF), Ann Mei Cheng (former head of 
+the Lab at USAID), and staff/former staff of CHAI and GAVI  
+● Media - I talked to YCombinator and at the ir recommendation we hired Big Swing 
+Communications (the PR firm that works with YC companies).  
+● General marketing - have talked to YC, a donor of ours who works in management 
+consulting and the people who led growth at Quora and Dropbox.  
+● HNW donors - have not done very much of this yet. Have largely talked to Chuck 
+Slaughter of Living Goods.  
+
+=== Attachment C ===
+Outreach​ ​update ​ ​-​ ​October​ ​2017 
+Summary 
+Outreach​ ​(increasing​ ​GiveWell's​ ​money​ ​moved)​ ​is​ ​a​ ​major​ ​organizational​ ​priority​ ​and​ ​Elie's​ ​top​ ​proactive 
+priority. 
+This​ ​document​ ​summarizes​ ​our​ ​progress​ ​and​ ​plans. 
+Current​ ​goals​ ​and​ ​plans 
+Our​ ​goal​ ​is​ ​to​ ​raise​ ​an​ ​additional​ ​$60-100​ ​million​ ​dollars​​ ​in​ ​non-Good​ ​Ventures,​ ​annual​ ​money​ ​moved 
+by​ ​giving​ ​season​ ​2022​ ​(5​ ​years​ ​from​ ​now). 
+Note​ ​that​ ​​~80%​ ​of​ ​our​ ​non-Good​ ​Ventures​ ​money​ ​moved​ ​comes​ ​from​ ​the​ ​largest​ ​2%​ ​of​ ​our​ ​donors 
+(those​ ​giving​ ​$10,000+)​,​ ​so​ ​we​ ​should​ ​likely​ ​focus​ ​on​ ​donors​ ​who​ ​give​ ​more​ ​than​ ​$10,000/year. 
+Our​ ​medium-term​ ​(through​ ​early​ ​2018)​ ​goal​ ​is​ ​to​ ​test​ ​out​ ​the​ ​most​ ​promising​ ​approaches​ ​to​ ​see 
+which​ ​seem​ ​worth​ ​investing​ ​in​ ​further.​ ​​Investing​ ​further​ ​might​ ​mean​ ​allocating​ ​a​ ​significant​ ​amount​ ​of 
+money​ ​to​ ​some​ ​outreach​ ​activity​ ​(e.g.,​ ​advertising)​ ​or​ ​hiring​ ​a​ ​team​ ​of​ ​full-time​ ​staff. 
+Work​ ​so​ ​far 
+We're​ ​experimenting​ ​with​ ​work​ ​in​ ​the​ ​following​ ​areas: 
+● Media/"influencers"/public​ ​intellectuals: 
+○What​ ​is​ ​it?​​ ​GiveWell​ ​being​ ​featured​ ​in​ ​the​ ​media​ ​and​ ​endorsed​ ​by​ ​other​ ​people​ ​with 
+significant​ ​public​ ​followings.​ ​This​ ​has​ ​driven​ ​a​ ​large​ ​proportion​ ​of​ ​the​ ​money​ ​we've​ ​moved 
+historically.  1
+○What​ ​are​ ​we​ ​doing?​ ​​We've​ ​retained​ ​a​ ​PR​ ​firm​ ​to​ ​work​ ​with​ ​us​ ​in​ ​advance​ ​of​ ​and​ ​during 
+giving​ ​season​ ​2017.​
+ 
+ 
+○Current​ ​thinking:​​ ​We​ ​still​ ​need​ ​to​ ​create​ ​a​ ​more​ ​systematic​ ​plan​ ​for​ ​all​ ​of​ ​this,​ ​and​ ​it 
+generally​ ​seems​ ​like​ ​a​ ​high​ ​potential​ ​area​ ​that​ ​we​ ​haven't​ ​yet​ ​fully​ ​figured​ ​out.  2
+○How​ ​will​ ​we​ ​measure​ ​success?​​ ​We'll​ ​look​ ​at​ ​media​ ​coverage​ ​this​ ​giving​ ​season 
+(through​ ​December​ ​31,​ ​2017)​ ​attributable​ ​to​ ​the​ ​firm.​ ​If​ ​we​ ​can​ ​attribute​ ​at​ ​least​ ​one 
+high-quality​ ​story​ ​in​ ​major​ ​media​ ​(e.g.,​ ​NYT,​ ​NPR,​ ​Financial​ ​Times)​ ​or 
+1​ ​Peter​ ​Singer​ ​via​ ​his​ ​books​ ​and​ ​media​ ​appearances,​ ​The​ ​New​ ​York​ ​Times,​ ​Podcast​ ​interviews​ ​with​ ​Will​ ​MacAskill,​ ​Others​ ​including 
+Nick​ ​Kristof,​ ​Farhad​ ​Manjoo,​ ​Ron​ ​Lieber,​ ​Tim​ ​Harford,​ ​Alex​ ​Tabarok. 
+2​ ​Other​ ​things​ ​we​ ​could​ ​do​ ​include:​ ​Systematically​ ​building​ ​and​ ​maintaining​ ​relationships​ ​with​ ​media​ ​like​ ​we​ ​do​ ​donors.​ ​Focusing​ ​on 
+creating​ ​more​ ​content​ ​that​ ​answers​ ​questions​ ​about​ ​giving​ ​or​ ​international​ ​aid​ ​that's​ ​l kely​ ​to​ ​be​ ​shared​ ​by​ ​the​ ​media​ ​that​ ​likely 
+matters​ ​most​ ​to​ ​us.​ ​Explicitly​ ​asking​ ​media​ ​for​ ​direct​ ​endorsements​ ​via​ ​Tweets​ ​or​ ​posts​ ​and​ ​making​ ​it​ ​easy​ ​for​ ​the​ ​folks​ ​we're 
+targeting​ ​to​ ​do​ ​so. 
+
+
+highly-aligned-media​ ​(e.g.,​ ​podcast​ ​our​ ​donors​ ​listen​ ​to)​ ​and​ ​we​ ​think​ ​they​ ​can​ ​repeat 
+that,​ ​we'll​ ​consider​ ​it​ ​a​ ​success.  3
+● Digital​ ​marketing 
+○What​ ​is​ ​it?​​ ​Using​ ​online​ ​marketing​ ​(search​ ​engine​ ​optimization,​ ​Google​ ​AdWords, 
+podcast​ ​ads)​ ​to​ ​reach​ ​new​ ​donors​ ​and​ ​our​ ​website​ ​as​ ​a​ ​crucial​ ​tool​ ​in​ ​raising​ ​more 
+money. 
+○What​ ​are​ ​we​ ​doing?​ ​​We've​ ​retained​ ​a​ ​digital​ ​marketing​ ​consultant​ ​who​ ​is​ ​focusing​ ​on​ ​(a) 
+fixing​ ​our​ ​tracking​ ​and​ ​metrics,​ ​(b)​ ​improving​ ​our​ ​SEO,​ ​SEM​ ​and​ ​Facebook​ ​advertising, 
+(c)​ ​working​ ​to​ ​optimize​ ​our​ ​site​ ​for​ ​donations,​ ​and​ ​(d)​ ​trying​ ​to​ ​create​ ​a​ ​better​ ​experience 
+for​ ​larger​ ​donors​ ​who​ ​land​ ​on​ ​our​ ​website​ ​hoping​ ​to​ ​learn​ ​more​ ​about​ ​our​ ​work​ ​but​ ​not 
+yet​ ​ready​ ​to​ ​give. 
+○Current​ ​thinking​:​ ​My​ ​instinct​ ​is​ ​that​ ​the​ ​most​ ​important​ ​piece​ ​of​ ​this​ ​work​ ​is​ ​(d):​ ​it 
+focuses​ ​on​ ​larger​ ​donors​ ​and​ ​they're​ ​the​ ​ones​ ​who​ ​make​ ​up​ ​80%​ ​of​ ​the​ ​money​ ​we​ ​move. 
+I​ ​largely​ ​see​ ​working​ ​with​ ​the​ ​consultant​ ​as​ ​an​ ​experiment​ ​in​ ​helping​ ​us​ ​learn​ ​more​ ​about 
+whether​ ​he's​ ​the​ ​sort​ ​of​ ​person​ ​who​ ​could​ ​really​ ​help​ ​us​ ​with​ ​(d)​ ​long-term.​ ​A​ ​fringe 
+benefit​ ​is​ ​that​ ​it​ ​may​ ​drive​ ​some​ ​more​ ​smaller​ ​donors​ ​and​ ​improve​ ​our​ ​tracking. 
+○How​ ​will​ ​we​ ​measure​ ​success?​​ ​By​ ​December​ ​31,​ ​2017,​ ​we​ ​should​ ​have​ ​the​ ​below; 
+these​ ​are​ ​fairly​ ​subjective,​ ​but​ ​we'll​ ​assess​ ​their​ ​value​ ​(especially​ ​the​ ​increase​ ​in​ ​dollars 
+donated)​ ​against​ ​the​ ​cost​ ​of​ ​the​ ​consultant. 
+■ Cost:​ ​. 
+■ Process​ ​improvements: 
+■ High-quality​ ​tracking​ ​of​ ​donors​ ​through​ ​our​ ​website,​ ​so​ ​we​ ​should​ ​be 
+able​ ​to​ ​directly​ ​connect​ ​donors​ ​to​ ​visits​ ​to​ ​the​ ​website​ ​and​ ​measure​ ​the 
+impact​ ​of​ ​different​ ​channels​ ​(i.e.,​ ​SEO,​ ​SEM,​ ​specific​ ​referral​ ​links). 
+■ Progress​ ​towards​ ​a​ ​flow​ ​donors​ ​who​ ​aren't​ ​ready​ ​to​ ​give​ ​but​ ​want​ ​to 
+learn​ ​more​ ​which​ ​allows​ ​us​ ​to​ ​track​ ​and​ ​follow​ ​up​ ​with​ ​them. 
+■ Directly​ ​translatable​ ​into​ ​money​ ​moved: 
+■ Increase​ ​in​ ​the​ ​number​ ​of​ ​donors​ ​who​ ​come​ ​to​ ​our​ ​site​ ​vis​ ​SEO,​ ​SEM 
+and​ ​advertising​ ​due​ ​to​ ​the​ ​consultant's​ ​work. 
+■ Increase​ ​in​ ​the​ ​conversion​ ​rate​ ​of​ ​donors​ ​who​ ​come​ ​to​ ​our​ ​site. 
+● Fundraising 
+○What​ ​is​ ​it?​​ ​A​ ​broad​ ​category​ ​meant​ ​to​ ​include​ ​standard​ ​approaches​ ​non-profits​ ​take​ ​to 
+raise​ ​money​ ​which​ ​you​ ​should​ ​associate​ ​with​ ​"build​ ​a​ ​fundraising​ ​department."​ ​This 
+includes: 
+■ Corporate​ ​and​ ​foundation​ ​solicitation 
+■ Building​ ​a​ ​pipeline​ ​of​ ​individual​ ​donors​ ​to​ ​solicit​ ​from 
+■ Building​ ​a​ ​program​ ​to​ ​segment​ ​and​ ​raise​ ​more​ ​from​ ​existing,​ ​smaller​ ​donors. 
+○What​ ​are​ ​we​ ​doing?​ ​​Largely​ ​exploring/thinking​ ​but​ ​it's​ ​the​ ​next​ ​most​ ​pressing​ ​priority​ ​to 
+get​ ​started​ ​with.​ ​Brigid​ ​has​ ​been​ ​really​ ​helpful​ ​here;​ ​I've​ ​also​ ​talked​ ​to​ ​Erin​ ​Ganju​ ​the 
+CEO​ ​of​ ​Room​ ​to​ ​Read​ ​about​ ​their​ ​work.​ ​(Room​ ​to​ ​Read​ ​is​ ​one​ ​of​ ​the​ ​more​ ​successful 
+stories​ ​of​ ​the​ ​last​ ​decade​ ​of​ ​fundraising​ ​for​ ​international​ ​aid.) 
+○Current​ ​thinking​:​ ​this​ ​seems​ ​promising​ ​because​ ​it's​ ​the​ ​standard​ ​approach​ ​nonprofits 
+take.​ ​It​ ​seems​ ​pretty​ ​likely​ ​that​ ​making​ ​progress​ ​on​ ​this​ ​is​ ​going​ ​to​ ​be​ ​the​ ​right​ ​next​ ​step. 
+That'll​ ​most​ ​likely​ ​mean​ ​me​ ​doing​ ​some​ ​work​ ​with​ ​some​ ​support​ ​to​ ​decide​ ​whether​ ​or​ ​not 
+we​ ​should​ ​try​ ​to​ ​hire​ ​someone. 
+3 Cost:  
+. 
+
+
+○ How ​  ​ will ​  ​ we ​  ​ measure ​  ​ success? ​ ​  ​ TBD ​  ​ for ​  ​ now ​  ​ since ​  ​ we ​  ​ haven't ​  ​ started ​  ​ our ​  ​ work.  
+ ● Direct ​  ​ outreach ​  ​ to ​  ​ HNW ​  ​ donors  
+ ○ What ​  ​ is ​  ​ it? ​  ​​ Because ​  ​ we ​  ​ expect ​  ​ that ​  ​ our ​  ​ outreach ​  ​ success ​  ​ will ​  ​ be ​  ​ determined ​  ​ by ​  ​ the  
+ donations ​  ​ of ​  ​ a ​  ​ relatively ​  ​ small ​  ​ number ​  ​ of ​  ​ donors, ​  ​ it's ​  ​ possible ​  ​ that ​  ​ our ​  ​ optimal ​  ​ strategy ​  ​ will  
+ be ​  ​ directly ​  ​ targeting ​  ​ donors ​  ​ who ​  ​ may ​  ​ give ​  ​ very ​  ​ large ​  ​ donations ​  ​ ($100k+).  
+ ○ What ​  ​ are ​  ​ we ​  ​ doing? ​  ​​ I'm ​  ​ currently ​  ​ trying ​  ​ to ​  ​ have ​  ​ 20 ​  ​ meetings ​  ​ to ​  ​ get ​  ​ a ​  ​ better ​  ​ sense ​  ​ of ​  ​ the  
+ costs, ​  ​ benefits, ​  ​ and ​  ​ expected ​  ​ value ​  ​ of ​  ​ this ​  ​ activity. ​  ​ I've ​  ​ scheduled ​  ​ ~5.  
+ ○ Current ​  ​ thinking? ​ ​  ​ Very ​  ​ roughly, ​  ​ Holden ​  ​ and ​  ​ I ​  ​ have ​  ​ had ​  ​ 10-20 ​  ​ meetings ​  ​ like ​  ​ this ​  ​ in ​  ​ the  
+ past, ​  ​ and ​  ​ I ​  ​ don't ​  ​ believe ​  ​ that ​  ​ any ​  ​ resulted ​  ​ in ​  ​ donations, ​  ​ but ​  ​ it's ​  ​ possible ​  ​ that ​  ​ changes ​  ​ to  
+ (a) ​  ​ the ​  ​ GiveWell ​  ​ product ​  ​ since ​  ​ we ​  ​ had ​  ​ those ​  ​ meetings ​  ​ (2008-2012), ​  ​ (b) ​  ​ changes ​  ​ to ​  ​ the  
+ pitch, ​  ​ or ​  ​ (c) ​  ​ changes ​  ​ to ​  ​ the ​  ​ process ​  ​ could ​  ​ yield ​  ​ a ​  ​ better ​  ​ hit ​  ​ rate.  4
+ ○ How ​  ​ will ​  ​ we ​  ​ measure ​  ​ success? ​ ​  ​ Return ​  ​ and ​  ​ time ​  ​ cost ​  ​ of ​  ​ first ​  ​ round ​  ​ of ​  ​ meetings.   
+ ● Outreach ​  ​ to ​  ​ government ​  ​ aid ​  ​ agencies  
+ ○ What ​  ​ is ​  ​ it? ​ ​  ​ Government ​  ​ aid ​  ​ agencies ​  ​ give ​  ​ a ​  ​ huge ​  ​ amount ​  ​ of ​  ​ money ​  ​ (tens ​  ​ of ​  ​ billions ​  ​ of  
+ dollars) ​  ​ so ​  ​ they're ​  ​ one ​  ​ of ​  ​ the ​  ​ best ​  ​ targets ​  ​ if ​  ​ we're ​  ​ trying ​  ​ to ​  ​ increase ​  ​ our ​  ​ money ​  ​ moved.  
+ ○ What ​  ​ are ​  ​ we ​  ​ doing? ​  ​​ Trying ​  ​ to ​  ​ have ​  ​ conversations ​  ​ with ​  ​ people ​  ​ in ​  ​ the ​  ​ agencies ​  ​ and  
+ others ​  ​ who ​  ​ know ​  ​ them ​  ​ well ​  ​ to ​  ​ get ​  ​ a ​  ​ sense ​  ​ of ​  ​ our ​  ​ prospects. ​  ​ We ​  ​ have ​  ​ a ​  ​ strong ​  ​ ally ​  ​ in ​  ​ the  
+ UK's ​  ​ DFID ​  ​ who ​  ​ comes ​  ​ out ​  ​ of ​  ​ the ​  ​ effective ​  ​ altruism ​  ​ community ​  ​ and ​  ​ wants ​  ​ to ​  ​ help;  
+ otherwise, ​  ​ I'm ​  ​ trying ​  ​ to ​  ​ keep ​  ​ my ​  ​ ear ​  ​ to ​  ​ the ​  ​ ground ​  ​ and ​  ​ have ​  ​ conversations ​  ​ as ​  ​ they ​  ​ come  
+ up.  
+ ○ Current ​  ​ status: ​  ​​ Largely ​  ​ slow ​  ​ burn ​  ​ and ​  ​ opportunistic ​  ​ beyond ​  ​ the ​  ​ contact ​  ​ at ​  ​ DFID. ​  ​ Key  
+ next ​  ​ steps ​  ​ we ​  ​ may ​  ​ pursue ​  ​ boil ​  ​ down ​  ​ to ​  ​ allocating ​  ​ some ​  ​ research ​  ​ capacity ​  ​ to ​  ​ (a)  
+ understand ​  ​ how ​  ​ major ​  ​ aid ​  ​ agencies ​  ​ work ​  ​ (how ​  ​ do ​  ​ they ​  ​ make ​  ​ decisions, ​  ​ where ​  ​ we ​  ​ might  
+ we ​  ​ best ​  ​ fit ​  ​ in) ​  ​ and ​  ​ (b) ​  ​ understanding ​  ​ some ​  ​ of ​  ​ the ​  ​ smaller ​  ​ aid ​  ​ agencies ​  ​ (e.g., ​  ​ Norway,  
+ Sweden) ​  ​ which ​  ​ are ​  ​ still ​  ​ very ​  ​ large ​  ​ donors.  
+ ● Outreach ​  ​ to ​  ​ foundations  
+ ○ Definitions ​ : ​  ​ Distinguish ​  ​ between ​  ​ two ​  ​ types ​  ​ of ​  ​ foundations: ​  ​ staffed ​  ​ and ​  ​ unstaffed. ​  ​ I ​  ​ think  
+ unstaffed ​  ​ foundations ​  ​ are ​  ​ similar ​  ​ to ​  ​ HNW ​  ​ individuals ​  ​ and ​  ​ don't ​  ​ think ​  ​ there's ​  ​ a ​  ​ particular  
+ strategy ​  ​ we ​  ​ should ​  ​ take ​  ​ that's ​  ​ different.  
+ ○ Current ​  ​ status:  
+ ■ Unstaffed: ​  ​ I ​  ​ think ​  ​ it ​  ​ largely ​  ​ makes ​  ​ sense ​  ​ to ​  ​ approach ​  ​ unstaffed ​  ​ foundations ​  ​ like  
+ HNW ​  ​ donors. ​  ​ I'd ​  ​ include ​  ​ these ​  ​ in ​  ​ the ​  ​ HNW ​  ​ donor ​  ​ bucket ​  ​ above. ​  ​ We ​  ​ have  
+ GiveWell ​  ​ top ​  ​ charities ​  ​ donors ​  ​ that ​  ​ are ​  ​ from ​  ​ unstaffed ​  ​ foundations ​  ​ and ​  ​ they ​  ​ seem  
+ to ​  ​ operate ​  ​ like ​  ​ HNW ​  ​ individual ​  ​ donors ​  ​ do.  
+ ■ Staffed: ​  ​ I ​  ​ don't ​  ​ think ​  ​ we're ​  ​ likely ​  ​ to ​  ​ convince ​  ​ staffed ​  ​ foundations ​  ​ (e.g., ​  ​ Hewlett,  
+ Gates) ​  ​ to ​  ​ use ​  ​ our ​  ​ research. ​  ​ Instead, ​  ​ I've ​  ​ tried ​  ​ to ​  ​ build ​  ​ relationships ​  ​ with  
+ like-minded ​  ​ funders ​  ​ that ​  ​ might ​  ​ "co-fund" ​  ​ opportunities ​  ​ with ​  ​ us ​  ​ that ​  ​ meet ​  ​ their  
+ needs. ​  ​ Aligned ​  ​ funders ​  ​ include: ​  ​ ELMA ​  ​ Philanthropies, ​  ​ Global ​  ​ Innovation ​  ​ Fund,  
+ IKEA ​  ​ Foundation, ​  ​ Lampert ​  ​ Family ​  ​ Foundation.   
+ ○ Next ​  ​ steps? ​ ​  ​ I ​  ​ don't ​  ​ currently ​  ​ have ​  ​ great ​  ​ ideas ​  ​ for ​  ​ next ​  ​ steps ​  ​ here ​  ​ beyond ​  ​ building  
+ existing ​  ​ relationships ​  ​ and ​  ​ looking ​  ​ out ​  ​ for ​  ​ more.  
+ 4 ​  ​ It's ​  ​ also ​  ​ possible ​  ​ that ​  ​ we'll ​  ​ have ​  ​ a ​  ​ ~5% ​  ​ yield ​  ​ on ​  ​ meetings ​  ​ and ​  ​ if ​  ​ successful ​  ​ conversations ​  ​ average ​  ​ $500k/year, ​  ​ this ​  ​ could ​  ​ be ​  ​ a  
+ scalable ​  ​ strategy ​  ​ would ​  ​ take ​  ​ ~750 ​  ​ hours ​  ​ / ​  ​ year ​  ​ for ​  ​ 200 ​  ​ donor ​  ​ meetings ​  ​ / ​  ​ year ​  ​ with ​  ​ expected ​  ​ yield ​  ​ of ​  ​ $5m. ​  ​ 750 ​  ​ hours ​  ​ assumes ​  ​ that  
+ 75% ​  ​ of ​  ​ the ​  ​ meetings ​  ​ (150) ​  ​ take ​  ​ 2 ​  ​ hours ​  ​ each, ​  ​ 15% ​  ​ (30 ​  ​ meetings) ​  ​ take ​  ​ 5 ​  ​ hours ​  ​ each, ​  ​ and ​  ​ 10% ​  ​ of ​  ​ the ​  ​ meetings ​  ​ take ​  ​ 10 ​  ​ hours ​  ​ each  
+ (20 ​  ​ meetings) ​  ​ = ​  ​ 300 ​  ​ + ​  ​ 150 ​  ​ + ​  ​ 200 ​  ​ = ​  ​ 650. ​  ​ Then, ​  ​ add ​  ​ 100 ​  ​ for ​  ​ general ​  ​ overhead/buffer. ​  ​ 750 ​  ​ hours ​  ​ of ​  ​ project ​  ​ work ​  ​ is ​  ​ roughly ​  ​ 50% ​  ​ of ​  ​ a  
+ full-time ​  ​ staffer. ​  ​ On ​  ​ the ​  ​ other ​  ​ hand, ​  ​ if ​  ​ meetings ​  ​ take ​  ​ longer ​  ​ or ​  ​ the ​  ​ yield ​  ​ (dollar ​  ​ value ​  ​ or ​  ​ odds ​  ​ of ​  ​ success) ​  ​ is ​  ​ lower, ​  ​ it ​  ​ might ​  ​ not ​  ​ be  
+ worth ​  ​ the ​  ​ effort ​  ​ to ​  ​ invest ​  ​ in ​  ​ this.  
+  
+  
+
+● Focus ​  ​ on ​  ​ research  
+ ○ What ​  ​ is ​  ​ it? ​  ​​ Focus ​  ​ on ​  ​ research ​  ​ that ​  ​ helps ​  ​ build ​  ​ out ​  ​ answers ​  ​ to ​  ​ questions ​  ​ donors ​  ​ have.  
+ For ​  ​ example, ​  ​ this ​  ​ might ​  ​ mean ​  ​ more ​  ​ focus ​  ​ on ​  ​ research ​  ​ useful ​  ​ in ​  ​ response ​  ​ to ​  ​ disasters ​  ​ or  
+ more ​  ​ actively ​  ​ doing ​  ​ GiveWell ​  ​ Incubation ​  ​ Grant ​  ​ work ​  ​ in ​  ​ causes ​  ​ (education, ​  ​ surgery)  
+ where ​  ​ our ​  ​ learning ​  ​ more ​  ​ about ​  ​ them ​  ​ would ​  ​ give ​  ​ us ​  ​ better ​  ​ answers ​  ​ for ​  ​ donors ​  ​ about ​  ​ our  
+ views.  
+ ○ What ​  ​ are ​  ​ we ​  ​ doing? ​  ​​ Nothing ​  ​ right ​  ​ now. ​  ​ There's ​  ​ a ​  ​ sharp ​  ​ line ​  ​ between ​  ​ research ​  ​ and  
+ outreach. ​  ​ Research ​  ​ makes ​  ​ decisions ​  ​ based ​  ​ on ​  ​ trying ​  ​ to ​  ​ find ​  ​ the ​  ​ highest-return ​  ​ charities  
+ and ​  ​ outreach ​  ​ tries ​  ​ to ​  ​ increase ​  ​ money ​  ​ moved ​  ​ as ​  ​ much ​  ​ as ​  ​ possible.  
+ ○ Next ​  ​ steps? ​ ​  ​ I ​  ​ think ​  ​ this ​  ​ is ​  ​ worth ​  ​ doing ​  ​ but ​  ​ we ​  ​ don't ​  ​ have ​  ​ capacity ​  ​ for ​  ​ it ​  ​ now ​  ​ without  
+ trading ​  ​ off ​  ​ on ​  ​ research ​  ​ and ​  ​ I ​  ​ want ​  ​ to ​  ​ give ​  ​ more ​  ​ standard ​  ​ outreach ​  ​ approaches ​  ​ a ​  ​ shot. ​  ​ A  
+ major ​  ​ focus ​  ​ in ​  ​ our ​  ​ low-burn ​  ​ (job ​  ​ posting ​  ​ on ​  ​ our ​  ​ website) ​  ​ recruiting ​  ​ efforts ​  ​ is ​  ​ finding ​  ​ the  
+ sort ​  ​ of ​  ​ person ​  ​ who ​  ​ could ​  ​ do ​  ​ this: ​  ​ i.e., ​  ​ a ​  ​ really ​  ​ strong ​  ​ researcher.  
+ ● Other  
+ ○ Improving ​  ​ metrics: ​  ​ our ​  ​ metrics ​  ​ are ​  ​ suboptimal ​  ​ in ​  ​ that ​  ​ they ​  ​ miss ​  ​ some ​  ​ money ​  ​ moved. ​  ​ Our  
+ best ​  ​ guess ​  ​ is ​  ​ that ​  ​ we ​  ​ don't ​  ​ track ​  ​ ~25% ​  ​ ($10 ​  ​ million) ​  ​ of ​  ​ our ​  ​ non-Good ​  ​ Ventures ​  ​ money  
+ moved. ​  ​ We're ​  ​ not ​  ​ sure ​  ​ how ​  ​ to ​  ​ fix ​  ​ this ​  ​ beyond ​  ​ making ​  ​ a ​  ​ push ​  ​ to ​  ​ get ​  ​ more ​  ​ donors ​  ​ to ​  ​ give  
+ through ​  ​ us. ​  ​ What ​  ​ we ​  ​ call ​  ​ "stewardship." ​  ​ This ​  ​ seems ​  ​ like ​  ​ a ​  ​ worthwhile ​  ​ thing ​  ​ to ​  ​ do.  
+  
+
+=== Attachment D ===
+GiveWell ​  ​ budget ​  ​ update ​  ​ - ​  ​ October ​  ​ 2017  
+  
+ At ​  ​ our ​  ​ June ​  ​ board ​  ​ meeting, ​  ​ the ​  ​ board ​  ​ approved ​  ​ a ​  ​ budget ​  ​ from ​  ​ July ​  ​ 1, ​  ​ 2017 ​  ​ - ​  ​ June ​  ​ 30, ​  ​ 2018. ​  ​ We ​  ​ are ​  ​ not  
+ asking ​  ​ the ​  ​ board ​  ​ to ​  ​ approve ​  ​ another ​  ​ budget ​  ​ this ​  ​ meeting.  
+  
+ Key ​  ​ points  
+  
+ ● Natalie ​  ​ and ​  ​ Elie ​  ​ reviewed ​  ​ an ​  ​ updated ​  ​ budget ​  ​ and ​  ​ are ​  ​ confident ​  ​ that ​  ​ GiveWell ​  ​ is ​  ​ in ​  ​ a ​  ​ solid  
+ financial ​  ​ position ​ , ​  ​ but ​  ​ we ​  ​ are ​  ​ not ​  ​ planning ​  ​ to ​  ​ go ​  ​ through ​  ​ a ​  ​ full ​  ​ budget ​  ​ update ​  ​ with ​  ​ the ​  ​ board ​  ​ in  
+ this ​  ​ meeting. ​  ​ It ​  ​ takes ​  ​ Natalie ​  ​ and ​  ​ Elie ​  ​ a ​  ​ large ​  ​ amount ​  ​ of ​  ​ time ​  ​ to ​  ​ update ​  ​ the ​  ​ budget ​  ​ to ​  ​ the ​  ​ point  
+ where ​  ​ we ​  ​ can ​  ​ explain ​  ​ it ​  ​ to ​  ​ the ​  ​ board, ​  ​ and ​  ​ we ​  ​ chose ​  ​ not ​  ​ to ​  ​ do ​  ​ that ​  ​ given ​  ​ that ​  ​ we ​  ​ have ​  ​ a ​  ​ major  
+ research ​  ​ deadline, ​  ​ the ​  ​ release ​  ​ of ​  ​ updated ​  ​ top ​  ​ charities, ​  ​ coming ​  ​ at ​  ​ the ​  ​ end ​  ​ of ​  ​ November.  
+ ● Making ​  ​ it ​  ​ less ​  ​ demanding ​  ​ to ​  ​ update ​  ​ the ​  ​ board ​  ​ about ​  ​ our ​  ​ budget ​  ​ position ​  ​ is ​  ​ a ​  ​ major  
+ priority. ​ ​  ​ We ​  ​ have ​  ​ made ​  ​ some ​  ​ progress ​  ​ towards ​  ​ fixing ​  ​ this: ​  ​ we ​  ​ hired ​  ​ a ​  ​ Controller ​  ​ (Charlene  
+ Abellana) ​  ​ who ​  ​ started ​  ​ at ​  ​ GiveWell ​  ​ in ​  ​ early ​  ​ September, ​  ​ and ​  ​ she's ​  ​ going ​  ​ to ​  ​ lead ​  ​ this ​  ​ work ​  ​ going  
+ forward.  
+ ● As ​  ​ part ​  ​ of ​  ​ our ​  ​ internal ​  ​ budget ​  ​ update, ​  ​​ Natalie ​  ​ and ​  ​ Elie ​  ​ analyzed ​  ​ our ​  ​ unrestricted ​  ​ funding  
+ projections ​  ​ and ​  ​ recommend ​  ​ that ​  ​ we ​  ​ should ​  ​​ n o t ​ ​  ​ designate ​  ​ any ​  ​ unrestricted ​  ​ funds ​  ​ for  
+ regranting ​  ​ to ​  ​ charities ​ ​  ​ (in ​  ​ accordance ​  ​ with ​  ​ our ​  ​​ excess ​  ​ assets ​  ​ policy ​ ).  
+ ● We ​  ​ are ​  ​ going ​  ​ to ​  ​ schedule ​  ​ a ​  ​ meeting ​  ​ with ​  ​ the ​  ​ newly ​  ​ formed ​  ​ finance ​  ​ committee ​  ​ within ​  ​ the ​  ​ next ​  ​ 2  
+ months ​  ​ to ​  ​ go ​  ​ over ​  ​ the ​  ​ budget ​  ​ in ​  ​ more ​  ​ detail, ​  ​ and ​  ​ we ​  ​ will ​  ​ report ​  ​ back ​  ​ to ​  ​ the ​  ​ board ​  ​ at ​  ​ our ​  ​ next  
+ meeting.  
+  
+ Brief ​  ​ explanation ​  ​ on ​  ​ the ​  ​ excess ​  ​ assets ​  ​ policy ​  ​ and ​  ​ its ​  ​ current ​  ​ application:  
+  
+ ● Our ​  ​ goal ​  ​ is ​  ​ to ​  ​ prevent ​  ​ an ​  ​ unreasonable ​  ​ buildup ​  ​ of ​  ​ reserves ​ ​  ​ to ​  ​ the ​  ​ point ​  ​ where ​  ​ we ​  ​ hold ​  ​ a  
+ significant ​  ​ endowment ​  ​ and ​  ​ we're ​  ​ no ​  ​ longer ​  ​ accountable ​  ​ to ​  ​ produce ​  ​ high ​  ​ quality ​  ​ work.  
+ ● We ​  ​ behave ​  ​ conservatively ​  ​ with ​  ​ respect ​  ​ to ​  ​ granting ​  ​ out ​  ​ funds. ​ ​  ​ We ​  ​ therefore ​  ​ use ​  ​ a  
+ conservative ​  ​ revenue ​  ​ projection ​  ​ (incorporating ​  ​ donations ​  ​ we ​  ​ expect ​  ​ to ​  ​ recur; ​  ​ we ​  ​ don't ​  ​ project  
+ growth); ​  ​ we ​  ​ also ​  ​ budget ​  ​ for ​  ​ what ​  ​ we ​  ​ realistically ​  ​ could ​  ​ imagine ​  ​ spending ​  ​ rather ​  ​ than ​  ​ taking ​  ​ our  
+ best ​  ​ guess ​  ​ of ​  ​ what ​  ​ we ​  ​ will ​  ​ spend. ​  ​ Our ​  ​ best ​  ​ guess ​  ​ is ​  ​ that ​  ​ we'll ​  ​ raise ​  ​ more ​  ​ than ​  ​ we ​  ​ project ​  ​ and  
+ spend ​  ​ less.  
+ ● As ​  ​ stated ​  ​ in ​  ​ the ​  ​ excess ​  ​ assets ​  ​ policy, ​  ​ we ​  ​ seek ​  ​ to ​  ​ be ​  ​ in ​  ​ a ​  ​ financial ​  ​ position ​  ​ such ​  ​ that ​  ​ our ​  ​ cash ​  ​ flow  
+ projections ​  ​ show ​  ​ us ​  ​ having ​  ​ 12 ​  ​ months' ​  ​ worth ​  ​ of ​  ​ unrestricted ​  ​ assets ​  ​ in ​  ​ each ​  ​ of ​  ​ the ​  ​ next ​  ​ 12  
+ months. ​  ​ We ​  ​ currently ​  ​ project ​  ​ that ​  ​ there ​  ​ will ​  ​ be ​  ​ a ​  ​ point ​  ​ in ​  ​ the ​  ​ next ​  ​ 12 ​  ​ months ​  ​ (July ​  ​ 2018), ​  ​ where  
+ we ​  ​ our ​  ​ 12-month-forward ​  ​ expenses ​  ​ will ​  ​ exceed ​  ​ our ​  ​ conservatively ​  ​ estimated ​  ​ revenues ​  ​ by  
+ approximately ​  ​ $40,000, ​  ​ so ​  ​​ we're ​  ​ not ​  ​ recommending ​  ​ granting ​  ​ out ​  ​ funds.  
+  
+
+=== Attachment D ===
+10/18/2017 GiveW ell's "excess assets" policy | GiveW ell
+https://www .givewell.org/about/of ficial-records/Excess-Assets-Policy 1/3     
+ 
+D O N A T E
+Last Updated: June 2017; Pub lished: 2011
+GiveWell has an "excess assets" policy, specifying that once we surpass a certain level
+of unrestricted assets, we grant out the excess rather than continue to hold it
+ourselves. This policy is intended to ensure that donors to GiveWell need not worry
+about our room for more funding: when we have more than we can productively use
+ourselves, the result is more grants to the best charities we've found.
+We seek to hold a reasonable level of assets: one that gives us a stable, predictable
+ﬁnancial situation and the ability to plan and to take any outstanding opportunities
+that come up (particularly with regard to hiring). Assets beyond what we feel we need
+in order to accomplish this are granted out. Details follow.
+Details of the "excess assets" policy
+Unrestricted assets are the assets controlled by GiveWell that are available for
+operating expenses (this excludes assets held in our donor-advised fund as well as all
+assets restricted by donors in such a way that we can't use them for operating
+expenses).GiveWell's "excess assets" policy »  »  » GIVEWELL'S "EXCESS ASSETS" POLICY HOME ABOUT OFFICIAL RECORDS
+GIVING EFFECTIVELY HOW WE WORK TOP CHARITIES RESEARCH OUR MISTAKES
+ABOUT UPDATES
+
+10/18/2017 GiveW ell's "excess assets" policy | GiveW ell
+https://www .givewell.org/about/of ficial-records/Excess-Assets-Policy 2/3"Months' worth of unrestricted assets" refers to how many months we could operate,
+according to current (generally conservative) expense projections, if revenue were to
+cease entirely.
+We seek to be in a ﬁnancial position such that our cash ﬂow projections show us
+having 12 months' worth of unrestricted assets in each of the next 12 months. A couple
+of simpliﬁed examples to illustrate this idea:
+"Excess assets" are deﬁned as unrestricted assets in excess of what is needed to fulﬁl
+the above criterion.
+At each Board meeting at which we approve a budget (of which we have at least one
+per year), we assess the level of our "excess assets" and, if we have any, to irrevocably
+earmark them for regranting (the timing and nature of the grants will be at our
+discretion, but the grants cannot be made to GiveWell or an aﬃliated organization).
+Unrestricted assets arising from an extraordinary transaction, such as a sale of assets,
+may be considered up to one year following the closing of such transaction, rather
+than at the next Board meeting at which we approve a budget.If we had projected expenses of $30,000 per month (constant), and projected no
+new revenue in the next 12 months, we would need $720,000 of unrestricted assets
+in order to fulﬁl the above criterion (in this case, we would be projecting
+$360,000.00 in unrestricted assets - just enough for 12 months - 12 months from
+now).
+If we had projected expenses of $30,000 per month (constant) and expected
+$500,000 of revenue to come in all at once six months from now, we would need
+$510,000 of unrestricted assets in order to fulﬁl the above criterion (in this case, we
+would be projecting $360,000 in unrestricted assets - just enough for 12 months -
+ﬁve months from now).
+
+10/18/2017 GiveW ell's "excess assets" policy | GiveW ell
+https://www .givewell.org/about/of ficial-records/Excess-Assets-Policy 3/3      HOME CONTACT STAY UPDATED FAQ FOR CHARITIES SITE MAP
+OPEN PHILANTHROPY PROJECT
+FOLLOW US:
+  EMAIL ADDRESS S U B M I TSUBSCRIBE TO EMAIL UPDATES:
+GiveWell, aka The Clear Fund (a tax-exempt 501(c)(3) public charity). This work is licensed under a
+Creative Commons AƷribution-Noncommercial-Share alike 3.0 United States License
+
+=== Attachment D ===
+DRAFT October 19, 2017  
+ APPLICATION OF THE E XCESS ASSETS POLICY  
+ 
+October 30, 2017  
+ 
+WHEREAS , the Board of Directors (“Board”) of The Clear Fund d/b/a GiveWell (“GiveWell ”) 
+has adopted an “excess assets” policy (“Policy”) to communicate to donors the intent to grant out 
+the excess of GiveWell’s unrestricted assets to recommended charities;  
+ 
+WHEREAS , the Policy provides that the Board will assess the level of GiveWell’s “e xcess 
+assets,” if any, at each Board meeting at which it approves a budget, or, in the case of 
+unrestricted assets arising from an extraordinary transaction, such as a sale of assets, up to one 
+year following the closing of such transaction, and, if applic able, irrevocably earmark the 
+“excess assets” for regranting;  
+ 
+NOW, THEREFORE, BE I T RESOLVED , that, following review of the Policy and GiveWell’s 
+unrestricted assets as of October 2017, GiveWell currently has no “excess assets” to be 
+earmarked for regrant ing.    
+ 
+FURTHER RESOLVED , that the Board hereby authorizes the officers of GiveWell to do and 
+perform all such further acts and to execute such documents as shall be necessary or advisable in 
+order to carry out the foregoing resolution.  
+ 
+
+=== Attachment F ===
+ 
+ What are GiveWell's major priorities over the next 3 -5 years?  
+ 
+This document lists our major priorities by functional area: research, operations, and outreach.  
+ 
+Research  
+ 
+The success GiveWell has had to date has been due to the quality of our research, so the items 
+below are crucial to our continued success.  
+ 
+1. Maintain and improve our product . Among other things, this means that we will continue to 
+(a) update our views on ou r current top charities, (b) look for and find new top charities and 
+interventions, (c) revise and improve our cost -effectiveness analysis, (d) through GiveWell 
+Incubation Grants, continue to identify opportunities to generate more top charity contenders 
+by funding research, start -up charities and improved monitoring all while maintaining the 
+same level of transparency that we have to date.  
+a. As part of maintaining the quality of GiveWell's recommendations, we plan to formally 
+revisit the focus on global hea lth and development (GH&D). GiveWell chose to focus 
+on GH&D because our early research (2007 -2010) convinced us that GH&D offered 
+the best giving opportunities that met our criteria. However, at its core, GiveWell is 
+not focused on GH&D; we're focused on t he best giving opportunities that are 
+evidence -backed, cost -effective and have room for more funding. While our 
+expectation is that revisiting this decision will lead us to maintain our focus on GH&D, 
+we plan to revisit this decision. The points below assu me that we continue to focus 
+on GH&D.  
+2. Comprehensively survey program areas in GH&D and have compelling answers for 
+why we recommend the programs we do, and why we don't recommend others.  
+GiveWell has looked at many programs, but there remain many that we h aven't examined in 
+depth. For example, we would like to have a more systematic view of education, agriculture, 
+reproductive health, and surgical interventions. There are also more general areas we 
+haven't formally evaluated such as health systems strengthe ning and disease elimination or 
+eradication programs. We plan to do research that allows us to assess these programs and 
+either make them priority programs (and seek out charities that implement them) or formally 
+explain why we do not believe they are prom ising.  
+a. This may also include approaches to GH&D that go beyond direct program delivery. 
+For example, philanthropy that aims to improve tobacco or road safety regulations 
+globally to improve health and reduce disability. As has been the case, such 
+programs would need to be evidence -backed, cost -effective, and scalable to be 
+priority programs.  
+3. All charities that should be top charities are top charities . Currently, we may not 
+recommend some charities for reasons including (a) they misunderstand us, our value -
+added, or our process so they don't apply, (b) we haven't completed the work to assess the 
+evidence for the intervention they implement (see the bullet above), or (c) we have limited 
+capacity and have prioritized our work such that we haven't yet been able  to review some 
+promising organizations. GiveWell should eventually overcome this hurdle and should be 
+confident that all charities that exist that would meet our criteria are recommended.  
+
+ 
+ 4. GiveWell has created the mechanism and incentive for people to star t organizations 
+that could meet our criteria.  Taken together, we believe that the work laid out above will 
+create the incentive for people to try to create high -impact nonprofits that meet our criteria 
+because we can offer (a) financial support to people w ho want to start an organization, 
+conduct early stage research or add M&E to a program they're already running through the 
+GiveWell Incubation Grants program, (b) predictable criteria to determine whether or not an 
+organization will be recommended, and (c)  significant funding if the organization succeeds.  
+ 
+This is important because other than GiveWell we believe that these incentives are not 
+nearly strong enough. GiveWell is uniquely positioned because we can offer both early stage 
+financial support but al so significant funding to groups at scale. We believe that creating a 
+strong incentive for people to create high -impact organizations is a way through which we 
+could have significant long -term impact beyond the funding we move directly to our 
+recommendatio ns. 
+ 
+ 
+Outreach  
+ 
+We have historically put limited time into proactive outreach and have consistently treated 
+research as a higher organizational priority. Given the quality of our research, we now believe 
+that outreach is at a similar priority level to rese arch and we anticipate allocating significant 
+capacity to it in the future.  
+ 
+1. We aim to significantly increase our money moved . Specifically, our non -Good Ventures 
+money moved is currently approximately $40 million annually. We aim to increase that figure 
+to $100 million annually. We do not have specific goals for whether this comes from one (or 
+relatively few) major donor(s) or a large number of smaller donors: our focus is on the 
+amount of funding we direct.  
+a. In 2016, Good Ventures gave approximately $60 million to our recommendations 
+($50 million to top charities and $10 million to GiveWell Incubation Grants). We 
+expect this funding to continue.  
+ 
+Operations / organizational goals  
+ 
+Before mid -2016, we treated o perations as a low priority, and we have a lot of work to do to improve 
+it. It is important that we get to a situation where:  
+ 
+1. GiveWell has high -quality operations . Our operations infrastructure, including our work in 
+donations processing, finance, legal, HR, tech, and office management, is high -quality and 
+can support our research and outreach goals.   
+2. GiveWell is a robust organization whose success does not rely on any one individual. 
+For all staff members, we have a contingency plan and ability to thrive  if we lose any 
+individual.  
+
+=== Attachment G ===
+DRAFT October 19, 2017  
+ CREATION OF THE FINA NCE SUBCOMMITTEE  
+ 
+October 30, 2017  
+ 
+WHEREAS , Article 5, Section 2 of the By -laws of The Clear Fund d/b/a GiveWell (“GiveWell”) 
+provides that the Board of Directors (“Board”) of GiveWell  may appoint such other committees 
+as may from time to time be designated by resolution of the Board.  
+ 
+NOW, THEREFORE, BE I T RESOLVED , that the Board hereby affirms and ratifies the 
+formation of the Finance Subcommittee to carry out the powers and responsi bilities typical of 
+such a subcommittee until such time as the Board adopts a charter for the subcommittee;  
+ 
+FURTHER RESOLVED , that the Board hereby affirms and ratifies the appointment of the 
+following members of the Board as members of the Finance Subco mmittee for a term that 
+coincides with their term on the Board:  
+ 
+Timothy Ogden,  
+Rob Reich, and  
+Julia Wise.  
+ 
+FURTHER RESOLVED , that Timothy Ogden shall serve as the Chair of the Finance 
+Subcommittee.  
+ 
+FURTHER RESOLVED , that the officers of GiveWell are auth orized to do and perform all such 
+further acts and to execute such documents as shall be necessary or advisable in order to carry 
+out the foregoing resolutions.  
+
+=== Attachment H ===
+DB1/ 94090007.2  
+ DRAFT October 19, 2017  
+ REVISION OF BY -LAWS REGARDING THE  
+DETERMINATION OF THE NUMBER OF DIRECTORS  
+ 
+October 30, 2017  
+ 
+WHEREAS , The Clear Fund d/b/a GiveWell (“GiveWell”) is a New York not -for-profit 
+corporation that conducts the majority of its operations in the State of California and is exempt 
+from federal income tax under Section 501(c)(3) of the Internal Revenue Code;  
+ 
+WHEREAS,  a vote of a majority of the entire Board of Di rectors of GiveWell (the “Board”) is 
+currently required in order for GiveWell to change the number of  directors ; and 
+ 
+WHEREAS,  GiveWell seeks greater flexibility with respect to changing the number of directors 
+within a range set forth under the Adopted By -Laws of GiveWell (the “By -Laws”) .   
+ 
+NOW , THEREFORE , BE IT RESOLVED, that Section 1 of Article 3 of the By -laws shall be 
+deleted in its entirety, and the following new Section 1 of Article 3  of the By -laws shall be 
+inserted in lieu thereof:    
+ 
+Section 1. Number  
+ 
+The number of directors constituting the entire board of directors of the corporation shall 
+be such number that is not less than five (5) nor more than eleven (11), a nd shall be 
+approved  from time to time by a committee of the Board.   
+ 
+FURTHER RESOLVED , that the Board hereby authorizes the  Strategy Subcommittee to 
+approve the number of directors from time to time pursuant to Article 3, Section 1 of the By -
+Laws , as revised under the foregoing amendment .   
+ 
+FURTHER RESOLVED, that the Board hereby approves, ratifies, and confirms all prior actions 
+taken by the directors and officers of GiveWell with respect to the determination of the number 
+of directors.   
+ 
+FURTHER RESOLVED, that the Board hereby authorizes the officers and employees of 
+GiveWell to restate the By -laws, as necessary,  to reflect the foregoing amendments as well as 
+any prior amendments to the By -Laws, and to make any necessary conforming changes related 
+thereto.  
+ 
+FURTHER  RESOLVED , that the Board  hereby  authorizes the officers  and emplo yees of 
+GiveWell to do and perform such further acts as may be necessary or advisable in order to carry 
+out the foregoing resolutions.   
+ 
+ 
+
+=== Agenda ===
+ 
+  
+ GiveWell Board Meeting Agenda  
+ 
+October 30 , 2017  
+ 
+ 
+KEY SUBSTANTIVE TOPICS (2:00 -3:30 PM) : 
+ 
+A.  State of GiveWell  
+ 
+Attachments:  
+ 
+A1. State of GiveWell – October 2017   
+ 
+Agenda:  
+ Elie will walk the Board through the  State of GiveWell summary and take 
+questions .  
+ 
+ 
+B.  Strategy Review  – Please read attachment in advance and add questions to Google doc  
+ 
+Attachments:  
+ 
+B1. GiveWell strategy review – August 2017  
+ 
+Agenda:  
+ Elie will address questions submitted by the Board via comments in the Google 
+doc. 
+ 
+ 
+C.  Outreach  Update  
+ 
+Attachments:  
+ 
+C1. Outreach update – October 2017   
+ 
+Agenda:  
+ Elie will update the Board on  outreach  work and take questions .   
+ 
+ 
+D. Update on Budget Proce ss; Vote on Application of Excess Assets Policy  
+ 
+Attachments:  
+ 
+D1. GiveWell budget update – October 2017   
+ 
+D2. Excess Assets Policy   
+
+  
+  2 
+  
+D3. Resolutions regarding application of the excess assets policy  
+ 
+Agenda:  
+ Elie will update the Board on the budgeting process and management’s proposal 
+regarding the application of the excess assets policy.  
+ 
+The Board will vote on:  
+ Resolutions regarding application of the excess assets policy   
+ 
+ 
+ADMINISTRATIVE ITEMS REQUIRING BOAR D VOTES (3:30 -4:00 PM) :  
+ 
+ 
+E.  Review and Approval of Minutes of June 6, 2017 Board Meeting  
+ 
+Attachments:  
+ 
+E1. Draft Minutes of June 6, 2017 Board Meeting  
+ 
+E2. Resolutions for Approval of Minutes of the June 6, 2017 Board Meeting  
+ 
+Agenda:  
+ Tom will ask the  Board to review and approve the minutes from the Board’s 
+meeting on June 6, 2017.  
+ 
+The Board will vote on:  
+ Resolutions to approve the minutes of the June 6, 2017 meeting  
+ 
+F. Review Prior Conflicts of Interest  
+ 
+Attachments:  
+ 
+F1. Resolutions regarding prior Open Philanthropy Project transactions  
+ 
+Agenda:  
+ Sarah will walk the board through the conflicts of interest, process of identifying 
+them through Board declarations, and resolutions.  
+ 
+The Board will vote on:  
+ Resolutions regarding prior Open Philanth ropy Project transactions  
+ 
+ 
+G. Formation of Finance Subcommittee  
+ 
+Attachments:  
+
+  
+  3 
+  
+G1. Resolutions to form Finance Subcommittee  
+ 
+Agenda:  
+ Sarah  will explain the recommendation  to form a Finance Subcommittee .  
+ 
+The Board will vote on:   
+ Resolutions to form Finance Subcommittee  
+ 
+H. Follow -up Discussion Regarding Size of Board  
+ 
+Attachments:  
+ 
+H1. Resolutions on determination of board size  
+ 
+Agenda:  
+ Sarah will update the Board on necessary changes to the GiveWell bylaws to give 
+the Board flexibility to adjust the number of Directors within the range of 5 -11 
+without the need for a vote of the majority of the Board each time Directors are 
+added or remov ed.  
+ 
+The Board will vote on:  
+ Resolutions on determination of board size  
+
+Generate a comprehensive summary (approximately 1000 words):

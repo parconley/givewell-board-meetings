@@ -1,0 +1,37 @@
+{
+  "index": 24,
+  "id": "meeting-26_2014-04-30",
+  "meetingNumber": 26,
+  "title": "Clear Fund Board Meeting",
+  "date": "2014-04-30",
+  "dateDisplay": "April 30, 2014",
+  "audioFilename": "Board_Meeting_Apr_30_2014.mp3",
+  "duration": 3201,
+  "durationDisplay": "53m",
+  "fileSize": 51222670,
+  "fileSizeDisplay": "49 MB",
+  "description": "Annual board meeting with general organizational update. Review of research progress and strategic planning.",
+  "attachments": [
+    {
+      "filename": "Board_Meeting_April_30_Minutes.pdf",
+      "type": "minutes",
+      "label": "Minutes",
+      "title": "Minutes",
+      "text": "Minutes for the April 30, 2014 meeting of the Clear Fund (aka GiveWell) Board of \nDirectors  \n00:00:00 Meeting called to order .  \n00:01:51 Board begins discussion of  GiveWell's provisional budget.  \n00:18:36 Board begins discussion of GiveWell's fundraising.  \n00:45:00 Board provisionally votes to approve the budget, to be formally approved in June.  \n00:46:25 Board discusses general questions about GiveWell's progress.  "
+    },
+    {
+      "filename": "Budget_for_board.xlsx",
+      "type": "document",
+      "label": "Document",
+      "title": "Document",
+      "text": "[Excel file - text extraction not supported]"
+    },
+    {
+      "filename": "General_update.pdf",
+      "type": "document",
+      "label": "Document",
+      "title": "Document",
+      "text": "GiveWell Board Meeting, April 30, 2014 \n \nThis page includes: \n \n●Budget/fundraising update \n●Recruiting update \n●Update on outreach activities \n●Money moved metrics to date in 2014 \n \nBudget/fundraising update \n \nOverall budget situation (in millions) \n \nCurrent reserves   $2.00 \n12m forward expenses  $1.52 \n12m forward revenues  $1.95 \n \nNote that we project 12m forward expenses exceeding 12m revenues in December 2014. We \nproject holding less than 1 year of reserves as of July 2014, so we continue to see fundraising as \nan important priority. \n \nRevenue sources reasonably likely to recur, by donor size \n \nCategory  Number  Amount \n100k+ donors  6  $1,040,000 \n50­99k donors  3  $150,000 \n20­49k donors  3  $71,000 \n10­19k donors  20  $396,700 \n5­9k donors  17  $98,000 \n<5k donors  310  $188,604 \n \nDiversity of funding sources \n \n% of 12m forward revenues coming from:  \n \n\n Good Ventures  12% \n 5 largest donors  48% \n 10 largest donors  67% \n 20 largest donors  76% \n \nRecruiting \n \nWe continue to work to expand our staff. Staff expansion over the past year (in 2013 we went \nfrom 5 to 11 full­time staff members) has allowed us to (a) increase the number of organizations \nwe can consider for our traditional top charities research and (b) increase the pace of our work \nin GiveWell Labs.  \n \nIn 2014: \n●We're hoping to expand our entry­level Research Analysts from ~4 to at least 6 and \npossibly more. \n●We're planning a summer intern class of 4­6 hoping that some become full­time hires \npost graduation. \n●We have also hired 5 conversation notes writers (who work remotely and whose sole \nresponsibility is preparing conversation notes for publication). \n●We made our first senior, cause­specific hire for Labs, hiring Shayna Strom as a US \nPolicy Director. \n●We've continued to increase the number of consultants working with us and are now \nworking with approximately 10. \n \nOutreach update \n \nOur primary focus is research, not outreach but we are doing the following things for outreach: \n \n1.Donors.  \na.Events: We hold semi­annual research events for donors in NYC, and SF. We \nheld our first event in Boston this year.  \nb.One­on­one calls: we aim to talk to all donors who have given at least $10k to \nbuild the relationship. \n2.Proactive outreach in Bay Area. We've had 3 meetings this year with potentially major \ndonors in the Bay Area. In one case, the individual is now supporting GiveWell and \nintends to support our future recommendations. In another case, we seem reasonably \nwell aligned with the individual but he has not starting to give substantially yet. The final \ncase is less clear. \n \nMetrics update \n\n \nThe charts below show progress on key metrics thus far in 2014: \n \n1. Total number of donors (in thousands) who have supported our top charities as of April 28 for \n2012, 2013, and 2014 \n \n \n \n2. Amounts given by donors to top charities as of April 28th for 2011­2014, by donation size \n \n \n \n3. Web traffic by major medium \n \nExcluding AdWords, we've had 15% growth in web traffic to this date in 2014 vs. 2013 (205,821 \nvisits vs. 177,731). \n \n\n \nOrganic = Unpaid Google search \nCPC = Paid Google search \n(None) = Direct traffic \nReferral = Via external web link \n"
+    }
+  ]
+}

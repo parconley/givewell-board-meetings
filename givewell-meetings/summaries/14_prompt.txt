@@ -1,0 +1,373 @@
+Based on the following board meeting documents for a Clear Fund Board Meeting held on August 17, 2011, generate a comprehensive ~1000-word summary that acts as a professional brief.
+
+The summary should cover:
+- Key decisions made and votes taken
+- Important discussions and debates
+- Financial/budget information with specific numbers
+- Strategic direction or policy changes
+- Personnel or organizational changes
+- Any significant outcomes or action items
+
+Keep the tone professional and factual. Focus on substance over process. Be specific with numbers, names, and decisions.
+
+Meeting Documents:
+=== Minutes ===
+Clear Fund Board of Directors Meeting Minutes for 8/17/2011 Meeting documentation at http://www.givewell.org/about/official-records/board-meeting-16 	  Board	  reviews	  financial	  update.	  	  Staff	  update	  board	  on	  research	  progress	  and	  plans.	  
+
+=== Financial Situation ===
+
+               GiveWell's financial situation as of 6/30/2011
+
+                                 Key points
+
+    • Since our last budget update, we have slightly lowered  our  projected
+      2011 expenses and greatly increased our projected  2011  revenues.  We
+      now project a substantial surplus for 2011.
+    • Our financial position has improved considerably,  and  we  have  been
+      happy with the productivity of our temporarily larger (7-person) team.
+      We will be seeking to expand the team further, hoping for at least one
+      new hire - and possibly two - in 2012.
+    • Our reserves policy is not triggered. (See the bottom two rows of  the
+      2011 cash flow projection, for October and November.) However,  it  is
+      close to being  triggered,  and  a  less  conservative  (i.e.,  lower)
+      projection for our forward expenses would trigger  it.  Note  that  we
+      have conservatively budgeted for two new hires starting  in  April  of
+      2012.
+    • We still project a substantial deficit for 2012, but this is based  on
+      a very conservative revenue  projection.  We  expect  the  deficit  to
+      narrow substantially with relatively little fundraising effort on  our
+      part, and if it doesn't we will ramp up our fundraising effort.
+
+  Year-to-date budget vs. actual, with notes on changes to projected budget
+
+                                    [pic]
+
+
+
+
+                          Projected cash flow: 2011
+
+
+
+
+
+                                    [pic]
+
+                          Projected cash flow: 2012
+
+
+
+
+[pic]
+
+
+=== Progress Report ===
+
+                   GiveWell Progress Report, Mid-Year 2011
+
+Our priorities for the year, as articulated in our annual report,[1] are:
+
+1. Research expansion: finding more top charities (enough to productively
+absorb $3 million).
+    • We have struggled on this front despite devoting the vast bulk of our
+      resources and attention to it. We discuss our situation in Attachment
+      C.
+    • This will continue to be our overwhelmingly top priority through
+      Thanksgiving of this year.
+    • We have begun work on a new research initiative, but are early in the
+      process and do not expect this initiative to generate concrete
+      recommendations in 2011.
+
+2. Fundraising: raising 2011 revenues to around $400,000.00.
+    • We now project 2011 revenues of around $540,000.00 though not all of
+      this funding is expected to repeat in 2012.
+    • Our reserves policy is not currently triggered, as discussed in
+      Attachment A.
+    • We have de-prioritized fundraising for the time being.
+
+3. Research maintenance and systemization: integrating new hires into our
+process and updating our recommendations.
+    • We consider ourselves on track for this goal.
+    • We currently have a 7-person team and are happy with the productivity
+      and management overhead; two of our employees are temporary (leaving
+      at the end of August) and we hope to expand our team more permanently
+      in the coming year.
+    • We don't yet have a plan for recruiting.
+
+4. Research vetting: securing more testimonials and external reviews.
+    • We feel that our testimonials page[2] has improved satisfactorily.
+    • Progress has been relatively slow on securing external reviews. We
+      plan to raise the priority of this front after Thanksgiving.
+
+5. Marketing: pursuing low-hanging fruit to increase our influence.
+    • We have made substantial progress on many of the "low-hanging fruit"
+      avenues we listed:
+         o Improving search engine optimization and search engine
+           marketing: we have enrolled in the Google Grants program,
+           substantially increased our advertising, and seen improved
+           search engine traffic due largely to optimized blog posts. We
+           are in the process of hiring a contractor to help us further in
+           this category.
+         o Earned media: our work on disaster relief, which we published in
+           January, positioned us to make public recommendations for this
+           year's crises in Japan and East Africa. In the former case, our
+           recommendations received substantial press[3] and in both cases
+           we have seen increased web traffic during these periods.
+         o Website improvements, including better integration of social
+           media (Facebook, Twitter, Google+), a "donation reminder" box
+           (though we've seen very little use of this), and an ongoing
+           server and CMS upgrade.
+         o We have been experimenting with different types of community
+           events. We held a fundraising/awareness event targeting our
+           former employer on April 28 in Westport, and are holding a
+           research-focused community event on August 18 in NYC.
+    • Statistics on our impact, updated quarterly, are now available at
+      http://www.givewell.org/about/impact .
+         o Traffic was up 87% from last year's Q1 to this year's, and 209%
+           from last year's Q2 to this year's. These improvements include
+           periods of major coverage of the Japan crisis, and we expect
+           less traffic in the remainder of 2011.
+         o The number of donations through the website is up about 160%
+           from the first half of last year to the first half of this year.
+           Money moved through the website is up about 300% from the first
+           half of last year to the first half of this year. Disaster-
+           related donations play very little role in this improvement.
+         o We don't have a good handle on why the improvement in money
+           moved is so much greater than the improvement in website
+           traffic, but this has been consistently the case going back to
+           early 2010.
+                                    [pic]
+
+                                    [pic]
+
+Note that the above chart excludes December. In all previous years, online
+money moved in December has exceeded online money moved in all other months
+combined.
+
+6. High-level of research of promising new causes. We have not yet
+progressed significantly on this front, but expect to do so as part of our
+new research initiative.
+
+New priority: recruiting. As discussed in Attachment A, we are hoping for 1-
+2 new hires in 2012, and will be placing a moderate emphasis on this goal
+in the short term and a stronger emphasis on it after Thanksgiving.
+-----------------------
+[1] http://blog.givewell.org/2011/02/14/givewells-plan-for-2011-top-level-
+priorities/
+[2] http://www.givewell.org/what-others-are-saying
+[3] http://www.givewell.org/press#Othernotablecoverage
+
+
+
+=== Research Update ===
+
+                   GiveWell Research Update - August 2011
+
+                                   Summary
+
+    • GiveWell's top priority for 2011 is finding additional outstanding
+      giving opportunities for donors.
+    • We intend to publish our updated recommendations and rankings by
+      Thanksgiving 2011.
+    • During 2011, we've considered over 450 additional organizations and
+      contacted more than 40 for an in-depth review.
+    • We have not found organizations that we are extremely confident in. At
+      this point:
+         o We have 10 organizations we consider "contenders" for our top
+           ranking.
+         o We think that the Against Malaria Foundation is the most likely
+           organization to receive our top ranking at the end of the year.
+         o We do not believe we will identify new organizations to contact
+           before the end of the year; the 40 organizations we are
+           currently reviewing in depth likely comprise the full set of
+           organizations that could potentially receive our top ranking
+           this year.
+
+
+            Background: focusing on potential top-rated charities
+
+
+    • We have shifted our long-term goal from (a) creating a menu of top
+      charities by cause to (b) identifying the best organizations we can,
+      regardless of cause and reducing our focus on cause-specific analysis
+      when it is not geared towards finding a charity we could rank #1.[1]
+    • At the end of 2010, VillageReach was our #1-ranked organization and it
+      had limited room for more funding. We believe that funding is not
+      currently a bottleneck to further expansion of VillageReach’s program,
+      and it needs approximately $1 million more over the next 3 years to
+      fully fund its project. GiveWell directed more than $1 million to
+      VillageReach in 2010, and based on VillageReach’s room for more
+      funding, we would not want to move that amount to them again this
+      year.
+    • Our focus this year is on finding more charities that we can recommend
+      as strongly as we have VillageReach. For a variety of reasons, we
+      believe that VillageReach may have been a unique opportunity for
+      donors. It had a combination of:
+         o a program with strong evidence of effectiveness focused on
+           immunizations, a highly cost-effective, proven intervention
+         o which VillageReach needed funding to scale up further
+         o but it was struggling to find funding from traditional,
+           institutional donors
+         o even though, were it to work, it could had high upside by
+           potentially altering the way health supplies are distributed
+           across the developing world
+    • So, while our goal is to find a charity as strong as VillageReach, we
+      believe that those opportunities may not arise for individual donors
+      every year.
+
+
+                                 Our process
+
+
+    • Our process has become considerably less "rigid" this year. We are
+      focused on finding a potential #1 charity, i.e., a charity that we are
+      excited to promote. We have expanded the set of things we consider
+      "signs of a charity worth investigating" and we have become more open-
+      ended in our initial conversations with charities. However, we still
+      work toward answering the same set of questions: what do they do,
+      what's the evidence that it works, how cost-effective is it, and
+      what's the room for more funding.
+    • In general, we try to cast the net as wide as we can and "scan" (i.e.,
+      briefly consider) as many organizations as we can. This year, in
+      addition to reconsidering the close-to-400 international charities
+      already listed on our site, we considered an additional approximately
+      450 charities we found by:
+         o Referrals: organizations submitted to us via the form on our
+           website or emails. These come from the charities themselves or
+           donors interested in the charity.
+         o Organiations supported by foundations such as the Gates
+           Foundation or Skoll Foundation which have a focus on
+           international aid
+         o Organizations recommended by academics such as the ones listed
+           on the site for Esther Duflo and Abhijit Banerjee’s book Poor
+           Economics
+    • We narrow the list down using heuristics. In the past we looked for
+      organizations that either (a) focused on our “priority programs”
+      (i.e., programs with strong evidence of effectiveness) or (b)
+      published significant monitoring and evaluation information on their
+      websites. This year, we’ve also flagged organizations for the
+      following: (Note that these are flags we use and we have not
+      necessarily identified an organization in each category.)
+         o Having high potential upside. This includes (a) the possibility
+           of extremely high cost-effectiveness; (b) organizations that aim
+           to use donations today to become self-sustaining such that they
+           do not need donations in the future; (c) organizations running
+           and evaluating their programs such that if they fail, it will
+           create knowledge about whether the type of program they’re
+           trying works or not; and (d) organizations aiming to invent new
+           technologies
+         o Learning organizations. Organizations that can demonstrate that
+           they are monitoring their activities and learning from what goes
+           well such that they continually improve
+         o Low insulation. Organizations that work closely with a
+           particular group of people, and appear to be willing and able to
+           understand and respond to these people's needs and feedback
+           (rather than implementing pre-determined programming).
+         o Local healthcare. Organizations set up to provide basic
+           healthcare where it is lacking.
+         o Orphans and vulnerable children. Organizations focused on
+           providing basic services to children with limited resources /
+           adult support.
+         o Providing basic needs such as water, sanitation, electricity, or
+           shelter.
+    • Once we’ve flagged organizations, we decide which organizations to
+      contact. We do this by ordering the organization by priority (i.e.,
+      the likelihood we assign to an organization ultimately being our #1-
+      ranked organization).
+    • As part of this exercise, staff periodically rank their top 30
+      charities. In this exercise, we try to not focus just on GiveWell’s
+      predetermined criteria and charities but imagine which 30 charities we
+      would give to if we had to. This exercise has helped us identify some
+      organizations we weren’t previously prioritizing.
+    • As our staff has increased, we’ve been able to contact more
+      organizations. We learn a great deal from a single 1-2 hour
+      conversation with a charity representative, ideally the CEO.
+    • Earlier in the year, we invested a lot of time in each charity we
+      contacted, trying to get to a full, in-depth review and investigation
+      before moving on. We decided that this approach was causing us to sink
+      too much time into each organization and that our time would be better
+      spent having initial conversations (from which we learn a lot) with
+      more organizations. Now, we stop investigating organizations once we
+      believe their chances of becoming our #1 organization are sufficiently
+      low, and move onto others that we know less about.
+
+
+                               Where we stand
+
+
+   The charities we've  examined  have  mostly  fallen  into  the  following
+   categories:
+      •  Charities  aiming  to  create  businesses  or  systems  that  will
+        eventually become self-sustaining. In most cases we've had concerns
+        about these groups' models and have not seen evidence of any  track
+        record of reaching sustainability in the past (even for subsets  of
+        their activities).
+      • Charities focused directly on raising incomes. We haven't seen  any
+        such groups with what we consider  to  be  strong  data  indicating
+        effectiveness, or groups whose models we  consider  to  be  clearly
+        more promising than cash transfers. (We have encountered  one  cash
+        transfer-focused charity but it is very  young  and  has  no  track
+        record at this time.)
+      • Charities focused on research &  development  of  new  technologies
+        (health or otherwise). We haven't been able to get a clear sense of
+        room for more funding for any of these groups,  but  feel  that  we
+        still may in the future.
+      •  Charities  focused  on  delivering  basic  healthcare  or   health
+        technologies  (insecticide-treated  net  distribution,   deworming,
+        etc.) We find these groups to be  most  promising  because  of  the
+        relatively strong track record  and  cost-effectiveness  of  health
+        aid. However, we haven't found any groups that we consider to  meet
+        the gold standard in answering our key questions.
+
+We haven't found any charities that have a truly compelling data-based  case
+for impact. We've largely evaluated charities by a combination  of  (a)  how
+promising their program area is; (b) their room for more funding, i.e.,  the
+extent to which donations seem likely to fund promising activities; (c)  the
+extent to which their representatives seem to be asking  critical  questions
+and working toward having better evidence regarding effectiveness.
+
+-----------------------
+[1] http://blog.givewell.org/2011/02/04/givewells-annual-self-evaluation-
+and-plan-a-big-picture-change-in-priorities/
+
+
+
+=== Agenda ===
+
+                        Clear Fund Board of Directors
+                        Meeting Agenda for 8/17/2011
+
+1. Introductions.  5 minutes.
+
+   2. Budget review.  Allow 30 minutes.  See Attachment A.
+
+
+ • Our financial position has improved considerably since the last update.
+   We now project a surplus in 2011 and would expand our team given the
+   right opportunity.
+ • Our reserves policy is not triggered.
+
+
+   3. Progress report. Allow 1 hour. See Attachment B.
+
+
+ • We have struggled to find top charities despite devoting the vast bulk of
+   our resources and attention to this goal. This remains our top priority.
+ • We have made substantial progress on all other fronts and have seen
+   continued substantial growth in our influence metrics.
+ • We are hoping for 1-2 new hires in 2012, and will be placing a moderate
+   emphasis on this goal in the short term and a stronger emphasis on it
+   after Thanksgiving.
+
+
+   4. Research update.  Allow 1 hour.  See Attachment C.
+
+                   Total projected meeting time: 2.5 hours
+
+Attachments:
+   A. Financial situation document
+   B. Progress report
+   C. Research update
+
+
+Generate a comprehensive summary (approximately 1000 words):

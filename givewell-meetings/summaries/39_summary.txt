@@ -1,0 +1,125 @@
+Episode 39: Board Meeting - July 29, 2019
+
+Meeting Details:
+- Date: July 29, 2019
+- Duration: 1 hour 17 minutes
+- Format: Conference call
+- Chair: Tim Ogden
+
+Summary:
+
+This summer 2019 board meeting focused heavily on financial planning, organizational development, and the annual administrative review cycle. The meeting demonstrated GiveWell's increasingly sophisticated approach to financial management, staff development, and governance oversight as the organization continued its trajectory toward becoming a major force in effective philanthropy.
+
+GiveWell's Progress and Future Direction:
+
+The meeting opened with updates on GiveWell's roadmap and strategic progress. The organization continued to refine its three major growth areas:
+
+Finding More Cost-Effective Giving Opportunities: GiveWell aimed to either direct at least $25 million per year by end of 2022 to opportunities significantly more cost-effective than current top charities, or conclude that explored areas weren't sufficiently promising. This represented GiveWell's expansion beyond traditional top charity evaluation into potentially higher-impact but less-proven interventions.
+
+Increasing Money Moved: The goal remained reaching $100 million in annual money moved (excluding Open Philanthropy) by giving season 2022. Progress toward this ambitious target required continued investment in both marketing/acquisition and major gifts/retention.
+
+Influencing Institutional Funders: Still in early exploration, this work aimed to influence donor governments, large foundations, and multilateral institutions. The targets being considered included directing at least $100 million to GiveWell's priority programs or improving cost-effectiveness of $500 million in institutional funding by at least 2x within five years.
+
+Recent accomplishments highlighted included hiring senior researchers, expanding the outreach team under Jim Bobowski (VP of Marketing) and Stephanie Stojanovic (Major Gifts Officer), and retaining David Mozaffarian as a consulting CFO to strengthen financial operations.
+
+Organizational Feedback Systems:
+
+Whitney Shinkle presented a comprehensive draft organizational feedback plan, representing a major step forward in GiveWell's approach to staff engagement and satisfaction measurement. The proposed "LifeCycle Feedback Program" aimed to ensure staff had opportunities to be heard throughout their entire tenure from onboarding through separation.
+
+The program featured multiple components with varied formats:
+
+Annual Components:
+- Comprehensive Annual Flex Survey administered by a professional survey company, allowing trend tracking and benchmarking
+- Executive Director Office Hours providing open access for staff to meet with leadership
+
+Quarterly Components:
+- All-hands meetings using interactive formats like polls and upvoting to solicit real-time feedback
+- Quarterly reminders reinforcing reporting channels for concerns or incidents
+
+Routine Ongoing Components:
+- After-action surveys and polls for events and meetings
+- Round tables on specific topics allowing input during development stages
+
+Employee Lifecycle Components:
+- Six-week HR check-in conducted by an experienced staff member (not senior management)
+- First-year manager check-ins at specified intervals (1 week, 2 weeks, 1 month, 3 months, 6 months, 9 months, 12 months)
+- Bi-annual performance reviews with dedicated questions about organizational improvements
+- Manager 360-degree reviews
+- Remote worker check-ins
+- Manager handoff check-ins when employees change managers
+- Exit interviews
+
+The program balanced comprehensive feedback gathering with avoiding "feedback fatigue." It combined confidential and attributed formats, routine and opportunistic components, and comprehensive surveys with nuanced interviews.
+
+This systematic approach reflected GiveWell's commitment to creating a workplace where top talent wanted to work and could be effective—key organizational goals identified in the operations team's mandate.
+
+Financial Review and Planning:
+
+The financial discussion was notably sophisticated, demonstrating GiveWell's maturation in financial planning and governance.
+
+Budget Approval:
+The board considered:
+- A revised 2019 budget with a $320,000 increase over the previously approved amount
+- A proposed 2020 budget of $11,174,579
+
+The budget growth reflected planned expansion across research, outreach, and operations—particularly hiring to support the aggressive money moved goals and research capacity building.
+
+Application of Revenue Diversification Policy:
+GiveWell updated its policy regarding single revenue sources. Previously capping any single source at 20% of annual operating expenses, the new approach allowed a single source to provide up to 20% of two years' operating expenses—providing more flexibility while maintaining diversification principles.
+
+One individual had made a donation exceeding this threshold. The board voted to irrevocably restrict $3,853,472 of unrestricted funds as restricted to grants at GiveWell's discretion, bringing the donor's contribution into compliance with the policy.
+
+This demonstrated nuanced thinking about financial sustainability—the policy wasn't rigidly formulaic but rather guided by principles about maintaining organizational independence while not unnecessarily restricting philanthropic contributions.
+
+2018 Audit Review:
+
+Whitney led the board through GiveWell's 2018 audit package, which the Audit Committee (Tim Ogden, Holden Karnofsky, and Julia Wise) had unanimously approved for full board review.
+
+The audit revealed strong financial health with no findings or official recommendations from auditors Hood & Strong. All previous year recommendations had been implemented, including:
+- Improved financial statement disclosure and presentation processes
+- Adoption of new not-for-profit reporting requirements (ASU 2016-14)
+- Implementation of undeposited funds reconciliation procedures
+- Enhanced functional expense presentation
+
+An important discussion centered on how to present GiveWell's outreach expenses. Most outreach activities represented education about GiveWell's research findings and grant-related outreach for other charities rather than traditional fundraising for GiveWell's operations. Accordingly, most outreach expenses were allocated to the "Program" category rather than "Fundraising."
+
+While appropriate conceptually, this presentation would require more detailed narrative explanation in future years as outreach expenses scaled. GiveWell and its auditors agreed to develop clearer program definitions (Research, Education/Outreach, and Grantmaking) and better allocation methodology to ensure both accuracy and transparency.
+
+The audit revealed GiveWell's strong financial position with $26.2 million in cash and cash equivalents, $13.8 million in grants payable, and $12.3 million in net assets at year-end 2018.
+
+Executive Compensation Review:
+
+Following presentation of comprehensive benchmarking data and discussion of Elie's performance, the board met in executive session (with Elie and staff excused) to deliberate on executive compensation.
+
+The board unanimously approved increasing Elie's compensation to $278,750 plus health insurance coverage of $29,130 (GiveWell provided full health insurance for staff, partners, and dependents).
+
+The benchmarking data continued to show GiveWell's executive compensation well below foundation CEO compensation but competitive with research nonprofits and academics, reflecting the organization's commitment to responsible stewardship while attracting and retaining top talent.
+
+Administrative Due Diligence:
+
+The board completed its annual review of required administrative items:
+
+- Conflict of Interest Forms: All directors and officers had submitted signed statements
+- Compensation and Benefits: Confirmed as reasonable and arm's-length
+- Partnerships and Joint Ventures: No noteworthy arrangements requiring special attention
+- Board and Officer Roster: Reviewed and confirmed current composition
+- Mission and Vision Statements: Reaffirmed commitment to core mission
+- Document Retention Policy: Reviewed and found adequate (though noted for future updating)
+- Insurance Coverage: Comprehensive review of all policies including D&O liability, employment practices, general liability, property, umbrella coverage, ERISA, employee theft/fraud, and workers compensation
+
+Delegation of Signing Authority:
+
+The board approved a resolution updating and clarifying contract signing authorization for multiple staff members:
+- Elie Hassenfeld (President): Authority to execute any contract or instrument for unbudgeted expenses up to 10% of previously approved 12-month expenses, with delegation authority
+- Natalie Crispin (VP & Treasurer): Up to $150,000 unless approved by President
+- Whitney Shinkle (Secretary & Vice Treasurer): Up to $150,000 unless approved by President
+- Aaron Kavanaugh (Office Manager): Up to $15,000 for office-specific contracts
+- Ben Bateman (Head of Growth): Up to $15,000 for outreach-specific contracts
+
+This delegation structure balanced operational efficiency with appropriate oversight, allowing staff to execute routine contracts while requiring senior approval for larger commitments.
+
+Looking Forward:
+
+The meeting concluded with unanimous approval of all resolutions including the compensation increase, budget approvals, asset restriction, signing authority delegation, audit acceptance, and prior meeting minutes.
+
+The tone reflected an organization hitting its stride—sophisticated financial planning, systematic staff feedback mechanisms, clean audits, and appropriate delegation of authority. GiveWell was successfully scaling while maintaining the governance rigor and transparency that defined its approach to effective philanthropy.

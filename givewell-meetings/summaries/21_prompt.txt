@@ -1,0 +1,320 @@
+Based on the following board meeting documents for a Clear Fund Board Meeting held on May 6, 2013, generate a comprehensive ~1000-word summary that acts as a professional brief.
+
+The summary should cover:
+- Key decisions made and votes taken
+- Important discussions and debates
+- Financial/budget information with specific numbers
+- Strategic direction or policy changes
+- Personnel or organizational changes
+- Any significant outcomes or action items
+
+Keep the tone professional and factual. Focus on substance over process. Be specific with numbers, names, and decisions.
+
+Meeting Documents:
+=== Minutes ===
+Minutes	  for	  the	  May	  6,	  2013	  meeting	  of	  the	  Clear	  Fund	  (aka	  GiveWell)	  Board	  of	  Directors	  00:00:00	  Introductions	  00:01:43	  Meeting	  called	  to	  order	  00:01:45	  Board	  discusses	  GiveWell's	  insurance	  review	  00:02:43	  Board	  begins	  discussion	  of	  GiveWell's	  budget,	  funding,	  and	  re-­‐granting	  of	  donations	  00:48:25	  Board	  begins	  discussion	  of	  GiveWell's	  relationship	  of	  Good	  Ventures	  (this	  section	  has	  been	  removed	  from	  the	  audio	  for	  reasons	  of	  confidentiality)	  00:49:15	  Meeting	  adjourned	  	  	  
+
+=== Insurance Review ===
+
+        Review of insurance coverage for The Clear Fund aka GiveWell
+                         (May 6, 2013 Board meeting)
+
+We currently have coverage for Directors  &  Officer  Liability,  Employment
+Practices, Internet Liability, Professional  Liability,  General  Liability,
+and Property through Philadelphia Insurance Companies.
+
+Our internal procedures state that we will  annually  review  the  need  for
+each of the following types of insurance.  I have included notes with each.
+
+    • Director and Officers liability.  We are covered.
+    • General liability. We are covered.
+    • Business travel (can protect against lost property, reimburse for
+      canceled flights, cover health expenses while traveling, etc.[1]).  We
+      have no general coverage. We have purchased trip-specific insurance in
+      the past.
+    • Fire/theft.  We have minimal Property insurance.  In addition, all
+      important records, as well as periodic (at least once per month)
+      backups of all of our website content, are maintained electronically
+      on our personal computers and backed up in real-time to a remote
+      server via the Carbonite service.
+    • Employee dishonesty (theft/embezzlement[2]).  We are not covered.
+    • Hired and non-owned auto.  We are not covered.
+    • Professional Liability ("protects professional practitioners such as
+      Architects, quantity surveyors, home inspectors, Lawyers, physicians,
+      and Accountants against potential negligence claims made by their
+      patients/clients.")[3]  We are covered.
+    • Employment practices.  We are covered.
+    • Business interruption.  We are not covered.
+    • Hurricane/flood.  See "Fire/theft" above.
+
+
+
+
+
+-----------------------
+[1] http://www.life123.com/career-money/career-development/business-
+travel/do-you-need-business-travel-insurance.shtml accessed 2/27/2010
+[2] http://www.naplia.com/employeedishonesty/index.shtml
+[3] http://en.wikipedia.org/wiki/Professional_liability_insurance accessed
+2/27/2010
+
+
+
+=== Other Formalities ===
+
+                Sundry items for The Clear Fund aka GiveWell
+                         (May 6, 2013 Board meeting)
+
+Review of recent grants
+
+We inadvertently neglected to get Board approval for these grants prior to
+making them.
+
+All grants below were made from restricted funds between December 2012 and
+March 2013. Funds that are restricted to "general regranting" or "top
+charities" are allocated according to the recommended allocation posted at
+http://www.givewell.org/charities/top-charities (currently 70% Against
+Malaria Foundation, 20% GiveDirectly, 10% Schistosomiasis Control
+Initiative).
+
+    • $472,808.01 to Imperial College Foundation for the support of the
+      Schistosomiasis Control Initiative
+    • $398,000.98 to GiveDirectly
+    • $443,368.23 to Against Malaria Foundation
+    • $44,123.12 to Small Enterprise Foundation
+    • $11,060.64 to Pratham
+    • $9,367.65 to VillageReach
+    • $4,161.38 to KIPP Houston
+    • $2,310.88 to Nyaya Health
+    • $1,293.03 to Innovations for Poverty Action
+    • $1,062.95 to Nurse-Family Partnership
+    • $1,000.00 to Doctors Without Borders
+
+Proposed grant recommendations
+
+We seek approval to recommend the following grants from The GiveWell Fund,
+a donor-advised fund held by Vanguard Charitable Endowment Program and
+advised by GiveWell. These grants are made based on the expressed
+preferences of donors who have contributed to this fund; grants that are
+not marked for a specific charity are distributed to our top charities
+according to the recommended allocation posted at
+http://www.givewell.org/charities/top-charities (currently 70% Against
+Malaria Foundation, 20% GiveDirectly, 10% Schistosomiasis Control
+Initiative).
+
+    • $95,750 to Against Malaria Foundation
+    • $8,550 to Imperial College Foundation for the support of the
+      Schistosomiasis Control Initiative
+    • $8,000 to GiveDirectly
+    • $930 to Nyaya
+
+Proposed amendment to bylaws
+
+Amendment 5 - Authority to sign checks and notes
+
+The Executive Director may delegate authority to sign checks and notes to
+another employee if so desired. The Executive Director remains responsible
+for ensuring that all such checks and notes follow the regulations laid out
+elsewhere in these bylaws.
+
+Official change of address
+
+Our official address is now:
+
+182 Howard Street #208
+San Francisco, CA 94105
+
+Review of compensation arrangements and benefits; partnerships, joint
+ventures, and arrangements with management organizations
+
+Our bylaws state:
+
+      To ensure the corporation operates in a manner consistent with
+      charitable purposes and does not engage in activities that could
+      jeopardize its tax-exempt status, periodic reviews shall be conducted.
+      The periodic reviews shall, at a minimum, include the following
+      subjects:
+
+
+      a. Whether compensation arrangements and benefits are reasonable,
+      based on competent survey information, and the result of arm's-length
+      bargaining.
+
+
+      b. Whether partnerships, joint ventures, and arrangements with
+      management organizations conform to the corporation's written
+      policies, are properly recorded, reflect reasonable investment or
+      payments for goods and services, further charitable purposes, and do
+      not result in inurement, impermissible private benefit, or in an
+      excess benefit transaction.
+
+We maintain that
+    • Compensation arrangements and benefits are reasonable, based on
+      competent survey information, and the result of arm's-length
+      bargaining.
+    • We have no noteworthy partnerships, joint ventures, and arrangements
+      with management organizations.
+
+Roster of Officers and Directors. A roster of GiveWell's Officers and
+Directors follows.
+
+Tom Rutledge (President) is in the Structured Credit Group at Magnetar
+Capital, an Evanston, Illinois-based alternative investment manager. During
+his career, he has also worked in capital markets businesses at JPMorgan,
+Deutsche Bank, and Merrill Lynch.  He is located in Boston.
+
+Tim Ogden (Vice-President) is the former Chief Knowledge Officer of Geneva
+Global, a philanthropic consulting firm devoted to results-oriented
+grantmaking in the poorest regions of the world. He currently is managing
+director of the Financial Access Initiative at NYU and an Executive Partner
+at Sona Partners, a thought leadership communications firm.  He is located
+in West Chester, PA.
+
+Greg Jensen (Director) is co-Chief Investment Officer at a major hedge
+fund, the former supervisor of both Holden and Elie, and one of our
+project's major financial supporters.  He is located in Ridgefield, CT.
+
+Phil Steinmeyer (Director) spent much of his career in the software
+industry (primarily games), including founding PopTop Software. He is now
+an investor.
+
+Cari Tuna (Treasurer) is the head of Good Ventures, a San Francisco-based
+charitable foundation. She is located in San Francisco, CA.
+
+Holden Karnofsky (Co-Executive Director and Board Secretary) graduated from
+Harvard in 2003 with a degree in Social Studies, and spent the next several
+years in the hedge fund industry. He co-founded GiveWell in mid-2007. He is
+located in San Francisco, CA.
+
+Elie Hassenfeld (Co-Executive Director) graduated from Columbia in 2004
+with a degree in Religion, and spent the next several years in the hedge
+fund industry. He co-founded GiveWell in mid-2007. He is located in San
+Francisco, CA.
+
+
+=== Financial Update ===
+
+                           2012 budget vs. actual
+
+|Category           |2012     |2012     |Notes                                                        |
+|                   |actual   |budget   |                                                             |
+|Payroll:           |$187,516 |$186,791 |Figures aren't exact (share of benefits/payroll taxes is     |
+|co-Executive       |         |         |estimated)                                                   |
+|Directors          |         |         |                                                             |
+|Payroll: other     |$276,399 |$346,219 |1 projected FT hire went part-time; 2 rather than 4 FT hires |
+|                   |         |         |made over the summer                                         |
+|Office space       |$12,062  |$17,767  |Partly due to fewer hires than budgeted, partly just less use|
+|                   |         |         |than budgeted                                                |
+|Site visits        |$7,990   |$20,000  |Only did 1 site visit due to status of potential top         |
+|                   |         |         |charities                                                    |
+|Other travel       |$9,500   |$10,000  |                                                             |
+|Misc admin         |$16,471  |$10,000  |About $8300 in moving expenses for move to West Coast        |
+|Bookkeeping        |$16,928  |$14,400  |Bookkeeper raised rates                                      |
+|Website            |$11,326  |$10,000  |Switched to more expensive, better developer                 |
+|Pledge-raising     |$593     |$5,000   |Most advertising now free via Google Grants                  |
+|Insurance          |$3,773   |$6,000   |Not sure why figure is lower than 2011 actual (basis for 2012|
+|                   |         |         |budget), probably has to do with timing of payments          |
+|Audit fee          |$6,500   |$6,500   |                                                             |
+|Total              |$549,058.|$632,677.|                                                             |
+|                   |00       |19       |                                                             |
+
+    • Figures are rounded to the nearest dollar.
+    • Budget excludes $153,137 in free Google Adwords and $1400 in in-kind
+      legal fees donation (booked as in-kind donations and expenses).
+    • Budget excludes grants made from restricted funds, and processing fees
+      on restricted donations. This is an operating budget.
+
+                          Projected renewed revenue
+|Type                      |Range    |Likelihood of  |#        |Total    |
+|                          |         |renewal        |         |         |
+|Institution               |100k     |Decent         |2        |$200,000.|
+|                          |         |               |         |00       |
+|Individual                |20k-99k  |Good           |6        |$245,000.|
+|                          |         |               |         |00       |
+|Individual                |10k-19k  |Good           |6        |$60,000.0|
+|                          |         |               |         |0        |
+|Individual                |5k-9k    |Good           |13       |$74,033.0|
+|                          |         |               |         |0        |
+|Individual                |2k-4900  |Good           |0        |$0.00    |
+|Individual                |20k-99k  |Decent         |0        |$0.00    |
+|Individual                |10k-19k  |Decent         |3        |$32,400.0|
+|                          |         |               |         |0        |
+|Individual                |5k-9k    |Decent         |2        |$11,000.0|
+|                          |         |               |         |0        |
+|Individual                |2k-4900  |Decent         |0        |$0.00    |
+|Individual                |<2k      |Unknown        |0        |$30,173.5|
+|                          |         |               |         |8        |
+|Total: Institutions       |         |               |2        |$200,000.|
+|                          |         |               |         |00       |
+|Total: Individuals type 1 |         |               |25       |$379,033.|
+|(“Good”)                  |         |               |         |00       |
+|Total: Individuals type 2 |         |               |5        |$43,400.0|
+|(“Decent”)                |         |               |         |0        |
+|Total (recurring)         |         |               |32       |$622,433.|
+|                          |         |               |         |00       |
+                         Projected expenses for 2013
+
+ | |1Q 2013 |2Q 2013 |3Q 2013 |4Q 2013 |Total | |Payroll: co-Executive
+              Directors | |$50,734.63  |$50,734.63  |$61,499.63  |$61,499.63
+|$224,468.52  | |Payroll: other |3.5 analysts on 1/1/12; 1 more added by
+4/1/12; 4 more (2 senior analysts) during summer; 1 slot for people doing
+             trial work |$69,647.51  |$90,462.89  |$165,534.71  |$165,534.71
+    |$491,179.83  | |Office space |Currently donated by Good Ventures |$0.00
+          |$0.00  |$0.00  |$0.00  |$0.00  | |Site visits |$20k/yr |$5,000.00
+   |$5,000.00  |$5,000.00  |$5,000.00  |$20,000.00  | |Other travel |$10k/yr
+|$2,500.00  |$2,500.00  |$2,500.00  |$2,500.00  |$10,000.00  | |Misc admin
+|$10k/yr |$2,500.00  |$2,500.00  |$2,500.00  |$2,500.00  |$10,000.00  |
+    |Bookkeeping |$2000/mo plus ~$3500 once a year for audit prep |$9,500.00
+      |$6,000.00  |$6,000.00  |$6,000.00  |$27,500.00  | |Website |$10000/yr
+|$2,500.00  |$2,500.00  |$2,500.00  |$2,500.00  |$10,000.00  | |Insurance
+           |Based on 2012 exp |$1,000.00  |$1,000.00  |$1,000.00  |$1,000.00
+ |$4,000.00  | |Audit fee |$6500 one-time |$0.00  |$0.00  |$6,500.00  |$0.00
+    |$6,500.00  | |Total expenses | |$143,382.14  |$160,697.52  |$253,034.34
+    |$246,534.34  |$803,648.35  | |Total revenues | |$46,533.00  |$50,000.00
+        |$100,000.00  |$459,900.00  |$656,433.00  | |Reserves | |$625,493.86
+|$514,796.34  |$361,761.99  |$575,127.65  |$492,949.54  | |12-month-forward
+           expenses | |$789,071.70  |$888,591.94  |$913,959.26  |$913,959.26
+|$913,959.26  | |
+                Proposal for fundraising policy going forward
+
+    • We will compile  data  on  how  much  foundations  (both  the  largest
+      foundations and the foundations closest to GiveWell in "money  moved")
+      spend on operations, as a fraction of the amount they grant out.
+    • Taking this data into account, we will set  a  target  for  GiveWell's
+      "individual-based operating expenses" that  is  based  on  the  "money
+      moved" expected from individuals. We will attempt to raise  this  full
+      amount from individual supporters.
+    • We may determine that we seek to spend - and can  justify  spending  -
+      more on operating expenses than  our  individual-based  "money  moved"
+      alone would imply, based on our relationship(s) with major donors such
+      as Good Ventures. If this is the case, we will seek to  fill  the  gap
+      between "individual-based operating expenses" and  our  total  desired
+      operating expenses from major donors such as Good Ventures.
+
+
+=== Agenda ===
+
+                        Clear Fund Board of Directors
+                       Meeting Agenda for May 6, 2013
+
+1. Introductions.  5 minutes.
+
+
+2. Insurance review and sundry items. 15 minutes.  See Attachments A and B.
+
+
+3. Budget review.  Allow 30 minutes.  See Attachment C.
+
+
+4. Check-in on GiveWell/Good Ventures relationship. 30 minutes.
+
+
+               Total projected meeting time: 1 hour 20 minutes
+
+Attachments:
+   A. Insurance review
+   B. Other items
+   C. Financial update
+
+
+Generate a comprehensive summary (approximately 1000 words):

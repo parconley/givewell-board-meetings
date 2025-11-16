@@ -1,0 +1,651 @@
+Based on the following board meeting documents for a Clear Fund Board Meeting held on April 11, 2011, generate a comprehensive ~1000-word summary that acts as a professional brief.
+
+The summary should cover:
+- Key decisions made and votes taken
+- Important discussions and debates
+- Financial/budget information with specific numbers
+- Strategic direction or policy changes
+- Personnel or organizational changes
+- Any significant outcomes or action items
+
+Keep the tone professional and factual. Focus on substance over process. Be specific with numbers, names, and decisions.
+
+Meeting Documents:
+=== Minutes ===
+Clear Fund Board of Directors Meeting Minutes for 4/11/2011 Meeting documentation at http://www.givewell.org/about/official-records/board-meeting-15 	  The	  Clear	  Fund	  Board	  voted	  to	  accept	  the	  following	  changes	  to	  the	  Board:	  	  • Resignation	  of	  Jon	  Behar	  • Re-­‐election	  of	  other	  existing	  members	  • Election	  of	  Fred	  Post	  and	  Cari	  Tuna	  	  Insurance	  coverage	  is	  reviewed.	  No	  changes	  are	  made.	  	  Budget	  is	  reviewed	  and	  accepted.	  	  Board	  reviews	  the	  organization's	  2010	  progress	  and	  plans	  for	  2011.	  	  	  Board	  approves	  staff	  salaries.	  Changes	  to	  be	  implemented	  starting	  July	  2011.	  	  • $75,000.00	  each	  for	  Elie	  Hassenfeld	  and	  Holden	  Karnofsky	  • $50,000.00	  for	  Natalie	  Stone	  • $40,000.00	  each	  for	  Alexander	  Berger	  and	  Wendy	  Knight	  	  
+
+=== Ballot ===
+
+                        Clear Fund Board of Directors
+                            Ballot for 4/11/2011
+
+
+To vote for a candidate, place an "X" in the blank next to his/her name.
+
+You may vote for any number of directors.
+
+Any director  receiving  votes  from  a  majority  of  non-abstaining  Board
+members will be seated on the Board.
+
+__ Vote for all  listed  directors  (if  you  check  this  box,  it  is  not
+necessary to check other boxes below)
+
+__ Ari Herman
+
+__ Greg Jensen
+
+__ Holden Karnofsky
+
+__ Lindy Miller
+
+__ Tim Ogden
+
+__ Fred Post
+
+__ Tom Rutledge
+
+__ Cari Tuna
+
+__ Other(s): _________________________________________________
+
+
+Your signature:
+
+
+
+Your name:
+
+
+=== Insurance Review ===
+
+        Review of insurance coverage for The Clear Fund aka GiveWell
+                          (4/11/2011 Board meeting)
+
+We currently have coverage for Directors  &  Officer  Liability,  Employment
+Practices, and Internet Liability through Philadelphia Insurance  Companies.
+
+
+Our internal procedures state that we will  annually  review  the  need  for
+each of the following types of insurance.  I have included notes with each.
+
+    • Director and Officers liability.  We are covered.
+    • General liability ("protects the assets of a business when it is sued
+      for something it did (or didn't do) to cause an injury or property
+      damage"[1]).  We do not believe we are at risk for liability for
+      physical injury/property damage.  Our only coverage in this area is
+      therefore Internet Liability insurance. However, since we recently
+      started working in a co-working space (rather than from our homes and
+      from fully public spaces), we will be doing some investigation to see
+      whether our risks in this area have increased.
+    • Business travel (can protect against lost property, reimburse for
+      canceled flights, cover health expenses while traveling, etc.[2]).  We
+      have no general coverage. We have purchased trip-specific insurance in
+      the past.
+    • Fire/theft.  We are not covered.  All important records, as well as
+      periodic (at least once per month) backups of all of our website
+      content, are maintained electronically on our personal computers and
+      backed up in real-time to a remote server via the Carbonite service.
+      Holden last tested this service in December by accidentally wrecking
+      his hard drive.  The service performed well.
+    • Employee dishonesty (theft/embezzlement[3]).  We are not covered.
+    • Hired and non-owned auto.  We are not covered.
+    • Professional Liability ("protects professional practitioners such as
+      Architects, quantity surveyors, home inspectors, Lawyers, physicians,
+      and Accountants against potential negligence claims made by their
+      patients/clients.")[4]  We are not covered.
+    • Employment practices.  We are covered (see above).
+    • Business interruption.  We are not covered.
+    • Hurricane/flood.  We are not covered.
+
+
+
+
+
+-----------------------
+[1] http://smallbusiness.dnb.com/finance/insurance-liability-insurance/389-
+1.html accessed 2/27/2010
+[2] http://www.life123.com/career-money/career-development/business-
+travel/do-you-need-business-travel-insurance.shtml accessed 2/27/2010
+[3] http://www.naplia.com/employeedishonesty/index.shtml
+[4] http://en.wikipedia.org/wiki/Professional_liability_insurance accessed
+2/27/2010
+
+
+
+=== Unaudited Financials 2010 ===
+The Clear Fund 2:55 PM
+Profit & Loss Budget vs. Actual 04/07/2011
+January through December 2010 Accrual Basis
+Jan - Dec 10 Budget $ Over Budget % of Budget Comments
+Ordinary Income/Expense
+Income
+43400 · Direct Public Support
+43450 · Unrestricted-Contributions 258,610 Does not include William & Flora Hewlett Foundation grant received in January 2011
+43452 · Temp Restricted Contributions 102,533
+Total 43400 · Direct Public Support 361,143
+45000 · Investments
+45030 · Interest-Savings, Short-term CD 2,877
+Total 45000 · Investments 2,877
+Total Income 364,020
+Expense
+2-69200 · Grants 300,266 300,266 0 100%
+9 · Salaries/Benefits/Consultants
+66000 · Payroll Expenses
+66100 · Salaries 133,333 244,207 (110,874) 55%Holden Karnofsky and Elie Hassenfeld
+66000 · Payroll Expenses - Other 42,765 Natalie Stone
+66200 · Payroll taxes 15,206
+66300 · Fringe benefits 8,783
+Total 66000 · Payroll Expenses 200,087 244,207 (44,120) 82%We had budgeted for another hire
+62150 · Outside Contract Services 36,615 28,665 7,950 128%Simon Knutsson, Stephanie Wykstra, Alanna Shaikh
+Total 9 · Salaries/Benefits/Consultants 236,702 272,872 (36,170) 87%
+6 · Domain Name Expenses 26,600 10,000 16,600 266%Purchased givewell.org and givewell.com
+4 · Misc Admin/Research
+62140 · Legal Fees 7,689 For (a) purchase of givewell.org and associated trademark; (b) H1B visa for employee
+68300 · Travel and Meetings
+68310 · Conference, Convention, Meeting 1,395 SOCAP conference attended by Tim Ogden
+68320 · Travel 1,006
+Total 68300 · Travel and Meetings 2,401
+65000 · Operations
+65060 · Dues and Subscriptions 1,359 Includes payroll processing
+65020 · Postage, Mailing Service 325
+65130 · Bank & Payment Processing Fees 150
+65030 · Printing and Copying 149
+65160 · Other Costs 100
+65040 · Supplies 2
+65010 · Books, Reference 0
+65000 · Operations - Other 0 5,000 (5,000) 0%
+Total 65000 · Operations 2,085 5,000 (2,915) 42%
+62890 · Rent, Parking, Utilities 1,738
+69100 · Research fees 1,654 Includes travel expenses for site visits in India
+65050 · Telephone, Telecommunications 1,276
+62850 · Software 1,001
+60920 · Business Registration Fees 100
+Total 4 · Misc Admin/Research 17,944 5,000 12,944 359%
+1-62110 · Accounting/Bookkeeping 13,232 11,292 1,940 117%Includes transition to new bookkeeper
+1-62200 · Audit and CPA Fees 6,500 6,500 0 100%
+8-69300 · Public website 5,399 10,000 (4,601) 54%
+4-65070 · Pledge-raising [Advertising] 4,657 2,917 1,740 160%
+5 · Developing World Trip 3,787 5,000 (1,213) 76%This is just Holden's trip to Africa - does not include staff-wide trip to India
+7 · Insurance
+65120 · Insurance - Liability, D and O 1,180 1,767 (587) 67%
+66410 · Workers' Comp Insurance 853
+Total 7 · Insurance 2,033 1,767 266 115%
+Total Expense 617,120 625,614 (8,494) 99%
+Net Ordinary Income (253,100) (625,614) 372,514 40%
+Net Income (253,100) (625,614) 372,514 40%
+ Page 1 of 1
+
+=== Financial Situation ===
+
+              GiveWell's financial situation as of January 2011
+
+                                   Summary
+
+We currently employ two Directors and four Analysts.  We  have  decided  for
+the time being to split  networking  and  donor  cultivation  among  current
+staff rather than hiring a professional fundraiser.
+
+As of 12/31/2010,
+
+    •  We  held  $492,752.58  in  unrestricted  reserves   or   un-deposited
+      contributions.
+    • Projected 2011 expenses total $377,916.85;  projected  revenues  total
+      $307,483.65.
+    • Projected 2012 expenses total $445,701.64;  projected  revenues  total
+      $357,483.65.
+    • We seek (and expect) to raise a minimum of $70,000.00 more in 2011  to
+      match expenses and revenues. If we fail to raise at  least  $40,000.00
+      of this goal (net of losses in expected revenues), we will release one
+      staff member to ensure sustainability.
+    • If revenue were to  cease  at  this  moment,  and  we  maintained  our
+      existing plans for expenses, our reserves alone would last until April
+      2012.
+    • Our reserves policy is not  triggered  (starting  in  June  2011,  our
+      reserves will be insufficient for 12 months of projected expenses; our
+      reserves policy is triggered only when we expect to have 12 months  of
+      cash on hand for each of the next 12 months).
+
+
+                                   Details
+
+2011 and 2012 budgets
+
+    • One of our top priorities this year is finding  and  developing  staff
+      who can maintain GiveWell over the long  run.  We  therefore  wish  to
+      retain as many good Analysts as we can find and manage.
+    • We currently have 2 full-time Analysts (one junior  and  one  senior),
+      one part-time Analyst who hopes to join as a senior Analyst  in  June,
+      and one junior Analyst who will be joining over the summer.
+    • Our original Analyst salary of $35,000 was set  in  2007;  a  cost-of-
+      living adjustment would set it at $37,500.[1] We also feel the quality
+      of our incoming Analysts is higher than what we were seeking  when  we
+      originally set this rate. We intend  to  set  junior  Analyst  pay  at
+      $40,000 and senior analyst pay at $50,000.
+    • We seek to set Director pay at $75,000, pending Board approval.
+    • We tentatively plan on raising pay for all employees by $5,000 in mid-
+      2012, conditional on strong performance.
+
+
+Current assets
+
+
+Bank accounts and short-term expected revenue as of 12/31/10:
+
+                                    [pic]
+
+
+Projected revenue
+
+
+Between 2/1/10 and 1/31/11,
+    • We received $207,483.65 in  unrestricted  contributions  from  sources
+      whom we expect to renew their contributions.
+    • We received $24,365.66 in unrestricted contributions from sources  who
+      may renew their contributions (these are people we don't know anything
+      about except that they gave).
+    • We received $20,000.00 in unrestricted support from a  donor  who  has
+      changed careers and will not be renewing.
+    • We received $60,000.00 in funding from the Hewlett  Foundation,  which
+      we expect to renew its support in early 2012.
+    • We expect another $90,000 from specific new donors in 2011, $80,000 in
+      2012.
+
+
+                          Projected cash flow: 2011
+
+
+[pic]
+
+
+
+                          Projected cash flow: 2012
+
+
+[pic]
+
+-----------------------
+[1] ftp://ftp.bls.gov/pub/suppl/eci.echistrynaics.txt
+
+
+
+=== Annual Report Overview ===
+
+
+                      GiveWell's Annual Report for 2010
+
+
+The bulk of our annual report for 2010 is published online as a series of
+blog posts, linked from http://www.givewell.org/about/self-
+evaluation#Mostrecentselfevaluation
+
+This document lists the required items according to our bylaws, and gives
+our links to the information that addresses these items.
+
+Organization mission statement: we find outstanding charities and publish
+the full details of our analysis to help donors decide where to give.
+
+Organization vision statement: a world in which donors reward charities for
+effectiveness in improving lives.
+
+Current Board of Directors roster:
+Tom Rutledge, President
+Lindy Miller, Vice-President
+Ari Herman, Treasurer
+Holden Karnofsky, Secretary
+Jon Behar (outgoing)
+Greg Jensen
+Tim Ogden
+
+Audited financial statements and IRS Form 990 for 2010: forthcoming.
+Expected to be available by August 15, 2011.
+
+Evaluation of programs and key accomplishments from 2010: see
+http://blog.givewell.org/2011/02/09/self-evaluation-givewell-as-a-donor-
+resource-2/ and http://blog.givewell.org/2011/02/09/self-evaluation-
+givewell-as-a-project-2/
+
+Budget for 2011: see
+http://www.givewell.org/files/ClearFund/Business%20Plans%20and%20Reviews/201
+1%2002/Financial%20Situation.doc
+
+Regarding the allocation of these expenses between program activities,
+fundraising, and administrative, we expect the splits by category to be
+comparable to those of 2009, the most recent year for which we have
+completed audited financials and the IRS Form 990:
+
+    • Personnel expenses (salaries, payroll taxes, etc.): 78% program
+      activities, 4% fundraising, 18% administrative.
+    • Pledge-raising, advertising, and public website: 90% program
+      activities, 10% fundraising, 0% administrative.
+    • Other expenses: 100% administrative.
+
+Planned activities and goals for 2011: see
+http://blog.givewell.org/2011/02/14/givewells-plan-for-2011-top-level-
+priorities/ and http://blog.givewell.org/2011/02/21/givewells-plan-for-2011-
+specifics-of-research/
+
+Planned methodology for evaluating 2011 activities: we plan to follow the
+same methodology, and ask the same key questions, as in the past - see
+http://blog.givewell.org/2011/02/08/stats-on-givewells-money-moved-and-web-
+traffic/, http://blog.givewell.org/2011/02/09/self-evaluation-givewell-as-a-
+donor-resource-2/ and http://blog.givewell.org/2011/02/09/self-evaluation-
+givewell-as-a-project-2/
+
+
+
+=== 2011 compensation review ===
+
+                   GiveWell Executive-compensation Review
+
+The below table gives current and proposed salaries for  GiveWell's  current
+and incoming full-time  employees,  along  with  salary  data  for  context.
+Information in the rightmost two  columns  is  from  the  Professionals  for
+Nonprofits NY Salary Survey 2010.[1]
+
+[pic]
+
+Additional context on executive compensation
+
+GiveWell data
+
+    • Total expenses: In 2010, GiveWell had total expenses of $315,000.
+      GiveWell also tracked over $1.5 million in donations to GiveWell-
+      recommended charities due to GiveWell’s recommendations. We believe
+      it’s appropriate to consider GiveWell’s “money moved” when comparing
+      our budget size to the size of other grantmakers and organizations
+      focused on improving the philanthropic sector.
+    • In December 2010, GiveWell.org had over 33,500 unique visitors; in
+      January 2011, GiveWell.org had over 20,000 unique visitors.
+
+Comparable organizations
+
+We have identified the three organizations below as the most comparable
+organizations to GiveWell for which data is available. None of these
+organizations is perfectly comparable to GiveWell in either size or focus.
+
+American Institute of Philanthropy. According to its website, “The American
+Institute of Philanthropy (AIP) is a nationally prominent charity watchdog
+service whose purpose is to help donors make informed giving decisions.”
+The AIP publishes “the triannual Charity Rating Guide included in the
+Charity Watchdog Report, informs donors about how over 500 national
+charities spend your money and keeps donors up to date on current issues
+related to charitable giving.”
+
+    • According to its 2009 IRS Form 990, AIP had a budget of $452,623 in
+      2009.
+    • According to Compete.com, charitywatch.org (the AIP’s website) had
+      91,000 and 45,000 unique visitors in December 2010 and January 2011,
+      respectively. This is approximately 2-3x the traffic givewell.org
+      received over the same period.
+    • According to its 2009 IRS Form 990, AIP’s Executive Director earned
+      $143,115 (+5,157 to other compensation) in 2009.
+
+Root Cause.  According to its website, “Root Cause is a research and
+consulting firm dedicated to mobilizing the nonprofit, public, and business
+sectors to work together in a new social impact market.”  Like GiveWell,
+Root Cause is a member of the Alliance for Effective Social Investing.
+
+    • According to its 2008 IRS Form 990, Root Cause had a budget of $2.9m
+      in 2009.
+    • According to Compete.com, rootcause.org had 555 and 4,000 unique
+      visitors in December 2010 and January 2011, respectively.
+    • According to its 2009 IRS Form 990, Root Cause’s Executive Director
+      earned $125,141 (+ 9,218 in other compensation) in 2009.
+
+Philanthropedia. According to its website, Philanthropedia “rate[s]
+verified, financially responsible charities according to how much great
+work they're doing.
+
+    • According to its 2009 IRS Form 990, Philanthropedia had a budget of
+      $103.829 in 2009.
+    • According to Compete.com, myphilanthropedia.org had 3,570 and 922
+      unique visitors in December 2010 and January 2011, respectively.
+    • According to its 2009 IRS Form 990, Philanthropedia's COO (its highest-
+      paid employee) earned $31,250 in 2009.
+
+
+-----------------------
+[1] http://www.nonprofitstaffing.com/getdoc/1694a3c7-201f-429d-b0a4-
+81ea3a016c61/PNP-Salary-Survey-2010---NY.aspx
+
+
+
+=== salary survey ===
+PNP New York, NY: 
+515 Madison Avenue 
+New Y ork, NY 10022 
+212.546.9091 (P) 
+212.546.9094 (F) PNP Newark, NJ: 
+One Gateway Center 
+Newark, NJ 07102 
+973.799.8555 (P) 
+973.799.8545 (F) PNP Washington, DC: 
+1629 K Street, NW 
+Washington, DC 20006 
+202.719.9600 (P) 
+202.719.9601 (F) 
+www.nonprofitstaffing.com NY SALARY SURVEY 2009 
+Annual Salary Survey of New Y ork City Nonprofits ISSUE ELEVEN 
+2010 PROJECTIONS 
+Organizations maintained salaries at 2008 
+levels during 2009, but project the 
+following regarding salaries in 2010:
+37% expect salaries to remain the same 
+17% salary increases of 1-2.5% 
+19% salary increases of 2.6-3% 
+9% salary increases of 3.1-5% 
+3% salary increases of 5.1-7% 
+7% salary increases of 7.1% plus 
+5% salary decreases 
+3% undecided 
+*     *     *     * 
+Organizations will be addressing hiring 
+needs in 2010 in the following areas: 
+61% will need fundraising staff  
+59% expect to hire program staff 
+33% seek marketing professionals 
+32% plan to add admin/office staff 
+18% want to hire finance staff 
+18% need more management talent 
+16% expect to hire IT staff 
+*     *     *     * 
+When asked about the impact of 2009 on 
+their organizations and their expectations 
+in 2010, respondents noted the following:
+93% think that the worst is over 
+76% expect a much better year in 2010        
+than in 2009 
+40% expect reduced revenues in 2010 but 
+with little negative impact 
+13% said their organizations will continue        
+to cut budgets in 2010 2009 SURVEY FINDINGS CHALLENGE AND OPPORTUNITY 
+The biggest challenges imaginable faced the nonprofit sector in 2009.  Although 
+some executives believe these challenges will continue into 2010, most feel 
+that, despite some continuing hardships, their organization’s future is brighter 
+than expected. 
+Our NY survey respondents reported a belief in the continuation of a slow and 
+gradual recovery and substantial opportunities for organizations that are able to adapt. 
+Nonprofit leaders understand that they need to be able to navigate through short 
+term challenges so that they can later take advantage of longer term opportunities. 
+It is important for an organization to position itself now for the next stage of the 
+recovering economy.  From our survey this year, it is evident that NY nonprofit 
+managers are doing exactly that.  A significant number of you have continued your 
+commitment to programs and services and are beginning to hire staff that was laid 
+off, filling vacancies, as well as adding new positions.   
+NY organizations, on the whole, maintained salaries at pre-2009 levels and, for 
+some specialties, increased compensation.  Fundraising salaries rose by about 10% and 
+high level finance salaries increased by about 7%. 
+Managers noted that it was difficult to find the talent they needed in the 
+marketplace so when they did, they paid a little more. Even when doing more with 
+less is the rule rather than the exception, hiring and maintaining outstanding talent is 
+still the most critical issue for every organization. 
+In year 2009, NY organizations also reported the following: 
+39% laid-off staff; 61% did not lay off any staff 
+50% froze salaries; 50% offered slight pay increases where appropriate 
+22% reduced benefits; 78% continued benefits as is  
+19% reduced programs; 81% continued to provide all programs & services 
+24% hired staff to fill critical vacancies 
+Temps now represent a large portion of overall employment.  It has become 
+impossible to work without a good reliable temp workforce to lean on. 3327 PNP SALARY SURVEY NY09:Layout 1  2/2/10  1:47 PM  Page 1
+
+ASSOCIATIONS, EDUCATION & ARTS ORGANIZATIONS 
+www.nonprofitstaffing.com 2009 NY NONPROFIT SALARY RANGES 
+Operating Budget: Under $2M $2.1-5M $5.1-10M $10.1-20M $20.1-50M $50M + 
+MANAGEMENT &  ADMINISTRATION 
+CEO/President NA 140-160K 160-200K 200-250K 250-280K 280-350K 
+Executive Director 80-100K 100-120K 120-160K 160-200K 200-250K 250-275K 
+Chief Operating Officer NA 90-120K 120-140K 140-160K 160-170K 170-200K 
+VP/Dir of Human Resources NA 80-90K 90-100K 100-110K 110-120K 120-140K 
+Office Manager 50-60K 50-60K 60-70K 60-70K 70-80K 70-80K 
+Executive Assistant 40-50K 50-60K 50-60K 60-70K 70-80K 70-80K 
+Administrative Assistant 35-45K 40-50K 40-50K 40-50K 50-60K 50-60K 
+FINANCE 
+CFO/VP of Finance NA 80-120K 120-140K 140-160K 160-180K 180-200K 
+Dir of Finance 60-80K 80-90K 90-100K 100-120K 120-140K 140-160K 
+Controller 60-70K 70-80K 80-90K 90-100K 100-120K 120-140K 
+Staff Accountant 50-60K 60-70K 60-70K 70-80K 70-80K 80-90K 
+Bookkeeper 40-50K 40-50K 50-60K 60-70K 60-70K 60-70K 
+FUNDRAISING 
+VP/Chief Development Officer NA 100-120K 120-140K 140-160K 160-180K 180-220K 
+Dir of Development 70-80K 80-100K 100-120K 120-140K 140-160K 160-180K 
+Dir of Major Gifts NA 80-90K 80-100K 100-120K 120-140K 140-160K 
+Dir of Fdn/Corp Giving NA 70-80K 80-90K 90-100K 100-120K 120-140K 
+Development Officer NA 60-70K 70-80K 80-90K 90-100K 100-110K 
+Dir of Special Events NA 70-80K 80-90K 90-100K 100-110K 110-120K 
+Grants Writer 40-50K 50-60K 60-70K 70-80K 80-90K 80-90K 
+Development Associate 40-50K 40-50K 50-60K 50-60K 60-70K 60-70K 
+Development Assistant 35-40K 35-45K 40-50K 40-50K 50-60K 50-60K 
+PUBLIC RELATIONS & MARKETING 
+VP of PR/Marketing NA 70-80K 80-100K 100-120K 120-140K 140-160K 
+Dir of PR/Marketing 50-60K 60-70K 70-80K 80-90K 90-100K 100-120K 
+PR/Marketing Associate 40-50K 40-50K 50-60K 60-70K 60-70K 70-80K 
+PROGRAMS & EDUCATION 
+VP of Programs/Education NA 70-80K 80-100K 100-120K 120-140K 140-160K 
+Dir of Programs/Education 50-60K 60-70K 70-80K 80-90K 90-100K 100-120K 
+Program/Education Associate 40-45K 40-50K 50-60K 60-70K 60-70K 70-80K 
+IT & DATABASE MANAGEMENT 
+VP/Dir of IT NA 70-80K 80-90K 90-100K 100-120K 120-140K 
+Network Administrator 45-60K 50-60K 60-70K 70-80K 70-80K 80-90K 
+Database Manager 40-50K 40-50K 50-60K 60-70K 60-70K 70-80K 3327 PNP SALARY SURVEY NY09:Layout 1  2/2/10  1:47 PM  Page 2
+
+www.nonprofitstaffing.com SOCIAL SERVICES, HEALTH CARE & INTERNATIONAL ORGANIZATIONS 2009 NY NONPROFIT SALARY RANGES 
+Operating Budget: Under $2M $2.1-5M $5.1-10M $10.1-20M $20.1-50M $50M + 
+MANAGEMENT &  ADMINISTRATION 
+CEO/President NA 140-160K 160-200K 200-240K 240-280K 280-350K 
+Executive Director 80-100K 100-120K 120-160K 160-180K 180-200K 220-300K 
+Chief Operating Officer NA 90-120K 120-140K 140-160K 160-180K 180-220K 
+VP/Dir of Human Resources NA 80-90K 90-100K 100-110K 110-120K 120-140K 
+Office Manager 40-50K 50-60K 50-60K 60-70K 60-70K 70-80K 
+Executive Assistant 40-50K 50-60K 50-60K 60-70K 70-80K 70-80K 
+Administrative Assistant 35-45K 40-50K 40-50K 40-50K 50-60K 50-60K 
+FINANCE 
+CFO/VP of Finance NA 90-120K 120-140K 140-160K 160-180K 180-220K 
+Dir of Finance 60-80K 80-100K 100-120K 120-140K 140-160K 140-160K 
+Controller 60-70K 70-80K 80-100K 100-110K 110-120K 120-140K 
+Staff Accountant 50-60K 60-70K 70-80K 70-80K 80-90K 80-90K 
+Bookkeeper 40-50K 40-50K 50-60K 60-70K 60-70K 60-70K 
+FUNDRAISING 
+VP/Chief Development Officer NA 100-120K 120-140K 140-160K 160-180K 180-220K 
+Dir of Development 70-80K 80-100K 100-120K 120-140K 140-160K 160-180K 
+Dir of Major Gifts NA 80-90K 80-100K 100-120K 120-140K 140-160K 
+Dir of Fdn/Corp Giving NA 60-80K 80-90K 90-100K 100-120K 120-140K 
+Development Officer     NA 70-80K 80-90K 90-100K 100-110K 100-110K 
+Dir of Special Events NA 70-80K 80-90K 90-100K 100-110K 110-120K 
+Grants Writer 40-60K 60-70K 60-70K 70-80K 80-90K 80-90K 
+Development Associate 40-50K 40-50K 50-60K 50-60K 60-70K 60-70K 
+Development Assistant 35-40K 40-50K 40-50K 40-50K 50-60K 50-60K 
+PUBLIC RELATIONS & MARKETING 
+VP of PR/Marketing NA 70-80K 80-100K 100-120K 120-140K 140-160K 
+Dir of PR/Marketing 50-60K 70-80K 70-80K 80-90K 90-100K 100-120K 
+PR/Marketing Associate 40-50K 50-60K 60-70K 60-70K 60-70K 70-80K 
+PROGRAMS & EDUCATION 
+VP of Programs/Education NA 70-80K 80-100K 100-120K 120-140K 140-160K 
+Dir of Programs/Education 50-60K 60-70K 70-80K 80-90K 90-100K 100-120K 
+Program/Education Associate 40-45K 40-50K 50-60K 60-70K 60-70K 70-80K 
+IT & DATABASE MANAGEMENT 
+VP/Dir of IT NA 70-80K 80-90K 90-100K 100-120K 120-140K 
+Network Administrator 45-60K 60-70K 60-70K 70-80K 70-80K 80-90K 
+Database Manager 40-50K 40-50K 50-60K 60-70K 60-70K 70-80K 3327 PNP SALARY SURVEY NY09:Layout 1  2/2/10  1:47 PM  Page 3
+
+PNP New York, NY: 
+515 Madison Avenue 
+New Y ork, NY 10022 
+212.546.9091 (P) 
+212.546.9094 (F) PNP Newark, NJ: 
+One Gateway Center 
+Newark, NJ 07102 
+973.799.8555 (P) 
+973.799.8545 (F) PNP Washington, DC: 
+1629 K Street, NW 
+Washington, DC 20006 
+202.719.9600 (P) 
+202.719.9601 (F) 
+www.nonprofitstaffing.com MYTHS & REALITIES 
+In 2010, managing human capital will be a top priority. As organizations position 
+themselves to compete for resources, hiring and retaining the best staff may be the 
+difference between an organization’s success or failure. 
+Myth:  No need to worry about staff retention – no one is going anywhere. 
+Reality: High performing staff, a limited resource, is always hard to find.  Competition for 
+top talent between similar organizations is fierce.  Retaining the best staff is an ongoing 
+effort that cannot be presumed.  
+Myth: Candidate rich market means that I will be able to find the talent I need. 
+Reality: As the economy continues to improve, pent up demand for top performers will 
+prevail and the best candidates will be hired quickly.  There are never enough high 
+performers in the marketplace.    
+Myth: Keeping salaries low is expected in this economy. 
+Reality: Retaining top staff requires that salaries remain competitive within the sector or 
+your best staff will leave to another organization where salaries are higher.  If you lose 
+good staff, the cost to your organization is enormous.    
+Myth: Putting off hiring key staff will save us money. 
+Reality: The truth is that putting off hiring the staff you need only postpones programs 
+and services and promotes missed opportunities to hire incredible employees.  If you wait 
+too long, someone else will hire the best staff and not you.    
+Myth: Doubling up on jobs is an efficient way to get through the year. 
+Reality: One of the most inefficient ways to run an organization is to double up on jobs 
+producing poor work, low morale, and a very tired team.  
+Myth: Staffing contracts are only for very large organizations that hire many temps. 
+Reality: Low cost contracts are available to both large and small organizations regardless 
+of the number of temps needed by an organization. 
+Myth: There is no way to reduce risk when hiring a new employee.   
+Reality:  PNP’s one year guarantee on any Direct Hire placement reduces the risk you 
+take when hiring a new employee.  
+Myth: Finding an Interim Executive is difficult, time consuming, and not essential.   
+Reality:  An organization’s ability to function well is impacted when major transitions 
+occur.  Having the right Interim Executive can make that transition smooth and 
+productive, and PNP’s roster of available executives makes it easy. 
+We thank Ventureneer/Stengel Solutions for producing our survey.  ABOUT PNP 
+An expert in the unique staffing needs of 
+nonprofits, PNP is the only recruiting firm 
+providing a full array of staffing services 
+exclusively to the sector. 
+With our vast network of experienced job 
+seekers and our rigorous screening 
+process, we deliver results by finding the 
+right hiring fit for every search.  
+PNP offers executive leaders and middle 
+managers and support staff in: 
+•  Fundraising 
+•  Marketing 
+•  Finance 
+•  Human Resources 
+•  Programs 
+•  Information T echnology 
+•  Administration and Office Support 
+TEMP SERVICES 
+•  Temps – hourly, day of, and long term 
+•  Interim Execs – leaders and managers 
+for smooth transitions 
+•  Temps to Hire – reduce hiring risks 
+•  Consultants – specialized expertise 
+DIRECT HIRE SERVICES 
+•  Direct Hires – contingency searches 
+with one year guarantees 
+•  Fast Tracks – low cost search options 
+MANAGED STAFFING 
+•  Payroll Services – add employees 
+to PNP’s payroll and reduce costs 
+•  Contract Services – customized 
+agreements for the most cost efficient 
+staffing solutions 3327 PNP SALARY SURVEY NY09:Layout 1  2/2/10  1:47 PM  Page 4
+
+Generate a comprehensive summary (approximately 1000 words):

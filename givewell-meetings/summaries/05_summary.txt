@@ -1,0 +1,87 @@
+GiveWell Board Meeting Summary - Episode 5
+Meeting Number: 7
+Date: November 10, 2008
+Duration: 31 minutes
+
+OVERVIEW
+This board meeting represented a strategic pivot for GiveWell, with staff presenting a fundamental shift from prioritizing immediate fundraising to focusing on building comprehensive research infrastructure. The meeting covered professional development plans, long-term organizational vision, a revised tactical plan, and budget updates during a critical transition period for the organization.
+
+STRATEGIC SHIFT IN ORGANIZATIONAL PRIORITIES
+The meeting centered on a major change in strategic direction from the plan approved at the previous September 8, 2008 board meeting. At that meeting, the board had agreed that GiveWell's top priority was "money moved" with research as a secondary priority. Just two months later, staff proposed reversing these priorities to make research the top priority with money moved as a lower priority.
+
+This dramatic shift was based on four months of intensive outreach and fundraising experience that yielded important lessons about GiveWell's market positioning, scalability, and path to impact. Staff had conducted 78 total "pitch meetings" attempting to secure GiveWell Pledges from various donor segments, providing extensive data about what approaches were and were not working.
+
+KEY FINDINGS FROM FUNDRAISING EFFORTS
+The fundraising campaign revealed stark differences in effectiveness across donor segments. High-net-worth individuals proved extremely unproductive: of 13 individuals with charitable budgets exceeding $100,000 per year, 12 declined to make pledges. Only one agreed to a relatively small conditional pledge of $10,000, contingent on GiveWell raising $240,000 in pledges from others. Of those who declined, seven cited their own ability to find charities through personal connections, two had doubts about GiveWell's research model, and others cited stock market losses or existing commitments.
+
+By contrast, individuals who actively found GiveWell and expressed interest produced dramatically better results: $103,000 in pledges from multiple donors, requiring only about 20 hours of staff time, yielding approximately $5,000 per hour return on investment. People who submitted GiveWell's feedback survey yielded about $500-$1,000 per hour. Referrals from friends and former coworkers yielded about $300 per hour. High-net-worth individuals yielded below $200 per hour.
+
+These results led to a fundamental reassessment of GiveWell's target market. Staff concluded that the most promising customers were not already highly involved philanthropists with extensive networks and existing charitable relationships, but rather individuals "looking for a way to make an impact with relatively small donations and relatively little involvement" - people similar to GiveWell's original funders and early supporters.
+
+REVISED UNDERSTANDING OF SCALABILITY
+Through conversations with potential "investors" - foundations and high-net-worth individuals who might fund GiveWell's operating expenses - staff learned that the ability to raise $500,000 from personal networks would not be seen as meaningful evidence of scalability or demand. Instead, these sophisticated funders wanted to see systematic, repeatable methods for both conducting research and reaching target audiences.
+
+Multiple potential investors specifically questioned whether GiveWell's research model relied too heavily on the founders' personal judgment and whether the organization had a scalable approach. Staff came to agree with these concerns, concluding that demonstrating true viability required showing a path to broad research coverage and systematic audience reach, not just short-term fundraising success through personal networks.
+
+PROFESSIONAL DEVELOPMENT PLAN
+Staff presented a comprehensive professional development strategy focused on establishing mentor relationships with successful entrepreneurs and business leaders. After investigating numerous options including leads provided by board members, staff identified three priority approaches:
+
+1. Establishing mentor relationships with GiveWell supporters who have relevant startup and business experience. Mentors would receive biweekly staff reports and discuss tactical and strategic decisions via phone, email, or in-person meetings. Staff currently had two mentors and aimed to have four by June 1, 2009.
+
+2. Joining a new social entrepreneurship group at the Harvard Club, which staff felt was the only open-invitation program they were eligible for that might provide value.
+
+3. Possibly applying for competitive fellowships including Ashoka, Echoing Green (with a December 1 deadline), Draper Richards Foundation (offering $100,000 annually for three years), and StartingBloc.
+
+Staff had investigated and rejected numerous other options including Backpocket COO (too expensive at $3,500 per month), executive education programs at Harvard and Columbia business schools (too time-intensive), and various networking organizations that proved inactive, unresponsive, or focused on different areas.
+
+LONG-TERM VISION DOCUMENT
+Staff presented an ambitious "steady-state" vision for GiveWell as a mature organization. This vision outlined specific targets across five key variables:
+
+Research Coverage: GiveWell would publish annual reports on seven broad causes - developing-world aid, disease research, global warming prevention/mitigation, equality of opportunity in the U.S., mitigation of suffering in the U.S., tolerance in the U.S., and animal welfare. Within developing-world aid alone, this included eight subcauses from direct health interventions to disaster relief. The organization would recommend multiple charities per cause, provide in-depth reviews of recommended organizations, and publish basic ratings for much larger numbers of charities.
+
+Capacity and Operating Funding: The mature organization would employ 20 staff members including two co-founders at $250,000 each, one marketing director at $150,000, one website specialist at $75,000, ten research associates at $50,000 each, and five administrative/support associates at $35,000 each. Total annual operating expenses would be approximately $1.7 million, including rent, advertising/PR expenses of $50,000, and other costs.
+
+Money Moved: GiveWell would affect at least $15 million annually (nine times operating costs) through multiple channels including direct website donations, partnerships with other charity information websites (GuideStar, Charity Navigator, Network for Good), corporate giving programs, donor-advised funds (Vanguard, Fidelity, Schwab), wealth advisors, and GiveWell Pledges from highly committed donors.
+
+High-Credibility Supporters: The organization would maintain a 10-person board of directors composed primarily of successful, well-connected major donors from the for-profit world, plus separate advisory boards of 3-10 experts for each broad cause area.
+
+Brand Value and Name Recognition: GiveWell would occupy a position in annual giving coverage similar to Charity Navigator, with multiple mainstream media pieces during each giving season and frequent references in online discussions of relevant issues.
+
+Staff estimated that reaching the research depth and breadth outlined in this vision would take approximately 3-6 years and require $1.5-2.5 million in total operating expenses over that period.
+
+TACTICAL PLAN FOR NOVEMBER 2008 THROUGH JUNE 2009
+Staff proposed four priorities with specific time allocations and deliverables:
+
+Priority 1 (5 hours per week): Hire one research analyst by January 1, 2009, at a salary of $35,000 plus health benefits (total cost approximately $41,500 annually). The analyst would examine websites and annual reports of over 800 international aid charities, summarize academic literature on 15 categories of developing-world interventions, and conduct other systematic research tasks. A thorough performance review would be completed by March 30, 2009.
+
+Priority 2 (40 hours per week): Complete an in-depth research report on developing-world aid by June 1, 2009, including activities listings and ratings for approximately 800 US-registered international aid charities with annual budgets exceeding $1 million, at least 10 recommended charities total with at least one in each major subcategory, literature reviews on general questions about international aid, and detailed notes on two focus regions.
+
+Priority 3 (10 hours per week): Continue pursuing customers to measure demand and obtain feedback, experimenting with various strategies including targeting companies in finance/consulting/software sectors, contacting family foundations, online advertising, and partnerships with donor-advised funds and wealth advisors. Rather than committing to specific deliverables, staff would track multiple metrics including money moved, website traffic, blog subscribers, media mentions, and partnerships.
+
+Priority 4 (15 hours per week): Pursue important relationships including mentors, board members, advisory board members, partners, and donors. Specific deliverables included reaching three experienced entrepreneur mentors (from the current one) and five highly credible advisory board members (from the current two).
+
+BUDGET UPDATE
+The revised budget for May through December 2008 showed total projected expenses of approximately $120,000-130,000, primarily for the co-founders' salaries (still at the reduced $60,000 annualized rate following the earlier penalties) plus health insurance, rent, and minimal other expenses.
+
+The projected budget for January through May 2009 included the restoration of the co-founders' salaries to $65,000 annually, plus the addition of the new research analyst at $35,000 annually. The budget noted that GiveWell Pledges currently totaled $98,350, though these did not affect the operating budget since they represented commitments to donate to recommended charities rather than to GiveWell itself.
+
+Importantly, the budget projection did not include revenue from a "likely, but still pending" foundation grant of $100,000, suggesting that GiveWell was in advanced discussions with a major funder but had not yet secured the commitment.
+
+The financial summary showed that GiveWell had sufficient resources to implement the proposed tactical plan, including hiring the research analyst and continuing operations through mid-2009, though the organization remained dependent on continuing to secure operating funding from foundations and individual supporters.
+
+RATIONALE FOR STRATEGIC SHIFT
+The transition document provided extensive justification for the strategic pivot. Staff argued that their previous belief in raising money through personal networks as a way to "prove" demand was flawed. The intensive outreach effort - 78 pitch meetings consuming substantial time - had demonstrated that this approach was neither scalable nor convincing to sophisticated investors.
+
+More fundamentally, staff had developed confidence that comprehensive research could be built more cost-effectively than previously believed. The shift from a "bottom-up" approach (getting information from charity grant applications) to a "top-down" approach (identifying promising programs through literature review, then verifying charity adherence) meant that much research would not need to be repeated annually. This made broad coverage feasible without extreme staff growth.
+
+Staff estimated that one "broad cause" should require approximately four "man-years" of the co-founders' time. In year one, covering three areas under U.S. equality of opportunity plus preliminary developing-world analysis had roughly validated this estimate. Assuming the co-founders could each spend 50% of their time on research and that research associates would be at least 50% as productive, GiveWell could cover 0.5 + N/8 broad causes per year, where N equals the number of research staff hired.
+
+ORGANIZATIONAL CONTEXT
+This meeting occurred during the global financial crisis, with multiple potential donors citing recent stock market losses as affecting their giving capacity. Despite this challenging environment, GiveWell was pivoting toward a longer-term, more capital-intensive strategy focused on building research infrastructure before pursuing scale.
+
+The meeting demonstrated remarkable organizational learning and self-awareness. In just two months, staff had conducted extensive experimentation, collected meaningful data, synthesized findings, and proposed a fundamentally different strategic direction. The willingness to acknowledge that the previous plan was not working and to propose a major course correction reflected intellectual honesty and strategic flexibility.
+
+IMPLICATIONS
+This strategic shift would shape GiveWell's development for years to come. The focus on building comprehensive research before pursuing marketing at scale, the "top-down" research methodology, the emphasis on systematic approaches rather than founder-dependent processes, and the long-term vision of research breadth across multiple cause areas all became defining features of GiveWell's approach.
+
+The meeting represented GiveWell's transition from an organization trying to prove immediate market demand to one committed to building the infrastructure necessary for long-term impact, even if that required more patient capital and delayed evidence of scalability. This patient, research-first approach would become central to GiveWell's identity and ultimate success.

@@ -1,0 +1,526 @@
+Based on the following board meeting documents for a Clear Fund Board Meeting held on March 31, 2009, generate a comprehensive ~1000-word summary that acts as a professional brief.
+
+The summary should cover:
+- Key decisions made and votes taken
+- Important discussions and debates
+- Financial/budget information with specific numbers
+- Strategic direction or policy changes
+- Personnel or organizational changes
+- Any significant outcomes or action items
+
+Keep the tone professional and factual. Focus on substance over process. Be specific with numbers, names, and decisions.
+
+Meeting Documents:
+=== Minutes ===
+Minutes for 3/31/09 meeting of the Clear Fund (aka GiveWell) Board of Directors 	  7:00p	  Meeting	  called	  to	  order.	  	  	  7:10p	  By	  unanimous	  vote,	  Board	  votes	  to	  approve	  budget.	  	  7:14p	  By	  unanimous	  vote,	  Board	  votes	  to	  authorize	  Holden	  Karnofsky	  to	  open	  3	  additional	  bank	  accounts	  for	  The	  Clear	  Fund.	  	  7:15p	  Board	  begins	  discussion	  of	  updated	  research	  agenda	  	  8:13p	  Meeting	  adjourned	  	  	  	  
+
+=== Overview of Financial Situation ===
+
+Proposed Budget and Overview of Financial Situation as of 3/27/2008
+
+Proposed budget
+
+                                    [pic]
+
+Major changes:
+    • Outsourcing bookkeeping services.
+    • We have received substantial donations earmarked for regranting.
+    •  We  spent  less  on  salaries  over  the  last  several  months  than
+      anticipated (we didn't make a full-time  hire),  but  are  asking  for
+      leeway to spend more over the next few months if we find strong enough
+      hires.
+
+Overview of Financial Situation
+
+Below is an illustration of how far our existing assets can carry  us  under
+different assumptions about expenses.
+
+    • “Part-timer” refers to a hire making $17.5k/yr (plus payroll taxes and
+      health benefits).  We currently have one on payroll.
+    • “Analyst” refers to a hire making  $35k/yr  (plus  payroll  taxes  and
+      health benefits).
+    • “Partner” refers to a hire  making  $65/yr  (plus  payroll  taxes  and
+      health benefits) – could be a website specialist (this  is  the  rough
+      range   we’ve   seen    for    such    positions)    or    a    strong
+      researcher/generalist.
+    • “Office” refers to an office with space for about 5 people.
+
+                                    [pic]
+
+Details of projections
+
+Cash reserves
+
+                                    [pic]
+
+Possible future  expenses  (these  are  consistent  with  proposed  expenses
+above)
+                                    [pic]
+
+
+
+=== Proposal to Open New Bank Accounts ===
+
+                   Proposal to open two new bank accounts
+
+Proposal
+
+    • Invest $245,000 in a 2.3% money market account at Corus Bank.
+    • Invest $245,000 in a 2.25% money market account at CalFirst Bank.
+    • Keep the remaining ~$210,000 at  our  current  bank,  TD  Bank,  split
+      between our no-interest checking account and our money-market account,
+      which pays 1.5%.  We would keep approximately $50,000 in  checking  so
+      that we can promptly pay salary and anything else that comes up.
+
+We seek approval of corporate resolutions for Corus, CalFirst, and  EverBank
+(EverBank is a backup in case there are any unanticipated  issues  with  one
+of the first two).  We are using the template provided for  Corus  Bank  for
+all three; the only difference between the 3 resolutions in Attachment D  is
+the name of the bank.
+
+FDIC pages for these three banks:
+    •                                Corus                                 -
+      http://www2.fdic.gov/idasp/confirmation_outside.asp?inCert1=13693
+    •                               CalFirst                               -
+      http://www2.fdic.gov/idasp/confirmation_outside.asp?inCert1=35331
+    •                               EverBank                               -
+      http://www2.fdic.gov/idasp/confirmation_outside.asp?inCert1=34775
+
+Rationale
+
+As of 3/27/09, The Clear Fund holds a total of $697,728.73 in cash.
+
+(This does not include an additional $35,000 held in our Donor Advised  Fund
+through the Vanguard Charitable Endowment Program.)
+
+Opening new bank accounts will bring two benefits:
+
+    • More security through FDIC  insurance.   FDIC  insurance  covers  only
+      $250,000 of the cash we hold at a given financial institution.[1]   By
+      opening two new accounts of  slightly  under  $250,000  each,  we  can
+      ensure that all of our assets are FDIC insured.
+    • More favorable interest rates.  As discussed below, other banks  offer
+      around 0.9% higher interest rates than our current bank.   By  opening
+      two new accounts of slightly under  $250,000  each,  we  can  earn  an
+      additional ~$4500/yr in interest.
+
+How the bank accounts were selected
+
+Time frame considerations
+
+$344,379.00 is earmarked to be regranted to top  charities.   (In  addition,
+all of the $35,000.00 we hold in our Donor Advised Fund will be  regranted.)
+ We are aiming to complete our research report by  July  1  and  make  these
+grants shortly afterward.
+
+Our total monthly expenses are approximately $20,000-$30,000  per  month  as
+outlined in our “budget projections” spreadsheet.
+
+Therefore, we see our liquidity requirements as follows:
+
+                                    [pic]
+
+Best interest rates (APY) for different time periods as of 3/27/09
+
+See bottom of this document for how these rates were found.
+
+Liquid (money market or savings): 2.3% (Corus Bank); 2.1% (CalFirst);  2.03%
+(Everbank)
+
+3mo: highest Certificate of Deposit rate is  substantially  lower  than  the
+liquid rates cited above.
+
+6mo: 2.32% (Corus Bank)
+
+12mo: 2.81% (Corus Bank)
+
+The proposal at the top of this document represents the  minimum  number  of
+new accounts we can open to become fully FDIC insured.  This  setup  fulfils
+our timeframe requirements.  We will have  to  rebalance  in  6  months,  at
+which point our balances will be close to the $250,000 FDIC limit.
+
+Assuming constant interest  rates,  over  the  next  12mo  we  project  this
+allocation to net ~$1900 more in interest than keeping all our funds  at  TD
+bank would, and ~$900 less than we would gain by  splitting  our  funds  for
+the maximum possible interest (which would require opening 3 rather  than  2
+new bank accounts, and locking up much of  our  assets  in  certificates  of
+deposit).
+
+Addendum: how we searched for top interest rates
+
+I used Bankrate.com to identify the highest interest  rates  for  3mo,  6mo,
+and 12mo Certificates of Deposit.
+
+Finding interest rates for liquid accounts (savings, money market) was  more
+difficult because Bankrate.com searches only for  personal,  not  corporate,
+accounts.  Many of the banks that offer high personal savings rates  do  not
+offer corporate accounts, or offer  corporate  accounts  with  substantially
+lower interest rates.
+
+I examined the websites of the 16 top banks under a Bankrate.com search  for
+personal savings/money market accounts.  (There was  a  steep  rate  dropoff
+after 16.)  Most have no corporate option or have corporate rates  that  are
+substantially lower than the options listed.
+-----------------------
+[1] See http://www.fdic.gov/deposit/deposits/insured/faq.html Question 11
+
+
+
+=== Agenda ===
+
+Clear Fund Board of Directors
+                        Meeting Agenda for 3/31/2009
+
+1. Introductions.  2 minutes.
+
+2. Budget approval.  Allow 45 minutes.  See Attachment A.
+
+   Under reasonable and even aggressive scenarios, GiveWell has enough cash
+   on hand to last into 2010. At this meeting, we are asking the board to
+   vote to approve this budget.
+
+3. New bank accounts.  Allow 15 minutes.  See Attachments B and D.
+
+   Staff proposes opening two new bank accounts, both in order to earn
+   slightly more interest and in order to take full advantage of FDIC
+   protection. At this meeting, we are asking the board to vote to approve
+   the plan outlined in Attachment B and the corporate resolutions
+   (Attachment D).
+
+
+4. Discussion of updated research agenda.  Allow 60 minutes.  See
+   Attachment C.
+
+   Staff believes we are on track to release our report on developing-world
+   aid by July 1 of this year. At this meeting, we are asking the board to
+   vote to approve the proposed, finished report detailed in Attachment C.
+
+
+                    Total projected meeting time: 2 hours
+                           Next meeting: July 2009
+
+Attachments:
+   A. Overview of financial situation
+   B. Proposal to open new bank accounts
+   C. Updated research agenda
+   D. Corporate resolutions (note: all 3 are identical except for bank name)
+
+
+=== Agenda ===
+
+
+                  Proposed research agenda 4/1/09 – 7/1/09
+
+
+
+
+
+Proposal
+
+
+
+Proposed components of research report
+
+
+
+      Discussion of general issues from aid literature, supporting our
+      approach but not a particular charity, including the following (more
+      in the body of the document):
+
+         • Major success and failure stories of aid
+         • General information on the burden of disease and standard of
+           living in developing countries
+         • Discussion of aid to governments vs. nonprofits
+         • Discussion of issues relating to cost-effectiveness estimates
+   1. Get public feedback from people with relevant experience/knowledge,
+      which we will post linked from our report
+   2. In-depth charity reviews. Reviews similar to PSI, PIH, and The Carter
+      Center for ~5 more charities.
+   3. Info on other charities/programs for context:
+         o Brief (1-page) write-ups of 3-5 "household name" charities
+           (e.g., UNICEF, CARE, Save the Children)
+         o Reports on the evidence of effectiveness for "popular programs"
+           (e.g., microfinance, anti-retroviral therapy for HIV/AIDS, water
+           and sanitation programs)
+         o Financial analysis of charities to assess what "normal" levels
+           our for our financial indicators (see
+           http://givewell.net/node/351)
+
+Timing
+
+
+We propose to:
+
+    • Complete a report by 7/1/09 that includes the components above
+    • Allocate no more than 20% of our research/packaging hours to packaging
+      (i.e., when we have usable feedback re: packaging, do up to 10
+      hours/week of work on it)
+
+The rest of this document provides our estimates for the time each
+component will take.
+
+
+
+Reasoning behind proposal
+
+
+
+Key dates
+
+
+7/1/2009 – we previously told GiveWell Pledgers we would have recommended
+charities available by this date.  We have ~650 research/packaging hours
+before this date hits.
+
+11/26/2009 – we consider Thanksgiving to be the start of heavy media
+coverage of giving.  We should aim to have a highly engaging website at
+that point.  We have missed the Thanksgiving deadline by a couple of weeks
+in the past and still gotten big benefits from giving season.  We have
+~1100 research/packaging hours between 7/1/09 and 11/26/09.
+
+Hours estimates do not account for vacation days but also do not account
+for "overdrive" periods.
+
+
+Hours available
+
+
+We estimate that we have 650 hours available between now and 7/1; another
+1100 between 7/1 and Thanksgiving.  These hours are the total available for
+research (finding and writing up information) plus packaging (figuring out
+ways to present information in a more usable/engaging way). This is based
+on an estimate of 50 combined hours per week from Elie and Holden (30 for
+Elie; 20 for Holden) for our "primary" projects, which relies on our past
+time allocation.
+
+Again, this is a conservative estimate.
+
+
+Possible time allocations
+
+
+"Full research report" means all components listed above.  "Partial
+research report" means slimming down everything that isn't directly
+relevant to charity reviews – somehow cutting the total allocation to
+general issues/feedback/context from 300 hours (implied above) to 100.
+
+   1. 50% allocation to packaging
+        a. Full research report would not be feasible
+        b. Partial research report with 2-3 total charity reviews
+   2. 20% allocation to packaging
+        a. Full research report with 2-4 total charity reviews
+        b. Partial research report with 3-5 total charity reviews
+   3. 10% allocation to packaging (save it for post-7/1 and/or delegate to
+      employee(s))
+        a. Full research report with 2-4 total charity reviews
+        b. Partial research report with 3-6 total charity reviews
+   4. 0% allocation to packaging (save it for post-7/1 and/or delegate to
+      employee(s))
+        a. Full research report with 3-5 total charity reviews
+        b. Partial research report with 4-7 total charity reviews
+
+
+Possible components of 2009 report
+
+
+
+
+
+Component 1. Discussion of general issues (estimated time cost: 110 hours)
+
+
+
+
+Presents information on a variety of questions such as "What are big
+success/failure stories in aid?"
+
+Not directly relevant to a particular charity, but could be important for
+driving home the reasoning behind our approach (in the same way as the
+"headlines" currently on our front page).
+
+Already completed:
+    • Reviewed a large amount of literature on aid in general: what's
+      worked, what hasn't, what the major debates are.  Details at
+      http://www.givewell.net/wiki/index.php?title=DWDA_reading_list
+    • Completed four preliminary writeups on our blog:
+         o Aid's track record.  Health initiatives account for most success
+           stories; studies of aid's effect on GDP growth haven't
+           established a large effect or clear patterns in when aid works.
+           Full post: http://blog.givewell.net/?p=344
+         o Root causes of poverty.  There are many theories of how we can
+           help developing countries "take off," but nearly everyone agrees
+           that past takeoffs have been highly varied and that there is no
+           clear/simple path to "solving the root causes of poverty."  Full
+           post: http://blog.givewell.net/?p=345
+         o Measurement is not as common as it should be.  Why?
+           Demonstrates a very broad consensus among development experts
+           that not enough measurement is happening; cites one as claiming
+           that the problem is lack of proper incentives.  Full post:
+           http://blog.givewell.net/?p=353
+         o Can the Green Revolution be repeated in Africa?  Examines the
+           idea that the reason no "Green Revolution" (extreme improvement
+           in agricultural productivity, leading to strong growth and
+           poverty reduction) has taken place in Africa is that
+           philanthropic investment there has not been commensurate with
+           investment in the rest of the world.  Argues against this idea.
+           Full post: http://blog.givewell.net/?p=354
+
+To do:
+
+    • Finish reviewing literature (~10 hours).  This may also help with
+      finding particularly promising programs (under Component 2).
+    • Writeups on the following major issues (~20 hours each):
+         o Success and failure stories.  Go in-depth on a couple of vivid
+           success & failure stories in aid.  Both should serve to
+           illustrate the importance of monitoring & evaluation (success
+           stories because measurement was often an important part of the
+           program; failure stories because they illustrate the risks of
+           poorly evaluated programs)
+         o Burden of disease and other problems.  Discussion of what
+           diseases afflict the very poor, with what frequency, and also
+           how their living standards are otherwise (to the extent we can
+           generalize, which is limited).  To give a picture of "what you
+           save when you save a life."
+         o Meaning of cost-effectiveness estimates.  Discusses the
+           limitations of cost-effectiveness analysis; shoots down a couple
+           commonly cited "5c to save a life" type figures; compares a
+           couple estimates from our main source (Disease Control
+           Priorities report) to independent estimates to support the idea
+           that the report is relatively reliable.
+    • Writeups on the following issues (~5 hours each):
+         o Possible harms of aid.  Lists and gives relevant references for
+           a variety of ways in which aid can be net harmful.
+         o Programs that can/should be scaled up.  Lists proven life-
+           changing programs that, according to various sources, are not
+           "fully funded" (ie, there is room to expand them further and
+           reach more people).
+         o Aid to governments vs. donations to nonprofits.  Discusses pros
+           and cons of the two different approaches to aid, ways in which
+           aid literature (which focuses on government aid) may not apply
+           to donors, and discusses how little is known about aid to
+           nonprofits in general.
+         o What does it mean to restrict a donation?  General discussion of
+           the not-often-discussed drawbacks of restricting a donation to a
+           particular program.
+         o Context on current and past aid flows: presents what we know
+           about where current/past aid goes and how much of it there is.
+    • Revising/polishing writeups (2 hours each)
+
+
+Component 2. Actively pursuing feedback (estimated time cost: 40 hours
+remaining, though could be substantially less)
+
+
+The goal is to get public feedback on our report from people with relevant
+knowledge & experience, to improve both quality & credibility of the report
+as a whole.
+
+Falls into two main categories: (1) feedback from highly visible, respected
+scholars, who likely won't have time to read our reports in depth but may
+give general interviews; (2) more engaged feedback from grad students, NPO
+employees, and other people who have relevant experience.
+
+Already completed:
+
+    • Category (1) (feedback from highly visible, respected scholars) is
+      within reach without too much more work.
+         o We completed interviews with the following people and need to
+           get their signoff on our notes so we can publish them.
+               ▪ Rachel Glennerster, a Director of the Poverty Action Lab
+               ▪ Prabat Jha, a lead author on the Disease Control
+                 Priorities Project.
+               ▪ Diane Bennett and Laura Freschi, the Executive Director
+                 and Associate Director of the Development Research
+                 Institute (William Easterly's current institution).
+         o We're trying to set up talks with several other prominent
+           scholars including William Easterly and Ruth Levine.
+    • Some progress on category (2) (more engaged feedback from people with
+      relevant experience/knowledge).
+         o One person with a fairly strong resume has been actively talking
+           with us for a while.  Another just had two conversations with us
+           and allowed us to record them.
+         o We have a list of several more who are planning to speak with
+           us, and may do more active recruiting via grad student email
+           lists.
+
+To do:
+
+    • Category (1) (feedback from highly visible, respected scholars):
+      mostly scheduling conversations with people.  If a lot of people end
+      up not talking to us, we may have to put more effort into finding
+      experts who can answer particular questions we still have.
+    • Category (2) (more engaged feedback from people with relevant
+      experience/knowledge): largely depends on how many people (and what
+      mix of backgrounds) we think is "sufficient."
+
+Component 3.  Reviews of strong charities and the programs they run (time
+cost estimate: 30 hours remaining for "charity scan" + 100-150 hours per
+thoroughly reviewed charity)
+
+Already completed:
+
+    • Review of The Carter Center.
+    • 2007-2008 reviews of Population Services International and Partners in
+      Health.  Updating for 2008-2009 would largely be a matter of changing
+      the format rather than gathering information.
+    • 8 finalized program reports (see http://www.givewell.net/node/336).
+
+To do:
+
+    • "Charity scan" project to identify promising charities (for further
+      evaluation) by scanning websites.  Time cost very hard to estimate –
+      current estimate is 50 hours from here.
+    • Go through promising charities' materials and complete reviews on
+      them.  Estimated at 50-100 hours per charity based on the Carter
+      Center writeup.
+    • Take the programs featured by promising charities and produce program
+      reports on them.  ~10 hours each; hard to know in advance how many of
+      these we'll need.
+
+
+
+Component 4.  Discussions of non-recommended charities and programs to give
+context (estimated time cost 110 hours)
+
+There are certain charities (Doctors without Borders, UNICEF, Heifer
+International) and programs (AIDS drug therapy, microfinance, water &
+sanitation, comprehensive health programs) that everyone wants to know
+about.  Discussing them could help our credibility and persuasiveness even
+if it isn't directly relevant to our top charities.
+
+Already done: gathered information & got a general sense of several large
+organizations and well-known programs, but a long way from having them
+written up.
+
+To do:
+    • Writeups on widely discussed program types (AIDS drug therapy,
+      microfinance, water & sanitation, comprehensive health programs).
+      Est. 70 hours.
+    • Brief writeups on several "household name" charities to give a feel
+      for why we don't recommend them.  There are ~20 total "household name"
+      charities but we don't have to cover them all; we estimate ~5 hours
+      each for 4 charities.
+    • Financial analysis of many charities to provide context on what's
+      "normal" for a charity for our metrics (metrics discussed at
+      http://www.givewell.net/node/351).  Est. 20 hours.
+
+
+
+
+Notes on time cost estimates
+
+
+All of the above estimates are fairly conservative, some more so than
+others.
+
+    • #1 and #4 are based on reasonable data on how long similar tasks take,
+      although much of #4 is "optional."
+    • #2 could take substantially less than 40 hours.
+    • #3 is the most uncertain and conservative estimate – the figure is
+      based on our review of the Carter Center; we believe we can do other
+      charities more efficiently from here, and other promising charities
+      are likely to be substantially simpler (i.e., running fewer programs).
+
+
+
+Generate a comprehensive summary (approximately 1000 words):

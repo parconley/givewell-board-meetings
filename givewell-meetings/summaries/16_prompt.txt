@@ -1,0 +1,1353 @@
+Based on the following board meeting documents for a Clear Fund Board Meeting held on March 28, 2012, generate a comprehensive ~1000-word summary that acts as a professional brief.
+
+The summary should cover:
+- Key decisions made and votes taken
+- Important discussions and debates
+- Financial/budget information with specific numbers
+- Strategic direction or policy changes
+- Personnel or organizational changes
+- Any significant outcomes or action items
+
+Keep the tone professional and factual. Focus on substance over process. Be specific with numbers, names, and decisions.
+
+Meeting Documents:
+=== Minutes ===
+Minutes for March 28, 2012 meeting of the Clear Fund (aka GiveWell) Board of Directors 00:00:00 Meeting called to order  00:03:53 Board begins discussion of projected revenue, budget and excess reserves policy 00:15:30 Board votes to approve the budget 00:18:30 Board begins discussion of annual review [[Cut from audio]] Board votes to increase the salaries of the co-Executive Directors from $75,000 to $90,000 01:42:12 Meeting adjourned 	  
+
+=== Annual Review ===
+
+           Annual Review and Plan for The Clear Fund aka GiveWell
+                          (3/28/2012 Board meeting)
+
+Mission: to find outstanding  giving  opportunities  and  publish  the  full
+details of our analysis to help donors decide where to give.
+
+Vision: a world in  which  donors  reward  charities  for  effectiveness  in
+improving lives.
+
+
+TUESDAY, FEBRUARY 7TH, 2012 AT 11:53 AM
+
+GiveWell’s progress in 2011
+
+|By Holden                           |[pic] | [pic] |               |
+
+
+This is the first post (of six) we’re planning to make focused on our self-
+evaluation and future plans.
+As in past years, we’re going to be posting our annual self-evaluation and
+plan as a series of blog posts. This post summarizes what changed for
+GiveWell in 2011 and what it means for the future. Future posts will
+elaborate.
+
+For us, the major developments of 2011 were:
+
+• New contacts with major donors and the launch of GiveWell Labs. Prior to
+ 2011, we had only one contact whom we would have classified as a
+ “megadonor,” i.e., someone who seemed to have a reasonable chance of making
+ extremely large gifts (in the range of $1 million or more) in the
+ reasonably near future if we could generate good enough giving
+ opportunities. In 2011, we made contact with several more, including Good
+ Ventures.
+ We realized that these contacts made it both more possible and more
+ important to produce research of use to major philanthropists. We therefore
+ launched GiveWell Labs, a new arm of our research process that will be open
+ to any giving opportunity, no matter what form and what sector. GiveWell
+ Labs made little progress in 2011 aside from being launched, but we expect
+ it to be a major priority for 2012.
+• Our money moved grew significantly, hitting $5 million for 2011. This was
+ partly a function of the major donors mentioned above, but partly a
+ function of continuing to see strong growth in money moved from smaller
+ donors. Excluding GiveWell Labs and Good Ventures, our money moved figure
+ roughly doubled over last year, which was consistent with the growth we’ve
+ seen in past years.
+• Our general level of “access” improved significantly. By “access,” we
+ mean the ability to get relevant people (including charity staff,
+ foundation staff, and academics) to engage with us and discuss relevant
+ issues. This makes it possible to learn about relevant issues more quickly,
+ improving both the quality and speed of our research, and reduces the
+ problem of missing potential top charities because of their reluctance to
+ engage with us.
+ We believe that our access improved partly because of our relatively strong
+ “money moved” figure for 2010, which we highlighted on our new For
+ Charities page, and partly because of our improved reputation and network.
+ Good Ventures has been very helpful on this front.
+• Our needs (and opportunities) for more staff are growing. Over the summer
+ of 2011, we had 7 total staff (2 of them temporary) and still felt that we
+ could benefit from more capacity. We currently have 5 total staff. Prior to
+ 2011, we had never had more than 4 total staff at one time.
+ As we become more systematic and thorough, we see more opportunities to
+ improve our research by hiring; GiveWell Labs may introduce the need for
+ more capacity as well. And the increased level of attention we get has
+ increased administrative work.
+ Recruiting will be a major priority for 2012.
+• We were successful in raising more operating funding. Fundraising was
+ our #2 priority for 2011. We met our goal, with some help from both
+ institutions and individuals. We balanced our budget for 2011 and project a
+ balanced budget for 2012; if we succeed in making more good hires, we will
+ need to raise more to cover our costs for 2013.
+• We identified two strong top charities and intensified our focus on
+ global health and nutrition. Identifying top charities was what took the
+ most effort in 2011. We believe it’s no accident that all of the strongest
+ charities we’ve found so far are within the broad area ofglobal health and
+ nutrition. We will be focusing on this area intensively in 2012; we believe
+ that deeply investigating a set of priority interventions (and the
+ organizations that carry them out) is the most promising route to finding
+ more outstanding giving opportunities.
+• We drew substantial attention for our work on disaster
+ relief (particularly relating to the Japan crisis in March) and errors in
+ World Health Organization cost-effectiveness figures. We believe that these
+ contributed to our improvements in money moved, website traffic, and
+ general reputation. We will continue to maintain our disaster relief
+ research and will continue to deeply investigate research questions that
+ are important to us.
+
+Overall, it was a very encouraging year. Our work, our reputation and our
+influence all improved significantly, and we see substantial room for more
+improvement. We believe GiveWell now has enough impact to justify its
+operating expenses, and hope to have much more impact in the future.
+
+Of course, we also made plenty of mistakes in 2011, and we’ve recently
+updated ourshortcomings log to reflect them.
+
+
+THURSDAY, FEBRUARY 9TH, 2012 AT 2:41 PM
+
+GiveWell annual review: details on GiveWell’s money moved and web traffic
+
+|By Elie                       |[pic] | [pic] |                     |
+
+
+This is the second post (of six) focused on our self-evaluation and future
+plans.
+This post lays out highlights from our metrics report for 2011. For more
+detail, see our full metrics report (PDF).
+1. In 2011, GiveWell moved $5,285,992 to our recommended charities, a
+significant increase over past years.
+                                    [pic]
+2. While our #1-ranked charity received the most funding, many
+organizations received significant funding due to our recommendations. Most
+of our money moved went to AMF (our #1-ranked charity as of December 2011),
+which received over $2 million. SCI (our #2-ranked charity as of December
+2011) and VillageReach (our top-rated charity through November 2011) both
+received more than $600,000. Three additional organizations received more
+than $75,000 as a result of our recommendation and one other organization
+received more than $50,000.
+                                    [pic]
+3. Web traffic continued to grow.
+                                    [pic]
+4. The main sources of increased traffic were Google search (AdWords and
+organic).
+                                    [pic]
+5. The vast majority of our money moved came from a relatively small set of
+donors giving very large gifts.
+
+Good Ventures grants to our top charities as well as funding to committed
+GiveWell Labs accounted for approximately 1/3 of our total money moved
+($1.75m / $5.3m). Excluding those funds entirely, 55 donors giving $10,000
+or more accounted for 70% of our money moved. In the table below, and in
+the following analyses of our 55 largest donors, we exclude funding from
+Good Ventures to our top charities and funding committed to GiveWell Labs.
+
+                                    [pic]
+6. These 55 donors tend to be (a) young (for major donors) and (b) most
+often employed in finance or technology. Close to 80% of our money moved
+(about whom we have information) comes from donors who are under the age of
+50; approximately 45% comes from donors under the age of 40. (Note that we
+did not always know donors’ ages and, in some cases, made our best guess.)
+                                    [pic]
+
+                                    [pic]
+7. These major donors most commonly find GiveWell because they
+are proactively looking for a resource that will enable them to give more
+effectively; otherwise, donors are most likely to learn about us via people
+like Peter Singer, mentions in the media (either print or online).
+                                    [pic]
+8. Based on the major donors who responded to our survey, approximately 2/3
+of the funding was reallocated from other organizations; approximately 1/3
+were just beginning to give.
+                                    [pic]
+
+9. Most commonly, funds were reallocated from other international
+organizations.
+
+                                    [pic]
+10. GiveWell’s website now processes more giving than GuideStar’s and about
+42% as much as Charity Navigator’s, though it offers far fewer charities as
+options. This comparison provides evidence that the growth we saw in 2011
+is due not to generalized increases in online giving or use of charity
+evaluators, but rather to GiveWell-specific factors. (Note that the
+GiveWell figure in this chart includes only what was processed through our
+website - not all money moved - in order to provide a valid comparison to
+the others, for which we only have online-giving data.)
+                                    [pic]
+
+TUESDAY, FEBRUARY 14TH, 2012 AT 11:40 AM
+
+Self-evaluation: GiveWell as a donor resource
+
+|By Elie                       |[pic] | [pic] |                     |
+
+
+This is the third post (of six) we’re planning to make focused on our self-
+evaluation and future plans.
+This post answers a set of critical questions about the state of GiveWell
+as a donor resource. The questions are the same as last year’s.
+Does GiveWell provide quality research that highlights truly outstanding
+charities in the areas it has covered?
+Where we stood as of Feb 2011
+• Internally, we were satisfied with the quality of our research as
+ compared to other options for donors.
+• We planned to complete a new round of research focused on international
+ aid to find additional top charities.
+• We planned to complete regular updates for VillageReach, our top-rated
+ charity in 2009 and 2010 and the first charity to which we moved
+ significant (now more than $2 million) funds.
+• We felt a need for more substantial external checks on our research. In
+ the previous year, we had several reviews completed, but we believed
+ additional reviews were necessary.
+• Our research process was constrained because of our inability to offer
+ project-based funding.
+Progress since Feb 2011
+
+In Feb 2011, we wrote that we hoped for
+
+
+  More intensive examination of our top-rated charities (the ones that
+  attract the lion’s share of our “money moved”), including in-person site
+  visits, continual updates on room for more funding, and conversations with
+  major funders who have agreed - or declined - to fund them.
+
+
+In 2011, we did all of these things.
+
+• The level of vetting to which we subject our top charities has increased
+ significantly.
+o We visited all three leading contenders for our highest ratings in
+  October before giving them our top rating. We intend to continue this and
+  visit charities before we give them our top ratings.
+o We conducted extensive reviews of the cost-effectiveness and evidence of
+  effectiveness for the programs run by our top charities, which went
+  significantly beyond our independent assessments of research in previous
+  years. (See our writeups onITNs and deworming.)
+• We have completed regular updates on VillageReach’s progress.
+• We have received several additional external reviews of our research, but
+ our attempts to significantly expand this process were not successful. We
+ intend to revisit this in 2012.
+• In addition, we launched GiveWell Labs, a new arm of our research process
+ that will be open to any giving opportunity, no matter what form and what
+ sector, in the hopes of improving our ability to find great giving
+ opportunities.
+As our influence has increased, our ability to get access to relevant
+people such as charity representatives, scholars, and major funders has
+improved. (For example, see our investigation of targeted vs. universal
+coverage for insecticide-treated nets.) This, along with growth in our
+team, have improved our ability to do in-depth research efficiently.
+Where we stand
+We feel that our current research is high-quality and up-to-date. We are
+not satisfied with our total “room for money moved.” We estimate that our
+top charities have roughly $15-20 million in available room for more
+funding, which is substantially more than we have directed to them, but not
+necessarily “enough” if our influence were to continue growing rapidly.
+
+We also feel there are multiple areas that could offer outstanding
+opportunities that we have not yet researched as thoroughly as we could
+(particularly in the areas of nutrition, vaccinations, neglected tropical
+disease control, tuberculosis control, and research and development).
+
+
+We also continue to see room for improvement in our coverage of top
+charities.
+
+• We’d like to continue to increase our qualitative checks on top
+ charities, particularly conversations with those who have funded them or
+ chosen not to.
+• We remain unsatisfied with the degree to which our research is “vetted.”
+ It still seems to us that we could make a substantial mistake or error in
+ judgment, with too high a probability that it would remain unnoticed. We
+ feel that this is much less true today than ever before, because (a) our
+ staff is larger and we subject important pages to multiple checks from
+ different people; (b) our research draws more attention, including from
+ donors who are giving large amounts and vetting our work fairly closely. We
+ feel that the degree to which our work is “vetted” will grow as our overall
+ influence and prominence grows, though putting more effort into formal
+ external reviews help as well.
+What we can do to improve
+• Revisit the goal of having our work subjected to formal, consistent,
+ credible external review.
+• Continue to look for more outstanding giving opportunities for individual
+ donors, particularly (a) in the areas we have identified as most promising
+ (b) through GiveWell Labs.
+Is it practical for donors to evaluate and use GiveWell’s research in the
+areas it has covered?
+Where we stood as of Feb 2011
+
+Last year, we wrote:
+
+
+  While we have created the basic process and template for both reviews and
+  testimonials, and have some basic evidence of our credibility now easily
+  available, we feel that the content of both pages could be much stronger.
+
+Progress since Feb 2011
+• We held an in-person research event in August 2011 and a conference call
+ in December 2011 to publicly discuss our research and field questions. We
+ posted audio and transcripts from both meetings. We held these meetings to
+ enable donors to ask questions and engage with our research without
+ requiring them to read all the details on our website.
+• We substantially improved our collection of testimonials and now feel
+ that it is fairly strong.
+• We consolidated different forms of evidence for our credibility, which
+ include both the improved collection of testimonials and documentation of
+ our greatly improved influence.
+• We completed more external reviews, though we did not progress as far on
+ this front as we hoped.
+Where we stand as of February 2012
+We feel that evidence of our credibility has substantially improved and is
+now fairly strong, and that this is part of the reason for our
+increased money moved.
+What we can do to improve
+
+Aside from revisiting our approach to external evaluation, we believe the
+main path to improvement is to continue improving our knowledge of giving
+opportunities and the depth of our research. We also plan to increase the
+frequency of research meetings and conference calls to help donors engage
+with our research.
+
+How much funding can GiveWell’s top-rated charities effectively absorb?
+Where we stood as of Feb 2011
+
+We estimated that VillageReach, our top-ranked charity at that time, had
+total room for more funding in its Mozambique scale up of approximately
+$1.5 million.
+
+Progress since Feb 2011
+We have identified two additional top charities, each of which has
+significant room for more funding.
+Where we stand as of February 2012
+
+We believe that AMF could absorb up to $15 million, and SCI could absorb a
+few million dollars as well.
+
+
+We have made significant progress on this front in the past 12 months and
+expect to continue to progress in the next 12 months.
+
+What we can do to improve
+
+We intend to continue to look for more outstanding giving opportunities.
+Currently, we see the promising avenues to finding these opportunities as
+
+• Deeply investigating the areas we have identified as most promising (such
+ as the areas of nutrition, vaccinations, neglected tropical disease
+ control, tuberculosis control, and research and development).
+• Moving forward on GiveWell Labs.
+This marks a change from the strategy we have generally used to date,
+including in 2011, ofexamining a large number of charities and deeply
+investigating the ones that stand out. All of the strongest opportunities
+we have found to date (VillageReach, AMF and SCI) are groups focusing on
+proven health/nutrition interventions that themselves have strong evidence
+bases; this greatly improves the ability of these charities to make a
+strong case (more discussion at our 2011 post on the appeal of global
+health and nutrition).
+
+We feel that by focusing on the areas of aid with the strongest evidence
+bases and deeply understanding them, we are likely to find more outstanding
+giving opportunities; examining charities outside these areas appears at
+this point to have lower potential returns.
+
+
+This does not mean we are closing ourselves off to the possibility of
+recommending charities in other areas. We have some particular promising
+charities in other areas on our list to investigate, and we expect to
+continue to have an “open submission process” such that any charity has the
+opportunity to make a case to us. However, we will likely raise the bar for
+“what it takes for us to investigate a charity outside our priority areas,”
+and we will likely focus on priority areas for at least the coming year.
+
+
+THURSDAY, FEBRUARY 16TH, 2012 AT 11:47 AM
+
+Self-evaluation: GiveWell as a project
+
+|By Elie                       |[pic] | [pic] |                     |
+
+
+This is the fourth post (of six) we’re planning to make focused on our self-
+evaluation and future plans.
+This post answers a set of critical questions for GiveWell stakeholders.
+The questions are the same as last year’s.
+Is GiveWell’s research process “robust,” i.e., can it be continued and
+maintained without relying on the co-Founders?
+Where we stood as of Feb 2011
+
+We had two full-time, non-co-founder employees (analysts), a part-time
+employee, and plans to hire another in the summer. We wrote that, in total,
+we expected to have 3.5 analysts by the Fall of 2011.
+
+Progress since Feb 2011
+
+By the summer of 2011, we had 3 full-time analysts and two temporary summer
+analysts. One of our full-time analysts left in December 2011; we recently
+hired one of our former summer analysts, bringing us back to 3 full-time
+analysts.
+
+
+The analysts have been with us different levels of time, but as they have
+been at GiveWell longer, each has continued to take on more responsibility.
+
+Where we stand as of February 2012
+
+We currently have 3 full-time analysts, and have made an offer to an
+analyst who will start in July, which would bring GiveWell to 4 full-time
+analysts. We continue to focus on recruiting and hope to reach 6 full-time
+analysts (8 total employees) summer 2012.
+
+Analysts take the lead on most charity investigations; co-founders may
+provide basic guidance and sign off on work before it is
+published. GiveWell Labs, because of its experimental nature, will be led
+for the time being by co-founders.
+What we can do to improve
+• We continue to experience turnover. Two analysts who worked with us in
+ 2011 have since left GiveWell. We don’t believe that turnover is indicative
+ of a problem – GiveWell is a unique environment that fits some people and
+ not others and we would not be surprised if turnover remains relatively
+ high in the near future. We have tried to address turnover by improving our
+ hiring process to select for the characteristics most likely to lead to
+ success at GiveWell.
+• In the past, we have exclusively hired “generalists” i.e., young, largely
+ college-graduates who work on a little bit of everything at GiveWell –
+ e.g., charity reviews, speaking with donors, answering emails, in-depth
+ literature reviews. In the coming year, we plan on putting more thought
+ into hiring people for more specialized roles, such as administration (we
+ now have enough administrative work for a full-time hire) and literature
+ reviews.
+Does GiveWell present its research in a way that is likely to be persuasive
+and impactful (i.e., is GiveWell succeeding at “packaging” its research)?
+Where we stood as of Feb 2011
+
+We wrote, “We’re currently satisfied with the presentation of our content
+and don’t plan on emphasizing this goal in the near future.”
+
+Progress since Feb 2011
+
+None. This was not a priority over the past 12 months.
+
+Where we stand as of February 2012
+
+As traffic to our website has increased over the past 12 months, we would
+guess that the importance of better packaging our research has risen. In
+particular, we feel our site is poorly suited to donors who want to spend
+more than a few minutes but less than an hour on our site. (We have
+designed the site to make quick action easy and to provide significant
+depth, but we have no “middle level” of depth for gaining some information
+relatively quickly.)
+
+What we can do to improve
+
+We have a list of ideas for how to better package our research, and we may
+prioritize this in 2012. In particular, we are considering putting more
+work into a “middle level of detail” as described above.
+
+Does GiveWell reach a lot of potential customers (i.e., is GiveWell
+succeeding at “marketing” its research)?
+Where we stood as of Feb 2011; progress since Feb 2011; where we stand as
+of February 2012
+As detailed previously, our growth remains robust:
+• We tracked over $5 million to our recommended charities in 2011 compared
+ to approximately $1.5 million in 2010.
+• The number of donors who gave to our recommended charities grew by about
+ 3x in 2011 compared to 2010.
+• Our website traffic roughly doubled in 2011 compared to 2010.
+
+As long as we continue to grow at ~2-3x (which continued thus far in 2012),
+we will consider our growth to be strong, and will not consider outreach to
+be an urgent priority.
+
+What we can do to improve
+
+We continue to consider ideas to improve our reach, but at this point,
+don’t feel that increasing our reach is as important as improving the
+quality and packaging of our research (discussed above).
+
+We feel that the most important strategy for improving our reach is to
+develop GiveWell Labs into a strong product, since this would open up a new
+audience that could potentially be an excellent fit with us and make a
+large difference for our influence.
+
+We will maintain two strategies that we feel are effective at bringing
+attention to our work:
+
+• Regular blog posts (we generally aim for one per week). In surveying the
+ major donors who comprise the bulk of our money moved, we found that they
+ emphasized the blog as a key way that they engage with our work. In
+ addition, looking at the sources of growth in ourmetrics report, we believe
+ that a substantial amount of our growth in referral traffic is due to
+ content we published on the blog.
+• Our research on disaster relief, which we maintain mostly for outreach
+ reasons. In 2011, our report on the March crisis in Japan drew significant
+ attention (and the associated traffic spike is visible); our report on the
+ East Africa famine also drew some attention (a blog post on the topic was
+ our third most-trafficked post of the year with over 6000 visits; our top
+ two most-trafficked posts were both on the Japan crisis).
+Is GiveWell a healthy organization with an active Board, staff in
+appropriate roles, appropriate policies and procedures, etc.?
+Where we stood as of Feb 2011
+
+We were happy with our board and policities, but wrote, “we have a
+significant need for more operating support and intend to make this a major
+priority for 2011.”
+
+
+We also wrote:
+
+
+  We aim to raise operating support by
+
+ • Applying for support from major institutional funders.
+ • Having discussions with people who have a substantial history of being
+   close to our project, including Board members and major “customer donors”
+   (i.e., donors who have used our research to decide where to give), about
+   the possibility of their supporting GiveWell directly.
+
+  We plan to continue to avoid soliciting funds from the public at large. We
+  wish to avoid “competing with” our recommended charities for funding, and
+  feel our credibility would be hindered if we were asking for money
+  ourselves.
+
+Progress since Feb 2011
+
+We closed our funding gap using the approaches laid out above, raising
+funds from both institutional funders and “customer donors” who had a
+substantial history of being close to GiveWell.
+
+Where we stand as of February 2012
+
+We project revenues that will meet expenses for 2012 and currently have
+what we consider a safe level of cash reserves. We project a deficit for
+2013 but expect to be able to fund the gap using the strategies laid out
+above.
+
+What we can do to improve
+
+Financials:
+
+
+We intend to continue taking opportunities to raise funds for GiveWell
+operations when the opportunities present themselves, but do not intend to
+make fundraising for GiveWell one of our primary priorities (or uses of
+time) for 2012.
+
+
+Board:
+
+
+Our current Board of Directors is more or less the same as it was in 2008.
+2012 may be the right year to consider reorganizing the board.
+
+What is GiveWell’s overall impact, particularly in terms of donations
+influenced? Does it justify the expense of running GiveWell?
+
+In 2010, we had expenses of less than $315,000 and money moved of
+approximately $1.5 million, a ratio of 4.8:1. Our loose, long-term target
+was at least a 9:1 ratio of money moved to operating expenses.
+
+
+In 2011, we had money moved of over $5 million with expenses of $356,000, a
+ratio of 14:1.
+
+$1.75 million of the $5 million came from grants from Good Ventures and pre-
+commitments to GiveWell Labs, neither of which will necessarily repeat in
+2012. However, the remaining $3.25 million alone would produce an
+approximately 9:1 ratio.
+
+TUESDAY, FEBRUARY 21ST, 2012 AT 10:03 AM
+
+GiveWell’s plan for 2012: top-level priorities
+
+|By Holden                           |[pic] | [pic] |               |
+
+
+In previous posts, we discussed the progress we’ve made, where we stand,
+and how we can improve in core areas. This post focuses on the latter, and
+lays out our top-level strategic choices for the next year.
+
+                               The big picture
+
+Broadly, we see the key aspects of GiveWell - the areas in which we can
+improve - as
+
+1. Research expansion: finding additional outstanding giving opportunities.
+2. Research maintenance and systemization: keeping our research up to date,
+ while allocating as much responsibility as possible to junior staff. This
+ includes regular updates on charities that we have directed significant
+ funding to.
+3. Research vetting: checking the quality of our research and providing
+ evidence for this quality.
+4. Outreach: working to increase awareness of GiveWell, traffic to our
+ site, conversion of website traffic into donors and followers, etc.
+5. Fundraising/operating: maintaining the organization.
+These are broadly similar to the areas for improvement we’ve listed in the
+past. And as in the past, we feel that the first two of these - finding
+more outstanding giving opportunities and staying up to date on those we’ve
+found - are at the core of our work and remain our top priorities. The
+basic reasoning:
+• In 2011, as in 2010, we experienced substantial growth despite not making
+ outreach a major priority for the year. We believe this is because
+ producing quality research - while taking “low-hanging fruit” on the
+ outreach side - leads to strong growth in referral links, organic search
+ performance, and word-of-mouth. From surveying our largest donors, we
+ believe that it is common for such donors to read our reports relatively
+ carefully.
+• We believe that our chances for growing over the long term are highly
+ dependent on our providing as much “room for money moved” as we can in the
+ most outstanding giving opportunities possible, while doing as much due
+ diligence as possible to maintain a strong reputation.
+• Letting up on the quality of our research would be a major risk. A highly
+ dedicated effort to outreach would not clearly have greater returns (just
+ in terms of attracting attention) than continuing to improve the quality of
+ our research.
+
+We are planning some work on #3-#5 above, but believe that we can perform
+strongly in both areas without making them major priorities for the year.
+
+                          Our priorities and goals
+#1: make significant progress on GiveWell Labs, the new arm of our research
+process that will be open to any giving opportunity, no matter what form
+and what sector. A future post will discuss the specifics of our plans and
+hoped-for progress on GiveWell Labs. This initiative represents a
+substantial new opportunity to both find great giving opportunities and
+expand our potential target audience (more).
+#2: Find more top charities under the same basic framework as our existing
+recommendations. A future post will elaborate on our plans for this.
+Our current top charities have significant room for more funding, so it
+would not be catastrophic (though it would be highly undesirable) to end
+2012 without new top charities. Because of this, we view GiveWell Labs as
+slightly more crucial for 2012. However, we plan substantial work on both
+and anticipate that the quality of our standard research will continue to
+improve significantly.
+#3: Expand our team. We are currently recruiting Research Analysts; we are
+also thinking about whether hiring for more specialized roles may more
+efficiently increase our capacity. We hope to have at least eight full-time
+employees by the end of 2012.
+Other goals include:
+• Regular updates on the charities we have moved the most funding to.
+• Putting some time into more deeply investigating research questions that
+ are particularly important to us, such as the risks of population growth
+ and the benefits of deworming. These sorts of investigations are along the
+ lines of the 2011 investigation that ended with our finding major errors in
+ cost-effectiveness estimates published by the World Health Organization,
+ and rethinking how we use these sorts of figures.
+• Updating our research on disaster relief.
+• Raising any funding needed to finance the expansion of our team.
+• Revisiting our process for having our research subjected to formal
+ external review.
+• Improving our process for tracking and processing donations (more).
+• Low-hanging fruit on the “outreach” front:
+o Improving our website to reflect some specific feedback we’ve recently
+  gotten.
+o Further conference calls and community events to discuss our research
+  (rather than simply writing about it).
+o Any other opportunities we see to make reasonable potential gains on the
+  “outreach” front without excessive investment on our part.
+
+WEDNESDAY, FEBRUARY 22ND, 2012 AT 1:53 PM
+
+GiveWell’s plan for 2012: specifics of research
+
+|By Holden                           |[pic] | [pic] |               |
+
+
+We previously laid out our high-level priorities for 2012. The top two
+priorities are “make significant progress on GiveWell Labs” and “find more
+outstanding giving opportunities under the same basic framework as our
+existing recommendations.” This post elaborates on our plans for these two
+priorities.
+A note on relative priorities: our current top charities have
+significant room for more funding, so it would not be catastrophic (though
+it would be highly undesirable) to end 2012 without new top charities.
+Because of this, we view GiveWell Labs as slightly more crucial for 2012.
+However, we plan substantial work on both and anticipate that the quality
+of our standard research will continue to improve significantly.
+                                GiveWell Labs
+
+We believe that GiveWell Labs is very important for our long-term impact;
+it represents a substantial new opportunity to both find great giving
+opportunities and expand our potential target audience (more).
+However, at this time GiveWell Labs is still in the very early stages.
+(We announced it in September, but a few weeks later put our entire focus
+on finding top charities in time for 2011’s holiday season.) The stage it’s
+at is somewhat comparable to the stage GiveWell was at in August of 2007;
+and like the GiveWell of 2007, we will probably go through a lot of
+experimentation, go down some significant dead ends, and possibly miss some
+deadlines and change our vision of what we’re trying to accomplish. So we
+don’t want to commit to highly concrete or definite goals at this time.
+
+That said, here’s our current working framework.
+
+The building blocks of GiveWell Labs
+
+As we try to find the best giving opportunities, we believe it will be
+helpful to work separately on the questions of what the most promising
+sectors (general areas of philanthropy, such as “climate change mitigation”
+or “tuberculosis control” are) vs. what the most promising projects are
+within a sector. We’re thinking of GiveWell Labs as being divided into the
+following categories:
+
+1. Completely open-ended, sector-agnostic investigation (example: examining
+ data on foundation grants to get a sense for what today’s foundations work
+ on).
+2. Basic research to determine how promising a sector is (example:
+ investigating climate change in a low-depth way, focusing on determining
+ what strategies are open to philanthropists and whether their cost-
+ effectiveness could be competitive with other sectors).
+3. In-depth work getting a deep understanding of a particular sector
+ (example: trying to gather as many relevant ideas/conversations as possible
+ for tuberculosis control).
+4. Researching a particular project, or kind of project, to determine
+ whether to recommend it.
+
+There is some justification for doing the 4 steps sequentially: #1 helps
+one choose the right sectors to research (#2), which helps one choose the
+right sectors to focus on (#3), which helps one choose the best projects to
+recommend (#4). However, there is also some justification for working on
+multiple tracks in parallel: learning more about specific projects and
+specific sectors will probably inform the way we go about deciding between
+sectors, and there are some sectors we already know well enough to consider
+them high-priority. In addition, we don’t ever expect to have final or
+rigid choices of the most promising sectors, and will always be open to
+particularly promising projects from any sector.
+
+Goals for 2012
+Within GiveWell Labs, our current (and very much subject to change) top
+goal for 2012 is getting a good working understanding of the most promising
+sectors, which means making significant headway on #1 and #2 above. Our
+second-most important goal is to get an in-depth understanding of the
+landscape of giving opportunities in at least one sector, likely one
+withinglobal health and nutrition (which we believe we already know enough
+about to consider it a highly promising area of philanthropy). Our third-
+most important goal is to recommend a specific project to fund, but we
+think it’s very possible that we won’t get this far in 2012, i.e., that
+we’ll end the year with some good and durable insights regarding “where to
+look” but without a specific project recommendation yet.
+                         Finding more top charities
+Finding more top charities is also very important to the long-term impact
+of GiveWell.
+• If we grow as much as we hope, we will run out of room for more
+ funding for our current top charities within a few years. (This is,
+ however, unlikely to happen within the year.)
+• Researching more top charities is also our core method for improving the
+ general quality of our research, by learning more about the most promising
+ areas of aid.
+In 2011, our main strategy for finding top charities was to consider as
+many charities as we could, and deeply investigate those that showed signs
+of promise. (More on our process.) We expect our 2012 strategy to be quite
+different.
+All of the best charities we’ve found so far (VillageReach, AMF and SCI)
+are within the broad area of global health and nutrition. Furthermore, all
+focus on interventions that have substantial evidence bases behind them -
+the kind of evidence bases that, as far as we can tell, are found only
+within global health and nutrition.
+The set of interventions that we feel have substantial, encouraging
+evidence bases behind them is fairly contained. The main such interventions
+are immunization campaigns, insecticide-treated bednets, control
+of neglected tropical diseases, nutrition interventions (particularly those
+focused on micronutrients), and tuberculosis control interventions. Water-
+quality-focused interventions may qualify as a “priority sector” as well;
+we would need to do more work before declaring it to be one.
+In the past, we have struggled to identify good giving opportunities in
+these areas, largely because of concerns over room for more funding - the
+major organizations working in these areas tend to be large and diverse,
+and we haven’t been satisfied with our prospects of connecting donations to
+activities. However, we think there is a possibility that we will be able
+to address this problem by working more intensively with these
+organizations - to better understand them and, if necessary, to use some
+form of restricted funding in order to make sure that GiveWell-sourced
+donations have a true effect on GiveWell-recommended activities.
+If we can do this, we feel our chances of finding more good giving
+opportunities are significant. By contrast, we are pessimistic about our
+chances of finding great charities by continuing ourbroad outreach; we have
+already examined a large number of the most promising charities and don’t
+see much potential in the majority of those that remain on our
+list. Therefore, we expect to spend more time in 2012 on intensive
+investigations of large charities working in priority areas than on broad
+outreach to many charities.
+
+Some caveats to this statement:
+
+• We want to maintain an “open door” for any demonstrably outstanding
+ organization, even if it doesn’t fit into our pre-defined priority areas.
+ We will likely raise the bar for what it takes to consider an organization
+ “promising” when it is outside of our priority areas, but we will maintain
+ a process by which any charity can submit information and be considered.
+ (Note that we’ve recently updated our charity submission form.)
+• There are a small number of charities that we are currently in the
+ process of investigating and find quite promising, despite not being in
+ priority interventions. We intend to continue these investigations and
+ conclude them by holiday season of 2012.
+• We expect to follow a 2011-style “examine many charities” strategy again
+ in the future. We want to make sure that we maintain a relatively up-to-
+ date understanding of what sorts of organizations are out there, and this
+ means casting a wide net periodically - just not necessarily every year.
+
+We hope to identify at least one new outstanding giving opportunity for
+individual donors in 2012
+
+
+
+
+=== Insurance Review ===
+
+        Review of insurance coverage for The Clear Fund aka GiveWell
+                          (3/28/2012 Board meeting)
+
+We currently have coverage for Directors  &  Officer  Liability,  Employment
+Practices, Internet Liability, Professional  Liability,  General  Liability,
+and Property through Philadelphia Insurance Companies.
+
+Our internal procedures state that we will  annually  review  the  need  for
+each of the following types of insurance.  I have included notes with each.
+
+    • Director and Officers liability.  We are covered.
+    • General liability. We are covered.
+    • Business travel (can protect against lost property, reimburse for
+      canceled flights, cover health expenses while traveling, etc.[1]).  We
+      have no general coverage. We have purchased trip-specific insurance in
+      the past.
+    • Fire/theft.  We have minimal Property insurance.  In addition, all
+      important records, as well as periodic (at least once per month)
+      backups of all of our website content, are maintained electronically
+      on our personal computers and backed up in real-time to a remote
+      server via the Carbonite service.
+    • Employee dishonesty (theft/embezzlement[2]).  We are not covered.
+    • Hired and non-owned auto.  We are not covered.
+    • Professional Liability ("protects professional practitioners such as
+      Architects, quantity surveyors, home inspectors, Lawyers, physicians,
+      and Accountants against potential negligence claims made by their
+      patients/clients.")[3]  We are covered.
+    • Employment practices.  We are covered.
+    • Business interruption.  We are not covered.
+    • Hurricane/flood.  See "Fire/theft" above.
+
+
+
+
+
+-----------------------
+[1] http://www.life123.com/career-money/career-development/business-
+travel/do-you-need-business-travel-insurance.shtml accessed 2/27/2010
+[2] http://www.naplia.com/employeedishonesty/index.shtml
+[3] http://en.wikipedia.org/wiki/Professional_liability_insurance accessed
+2/27/2010
+
+
+
+=== Other Formalities ===
+
+                Sundry items for The Clear Fund aka GiveWell
+                          (3/28/2012 Board meeting)
+
+Review of compensation arrangements and benefits; partnerships, joint
+ventures, and arrangements with management organizations
+
+Our bylaws state:
+
+      To ensure the corporation operates in a manner consistent with
+      charitable purposes and does not engage in activities that could
+      jeopardize its tax-exempt status, periodic reviews shall be conducted.
+      The periodic reviews shall, at a minimum, include the following
+      subjects:
+
+
+      a. Whether compensation arrangements and benefits are reasonable,
+      based on competent survey information, and the result of arm's-length
+      bargaining.
+
+
+      b. Whether partnerships, joint ventures, and arrangements with
+      management organizations conform to the corporation's written
+      policies, are properly recorded, reflect reasonable investment or
+      payments for goods and services, further charitable purposes, and do
+      not result in inurement, impermissible private benefit, or in an
+      excess benefit transaction.
+
+We maintain that
+    • Compensation arrangements and benefits are reasonable, based on
+      competent survey information, and the result of arm's-length
+      bargaining.
+    • We have no noteworthy partnerships, joint ventures, and arrangements
+      with management organizations.
+
+Roster of Officers and Directors. A roster of GiveWell's Officers and
+Directors follows.
+
+Tom Rutledge (Board Chair) is in the Structured Credit Group at Magnetar
+Capital, an Evanston, Illinois-based alternative investment manager. During
+his career, he has also worked in capital markets businesses at JPMorgan,
+Deutsche Bank, and Merrill Lynch.  He is located in Boston.
+
+Lindy Miller Crane (Board Vice-chair) is a Manager in the Global Corporate
+Development, Strategy and Innovation group at Deloitte. She has worked with
+community organizations, at the local and state government levels, and with
+international governmental organizations. In 2007 she launched and ran the
+South Asia office of the Abdul Latif Jameel Poverty Action Lab.  She is
+located in Atlanta.
+
+Ari Herman (Board Treasurer) is an Investment Analyst at a New York-based
+hedge fund. He previously worked in Equity Research at Goldman Sachs.  He
+is located in New York City.
+
+Greg Jensen (Director) is co-Chief Investment Officer at a major hedge
+fund, the former supervisor of both Holden and Elie, and one of our
+project's major financial supporters.  He is located in Ridgefield, CT.
+
+Tim Ogden (Director) is the former Chief Knowledge Officer of Geneva
+Global, a philanthropic consulting firm devoted to results-oriented
+grantmaking in the poorest regions of the world. He currently is an
+Executive Partner at Sona Partners and writes for Philanthropy Action, an
+online philanthropic research publication.  He is located in West Chester,
+PA.
+
+Fred Post (Director) is an Investment Associate at a major hedge fund. He
+is located in Greenwich, CT.
+
+Cari Tuna (Director) is the head of Good Ventures, a San Francisco-based
+charitable foundation. She is located in San Francisco, CA.
+
+Holden Karnofsky (Co-Executive Director and Board Secretary) graduated from
+Harvard in 2003 with a degree in Social Studies, and spent the next several
+years in the hedge fund industry. He co-founded GiveWell in mid-2007. He is
+located in New York City.
+
+Elie Hassenfeld (Co-Executive Director) graduated from Columbia in 2004
+with a degree in Religion, and spent the next several years in the hedge
+fund industry. He co-founded GiveWell in mid-2007. He is located in New
+York City.
+
+
+=== Financial Situation ===
+
+              GiveWell's financial situation as of January 2012
+
+Summary: we  are  in  a  strong  financial  position,  though  we  have  not
+triggered our reserves policy, even with  aggressive  projections  for  2012
+hiring. Our projection includes 4 new junior hires; we may have  as  few  as
+2. (Thus, our end of year  staff  projection  is  for  2  executives  and  7
+analysts, though we may have as few as 5 analysts.)
+
+                           2011 budget vs. actual
+
+|Category         |2011 Actual     |2011     |Notes                                             |
+|                 |                |Budget   |                                                  |
+|Payroll          |$299,690.00     |$295,592.|                                                  |
+|                 |                |00       |                                                  |
+|Bookkeeping      |$14,465.00      |$12,000.0|Monthly expenses rose to $1200                    |
+|                 |                |0        |                                                  |
+|Misc admin       |$12,914.00      |$5,000.00|See below                                         |
+|Developing world |$12,298.00      |$0.00    |3 staff to Malawi, 2 to India. Budget has been    |
+|trip             |                |         |added going forward.                              |
+|Rent             |$7,875.00       |$7,800.00|                                                  |
+|Website          |$6,036.00       |$5,000.00|                                                  |
+|development      |                |         |                                                  |
+|Insurance        |$5,555.00       |$2,109.00|Had under-budgeted; added general liability       |
+|                 |                |         |coverage                                          |
+|Pledge-raising   |$3,577.00       |$5,000.00|Google Grants allows more advertising on smaller  |
+|                 |                |         |budget                                            |
+|Audit fee        |$6,500.00       |$6,500.00|                                                  |
+|Total            |$368,910.00     |$339,001.|                                                  |
+|                 |                |00       |                                                  |
+|Revenue          |$738,159.00     |$459,482.|                                                  |
+|(unrestricted)   |                |00       |                                                  |
+
+"Misc admin" category included ~$5k in travel: 1 trip to SF,  2  to  Seattle
+to meet  Gates  Foundation,  Board  airfare  reimbursement,  relocation  for
+employee on work visa. Also included ~$1200  in  donation  processing  fees,
+~$1200 in payroll processing fees, ~$600  for  mailbox  rental,  ~$1200  for
+software, ~$1200 for telephone & internet.  Budget  for  this  category  has
+been raised going forward.
+
+
+                          Projected renewed revenue
+
+
+|Type                       |Range    |Likelihood of  |#        |Total    |
+|                           |         |renewal        |         |         |
+|Institution                |100k     |Decent         |2        |$200,000.|
+|                           |         |               |         |00       |
+|Individual                 |20k+     |Good           |5        |$195,000.|
+|                           |         |               |         |00       |
+|Individual                 |10k      |Good           |6        |$60,000.0|
+|                           |         |               |         |0        |
+|Individual                 |5k-9k    |Good           |8        |$51,000.0|
+|                           |         |               |         |0        |
+|Individual                 |2k-4500  |Good           |7        |$15,500.0|
+|                           |         |               |         |0        |
+|Individual                 |20k+     |Decent         |1        |$40,000.0|
+|                           |         |               |         |0        |
+|Individual                 |10k      |Decent         |2        |$20,000.0|
+|                           |         |               |         |0        |
+|Individual                 |5k-9k    |Decent         |3        |$15,000.0|
+|                           |         |               |         |0        |
+|Individual                 |2k-4500  |Decent         |0        |$0.00    |
+|Institution                |40k      |2012 only      |0        |$40,000.0|
+|                           |         |               |         |0        |
+|Individual                 |<2k      |Unknown        |0        |$72,351.1|
+|                           |         |               |         |9        |
+|Total: Institutions        |         |               |2        |$200,000.|
+|                           |         |               |         |00       |
+|Total: Individuals type 1  |         |               |27       |$321,500.|
+|(“Good”)                   |         |               |         |00       |
+|Total: Individuals type 2  |         |               |5        |$75,000.0|
+|(“Decent”)                 |         |               |         |0        |
+|Total (recurring)          |         |               |34       |$596,500.|
+|                           |         |               |         |00       |
+
+
+                         Projected expenses for 2012
+
+
+|                       |               |1Q 2012  |2Q 2012  |3Q 2012  |4Q 2012   |
+|Payroll: co-Executive  |               |$42,660.8|$42,660.8|$50,734.6|$50,734.63|
+|Directors              |               |8        |8        |3        |          |
+|Payroll: other         |3 analysts on  |$41,115.7|$60,967.4|$130,008.|$114,127.2|
+|                       |1/1/12; 1 more |0        |7        |69       |7         |
+|                       |added by       |         |         |         |          |
+|                       |4/1/12; 4 more |         |         |         |          |
+|                       |+ 2 interns    |         |         |         |          |
+|                       |added during   |         |         |         |          |
+|                       |summer         |         |         |         |          |
+|Office space           |Varies with #  |$2,703.68|$3,862.40|$5,986.72|$5,214.24 |
+|                       |employees      |         |         |         |          |
+|Site visits            |$20k/yr        |$5,000.00|$5,000.00|$5,000.00|$5,000.00 |
+|Other travel           |$10k/yr        |$2,500.00|$2,500.00|$2,500.00|$2,500.00 |
+|Misc admin             |$10k/yr        |$2,500.00|$2,500.00|$2,500.00|$2,500.00 |
+|Bookkeeping            |$1200/mo       |$3,600.00|$3,600.00|$3,600.00|$3,600.00 |
+|Website                |$10000/yr      |$2,500.00|$2,500.00|$2,500.00|$2,500.00 |
+|Pledge-raising         |$5000/yr       |$1,250.00|$1,250.00|$1,250.00|$1,250.00 |
+|Insurance              |Based on 2011  |$1,500.00|$1,500.00|$1,500.00|$1,500.00 |
+|                       |exp            |         |         |         |          |
+|Audit fee              |$6500 one-time |$0.00    |$0.00    |$6,500.00|$0.00     |
+|Total expenses         |$632,677.19    |$105,330.|$126,340.|$212,080.|$188,926.1|
+|                       |               |26       |75       |04       |4         |
+|Total revenues         |$636,500.00    |$53,500.0|$65,000.0|$100,000.|$418,000.0|
+|                       |               |0        |0        |00       |0         |
+|Reserves               |               |$720,642.|$659,301.|$547,221.|$776,295.5|
+|                       |               |47       |72       |68       |4         |
+|12-month-forward       |               |$625,496.|$700,572.|$692,729.|$692,729.1|
+|expenses               |               |77       |58       |18       |8         |
+
+
+
+=== 2012 compensation review ===
+
+                   GiveWell Executive-compensation Review
+
+Holden Karnofsky and Elie Hassenfeld propose that each of their salaries  be
+raised  from  $75,000.00  per  year  (plus  health  insurance  coverage)  to
+$90,000.00 per year (plus health insurance coverage).
+
+According to the Professionals for Nonprofits NY Salary Survey 2010,[1]  the
+salary for the position of Executive Director ranges  from  $80,000-$100,000
+for nonprofits with a budget of under $2 million  per  year,  and  $100,000-
+$120,000 for nonprofits with a budget of $2-5 million  per  year.  In  2011,
+GiveWell's operating expenses were $368,910 and  its  "money  moved"  figure
+was just over $5 million.
+-----------------------
+[1] http://www.nonprofitstaffing.com/getdoc/1694a3c7-201f-429d-b0a4-
+81ea3a016c61/PNP-Salary-Survey-2010---NY.aspx
+
+
+
+=== salary survey ===
+PNP New York, NY: 
+515 Madison Avenue 
+New Y ork, NY 10022 
+212.546.9091 (P) 
+212.546.9094 (F) PNP Newark, NJ: 
+One Gateway Center 
+Newark, NJ 07102 
+973.799.8555 (P) 
+973.799.8545 (F) PNP Washington, DC: 
+1629 K Street, NW 
+Washington, DC 20006 
+202.719.9600 (P) 
+202.719.9601 (F) 
+www.nonprofitstaffing.com NY SALARY SURVEY 2009 
+Annual Salary Survey of New Y ork City Nonprofits ISSUE ELEVEN 
+2010 PROJECTIONS 
+Organizations maintained salaries at 2008 
+levels during 2009, but project the 
+following regarding salaries in 2010:
+37% expect salaries to remain the same 
+17% salary increases of 1-2.5% 
+19% salary increases of 2.6-3% 
+9% salary increases of 3.1-5% 
+3% salary increases of 5.1-7% 
+7% salary increases of 7.1% plus 
+5% salary decreases 
+3% undecided 
+*     *     *     * 
+Organizations will be addressing hiring 
+needs in 2010 in the following areas: 
+61% will need fundraising staff  
+59% expect to hire program staff 
+33% seek marketing professionals 
+32% plan to add admin/office staff 
+18% want to hire finance staff 
+18% need more management talent 
+16% expect to hire IT staff 
+*     *     *     * 
+When asked about the impact of 2009 on 
+their organizations and their expectations 
+in 2010, respondents noted the following:
+93% think that the worst is over 
+76% expect a much better year in 2010        
+than in 2009 
+40% expect reduced revenues in 2010 but 
+with little negative impact 
+13% said their organizations will continue        
+to cut budgets in 2010 2009 SURVEY FINDINGS CHALLENGE AND OPPORTUNITY 
+The biggest challenges imaginable faced the nonprofit sector in 2009.  Although 
+some executives believe these challenges will continue into 2010, most feel 
+that, despite some continuing hardships, their organization’s future is brighter 
+than expected. 
+Our NY survey respondents reported a belief in the continuation of a slow and 
+gradual recovery and substantial opportunities for organizations that are able to adapt. 
+Nonprofit leaders understand that they need to be able to navigate through short 
+term challenges so that they can later take advantage of longer term opportunities. 
+It is important for an organization to position itself now for the next stage of the 
+recovering economy.  From our survey this year, it is evident that NY nonprofit 
+managers are doing exactly that.  A significant number of you have continued your 
+commitment to programs and services and are beginning to hire staff that was laid 
+off, filling vacancies, as well as adding new positions.   
+NY organizations, on the whole, maintained salaries at pre-2009 levels and, for 
+some specialties, increased compensation.  Fundraising salaries rose by about 10% and 
+high level finance salaries increased by about 7%. 
+Managers noted that it was difficult to find the talent they needed in the 
+marketplace so when they did, they paid a little more. Even when doing more with 
+less is the rule rather than the exception, hiring and maintaining outstanding talent is 
+still the most critical issue for every organization. 
+In year 2009, NY organizations also reported the following: 
+39% laid-off staff; 61% did not lay off any staff 
+50% froze salaries; 50% offered slight pay increases where appropriate 
+22% reduced benefits; 78% continued benefits as is  
+19% reduced programs; 81% continued to provide all programs & services 
+24% hired staff to fill critical vacancies 
+Temps now represent a large portion of overall employment.  It has become 
+impossible to work without a good reliable temp workforce to lean on. 3327 PNP SALARY SURVEY NY09:Layout 1  2/2/10  1:47 PM  Page 1
+
+ASSOCIATIONS, EDUCATION & ARTS ORGANIZATIONS 
+www.nonprofitstaffing.com 2009 NY NONPROFIT SALARY RANGES 
+Operating Budget: Under $2M $2.1-5M $5.1-10M $10.1-20M $20.1-50M $50M + 
+MANAGEMENT &  ADMINISTRATION 
+CEO/President NA 140-160K 160-200K 200-250K 250-280K 280-350K 
+Executive Director 80-100K 100-120K 120-160K 160-200K 200-250K 250-275K 
+Chief Operating Officer NA 90-120K 120-140K 140-160K 160-170K 170-200K 
+VP/Dir of Human Resources NA 80-90K 90-100K 100-110K 110-120K 120-140K 
+Office Manager 50-60K 50-60K 60-70K 60-70K 70-80K 70-80K 
+Executive Assistant 40-50K 50-60K 50-60K 60-70K 70-80K 70-80K 
+Administrative Assistant 35-45K 40-50K 40-50K 40-50K 50-60K 50-60K 
+FINANCE 
+CFO/VP of Finance NA 80-120K 120-140K 140-160K 160-180K 180-200K 
+Dir of Finance 60-80K 80-90K 90-100K 100-120K 120-140K 140-160K 
+Controller 60-70K 70-80K 80-90K 90-100K 100-120K 120-140K 
+Staff Accountant 50-60K 60-70K 60-70K 70-80K 70-80K 80-90K 
+Bookkeeper 40-50K 40-50K 50-60K 60-70K 60-70K 60-70K 
+FUNDRAISING 
+VP/Chief Development Officer NA 100-120K 120-140K 140-160K 160-180K 180-220K 
+Dir of Development 70-80K 80-100K 100-120K 120-140K 140-160K 160-180K 
+Dir of Major Gifts NA 80-90K 80-100K 100-120K 120-140K 140-160K 
+Dir of Fdn/Corp Giving NA 70-80K 80-90K 90-100K 100-120K 120-140K 
+Development Officer NA 60-70K 70-80K 80-90K 90-100K 100-110K 
+Dir of Special Events NA 70-80K 80-90K 90-100K 100-110K 110-120K 
+Grants Writer 40-50K 50-60K 60-70K 70-80K 80-90K 80-90K 
+Development Associate 40-50K 40-50K 50-60K 50-60K 60-70K 60-70K 
+Development Assistant 35-40K 35-45K 40-50K 40-50K 50-60K 50-60K 
+PUBLIC RELATIONS & MARKETING 
+VP of PR/Marketing NA 70-80K 80-100K 100-120K 120-140K 140-160K 
+Dir of PR/Marketing 50-60K 60-70K 70-80K 80-90K 90-100K 100-120K 
+PR/Marketing Associate 40-50K 40-50K 50-60K 60-70K 60-70K 70-80K 
+PROGRAMS & EDUCATION 
+VP of Programs/Education NA 70-80K 80-100K 100-120K 120-140K 140-160K 
+Dir of Programs/Education 50-60K 60-70K 70-80K 80-90K 90-100K 100-120K 
+Program/Education Associate 40-45K 40-50K 50-60K 60-70K 60-70K 70-80K 
+IT & DATABASE MANAGEMENT 
+VP/Dir of IT NA 70-80K 80-90K 90-100K 100-120K 120-140K 
+Network Administrator 45-60K 50-60K 60-70K 70-80K 70-80K 80-90K 
+Database Manager 40-50K 40-50K 50-60K 60-70K 60-70K 70-80K 3327 PNP SALARY SURVEY NY09:Layout 1  2/2/10  1:47 PM  Page 2
+
+www.nonprofitstaffing.com SOCIAL SERVICES, HEALTH CARE & INTERNATIONAL ORGANIZATIONS 2009 NY NONPROFIT SALARY RANGES 
+Operating Budget: Under $2M $2.1-5M $5.1-10M $10.1-20M $20.1-50M $50M + 
+MANAGEMENT &  ADMINISTRATION 
+CEO/President NA 140-160K 160-200K 200-240K 240-280K 280-350K 
+Executive Director 80-100K 100-120K 120-160K 160-180K 180-200K 220-300K 
+Chief Operating Officer NA 90-120K 120-140K 140-160K 160-180K 180-220K 
+VP/Dir of Human Resources NA 80-90K 90-100K 100-110K 110-120K 120-140K 
+Office Manager 40-50K 50-60K 50-60K 60-70K 60-70K 70-80K 
+Executive Assistant 40-50K 50-60K 50-60K 60-70K 70-80K 70-80K 
+Administrative Assistant 35-45K 40-50K 40-50K 40-50K 50-60K 50-60K 
+FINANCE 
+CFO/VP of Finance NA 90-120K 120-140K 140-160K 160-180K 180-220K 
+Dir of Finance 60-80K 80-100K 100-120K 120-140K 140-160K 140-160K 
+Controller 60-70K 70-80K 80-100K 100-110K 110-120K 120-140K 
+Staff Accountant 50-60K 60-70K 70-80K 70-80K 80-90K 80-90K 
+Bookkeeper 40-50K 40-50K 50-60K 60-70K 60-70K 60-70K 
+FUNDRAISING 
+VP/Chief Development Officer NA 100-120K 120-140K 140-160K 160-180K 180-220K 
+Dir of Development 70-80K 80-100K 100-120K 120-140K 140-160K 160-180K 
+Dir of Major Gifts NA 80-90K 80-100K 100-120K 120-140K 140-160K 
+Dir of Fdn/Corp Giving NA 60-80K 80-90K 90-100K 100-120K 120-140K 
+Development Officer     NA 70-80K 80-90K 90-100K 100-110K 100-110K 
+Dir of Special Events NA 70-80K 80-90K 90-100K 100-110K 110-120K 
+Grants Writer 40-60K 60-70K 60-70K 70-80K 80-90K 80-90K 
+Development Associate 40-50K 40-50K 50-60K 50-60K 60-70K 60-70K 
+Development Assistant 35-40K 40-50K 40-50K 40-50K 50-60K 50-60K 
+PUBLIC RELATIONS & MARKETING 
+VP of PR/Marketing NA 70-80K 80-100K 100-120K 120-140K 140-160K 
+Dir of PR/Marketing 50-60K 70-80K 70-80K 80-90K 90-100K 100-120K 
+PR/Marketing Associate 40-50K 50-60K 60-70K 60-70K 60-70K 70-80K 
+PROGRAMS & EDUCATION 
+VP of Programs/Education NA 70-80K 80-100K 100-120K 120-140K 140-160K 
+Dir of Programs/Education 50-60K 60-70K 70-80K 80-90K 90-100K 100-120K 
+Program/Education Associate 40-45K 40-50K 50-60K 60-70K 60-70K 70-80K 
+IT & DATABASE MANAGEMENT 
+VP/Dir of IT NA 70-80K 80-90K 90-100K 100-120K 120-140K 
+Network Administrator 45-60K 60-70K 60-70K 70-80K 70-80K 80-90K 
+Database Manager 40-50K 40-50K 50-60K 60-70K 60-70K 70-80K 3327 PNP SALARY SURVEY NY09:Layout 1  2/2/10  1:47 PM  Page 3
+
+PNP New York, NY: 
+515 Madison Avenue 
+New Y ork, NY 10022 
+212.546.9091 (P) 
+212.546.9094 (F) PNP Newark, NJ: 
+One Gateway Center 
+Newark, NJ 07102 
+973.799.8555 (P) 
+973.799.8545 (F) PNP Washington, DC: 
+1629 K Street, NW 
+Washington, DC 20006 
+202.719.9600 (P) 
+202.719.9601 (F) 
+www.nonprofitstaffing.com MYTHS & REALITIES 
+In 2010, managing human capital will be a top priority. As organizations position 
+themselves to compete for resources, hiring and retaining the best staff may be the 
+difference between an organization’s success or failure. 
+Myth:  No need to worry about staff retention – no one is going anywhere. 
+Reality: High performing staff, a limited resource, is always hard to find.  Competition for 
+top talent between similar organizations is fierce.  Retaining the best staff is an ongoing 
+effort that cannot be presumed.  
+Myth: Candidate rich market means that I will be able to find the talent I need. 
+Reality: As the economy continues to improve, pent up demand for top performers will 
+prevail and the best candidates will be hired quickly.  There are never enough high 
+performers in the marketplace.    
+Myth: Keeping salaries low is expected in this economy. 
+Reality: Retaining top staff requires that salaries remain competitive within the sector or 
+your best staff will leave to another organization where salaries are higher.  If you lose 
+good staff, the cost to your organization is enormous.    
+Myth: Putting off hiring key staff will save us money. 
+Reality: The truth is that putting off hiring the staff you need only postpones programs 
+and services and promotes missed opportunities to hire incredible employees.  If you wait 
+too long, someone else will hire the best staff and not you.    
+Myth: Doubling up on jobs is an efficient way to get through the year. 
+Reality: One of the most inefficient ways to run an organization is to double up on jobs 
+producing poor work, low morale, and a very tired team.  
+Myth: Staffing contracts are only for very large organizations that hire many temps. 
+Reality: Low cost contracts are available to both large and small organizations regardless 
+of the number of temps needed by an organization. 
+Myth: There is no way to reduce risk when hiring a new employee.   
+Reality:  PNP’s one year guarantee on any Direct Hire placement reduces the risk you 
+take when hiring a new employee.  
+Myth: Finding an Interim Executive is difficult, time consuming, and not essential.   
+Reality:  An organization’s ability to function well is impacted when major transitions 
+occur.  Having the right Interim Executive can make that transition smooth and 
+productive, and PNP’s roster of available executives makes it easy. 
+We thank Ventureneer/Stengel Solutions for producing our survey.  ABOUT PNP 
+An expert in the unique staffing needs of 
+nonprofits, PNP is the only recruiting firm 
+providing a full array of staffing services 
+exclusively to the sector. 
+With our vast network of experienced job 
+seekers and our rigorous screening 
+process, we deliver results by finding the 
+right hiring fit for every search.  
+PNP offers executive leaders and middle 
+managers and support staff in: 
+•  Fundraising 
+•  Marketing 
+•  Finance 
+•  Human Resources 
+•  Programs 
+•  Information T echnology 
+•  Administration and Office Support 
+TEMP SERVICES 
+•  Temps – hourly, day of, and long term 
+•  Interim Execs – leaders and managers 
+for smooth transitions 
+•  Temps to Hire – reduce hiring risks 
+•  Consultants – specialized expertise 
+DIRECT HIRE SERVICES 
+•  Direct Hires – contingency searches 
+with one year guarantees 
+•  Fast Tracks – low cost search options 
+MANAGED STAFFING 
+•  Payroll Services – add employees 
+to PNP’s payroll and reduce costs 
+•  Contract Services – customized 
+agreements for the most cost efficient 
+staffing solutions 3327 PNP SALARY SURVEY NY09:Layout 1  2/2/10  1:47 PM  Page 4
+
+=== Agenda ===
+
+                        Clear Fund Board of Directors
+                        Meeting Agenda for 3/28/2012
+
+1. Introductions.  5 minutes.
+
+   2. Insurance review and sundry items. 15 minutes.  See Attachments B and
+   C.
+
+
+   3. Budget review.  Allow 30 minutes.  See Attachment D.
+
+
+ • 2011 expenses were roughly in line with what was budgeted.
+
+
+   4. Annual review and plan. Allow 1 hour. See Attachment A.
+
+
+   Staff asserts that
+ • We made substantial progress on all fronts.
+ • We identified two outstanding "top charities." Our 2011 "money moved" was
+   just over $5 million, well in excess of 9 times our operating expenses.
+ • Our top priorities for 2012 are (a) developing GiveWell Labs, a new arm
+   of our research process that is open to any giving opportunity, no matter
+   what form and what sector; (b) finding more "room for money moved" in top
+   charities, focusing on global health and nutrition; (c) expanding
+   capacity through recruiting and training.
+ • Other key priorities include (a) regular updates on the charities we have
+   moved the most funding to; (b) deeply investigating research questions
+   that are particularly important to us, such as the risks of population
+   growth and the benefits of deworming; (c) updating our research on
+   disaster relief; (d) raising any funding needed to finance the expansion
+   of our team; (e) continuing outreach efforts.
+
+
+   5. Compensation review.  Allow 1 hour.  See Attachments E and F.
+
+   Staff proposes salaries of $90,000.00 each for Elie Hassenfeld and Holden
+   Karnofsky.
+
+                    Total projected meeting time: 3 hours
+
+Attachments:
+   A. Annual report (also available at http://www.givewell.org/about/self-
+      evaluation#Mostrecentselfevaluation)
+   B. Insurance review
+   C. Other items
+   D. Financial update
+   E. Compensation review
+   F. Salary survey
+
+
+Generate a comprehensive summary (approximately 1000 words):

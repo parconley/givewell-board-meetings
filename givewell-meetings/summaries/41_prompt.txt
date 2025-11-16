@@ -1,0 +1,463 @@
+Based on the following board meeting documents for a GiveWell Board Meeting held on May 28, 2020, generate a comprehensive ~1000-word summary that acts as a professional brief.
+
+The summary should cover:
+- Key decisions made and votes taken
+- Important discussions and debates
+- Financial/budget information with specific numbers
+- Strategic direction or policy changes
+- Personnel or organizational changes
+- Any significant outcomes or action items
+
+Keep the tone professional and factual. Focus on substance over process. Be specific with numbers, names, and decisions.
+
+Meeting Documents:
+=== Minutes ===
+Minutes for the February 27, 2020 Meeting of The Clear Fund (dba GiveWell) Board of Directors  A meeting of the Board of Directors ("Board") of The Clear Fund dba GiveWell ("GiveWell") was held on February 27, 2020 at 1:30 pm Pacific Time. Notice was duly and timely given to each member of the Board.  The following members of the Board were present (in person unless otherwise noted):  • Elie Hassenfeld • Holden Karnofsky • Tim Ogden (Chair) • Cari Tuna • Julia Wise  The following individuals were also present:  • Whitney Shinkle, Board Advisor and Director of Operations, GiveWell • Buddy Shaw, Board Advisor and incoming Managing Director, GiveWell   Tim called the meeting to order.  2019 Review and 2020 Plans  Elie led a review of GiveWell’s 2019 achievements and plans for 2020 (Attachments A-C). Topics included, but were not limited to:   • Research staff management and recruitment • Donor surveys and engagement • The 2019 mini metrics report • GiveWell’s operations team • How to find new giving opportunities  Administrative Items  Whitney led a discussion of the Board’s approach to and engagement with GiveWell’s decision-making processes, including alternative decision-making approaches the Board might adopt.  Board Votes  Whitney introduced, and the Board voted jointly on, a proposal to approve the prior meeting’s minutes (Attachment D).  
+
+ The vote passed unanimously. 
+
+=== Minutes ===
+Minutes for the May 28, 2020 Meeting of The Clear Fund (dba GiveWell) Board of Directors  A meeting of the Board of Directors ("Board") of The Clear Fund dba GiveWell ("GiveWell") was held on May 28, 2020 at 2:00 pm Pacific Time, via conference call. Notice was duly and timely given to each member of the Board.  The following members of the Board were present (all by video conference):  • Tim Ogden • Holden Karnofsky • Elie Hassenfeld • Cari Tuna • Julia Wise  The following individuals were also present (all by video conference):  • Norma Altshuler, Board Advisor and prospective member of The Clear Fund’s Board • Whitney Shinkle, Board Advisor and Director of Operations, GiveWell • Buddy Shaw, Board Advisor and Managing Director, GiveWell  • Stephanie Stojanovic, Major Gifts Officer, GiveWell • Jim Bobowski, VP of Marketing, GiveWell  Tim called the meeting to order.  2020 Outreach Plan  Elie introduced GiveWell’s outreach goals (Attachment A) for 2020. Jim and Steph reviewed their 2020 plans for marketing (Attachment B) and major gifts (Attachment C) respectively. Each topic was followed by Q&A with the Board.   Coronavirus update  Elie led a discussion of the impact of the COVID-19 pandemic on GiveWell’s work, plans, and financial projections (Attachments D and E).  Board Votes  Whitney introduced, and the Board voted on, two items.   1. Resolution to grant the CEO authorization to approve up to $1,000,000 in grants without Board approval (Attachment F). 
+
+2. Approval of the minutes from the previous meeting of the Board on February 27, 2020 (Attachment G).   Both votes passed unanimously. 
+
+=== Attachment A ===
+GiveWell's   outreach   goals   
+  
+Our   long-term   goal   has   been   to   reach   $100   million   money   moved   (excluding   Open   Philanthropy   
+donations   to   our   recommendations)   by   the   end   of   giving   season   2022   (i.e.,   January   31,   2023).   1
+  
+The   "For   charities"   line   below   is   where   we   show   our   target   progression   towards   that   goal.   We   
+also   need   to   continue   to   raise   unrestricted   funds   for   GiveWell   so   that   we   can   grow   our   budget   to   
+enable   us   to   reach   our   money   moved   goal.   
+  
+  
+  
+Definitions:   
+  
+●Total   money   raised:    This   includes   operating   funding,   money   given   to   GiveWell   for   
+regranting,   and   money   given   directly   to   charities   that   we   count   as   money   moved.   
+Excludes   Open   Philanthropy   donations   to   GiveWell's   recommendations.   Includes   Open   
+Philanthropy   support   of   GiveWell's   operations.   
+●For   charities:   money   we   raise   that   goes   to   charities   for   their   work.   
+●Unrestricted   to   GiveWell:   money   we   primarily   use   to   support   our   operations   but   which   we   
+also   may   regrant.   
+●Incremental   funds   raised:   additional   money   raised   in   each   year,   both   unrestricted   and   for   
+charities.   We   assume   that   we   will   continue   to   retain   approximately   100%   of   dollars   
+donated   from   year   to   year,   so   to   increase   money   moved,   we   have   to   add   new,   
+incremental   dollars.   
+●Fundraising:   additional   money   raised   by   the   Fundraising/Major   Gifts   team   
+●Marketing:   additional   money   raised   by   the   Marketing   team   
+1  See   Attachment   A   from   our   February   2020   board   meeting.     2020   2021   2022   
+        
+For   charities   $68.4   $80.5   $102   
+Unrestricted   to   GiveWell   $19.0   $16.0   $19.0   
+        
+Total   raised   $87.4   $96.5   $121.5   
+        
+Incremental   funds   raised         
+Fundraising   $4.0   $6.4   $10.6   
+Marketing   $1.4   $2.4   $3.3   
+Unattributed/organic   $7.0   $9.3   $11.0   
+
+●Unattributed/organic:   additional   money   raised   that   is   not   directly   attributable   to   the   
+fundraising   or   marketing   teams.     
+  
+Notes:   
+●Our   2020   targets   include   two   large   donations   (two   separate   $8m   donations   that   we   
+received   already).   We   project   $5m   of   these   donations   recurring   in   the   future,   and   this   
+explains   the   fall   in   unrestricted   funding   to   GiveWell   from   $19   million   to   $16   million   
+between   2020   and   2021.   
+  
+  
+We   break   this   down   by   team   as   follows:   
+  
+  
+    2020   2021   2022   
+Active   fundraising         
+        
+Major   gifts   $3.0   $5.0   $9.0   
+Mid-level   retention   $0.5   $0.7   $0.8   
+Mass-market   retention   $0.5   $0.7   $0.8   
+        
+Active   marketing         
+        
+Advertising   $1.1   $2.0   $3.0   
+Funnel   (i.e.,   website   improvements)   $0.3   $0.5   $0.3   
+        
+Funds   that   come   in   without   new,   proactive   effort         
+        
+Unexpected   ultra   high   net   worth   $2.0   $2.5   $3.0   
+Unattributed/organic   $5.0   $6.8   $8.0   
+        
+Total   restricted   $68.4   $80.5   $102   
+Total   unrestricted   $19.0   $16.0   $19.0   
+        
+$   we've   received   that   we   don't   expect   to   repeat   $6.0   -   -   
+        
+Total   $87.4   $96.5   $121.5   
+
+=== Attachment B ===
+GiveWell 2020 marketing plan overview Summary  Marketing is new for GiveWell. We hired our first marketing lead in November 2019.  This year, we're focused on four main areas: ● Paid advertising ● Donor research ● Site improvements ● Performance measurement  Overall, we expect this work to move $1.5 million additional in 2020.  We don't plan to add many full-time staff to the marketing team this year. We plan to rely on vendors to provide additional capacity. Paid advertising Our goal is to build a paid marketing operation that directs significantly more money to GiveWell and our recommendations than we spend.   This year, we're moving towards this by (a) continuing to assess how much we can successfully invest in podcasts, the channel that has worked in the past and (b) get early indications of our potential ability to move money via new channels.  ● Advertising where we expect a high return. We successfully advertised on podcasts in 2019. We spent $180K and tracked ~$571K from new donors in 2019. We plan to spend $540k in giving season 2020 and aim to return $890k in first-year donations.1 ● Experimental advertising. We plan to test (a) podcast advertising outside of giving season and (b) other advertising channels (e.g., Facebook, search, retargeting2, YouTube) to see if they yield reasonable returns. We currently expect to spend $400k and return $200k in first-year donations. The results of these experiments will dictate which channels we spend more on in the future.   1 Based on past experience, we roughly estimate that approximately 90% of dollars given in year 1 recur in future years. For example, if donors give $100 in year 1, we roughly estimate that they will continue to give $90 in each subsequent year. 2 This article explains what retargeting is: https://blog.hubspot.com/marketing/retargeting-campaigns-beginner-guide. 
+
+Research We are conducting research with existing donors and non-donors to better understand how they view GiveWell, our website, and how they make their charitable giving decisions. This research will help shape our messaging, lead to site improvements, and help with our long-term strategic positioning. We have linked the documents below. So far, this research has not surprised us but has helped us prioritize changes.   Completed Research ● Customer satisfaction survey [Redacted] ● Donor deeper research [Redacted] ● User experience (i.e., visiting the website for the first time) research  Future Research Projects ● Non-donors - June ● Positioning - July ● Additional UX - July Site improvements Using the above, we plan to make improvements to the GiveWell website to increase visitors' ability to understand what we do, why they should trust our research/process, and lead more potential donors to make donations to GiveWell. We aim to make improvements that increase the amount of money we receive by $250,000 in 2020. Performance measurement We have a reasonable, though suboptimal, ability to measure the performance of our marketing work. We don't have high-quality estimates for what it costs us to acquire a new donor via paid marketing, nor do we have high-quality estimates of the amount a donor is likely to give over time. Knowing these values will provide a way to determine the right amount of money to spend on marketing to maximize donations. A note on team building Our marketing team currently consists of a VP of Marketing, a Head of Growth, a Marketing Associate and a Technical Project Manager. We plan to mostly use vendors and consultants to meet our needs until we're confident we should hire full-time staff.   We may hire some additional staff in 2020, but we are most likely to hire new staff once we determine which channels we are most likely to invest in in 2021 and beyond. 
+
+=== Attachment B ===
+User   Experience   Research   |   April   &   May   2020   
+  
+We   conducted   research   on   how   new   visitors   engaged   with   GiveWell’s   site.   The   goal   was   to   
+identify   the   challenges   that   new   visitors   have   on   GiveWell’s   website.   From   this,   we’ll   work   with   
+our   researcher   and   designer,   Erik   Kennedy,   to   redesign   problematic   pages   on   the   site   to   
+improve   conversions.     
+  
+We   found   interview   subjects   by   asking   donors   to   introduce   us   to   their   friends   who   they   think   
+might   be   interested   in   GiveWell,   but   are   unfamiliar   with   GiveWell   (have   not   donated,   have   not   
+visited   the   site).   We   screened   donors   to   check   that:   
+●They   were   not   overly   familiar   with   GiveWell   or   Effective   Altruism  
+●They   had   donated   over   $300   in   the   past   year   
+  
+Erik   conducted   interviews   via   Zoom.   We   worked   with   Erik   to   design   a   script   for   him   to   walk   
+donors   through.   After   a   set   of   preliminary   questions,   he   assigned   them   tasks   on   the   website.   
+They   narrated   their   thoughts   as   they   used   the   site,   and   Erik   would   ask   clarifying   questions   
+during   the   interview   so   we   best   understood   how   users   approached   problems.   
+  
+Erik   has   completed   the   first   round   of   research,   which   consisted   of   six   interviews.   You   can   read   
+Erik’s   notes   [Redacted].   We   also   recorded   all   interviews   on   Zoom.   You   can   watch   the   full   
+interviews   (or   subsets   of   clips)   here:   
+  
+Full   interviews   [Redacted]   
+Clips   compiled   by   theme   [Redacted]   
+●Introductions   to   participants     
+●Users   understand   impact   maximization,   but   are   not   compelled   
+●Users   rarely   read   the   homepage   
+●Users   are   looking   for   a   personal   connections   
+●Users   want   to   compare   top   charities,   but   can’t   
+●Users   assume   that   GiveWell   recommends   more   charities   than   the   Top   
+charities,   but   can’t   find   them   
+●Users   don’t   want   to   engage   with   text-heavy   content   
+●Users   trusted   GiveWell   
+●Miscellaneous   clips   
+Compilation   of   all   clips   (43   min)   [Redacted]   
+  
+While   this   may   seem   like   a   small   number,   very   clear   themes   emerged   from   this   work.   The   next   
+step   is   for   Erik   to   begin   work   on   designs   derived   from   these   insights.     
+  
+Erik   will   be   presenting   his   research   at   the   upcoming   Outreach   Meeting.   We’ll   share   his   
+presentation   with   the   team   afterwards.     
+
+=== Attachment C ===
+Donor   Retention   Plan   2020     
+  
+Background 1   
+2020   donor   retention   structure 1   
+Broad   2020   goals 2   
+Plans/activities   to   achieve   2020    goals 2   
+Each   domain 2   
+Pipeline   development 3   
+  
+Background   
+In   April   2019   we   started   a   major   gifts   program   to   test   whether   more   traditional   relationship   building   
+and   solicitation   frameworks   would   work   with   GiveWell   donors.     
+  
+Following   promising   results   in   2019   (securing   just   over   $1,000,000   in   incremental   donations),   we   
+decided   to   ramp   up   major   gifts   work   and   build   out   donor   retention   programs   at   lower   levels   of   
+giving.   The   main   argument   in   favor   of   building   out   donor   retention   programs   at   lower   levels   of   
+giving   is   that   the   donor   pyramid   works   as   a   pipeline–it   often   takes   3-4   years   of   giving   at   lower   
+levels   and   building   a   relationship   with   GiveWell   before   a   donor   makes   their   first   major   gift.   We   
+cannot   risk   losing   too   many   lower-level   donors   due   to   poor   retention   rates.     
+2020   donor   retention   structure   
+  
+  
+STAFF DONORS APPROACH   
+Give   ~$50k+ 1:1   relationships   
+~350   donors     
+~70%   of   dollars   
+  
+  
+Give   ~$10-50k Modest   1:1   relationship     
+~1,000   donors   
+~20%   of   dollars   
+  
+  
+Give   ~$10k   and   less 1:Many   relationship     
+~44,000*   donors     
+~10%   of   dollars   
+  
+
+
+  
+*You   may   be   thinking:   I   thought   we   had   over   50,000   donors!   Why   are   there   fewer   donors   in   the   retention   
+program?   Answer:   we   can   only   include   ‘contactable’   donors   in   our   retention   program   as   we   have   to   be   able   
+to   contact   a   donor   to   be   able   to   influence   their   giving.   As   such,   we   have   removed   all   anonymous   donors   
+and   donors   without   emails   or   addresses   from   our   denominator   (as   well   as   those   who   have   actively   opted   
+out   of   hearing   from   us).   We   are   also   mainly   focused   on   donors   who   give   via   GiveWell   (not   direct   to   charity)   
+in   this   first   year   of   the   program.   Direct   to   charity   donors   may   become   a   larger   focus   in   later   years.     
+  
+Broad   2020   goals   
+1.Increase   engagement   opportunities   for   current   donors   and   build   greater   loyalty/affinity   with   
+GiveWell.     
+2.Increase   incremental   money   moved   from   current   donors:   
+○Major:   $3,000,000   
+○Mid:   $500,000   
+○Mass:   $500,000   
+  
+Plans/activities   to   achieve   2020   goals   
+Each   domain   
+    Better   engagement   Incremental   dollars   
+Major   Ensure   gift   officers   work   their   
+engagement   plans .   Gift   officers   have   a   12   
+month   engagement   plan   for   each   donor   in   
+their   portfolio.   Through   monthly   reporting   on   
+gift   officer   activity,   we   will   ensure   that   each   
+plan   is   being   executed   and   donors   are   
+being   actively   engaged   with   each   month.     
+  
+Launch   GiveWell   Council .   We   plan   to   
+launch   GiveWell   Council   (name   TBC)   so   
+that   major   donors   have   a   volunteer   
+opportunity.   The   charter   for   the   council   is   to   
+help   GiveWell   attract   and   grow   its   
+supporter-base,   so   they   will   explicitly   be   
+charged   with   helping   outreach   initiatives.     Create   specific   giving   opportunities .   We   
+will   be   pitching   top   charity   gaps   (for   example,   
+country   gaps),   incubation   grants,   and   seeking   
+funding   for   special   projects   like   matching   
+campaigns   for   marketing   channel   and  
+messaging   testing.We   will   explicitly   highlight   
+fungibility   with   donors.     
+  
+Plan   and   make   enough   incremental   asks.   
+Our   assumption   is   that   we   will   ‘close’   about   
+50%   of   asks   and   about   25%   of   total   dollars   
+(some   donors   agree   to   the   ask,   but   end   up   
+making   a   smaller   gift   than   asked).   We   
+currently   have   ~$15m   in   asks   planned   for   
+2020.   Plans   will   shift   throughout   the   year.     
+Mid   Monthly   personal   engagement.    Send   
+monthly   emails   with   information   about   
+GiveWell’s   research   and   top   charities.     
+  Personally   solicit   all   donors   at   year-end.   
+Send   solicitations   at   year   end.     
+
+  
+Pipeline   development   
+Pipeline/pyramid   development   is   an   important   priority   across   all   domains.   In   2020   we   plan   to:   
+  
+1.Fast   track   donors   up   the   pipeline.    As   a   result   of   deeper   engagement,   we   hope   to   learn   
+more   about   our   donors   and   identify   top   candidates   to   ‘fast   track’   up   the   pipeline.   We   plan   
+to:   
+a.Research    new   donors   via   publicly   available   information   and   identify   those   with   
+higher   giving   capacity.   
+b.Validate    donors   through   calls/meetings   to   move   donors   with   high   capacity   and   
+high   affinity   into   mid-level   and   major   gift   portfolios.     
+  
+2.Identify   new   major   donor   prospects .   As   we   have   limited   capacity   for   prospecting   work,   
+we   plan   to   use   the   following   strategies   opportunistically   as   they   arise   in   2020:     
+a.Referrals    are   a   strong   source   of   new   high-capacity   prospects.   We   plan   to   work   
+with   the   GiveWell   Council   and   donors   in   major   gift   portfolios   to   seek   personal   
+referrals   of   friends,   family   and   corporate   connections.   
+b.Partner   with   select   institutions .   While   we   don’t   have   the   capacity   to   roll   out   an   
+institutional   giving   program,   there   are   a   handful   of   aligned   companies,   wealth   
+advisors   and   peer   organizations   like   Founders   Pledge   and   Effective   Giving   that   
+reach   out   to   us   and   are   good   sourcing   partners   for   GiveWell.   We   will   ensure   that   
+there   is   capacity   to   develop   these   relationships.   
+  
+Detailed   metrics   and   progress   
+Available   here   [REDACTED].     
+  Year-end   personal   engagement.    Offer   
+year-end   calls   to   discuss   GiveWell’s   
+recommendations   and   answer   questions.     
+Mass   Personalize   engagement.    Segment   donors   
+based   on   past   behavior.   Move   to   donor-   and   
+benefit-focused   communications.   
+  
+Send   year-round   communications.    Plan   a   
+consistent   flow   of   communication   that   starts   
+out   thanking   donors,   moves   on   to   cultivating   
+them   with   impact   stories,   and   finally   solicits   
+them   with   a   compelling   ask.     Test   messaging   and   calls   to   action.    Tests   
+include   recurring   gift   messaging,   matching   
+gifts,   funding   gaps,   etc.     
+  
+  
+Solicit   donors   throughout   the   year.    Create   
+urgency   outside   of   year-end   to   seek   multiple   
+gifts   or   shift   donors   to   give   ahead   of   cycle.   
+Tests   include   integrating   with   marketing   
+campaigns,   using   external   events   (e.g.   World   
+Malaria   Day),   quarterly   allocations,   etc.   
+
+=== Attachment D ===
+  
+COVID-19   Effects   on   GiveWell   
+Summary   
+  
+This   is   a   short   document   covering   the   major   ways   in   which   COVID-19   has   affected   GiveWell   
+and   our   2020   plans.   
+  
+COVID-19   has   had   major   effects   on   where   we   work   (all   remotely)   and   has   modestly   reduced   the   
+amount   of   time   many   staff   (especially   parents)   can   work,   but   we   don't   expect   it   to   have   major   
+effects   on   GiveWell's   plans   for   2020   or   the   future.   
+Operating   Funding   
+  
+GiveWell   has   a   substantial   amount   of   operating   reserves,   and   we   expect   that   the   operating   
+funding   we   receive   in   2020   will   cover   our   growing   expenses.   Given   our   fundraising   expectations   
+and   reserves,   we   plan   to   operate   in   2020   as   we   planned   to   before   COVID-19.   
+  
+Attachment   E   provides   more   detail.   In   short,   we   currently   project   raising   $13.4   million   in   2020   
+and   spending   $11.2   million.   In   a   severely   negative   scenario,   we   anticipate   raising   $8.5   million.   
+We   currently   hold   $17   million   in   reserves.   
+Research   
+●COVID-specific   research.    Two   staff   members   are   now   working   full-time   on   
+COVID-19-related   research   and   grantmaking.   We   expect   this   to   continue   for   at   least   
+another   6   weeks   but   it   may   end   after   that.   As   of   May   12th,   we   have   made   three   grants   to   
+COVID-19-specific   projects .     
+●Top   charities.    We   expect   that   our   top   charities   will   have   less   room   for   more   funding   in   
+2020   than   they   otherwise   would   have   because   COVID   has   slowed   their   ability   to   run   
+programs.     
+●New   opportunities.    COVID   has   slowed   our   work   looking   for   new   top   charities   and   new   
+giving   opportunities   in   public   health   regulation   because   organizations'   work   has   been   
+disrupted.   We're   in   close   contact   with   the   most   promising   organizations   so   that   we   can   
+resume   our   research   when   possible.   There   are   some   organizations   (e.g.,   New   
+Incentives,   where   we   recently   received   results   from   an   RCT   we   funded   of   its   work)   
+where   our   evaluation   can   go   ahead   notwithstanding   COVID.   
+Outreach     
+Major   Gifts   and   the   donor   retention   team   are   in   the   process   of   contacting   our   major   donors   to   
+understand   the   extent   to   which   COVID   will   affect   their   giving   plans   in   2020.   Overall,   the   donors   
+they   have   talked   to   have   said   that   COVID   will   not   have   a   major   effect   on   their   giving.     
+
+  
+Our   marketing   work   is   new,   and   we   have   relatively   little   basis   on   which   to   make   projections.   
+Based   on   the   data   the   retention   team   has   gathered   and   the   fact   that   GiveWell   donors   are   
+continuing   to   give,   we   currently   expect   that   marketing   will   move   approximately   as   much   money   
+as   we   expected   pre-COVID.   We   continue   to   follow   this   data   closely   so   that   we   quickly   update   
+our   forecasts   if   the   situation   changes.   
+Operations   
+All   GiveWell   staff   now   work   remotely.   We   continue   to   pay   for   our   office   space   and   don't   currently   
+believe   we   can   reduce   that   expense.   We   don't   currently   expect   to   be   back   in   our   office   for   a   
+while.   
+  
+We   run   a   weekly   survey   of   all   staff   to   ask   how   they   are   feeling   and   how   they   feel   their   work   is   
+going.   We   have   used   this   to   follow   up   with   staff   who   seem   to   be   struggling.   Overall,   people   
+seem   to   be   doing   OK   and   improving,   though   several   staff   are   struggling.   We   created   a   monthly   
+staff   wellness   stipend   (redirected   from   our   office   snacks   budget)   that   staff   can   use   on   expenses   
+that   improve   their   physical,   mental,   or   emotional   wellbeing   during   shelter-in-place.   
+  
+We   are   tracking   regulatory   updates   that   pertain   to   employers   and   have   implemented   and   
+notified   staff   about   the   relevant   updates   to   paid   time   off,   insurance   coverage,   and   retirement   
+plans.     
+
+=== Attachment E ===
+How COVID -19 might affect unrestricted donations
+All #’s in $000,000
+2.2 2.2 2.22.2 2.2 2.23.22.2 1.85.8
+5.5
+2.313.4
+12.1
+8.511.2
+Limited Modest Severe2020 COVID -19 Unrestricted Donation 
+Scenarios
+OP Individual Other $100k+ <$100k3.3 3.3 3.33.3 3.3 3.34.9
+2.61.55.9
+5.7
+2.717.414.8
+10.716.4
+Limited Modest Severe2021 COVID -19 Unrestricted Donation 
+Scenarios
+OP Individual Other $100k+ <$100k2020 Budget2021 Budget
+Unrestricted reserves available for 2020 Budget: $17.0m Unrestricted reserves available for 2021 Budget: $19.2m (based on 
+2020 “Limited” scenario )
+We show a severe scenario for 2021 in which we project spending $5.7 million more than we would receive. We don't anticipate being in this 
+scenario because we would adjust our 2021 spending down if we raise less in 2020 than we anticipate. Adjustments would be assessed if we 
+raised less than the "limited" scenario.
+
+2020 & 2021 Assumptions
+2020
+Revenue Category Baseline Scenario Logic Limited Scenario Logic Modest Scenario Logic Severe Scenario Logic
+New Revenue under 
+$100k- Built pre COVID impact
+- $9.2M in total new revenue 
+(20% assumed unrestricted - $1.8
+m) on $1.3M of marketing spend.
+- CAC and spend estimates 
+driving revenue. Each channel 
+adjusted based on best 
+expectations (we only have 
+actual historical CACs for Audio).$5.2M in total new revenue 
+(20% assumed unrestricted - 
+$1.0m) on $1.3M of 
+marketing spend. $3.6M in total new revenue 
+(20% assumed unrestricted - 
+$0.7m) on $1.3M of 
+marketing spend. From March-September a 
+50% reduction in donations vs 
+2019. For Q4 a 75% reduction 
+in donations vs 2019
+Existing Revenue under 
+$100k~90% of 2019 revenue (estimate 
+based on 2018 and 2019 growth 
+but adjusted down for risk)25% reduction vs Baseline 
+Case for March-Q2, 20% 
+reduction in Q3, 15% 
+reduction in Q425% reduction vs Baseline 
+Case for March-DecemberFrom March-September a 
+50% reduction in donations vs 
+2019. For Q4 a 75% reduction 
+in donations vs 2019
+Revenue over $100k Estimates made for each individual donor based on latest conversations & risk adjustments for each scenario.
+2021
+Revenue Category Baseline Scenario Limited Scenario Modest Scenario Severe Scenario
+All Revenue under 
+$100k(Using the "Limited" scenario as 
+the baseline)Q1 -5%
+Q2 -1%
+Q3 +3%
+Q4 +5%Q1-10%
+Q2 -7%
+Q3 -4%
+Q4 +2%Q1 -65% (-75% Jan, -50% 
+Feb/Mar)
+Q2 -50%
+Q3 -50%
+Q4 -50%
+Revenue over $100k Estimates made for each individual donor based on latest conversations & risk adjustments for each scenario.
+
+=== Attachment F ===
+Attachment   F   -   Board   Resolutions   
+  
+1.CEO   Grantmaking   Authorization   
+  
+WHEREAS,   Article   6   Section   1   of   the   Amended   and   Restated   Bylaws   of   the   Corporation   (the   
+“ Bylaws ”),   dated   December   4,   2018,   allows   the   Board   to   authorize   any   officer   or   agent   of   the   
+Corporation   to   enter   into   any   contract   or   instrument   in   the   name   of   and   on   behalf   of   the   Company;   
+and   
+    
+WHEREAS,   the   Board   has   previously   authorized   the   Chief   Executive   Officer   (also   known   as   the   
+President)   of   the   Corporation   to   sign   any   contract   or   instrument   binding   the   organization   to   
+indebtedness   up   to   10%   of   the   previously   approved   12-month   expenses   (the   “ Director   
+Authorization ”);   and     
+  
+WHEREAS,   the   Board   has   further   determined   that   it   is   appropriate   and   in   the   best   interests   of   the   
+Corporation   to   clarify   and   extend   the   Director   Authorization   to   include   the   ability   to   execute   certain   
+grants   in   support   of   the   Corporation’s   mission   in   order   to   streamline   grantmaking   processes   for   small,   
+experimental,   or   time-sensitive   grantmaking;   
+    
+NOW,  THEREFORE,  BE  IT  RESOLVED,  that  the  Board  authorizes  the  Chief  Executive              
+Officer  to  approve  up  to  a  total  of  $1,000,000  in  grants  in  support  of  the  Corporation’s                  
+mission  each  year  at  his/her  discretion,  from  funds  that  are  restricted  to  grantmaking  at                
+GiveWell’s   discretion.   
+FURTHER  RESOLVED,  that  the  Corporation  shall  provide  the  Board  with  an  annual  accounting  of                
+those  grants  authorized  by  the  Chief  Executive  Officer  during  the  prior  fiscal  year  as  part  of  the                   
+Corporation’s   year-end   accounting.   
+  
+FURTHER   RESOLVED,   that   the   officers   of   the   organization   are,   and   each   hereby   is,   authorized   to   
+conduct   any   additional   acts   necessary   to   carry   out   the   above   resolutions.     
+  
+  
+  
+  
+
+=== Agenda ===
+GiveWell Board Meeting Agenda May 28, 2020  2:00pm – 3:30pm PST   KEY SUBSTANTIVE TOPICS (2:00 – 3:20 pm)  2:00     Outreach overview - Jim and Steph will review their 2020 plans for marketing and major gifts respectively. Related Documents:  Attachment A - GiveWell’s outreach goals   Attachment B - 2020 Marketing plan overview  (Jim Bobowski)  Attachment C - Donor Retention plan 2020 (Stephanie Stojanovic)   3:05 Coronavirus update - Elie will review COVID-19's effect on GiveWell's work and our financial projections   Related Documents:  Attachment D - COVID-19 Effects on GiveWell  Attachment E - Finance summary  BOARD VOTES (3:20 – 3:30 pm)  3:20 The Board will be asked to vote in the aggregate on the following resolutions:  1. CEO Grantmaking Authorization Recommendation: Approve the authorization  Related Document: Attachment F - Resolutions for Board Vote  2. Minutes for the February 27, 2020 Board meeting   Recommendation: Approve the minutes Related Document: Attachment G - Minutes for the February 27, 2020 Board Meeting      
+
+Generate a comprehensive summary (approximately 1000 words):

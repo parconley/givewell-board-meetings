@@ -1,0 +1,117 @@
+GiveWell Board Meeting Summary - Episode 7
+Meeting Number: 9
+Date: March 31, 2009
+Duration: 1 hour 13 minutes
+
+OVERVIEW
+This board meeting focused on securing GiveWell's financial position through improved cash management, approving a budget extending into 2010, and reviewing progress toward the July 1, 2009 developing-world aid research report deadline. The meeting demonstrated increasing organizational maturity through careful financial stewardship and systematic research planning.
+
+MEETING PROCEEDINGS AND FORMAL VOTES
+According to the official minutes, the meeting was called to order at 7:00 PM and proceeded efficiently through its agenda. At 7:10 PM, the board unanimously voted to approve the proposed budget. At 7:14 PM, the board unanimously voted to authorize Holden Karnofsky to open three additional bank accounts for The Clear Fund. The board then began discussion of the updated research agenda at 7:15 PM, continuing until the meeting adjourned at 8:13 PM.
+
+FINANCIAL SITUATION AND BUDGET APPROVAL
+GiveWell's financial position had strengthened significantly since the previous meeting. As of March 27, 2009, The Clear Fund held total cash of $697,728.73, not including an additional $35,000 held in a donor-advised fund through the Vanguard Charitable Endowment Program. This represented substantial growth in organizational resources.
+
+The proposed budget extended through calendar year 2009 and showed GiveWell operating with considerably more financial security than in previous periods. Major budget changes included outsourcing bookkeeping services, receiving substantial donations earmarked for regranting to recommended charities, and requesting flexibility on salary expenses to accommodate potential hires if sufficiently strong candidates were identified.
+
+Staff noted they had spent less on salaries over the previous several months than anticipated because they had not made a full-time hire, but were asking for leeway to spend more over the next few months if they found strong enough candidates. This reflected a disciplined approach to hiring - maintaining budget flexibility while prioritizing candidate quality over filling positions quickly.
+
+The financial projections showed that under reasonable and even aggressive spending scenarios, GiveWell had sufficient cash reserves to last into 2010. Various scenarios were modeled based on different hiring configurations:
+
+- "Part-timer" positions at $17,500 per year plus payroll taxes and health benefits (GiveWell currently had one part-timer on payroll)
+- "Analyst" positions at $35,000 per year plus payroll taxes and health benefits
+- "Partner" positions at $65,000 per year plus payroll taxes and health benefits (potentially for website specialists or strong researcher/generalists)
+- "Office" space for approximately five people
+
+This modeling approach demonstrated sophisticated financial planning, with staff preparing the board to understand runway under various strategic scenarios rather than simply presenting a single budget projection.
+
+BANKING ARRANGEMENTS AND FDIC INSURANCE
+Staff proposed opening two new bank accounts to address both security and return optimization. The specific proposal involved:
+
+- Investing $245,000 in a 2.3% money-market account at Corus Bank
+- Investing $245,000 in a 2.25% money-market account at CalFirst Bank
+- Keeping the remaining approximately $210,000 at TD Bank (the current bank), split between a no-interest checking account and a money-market account paying 1.5%, with approximately $50,000 kept in checking for prompt payment of salaries and other expenses
+
+This arrangement would bring two significant benefits. First, full FDIC insurance coverage across all assets. FDIC insurance covered only $250,000 per financial institution, and GiveWell's cash holdings had grown beyond this threshold at TD Bank. By opening two new accounts of slightly under $250,000 each, the organization could ensure all assets were FDIC insured.
+
+Second, substantially improved interest income. The proposed banks offered approximately 0.9% higher interest rates than TD Bank. By opening two new accounts of slightly under $250,000 each at these higher-yielding institutions, GiveWell could earn an additional approximately $4,500 per year in interest - meaningful incremental funding for an organization with limited operating expenses.
+
+Staff conducted thorough due diligence in selecting these banks. They used Bankrate.com to identify the highest interest rates for various time periods and examined the websites of the 16 top-ranked banks offering personal savings and money-market accounts. Finding suitable corporate accounts proved more difficult than finding personal accounts, as many banks offering high personal savings rates either did not offer corporate accounts or offered corporate accounts with substantially lower interest rates.
+
+The proposal also considered GiveWell's liquidity requirements. Of the total cash, $344,379 was earmarked to be regranted to top charities (in addition to the $35,000 in the donor-advised fund). GiveWell aimed to complete its research report by July 1 and make these grants shortly afterward. Monthly operating expenses ran approximately $20,000-$30,000, creating specific liquidity needs that the proposed account structure would accommodate.
+
+Staff sought approval not only for the Corus and CalFirst accounts but also for corporate resolutions authorizing an account at EverBank as a backup in case of unanticipated issues with either of the first two banks. All three banks were FDIC-insured, and staff provided FDIC confirmation pages for verification.
+
+The proposal represented a conservative approach to maximizing returns while maintaining appropriate liquidity. Staff estimated that assuming constant interest rates, over the next 12 months this allocation would net approximately $1,900 more in interest than keeping all funds at TD Bank, while accepting approximately $900 less than the maximum possible interest (which would have required opening three rather than two new accounts and locking up much of the assets in certificates of deposit with reduced liquidity).
+
+RESEARCH AGENDA AND JULY 1 DEADLINE
+Staff reported that GiveWell was on track to release its comprehensive report on developing-world aid by July 1, 2009, as previously committed to GiveWell Pledgers. The proposed research agenda detailed the components to be included in this report and the time estimates for completing each element.
+
+GiveWell had approximately 650 combined research and packaging hours available from the meeting date through July 1, based on an estimate of 50 combined hours per week from Elie Hassenfeld and Holden Karnofsky (30 hours from Elie, 20 hours from Holden) for primary projects. This was described as a conservative estimate not accounting for "overdrive" periods but also not accounting for vacation days.
+
+The proposed report would include four major components:
+
+Component 1: Discussion of General Issues from Aid Literature (110 hours estimated)
+This component would present information on major questions about international aid effectiveness, not directly relevant to particular charities but important for explaining GiveWell's analytical approach. Staff had already reviewed a large amount of literature and completed four preliminary blog posts on aid's track record, root causes of poverty, why measurement is uncommon in development work, and whether the Green Revolution could be repeated in Africa.
+
+Remaining work included finishing the literature review (approximately 10 hours), creating detailed writeups on major issues including success and failure stories (20 hours), burden of disease and living standards in developing countries (20 hours), and meaning of cost-effectiveness estimates (20 hours). Additional shorter writeups (5 hours each) would cover possible harms of aid, programs that could be scaled up, aid to governments versus nonprofits, what it means to restrict a donation, and context on current and past aid flows.
+
+Component 2: Actively Pursuing Feedback (40 hours remaining estimated)
+GiveWell aimed to obtain public feedback from people with relevant knowledge and experience to improve both quality and credibility of the overall report. This fell into two categories: feedback from highly visible, respected scholars who might give general interviews, and more engaged feedback from graduate students, NGO employees, and others with relevant experience.
+
+Significant progress had already been made. Staff had completed interviews with Rachel Glennerster (Director of the Poverty Action Lab), Prabat Jha (lead author on the Disease Control Priorities Project), and Diane Bennett and Laura Freschi (Executive Director and Associate Director of the Development Research Institute at William Easterly's institution). These interviews needed final signoff before publication. Staff were also trying to schedule talks with other prominent scholars including William Easterly himself and Ruth Levine.
+
+For more engaged feedback, one person with a strong resume had been actively talking with staff for some time, and another had recently had two recorded conversations. Several more were planning to speak with GiveWell, and staff might recruit more actively via graduate student email lists.
+
+Component 3: Reviews of Strong Charities and Programs (30 hours remaining for charity scan + 100-150 hours per thoroughly reviewed charity)
+GiveWell had already completed a review of The Carter Center and had 2007-2008 reviews of Population Services International and Partners in Health that could be updated primarily through format changes rather than new information gathering. Eight finalized program reports were also complete.
+
+Remaining work included a "charity scan" project to identify promising charities by examining websites (estimated 50 hours total), going through promising charities' materials to complete reviews (estimated 50-100 hours per charity based on the Carter Center experience), and producing program reports on interventions featured by promising charities (approximately 10 hours each).
+
+Component 4: Discussions of Non-Recommended Charities and Programs for Context (110 hours estimated)
+To improve credibility and persuasiveness, GiveWell planned to discuss widely known charities (Doctors Without Borders, UNICEF, Heifer International) and programs (AIDS drug therapy, microfinance, water and sanitation, comprehensive health programs) even if they were not top recommendations. Staff had gathered information on several large organizations and well-known programs but had not yet created writeups.
+
+Planned work included writeups on widely discussed program types (70 hours estimated), brief writeups on several "household name" charities explaining why GiveWell did not recommend them (approximately 5 hours each for four charities), and financial analysis of many charities to provide context on normal ranges for GiveWell's metrics (20 hours estimated).
+
+TIME ALLOCATION SCENARIOS AND TRADEOFFS
+Staff presented various possible time allocation scenarios balancing research (gathering and writing up information) versus packaging (figuring out how to present information more usably and engagingly). These scenarios showed the tradeoffs between report completeness and presentation quality:
+
+- 50% allocation to packaging: Not feasible to complete the full research report; only a partial report with 2-3 total charity reviews possible
+- 20% allocation to packaging: Full research report with 2-4 total charity reviews, or partial report with 3-5 reviews
+- 10% allocation to packaging: Full research report with 2-4 reviews, or partial report with 3-6 reviews
+- 0% allocation to packaging: Full research report with 3-5 reviews, or partial report with 4-7 reviews
+
+Staff proposed allocating no more than 20% of research and packaging hours to packaging (no more than 10 hours per week), reflecting a priority on substance over presentation while maintaining some attention to usability.
+
+The "partial research report" option would slim down everything not directly relevant to charity reviews, cutting the allocation to general issues, feedback, and context from 300 hours to 100 hours. This would allow more thorough charity reviews but would sacrifice breadth of coverage and contextual information.
+
+EARMARKED DONATIONS FOR REGRANTING
+A significant development was that GiveWell had received substantial donations earmarked for regranting - $344,379 in total. These donations represented an important validation of GiveWell's model and demonstrated growing donor confidence in the organization's ability to identify outstanding giving opportunities.
+
+These earmarked funds did not support GiveWell's operating expenses but would be granted to top recommended charities once the research report was completed. Combined with the $35,000 in the donor-advised fund, GiveWell would be regranting nearly $380,000 to recommended charities - a meaningful sum that would demonstrate the organization's ability to move money toward effective interventions.
+
+The presence of these earmarked funds created both opportunity and pressure. The funds validated GiveWell's value proposition and provided resources that recommended charities could use for high-impact work. However, they also created accountability to deliver high-quality recommendations by July 1 to fulfill commitments to donors who had provided these funds.
+
+ORGANIZATIONAL STAFFING STATUS
+The meeting revealed that GiveWell had made limited progress on hiring since the previous meeting's discussion. The organization currently had one part-time employee on payroll but had not made the full-time analyst hire that had been planned. Staff's request for budget flexibility to hire if strong candidates were identified suggested they were maintaining high hiring standards rather than filling positions with merely adequate candidates.
+
+The time availability estimates assumed 50 combined hours per week from Elie and Holden, with Elie contributing 30 hours and Holden contributing 20 hours. This asymmetry might reflect different roles or other time commitments, though the reasons were not specified in the materials.
+
+PROGRESS INDICATORS AND CONSERVATIVE ESTIMATES
+Staff provided specific progress indicators for each research component, demonstrating systematic thinking about how to measure and communicate advancement toward the July 1 deadline. For example, literature review work should translate into interesting blog posts at a regular clip, charity identification should proceed at 1-2 days per intervention, and thorough charity writeups should be completed at one per week.
+
+Staff explicitly noted that all time cost estimates were fairly conservative, with some more so than others. Components 1 and 4 were based on reasonable data from similar tasks, Component 2 could take substantially less than 40 hours, and Component 3 was the most uncertain and conservative estimate. The Carter Center review had taken considerable time, but staff believed they could complete other charity reviews more efficiently and that other promising charities were likely to be substantially simpler with fewer programs.
+
+ORGANIZATIONAL MATURITY AND FINANCIAL STEWARDSHIP
+This meeting demonstrated significant organizational maturation compared to earlier meetings. The careful attention to FDIC insurance, the systematic research in identifying optimal bank accounts, the modeling of different spending scenarios, and the detailed breakdown of research components with time estimates all reflected growing operational sophistication.
+
+The financial position - nearly $700,000 in cash reserves with runway into 2010 - provided genuine stability and removed immediate financial pressure. This allowed GiveWell to focus on research quality rather than short-term fundraising, consistent with the strategic pivot approved in previous meetings.
+
+The earmarked donations for regranting demonstrated that GiveWell's value proposition was resonating with at least some donors, even before completing the comprehensive research report. That donors were willing to commit nearly $350,000 to be granted to as-yet-unidentified charities based on forthcoming GiveWell recommendations showed substantial confidence in the organization's research approach and judgment.
+
+IMPLICATIONS
+This meeting positioned GiveWell for a critical period. The organization had the financial resources, research plan, and time estimates to deliver on its July 1 commitment. The comprehensive report would represent GiveWell's most ambitious research product to date and would determine whether the research-first strategy could generate the depth and breadth of analysis needed to attract broader audiences and partnerships.
+
+The banking arrangements demonstrated that even modest attention to financial optimization could generate meaningful incremental resources for a lean organization. The additional $4,500 per year in interest income, while small in absolute terms, represented meaningful funding that could support volunteer stipends, research subscriptions, or other valuable inputs.
+
+The next board meeting was scheduled for July 2009, presumably shortly after the research report release. That meeting would likely assess the report's reception, discuss regrant decisions for the earmarked funds, and consider next steps for expanding GiveWell's research coverage and audience reach.

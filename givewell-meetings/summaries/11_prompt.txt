@@ -1,0 +1,294 @@
+Based on the following board meeting documents for a Clear Fund Board Meeting held on July 14, 2010, generate a comprehensive ~1000-word summary that acts as a professional brief.
+
+The summary should cover:
+- Key decisions made and votes taken
+- Important discussions and debates
+- Financial/budget information with specific numbers
+- Strategic direction or policy changes
+- Personnel or organizational changes
+- Any significant outcomes or action items
+
+Keep the tone professional and factual. Focus on substance over process. Be specific with numbers, names, and decisions.
+
+Meeting Documents:
+=== Progress and Priorities ===
+
+              GiveWell Progress and Priorities as of 7/13/2010
+
+                                   Summary
+
+    • Research maintenance and systemization: We have completed an extensive
+      internal review of our research, given substantial responsibilities to
+      non-founder employees, and identified strong volunteers who can
+      conduct further internal reviews.
+    • Research vetting and credibility: we have gotten several supportive
+      quotes and expect several more soon; we haven't yet moved forward on
+      external vetting because we wanted to complete our internal review
+      first, but are now moving forward and expect some output from external
+      vetting by giving season.
+    • Research on new causes: we expect to complete work on U.S. equality of
+      opportunity and microfinance by giving season.  We have had several
+      "false starts" on disaster relief and disease research funding.
+      Overall, we are falling slightly short of our earlier projections in
+      this area.
+    • Packaging/marketing/outreach: we have put substantial time into
+      speaking engagements, conferences, and talks with GuideStar and other
+      potential partners.
+    • Development of general charity evaluation frameworks
+
+                   Research maintenance and systemization
+
+Goal as of 2/2010: no specific goal outlined.
+
+Progress since 2/2010:
+    • Completed extensive internal review (checking each claim against
+      support given) of our 2010 research report.  This was a significant
+      time investment.
+    • Systemized process of this internal review; created assignments for
+      volunteers.  We have had two volunteers doing significant work along
+      these lines.
+    • Natalie Stone has taken responsibility for annual updates on our
+      recommended charities and for exploring new charities.  All
+      recommended charities and several potential recommended charities have
+      reviews in progress, but none have had their update completed yet.
+    • Natalie Stone and Simon Knutsson both have long-term potential.
+
+Plan and priority:
+
+    • Natalie Stone to finish annual updates of recommended charities by
+      11/1/2010.
+    • Natalie Stone to continue investigating potential recommended
+      charities, as a medium priority.
+    • Further internal review work to be conducted by volunteers.
+
+                      Research vetting and credibility
+
+Goal as of 2/2010: "subject our existing research to strong, critical
+scrutiny from people with substantial relevant experience and credentials."
+ We also sought to consolidate the case for our research's credibility
+(this was filed under marketing but I am now filing it here).
+
+Progress since 2/2010:
+    • We decided to conduct our extensive internal review before actively
+      pursuing critical scrutiny from people with substantial relevant
+      experience and credentials.
+    • However, we have had preliminary conversations with 4 such people, 3
+      of whom have agreed that they should be able to complete some vetting
+      when we are ready, and 1 of whom (the best-credentialed of the four)
+      said it was a possibility but depends on his schedule.
+    • At this point we have created a variety of "vetting assignments,"
+      ranging from narrow to broad evaluations of our work.
+         o We have sent one fairly broad assignment (evaluating our basic
+           criteria and heuristics) to Laura Freschi
+           (http://dri.fas.nyu.edu/object/laura_freschi.html), who has said
+           she should be able to complete it within a month.
+         o We have sent a narrower assignment (reviewing our work on
+           HIV/AIDS) to Matt Bonds
+           (http://www.hsph.harvard.edu/research/matthew-bonds/) and have
+           not yet heard back.
+         o For our broadest assignment (the "Celebrity Jeopardy"
+           assignment, choosing a charity to give to within a pre-specified
+           period of time) we are planning a dry run with a volunteer,
+           after which we will send it to an academic who has agreed to
+           complete it
+    • We have collected quotes on GiveWell from 6 relatively well-
+      credentialed people (2 of these quotes we simply pulled from existing
+      online works; the others were provided to us on request); we are
+      working/waiting on 4 more; and 1 person has declined our request on
+      the basis of not wanting to burn bridges with large NGOs.
+
+Plan and priority:
+
+At this point the bottleneck is others, not us. We are moving
+incrementally; as we see how vetting assignments go, we will modify them
+and potentially invite more people to complete them.
+
+We expect to have at least 2 reviews of substantial portions of our
+research, along with resolutions on everyone we've asked for quotes, well
+before giving season.
+
+
+                           Research on new causes
+
+
+Goal as of 2/2010: complete research on U.S. equality of opportunity and
+further sub-causes within international aid by 9/1/2010.  Work on disease
+research funding as well, with no specific goal in mind.
+
+Progress since 2/2010:
+    • Went through academic research on U.S. equality of opportunity
+      programs; identified and contacted promising charities running
+      promising programs; collected evidence for key points in this report.
+    • Several rounds of using heuristics to identify promising microfinance
+      organizations, contacting microfinance organizations and evaluating
+      them.
+    • Still in early stages with disaster relief and disease research.  We
+      have had many conversations with people in relevant fields, and
+      several "false starts" in terms of finding the appropriate criteria
+      and process.
+
+Plan and priority:
+    • We are on track to publish U.S. equality of opportunity research and
+      microfinance research by giving season.  (As of 2/2010, we had hoped
+      to publish by 9/1/2010; we think this is possible but optimistic at
+      this point.)
+    • We are unsure whether we will have anything to publish regarding
+      disaster relief and disease research.  We will not be researching
+      orphans and vulnerable children this year (it was on the agenda as of
+      2/2010).
+    • U.S. research is Simon Knutsson's top priority; microfinance research
+      is Natalie Stone's; the co-Founders are working on disease research
+      and disaster relief only as medium priorities.
+
+
+                        Packaging/marketing/outreach
+
+
+
+
+
+Goal as of 2/2010: focus only on "low-hanging fruit" in this area.
+
+
+Progress since 2/2010:
+    • At least one substantial blog post per week.
+    • Partnership with GuideStar via TakeAction portal
+    • Appearances at several conferences/meetings:
+         o Elie spoke at the HBS Social Enterprise Forum.
+         o Holden spoke at the Jewish Funders' Network conference.
+         o Both Holden and Elie attended the 3-day Markets for Good
+           meeting, hosted by GlobalGiving, in June 2010.
+         o Two more speaking engagements are planned in 2010.
+
+Plan and priority:
+
+Working with potential partners is a high priority whenever it comes up.
+We intend to continue producing at least one substantive blog post per
+week.  Otherwise, this area is low priority.
+
+
+            Development of general charity evaluation frameworks
+
+
+This section was not on our radar as of 2/2010, but due to our
+conversations with potential partners we have spent some time developing
+general frameworks for evaluating charities.
+
+One, which we are calling the "General Charity Evaluation Framework," is a
+completely general set of 10 questions, to be applied to any charity.  This
+has been developed in collaboration with Ken Berger of Charity Navigator
+and Tris Lumley of New Philanthropy Capital.  We are currently planning to
+run it by a few more parties before publishing it publicly and advocating
+its adoption by groups including GuideStar, Charity Navigator and Jumo,
+with the hope being that charities receive "transparency scores" for
+answering the 10 questions (and once they've done so, GiveWell is in a
+better position to evaluate them).
+
+The other, which we have called the "Do-It-Yourself Project" (DIY) for now,
+is a set of questions by cause, intended more for donors than for
+charities/evaluators. We will shortly be publishing our first draft of DIY,
+and hope that Charity Navigator, GuideStar and Jumo will consider adapting
+it as an informational tool for donors; we may also use it on our own site
+for visitors interested in causes we haven't covered.
+
+
+                                    Other
+
+
+    • Holden completed a 2-week trip to Africa, and all of GiveWell is
+      planning a 3-month trip to India, to deepen our understanding of
+      developing-world interventions.
+    • We have acquired the GiveWell trademark and givewell.org domain name
+    • We are in the final stages of our FY 2009 audit.
+
+
+
+=== Budget Update ===
+
+                   Attachment B - Budget update and review
+
+In this document:
+    • Review of 2009 budget, comparing board-approved to actual expenses
+    • Review of approved and actual expenses thus far in 2010
+    • Projected budget (June 2010-May 2011) and available reserves
+    • Proposed grants to VillageReach and Stop TB
+
+                            Review of 2009 budget
+
+                                    [pic]
+    •  "Approved"  figures  are  taken  from  the  December  Board   meeting
+      (http://www.givewell.net/about/official-records/board-meeting-11)
+    • The Board never formally approved a  full-year  budget,  but  approved
+      shorter-term budgets at different times.  Since  expenses  were  often
+      postponed and re-approved, it is usually not accurate to consider  the
+      "Board-approved figure for the full year" to be the sum of the  Board-
+      approved figures at different points in time. Instead,  the  following
+      techniques were used to impute the  "implied"  Board-approvd  FY  2009
+      expenses.
+         o MAX: the total expenses approved by the Board are imputed to  be
+           the maximum they approved in the category in question,  in  each
+           of their 3 budget approvals.  For expenses that were mostly  not
+           expected to be ongoing yearly expenses,  and  thus  were  either
+           met, postponed or canceled, this technique is used.
+         o ACTUAL: this method is used only for grants.   Grants  are  made
+           based on the supply of earmarked funds  plus  "excess  reserves"
+           (defined in internal procedures manual); it is understood by the
+           Board that the amount given in grants will always be  determined
+           in this way.  Therefore, while estimates are created in advance,
+           they should not be considered "budgeted" figures, and it is most
+           appropriate to consider the actual grant expenses  as  equal  to
+           "approved" grant expenses.
+         o TOTAL: this method is used for expenses that are expected to  be
+           spread out over the year; it is simply the total of  the  Board-
+           approved expenses at each of the three points.
+    • "Grants" includes the grants approved at the December meeting,  though
+      they were not disbursed until early 2010.
+    • The "insurance" figure is high because  (a)  we  don't  seem  to  have
+      budgeted appropriately for it; (b) we have switched to more expensive,
+      but better, insurance coverage;  (c)  we  are  now  counting  workers'
+      compensation  insurance   and   disability   benefits   insurance   as
+      "insurance" rather than "payroll taxes."  The higher cost allocated to
+      insurance is accounted for in the projected budget going forward.
+
+  Past budget: 1/1/2010-5/31/2010 (excluding grants, which were included in
+                             2009 budget above)
+
+                                    [pic]
+
+    • "Misc admin" includes $2000 in legal fees associated with domain  name
+      transfer; $600 in still-due advertising expenses from 2009;  ~$500  in
+      unanticipated travel expenses; ~$350 for a required  software  upgrade
+      (required every few years).
+    • Salaries & benefits lower than anticipated primarily  because  one  of
+      our two contractors wasn't retained.
+    • Domain name expenses were discussed at previous meeting.
+                    Projected budget: 6/1/2010-5/31/2011
+                             (Excluding grants)
+
+                                    [pic]
+
+                             Available reserves
+
+                                    [pic]
+
+    • We have raised Natalie Stone's pay to a rate corresponding to  $45,000
+      per year (from $35,000).
+    • Projected revenue does not include any projected  restricted  revenue.
+      It does include a  projected  $50,000  in  support  from  the  Hewlett
+      Foundation.
+    • According to the above figures, we would run out  of  funds  in  March
+      2012 if the "major anticipated  revenue"  is  received  but  no  other
+      revenue is. Our "excess reserves policy" is not currently triggered.
+
+
+                               Proposed grants
+
+    • Our "excess reserves policy" is not currently triggered.
+    • $11,352.60 of current and anticipated reserves are  restricted  to  be
+      regranted to top charities at our discretion.  We  propose  that  this
+      sum  be  divided  between  our  current   two   top-rated   charities:
+      VillageReach and the Stop Tuberculosis Partnership.
+
+
+
+Generate a comprehensive summary (approximately 1000 words):

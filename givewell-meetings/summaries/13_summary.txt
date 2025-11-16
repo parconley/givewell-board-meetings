@@ -1,0 +1,77 @@
+GiveWell Board Meeting Summary - Episode 13
+Meeting Number: 15
+Date: April 11, 2011
+Duration: Not specified
+
+OVERVIEW
+This board meeting marked significant organizational expansion with board composition changes, substantial salary adjustments reflecting staff growth, budget approval, and review of 2010 accomplishments and 2011 plans. The meeting demonstrated GiveWell's evolution from a two-person operation to a multi-staff organization.
+
+BOARD COMPOSITION CHANGES
+The board voted to accept several changes:
+- Resignation of Jon Behar
+- Re-election of other existing members
+- Election of Fred Post and Cari Tuna as new board members
+
+The updated board roster included Tom Rutledge (President), Lindy Miller (Vice-President), Ari Herman (Treasurer), Holden Karnofsky (Secretary), Greg Jensen, Tim Ogden, Fred Post, and Cari Tuna.
+
+SALARY APPROVALS - SIGNIFICANT INCREASES
+The board approved substantial salary changes to be implemented starting July 2011:
+
+Co-Executive Directors: $75,000 each for Elie Hassenfeld and Holden Karnofsky (up from $67,500-$70,000, representing approximately 7-12% increase)
+
+Senior Analyst: $50,000 for Natalie Stone (up from $45,000, representing 11% increase)
+
+Junior Analysts: $40,000 each for Alexander Berger and Wendy Knight (new hires)
+
+These changes reflected GiveWell's expansion from two co-founders to six full-time staff members. Staff justified the increases based on cost-of-living adjustments (original $35,000 analyst salary from 2007 would be $37,500 with adjustment), higher quality of incoming analysts, and competitive market conditions.
+
+The salary structure established clear tiers: Directors at $75,000, Senior Analysts at $50,000, and Junior Analysts at $40,000, with tentative plans to raise all salaries by $5,000 in mid-2012 conditional on strong performance.
+
+FINANCIAL SITUATION AND PROJECTIONS
+As of December 31, 2010, GiveWell held $492,752.58 in unrestricted reserves or un-deposited contributions.
+
+Projected 2011 expenses totaled $377,916.85 with projected revenues of $307,483.65, creating a funding gap of approximately $70,000. Projected 2012 expenses totaled $445,701.64 with projected revenues of $357,483.65.
+
+GiveWell sought and expected to raise a minimum of $70,000 more in 2011 to match expenses and revenues. If unable to raise at least $40,000 of this goal (net of losses in expected revenues), the organization would release one staff member to ensure sustainability. If revenue ceased immediately and existing expense plans were maintained, reserves alone would last until April 2012.
+
+The reserves policy was not triggered. Starting in June 2011, reserves would be insufficient for 12 months of projected expenses, but the policy triggered only when expecting 12 months of cash on hand for each of the next 12 months.
+
+Revenue projections included:
+- $207,483.65 from sources expected to renew contributions (received February 1, 2010 - January 31, 2011)
+- $24,365.66 from sources who may renew
+- $20,000 from a donor changing careers who would not renew
+- $60,000 from Hewlett Foundation, expected to renew in early 2012
+- $90,000 expected from specific new donors in 2011, $80,000 in 2012
+
+UNAUDITED 2010 FINANCIALS
+Total income for 2010 was $364,020, including $361,143 in direct public support ($258,610 unrestricted, $102,533 temporarily restricted) and $2,877 in interest from savings and short-term CDs.
+
+Total expenses were $617,120 (99% of $625,614 budgeted), resulting in net ordinary income of negative $253,100 (40% of budgeted negative $625,614). The significant difference from budgeted loss reflected higher-than-expected revenue.
+
+Major expense categories included:
+- Grants: $300,266 (100% of budget)
+- Salaries/Benefits/Consultants: $236,702 (87% of $272,872 budgeted) - under budget because anticipated additional hire didn't occur
+- Domain Name Expenses: $26,600 (266% of $10,000 budgeted) - purchased givewell.org and givewell.com
+- Misc Admin/Research: $17,944 (359% of $5,000 budgeted) - included $7,689 legal fees for domain/trademark purchase and H1B visa, $2,401 travel/meetings, $1,738 rent for new co-working space, $1,654 research fees including India site visit travel
+
+Salaries shown were $133,333 for co-founders and $42,765 for Natalie Stone, below budget primarily because another planned hire wasn't made. Outside contract services ($36,615) exceeded budget supporting Simon Knutsson, Stephanie Wykstra, and Alanna Shaikh.
+
+INSURANCE COVERAGE REVIEW
+Insurance coverage was reviewed with no changes. GiveWell maintained Directors & Officers Liability, Employment Practices, and Internet Liability coverage through Philadelphia Insurance Companies.
+
+The review noted GiveWell had recently started working in a co-working space (rather than from homes and fully public spaces), prompting investigation into whether general liability risks had increased. Coverage gaps remained for fire/theft (mitigated by Carbonite backup service), employee dishonesty, hired/non-owned auto, professional liability, business interruption, and hurricane/flood - all deemed unnecessary for GiveWell's operations.
+
+2010 ACCOMPLISHMENTS AND 2011 PLANS
+The meeting reviewed GiveWell's comprehensive annual report for 2010, published online as blog posts. Key accomplishments included publishing updated research, expanding staff capacity, improving research systematization, developing partnerships (GuideStar TakeAction portal), and increasing money moved to over $1.5 million.
+
+The 2011 plan prioritized finding and developing staff who could maintain GiveWell over the long run, justifying retention of as many good analysts as could be found and managed. The organization currently had two full-time analysts (one junior, one senior), one part-time analyst hoping to join as senior analyst in June, and one junior analyst joining over summer.
+
+STAFFING PHILOSOPHY AND STRUCTURE
+GiveWell's staffing approach reflected commitment to building sustainable organizational capacity beyond the co-founders. The compensation structure (Directors at $75,000, Senior Analysts at $50,000, Junior Analysts at $40,000) provided clear career progression while remaining fiscally responsible.
+
+The plan to split networking and donor cultivation among current staff rather than hiring a professional fundraiser demonstrated preference for mission-aligned generalists over specialized roles, keeping overhead low while building staff capabilities across functions.
+
+ORGANIZATIONAL MATURATION
+This meeting marked GiveWell's transition from a founder-led startup to a more mature organization with multiple staff, formalized salary structures, professional operations in co-working space, and systematic approaches to research and staff development.
+
+The financial planning showing willingness to release staff if revenue targets weren't met demonstrated fiscal discipline. The reserves providing runway until April 2012 even without new revenue gave breathing room while pursuing sustainability. The expansion of the board with Fred Post and Cari Tuna brought additional expertise and networks to support GiveWell's growth phase.

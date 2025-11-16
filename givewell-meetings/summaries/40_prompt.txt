@@ -1,0 +1,608 @@
+Based on the following board meeting documents for a GiveWell Board Meeting held on February 27, 2020, generate a comprehensive ~1000-word summary that acts as a professional brief.
+
+The summary should cover:
+- Key decisions made and votes taken
+- Important discussions and debates
+- Financial/budget information with specific numbers
+- Strategic direction or policy changes
+- Personnel or organizational changes
+- Any significant outcomes or action items
+
+Keep the tone professional and factual. Focus on substance over process. Be specific with numbers, names, and decisions.
+
+Meeting Documents:
+=== Minutes ===
+Minutes for the February 27, 2020 Meeting of  
+The Clear Fund (dba GiveWell) Board of Directors  
+A meeting of the Board of Directors ("Board") of The Clear Fund dba GiveWell ("GiveWell") was 
+held on February  27, 2020 at 1:30 pm Pacific Time. Notice was duly and timely given to each 
+member of the Board.  
+The following members of the Board were present (in person unless otherwise noted):  
+•Elie Hassenfeld
+•Holden Karnofsky
+•Tim Ogden  (Chair)
+•Cari Tuna
+•Julia Wise
+The following individuals were also present:  
+•Whitney Shinkle, Board Advisor and Director of Operations, GiveWell
+•Buddy Sha h, Board Advisor and incoming Managing Director, GiveWell
+Tim called the meeting to order.  
+2019 Review and 2020 Plans  
+Elie led a review of GiveWell’s 2019 achievements and plans for 2020  (Attachments A -C). Topics 
+included, but were not limited to:  
+•Research staff management  and recruitment
+•Donor surveys and engagement
+•The 2019 mini metrics report
+•GiveWell’s operations team
+•How to find new giving opportunities
+Administrative Items  
+Whitney led a discussio n of the Board’s approach to and engagement with GiveWell’s decision -
+making processes, including alternative decision -making approaches the Board might adopt.  
+Board Votes  
+Whitney introduced, and the Board voted jointly on, a proposal to approve the prior meeting’s 
+minutes ( Attachment D ).  
+
+ 
+The vote passed unanimously.  
+
+=== Attachment A ===
+ 
+Attachment A - GiveWell's recent progress and future plans
+ 
+February 27, 2020
+ 
+*Sections listed in blue have been updated from November 2019. Sections listed  in
+ 
+grey are substantively unchanged from the November report.
+ 
+ 
+ 
+ 
+What is GiveWell's mission?
+ 
+What are our major areas of growth?
+ 
+What constitutes success?
+ 
+How are we working to achieve these goals?
+ 
+What have we done recently to move towards these goals? How have we progressed? What
+ 
+are our plans?
+ 
+What else of note is happening at GiveWell?
+ 
+Documents we have shared in the past
+ 
+ 
+What is GiveWell's mission?
+ 
+ 
+GiveWell's mission is to find outstanding giving opportunities and publish the full details of our
+ 
+analysis to help donors decide where to give.
+ 
+ 
+We accomplish our mission by finding the most cost-effective giving opportunities we can and
+ 
+directing as much money as possible to those recommendations (our money moved).
+ 
+ 
+Note: if we meaningfully expand our work on influence (the third bullet below), we'll probably
+ 
+want to revise our mission statement.
+ 
+ 
+What are our major areas of growth?
+ 
+ 
+In the next few years, we aim to increase our impact by:
+ 
+ 
+●
+Finding more cost-effective giving opportunities. 
+​
+We aim to evaluate opportunities
+ 
+that go beyond the scope of the types of charities GiveWell has evaluated to date (more
+ 
+in 
+​
+this blog post
+​
+). This area is still new for us and the goal we have in mind is intended to
+ 
+communicate our direction; it's likely that we revise our goal as we learn more about this
+ 
+area. Currently, our goal is, by the end of 2022, direct at least $25 million per year to
+ 
+opportunities that we believe are significantly more cost-effective than the top charity we
+ 
+would have otherwise directed funds to or conclude that the areas we're exploring are
+ 
+likely less cost-effective than our top charities (or not sufficiently more cost-effective to
+ 
+be worth the effort of exploring this new area).
+ 
+
+●
+Increasing money moved. 
+​
+Our goal is to reach $100 million money moved (excluding
+ 
+Good Ventures) by the end of giving season 2022 (i.e., January 31, 2023).
+ 
+●
+Influencing institutional funders of global health and development.
+​
+ We are
+ 
+exploring the possibility of influencing the giving of donor-governments, large
+ 
+foundations, and multilateral institutions (e.g., the World Bank, Global Fund). This area is
+ 
+new and we're uncertain about what constitute reasonable goals. We are currently
+ 
+thinking about goals like, within 5 years, direct at least $100 million to GiveWell's priority
+ 
+programs or improve the cost-effectiveness of $500 million in institutional funding by at
+ 
+least 2x.
+ 
+What constitutes success?
+ 
+ 
+●
+If we achieve none of these goals, we would consider that a failure.
+ 
+●
+If we achieve one of these goals, we consider that to be on expectations and a
+ 
+significant improvement in GiveWell's overall impact.
+ 
+●
+If we achieve two or more of these goals, we would consider that to be an exceptional
+ 
+improvement in GiveWell's overall impact.
+ 
+How are we working to achieve these goals?
+ 
+ 
+My (Elie's) top priorities are:
+ 
+ 
+●
+Recruiting researchers and managing/training newly hired senior researchers who
+ 
+can contribute at a senior level, either as individual contributors or managers
+​
+. This
+ 
+is currently our biggest bottleneck to achieving our research goals. I also believe that
+ 
+more senior researchers will meaningfully support our outreach goals by (a)
+ 
+conducting/leading outreach-oriented research projects, (b) improving our transparency,
+ 
+and (c) improving how we demonstrate / communicate about the quality of our work.
+ 
+●
+Leading our efforts to increase money moved. 
+​
+I manage Jim Bobowski, our VP of
+ 
+Marketing and Stephanie Stojanovic, our Major Gifts Officer.
+ 
+ 
+○
+Jim leads our efforts to acquire new donors via mass marketing and manages a
+ 
+team of three.
+ 
+ 
+○
+Steph leads our efforts to retain and increase donations from people who've
+ 
+given before. She also works closely with me on opportunities to engage with
+ 
+new, ultra-high-net-worth donors. She manages a team of three.
+ 
+●
+Exploring institutional influence as a potential long-term priority for GiveWell.
+ 
+Michael Eddy leads this work. Buddy Shah starts in July and will lead this work and
+ 
+manage Michael.
+ 
+
+What have we done recently to move towards these goals? How have we progressed?
+ 
+What are our plans?
+ 
+ 
+●
+Recruiting researchers.
+ 
+ 
+○
+In late 2019:
+ 
+ 
+■
+Two senior researchers started at GiveWell. One of them has begun
+ 
+managing a team of two.
+ 
+ 
+○
+Going forward:
+ 
+■
+In the next 2-3 years, I roughly hope to hire ~2 more
+ 
+manager/director-level researchers and 3-5 more excellent individual
+ 
+contributor researchers .
+ 
+■
+In December 2019-February 2020, we participated in the American
+ 
+Economic Association job market for students who expect to receive their
+ 
+PhDs in economics in 2020. We received many more, higher quality
+ 
+applications than in past years, but we've been disappointed by
+ 
+applicants' performance on our work trials. We still have a number of
+ 
+candidates in the pipeline. My best guess is that we'll make 0-1 offers
+ 
+from this pool.
+ 
+■
+We believe that having a background in evidence-based policy (i.e., using
+ 
+evidence to inform policy decisions) enabled one new staff member to
+ 
+contribute very early at GiveWell. We're currently identifying and
+ 
+contacting individuals who have similar career paths to discuss the
+ 
+possibility of their joining GiveWell.
+ 
+●
+Increasing money moved.
+ 
+ 
+○
+In 2019:
+ 
+ 
+■
+We hired Jim Bobowski to lead our marketing efforts.
+ 
+ 
+■
+Our Head of Growth led projects to revamp our homepage and advertise
+ 
+on podcasts. We suspect that the homepage revamp drove a significant
+ 
+amount ($500k-$2 million) in donations, but we haven't yet analyzed the
+ 
+data to be confident. We spent $150,000 on podcasts ads (which we
+ 
+supported with matching funds) and they drove more than $500,000 in
+ 
+new donations.
+ 
+■
+Major Gifts raised more than $1 million in counterfactual donations. We
+ 
+also believe their work on a direct mail and email campaign led to
+ 
+approximately another ~$1 million in donations but we haven't yet
+ 
+analyzed this to be confident.
+ 
+○
+In 2020:
+ 
+■
+Marketing aims to increase our podcast advertising spend from $150,000
+ 
+to $500,000, assuming we can identify high-quality advertising
+ 
+opportunities and find matching funds. We also aims to spend $500,000
+ 
+
+on paid advertising in other places aiming for a first-year tracked return on
+ 
+investment of 1.5.
+ 
+1
+■
+Major gifts aims to increase total giving among existing major donors by
+ 
+$5-7 million.
+ 
+ 
+●
+Exploring institutional Influence.
+ 
+○
+This is still very early stage and a work in progress. I'm happy to talk through this
+ 
+in greater detail if there's interest, but don't think there's any specific part of this
+ 
+that's worth discussing in detail at this point.
+ 
+ 
+○
+We have set tentative goals for 2020, but we think these are reasonably likely to
+ 
+change as we (along with incoming new staff refine our thinking about the
+ 
+approach we should take in this domain.
+ 
+What else of note is happening at GiveWell?
+ 
+Overall, GiveWell's nearly 40-person team is more capable than it has ever been. We're making
+ 
+progress in every single area.
+ 
+ 
+●
+Operations added two Operations Associates in 2019 who are enabling Operations to
+ 
+take on more than it has in the past.
+ 
+●
+Thetop charities team is running smoothly, with nearly no involvement from the CEO.
+ 
+●
+Individual researchers are working to find new giving opportunities.
+ 
+ 
+Documents we have shared in the past
+ 
+●
+Document from the November 2019 board meeting [link redacted]
+ 
+ 
+●
+Document from the July 2019 board meeting [link redacted]
+ 
+○
+Update to that document shared before the meeting [link redacted]
+ 
+●
+2017 strategy review [link redacted]
+ 
+●
+2018 strategy review [link redacted]
+ 
+1
+ Historically, we've retained approximately 100% of dollars donated over time. This means that if we
+ 
+receive $1 in year one, our best guess is that we'll continue to receive $1 into the future. Therefore, we
+ 
+see a 1.5 return on a dollar invested in year 1 as a good return on investment.
+ 
+
+=== Attachment C ===
+Attachment C - 2020 Plans and Dashboard
+ 
+Our goals
+ 
+GiveWell's 
+​
+overarching goal
+​
+ is to improve the lives of people living in global poverty as much
+ 
+as possible. As an organization, GiveWell comprises several domains of various sizes: research,
+ 
+outreach, operations, engagement, and management.
+ Each domain has its own 
+​
+domain goal
+​
+:
+ 
+1
+●
+Research: Identify the most cost-effective opportunities to support and make a public
+ 
+case for them.
+ 
+●
+Outreach: Maximize the philanthropic dollars influenced by GiveWell's
+ 
+recommendations.
+ 
+●
+Operations: Optimize GiveWell's development and use of human, financial and material
+ 
+resources to achieve its goals.
+ 
+●
+Engagement: Optimize the impact of institutional funders.
+ 
+●
+Management: Establish and direct GiveWell's strategy to achieve its overarching goal.
+ 
+ 
+Each domain can then be defined as having 2 or 3 
+​
+subgoals
+​
+, outlined in the 'domain subgoals'
+ 
+tab of 
+​
+this document
+​
+. Just as the domain goals support GiveWell's overarching goal, the
+ 
+subgoals support each domain goal.
+ 
+ 
+Within each subgoal, we set 
+​
+objectives
+​
+ for the year and for the first quarter (where applicable).
+ 
+These objectives should be defined so that they enable us to easily assess success or failure
+ 
+(e.g., an objective like 'increase X' should specify the amount by which X needs to increase to
+ 
+be considered a success). Each quarter, we will set objectives for the upcoming quarter, except
+ 
+in the domains for which we've already broken out objectives by quarter, in which case we'll
+ 
+just reassess progress on a quarterly basis. We will track progress in the 'dashboard' tab of 
+​
+this
+ 
+document
+​
+.
+ 
+ 
+This scorecard and dashboard is a first pass at more clearly articulating the links between our
+ 
+goal as an organization and each of the projects we're pursuing in the interest of that goal.
+ 
+Ideally, each goal and subgoal would be as specific as possible while remaining broad enough
+ 
+to fully capture that piece of work.
+ 
+Why this work matters
+ 
+The reasons for creating these plans and sharing them are twofold:
+ 
+1
+ It's possible that the way we've defined 'engagement' and 'management' as distinct domains will
+ 
+evolve in the near-term, as these areas are nascent. 'Management' as used here is distinct from
+ 
+personnel management.
+ 
+
+1.
+To progress towards our overarching goal of improving the lives of people living in
+ 
+global poverty via improved planning. By thoughtfully and systematically setting
+ 
+objectives for the years and considering how those objectives feed into our higher-level
+ 
+goals, we may be able to make better decisions about which projects to prioritize,
+ 
+ultimately increasing the impact of our work.
+ 
+2.
+To improve staff morale and sense of engagement with GiveWell's work and mission,
+ 
+and increase understanding of the role each staff member plays in achieving our goals.
+ 
+ 
+Dashboard
+ 
+The 
+​
+Dashboard
+​
+ provides the most coherent glimpse of GiveWell’s high level goals and plans.
+ 
+This is structured in a waterfall fashion, each tab flowing out of the preceding tab, as follows:
+ 
+ 
+●
+Tab 1 - Instructions
+ 
+●
+Tab 2 - Organizational and domain (i.e. department) level goals
+ 
+●
+Tab 3 - Domain level sub goals
+ 
+ 
+●
+Tab 4 - 2020 key projects by domain
+ 
+●
+Tab 5 - Detailed work plans (This tab is provided strictly for reference for those who
+ 
+may wish to delve into certain plans in detail)
+ 
+
+=== Agenda ===
+GiveWell Board Meeting Agenda
+ 
+February 27, 2020
+ 
+ 1:30pm – 4:00pm PST
+ 
+ 
+ 
+KEY SUBSTANTIVE TOPICS (1:30 – 3:00 pm)
+ 
+ 
+1:30     2019 Review and 2020 Look Ahead - Elie will review GiveWell’s overall achievements
+ 
+from 2019 and plans for 2020.
+ 
+Related Documents: Attachment A - GiveWell's recent progress and future plans
+ 
+ 
+        
+​
+ Attachment B - Mini Metrics Report
+ 
+        Attachment C - 2020 Plans and Dashboard (Optional)
+ 
+ 
+15 MINUTE BREAK
+ 
+ 
+ADMINISTRATIVE ITEMS (3:15 - 3:45 pm)
+ 
+ 
+3:15    Conversation on Board engagement with decision-making – Whitney will lead a
+ 
+discussion on alternative decision-making approaches the board might adopt.
+ 
+ 
+BOARD VOTES (3:45 – 4:00 pm)
+ 
+ 
+3:45
+The Board will be asked to vote on the following resolution:
+ 
+ 
+1. Prior Meeting Minutes
+ 
+Recommendation
+​
+: Approve the minutes
+ 
+Related Document: 
+​
+Attachment D - Minutes for the November 11, 2019 Board
+ 
+Meeting
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Generate a comprehensive summary (approximately 1000 words):

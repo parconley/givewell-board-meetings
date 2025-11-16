@@ -11,7 +11,16 @@ import {
   TouchableOpacity,
   ScrollView,
   StyleSheet,
+  Animated,
+  LayoutAnimation,
+  Platform,
+  UIManager,
 } from 'react-native';
+
+// Enable LayoutAnimation on Android
+if (Platform.OS === 'android' && UIManager.setLayoutAnimationEnabledExperimental) {
+  UIManager.setLayoutAnimationEnabledExperimental(true);
+}
 import { StatusBar } from 'expo-status-bar';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import Slider from '@react-native-community/slider';
@@ -79,6 +88,8 @@ export default function PlayerScreen() {
   };
 
   const handleAttachmentPress = (index: number) => {
+    // Animate the expansion/collapse
+    LayoutAnimation.configureNext(LayoutAnimation.Presets.easeInEaseOut);
     setExpandedAttachment(expandedAttachment === index ? null : index);
   };
 
@@ -185,7 +196,11 @@ export default function PlayerScreen() {
 
                   {expandedAttachment === index && attachment.text && (
                     <View style={styles.attachmentContent}>
-                      <ScrollView style={styles.attachmentTextScroll} nestedScrollEnabled>
+                      <ScrollView
+                        style={styles.attachmentTextScroll}
+                        nestedScrollEnabled
+                        showsVerticalScrollIndicator={true}
+                      >
                         <Text style={styles.attachmentTextContent}>{attachment.text}</Text>
                       </ScrollView>
                     </View>

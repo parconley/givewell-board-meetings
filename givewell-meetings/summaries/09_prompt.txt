@@ -1,0 +1,552 @@
+Based on the following board meeting documents for a Clear Fund Board Meeting held on December 29, 2009, generate a comprehensive ~1000-word summary that acts as a professional brief.
+
+The summary should cover:
+- Key decisions made and votes taken
+- Important discussions and debates
+- Financial/budget information with specific numbers
+- Strategic direction or policy changes
+- Personnel or organizational changes
+- Any significant outcomes or action items
+
+Keep the tone professional and factual. Focus on substance over process. Be specific with numbers, names, and decisions.
+
+Meeting Documents:
+=== Minutes ===
+Minutes for 12/29/09 meeting of the Clear Fund (aka GiveWell) Board of Directors 	  8:30p	  Meeting	  called	  to	  order.	  	  8:55p	  By	  unanimous	  vote,	  Board	  votes	  to	  approve	  budget,	  including	  $14,583.50	  in	  restricted	  assets	  be	  divided	  evenly	  between	  VillageReach	  and	  the	  Stop	  Tuberculosis	  Partnership.	  	  8:57p	  Board	  begins	  a	  discussion	  of	  Economic	  Empowerment	  Grant	  allocation.	  	  9:09p	  By	  unanimous	  vote,	  Board	  votes	  to	  split	  Economic	  Empowerment	  Grant	  between	  Village	  Enterprise	  Fund	  and	  Small	  Enterprise	  Foundation	  with	  the	  caveat	  that	  if	  it	  is	  not	  administratively	  possible	  to	  grant	  to	  Small	  Enterprise	  Foundation,	  the	  these	  funds	  will	  be	  held	  until	  the	  Board	  can	  meet	  again.	  	  	  10:12p	  Meeting	  adjourned.	  
+
+=== Economic Empowerment Grant Proposal ===
+
+GiveWell Board Meeting – December 29, 2009
+
+                                   Summary
+
+The focus of this meeting is voting to distribute $250,000 in funds to
+economic-empowerment organizations in sub-Saharan Africa.
+
+We recommend the following:
+
+    • $100,000 to the Small Enterprise Foundation, a microfinance
+      institution in South Africa
+    • $100,000 to the Village Enterprise Fund, a charity that distributes
+      cash (not loans) and provides business training to extremely poor
+      individuals in East Africa
+    • $50,000 to BRAC, a large Bangladesh-based development organization
+      that is currently expanding to Uganda, Tanzania, and other countries
+      in Sub-Saharan Africa.
+
+These recommendations are based on the following:
+
+    • We have not found an economic empowerment charity that is as strong on
+      our main criteria as any of our health-focused charities
+      (http://www.givewell.net/charities/top-charities). The three charities
+      above are all between 1 and 2 stars on our rating scale. This means
+      that we have at least one significant concern about each of the
+      organizations.
+    • We don’t believe there are significant, predictable differences in
+      future impact between the three. We keep the following in mind when
+      determining grant sizes:
+         o All appear to be able to incorporate the amount we plan to grant
+           (i.e., they can use additional money to scale their current
+           activities)
+         o We want to reward organizations for a commitment to critical
+           evaluation of their programs. We therefore believe it’s better
+           to reward more rather than fewer organizations, as long as the
+           amounts given are large enough to serve as a reward.
+         o Other things equal, we think it is reasonable to favor smaller
+           organizations rather than larger ones, where our funding and
+           recommendations are more likely to create the direct incentives
+           for the organizations to improve over time.
+
+Below we provide:
+
+    • More detailed summaries of each organization’s strengths and
+      weaknesses
+    • An overview of the process we used to identify and filter
+      organizations
+
+                           Organization summaries
+
+Microfinance institutions
+
+We believe that microfinance can help people by giving them capital to
+start or expand a business or just enable them to manage unpredictable
+incomes and expenses (e.g., medical bills, funerals). But, it can also harm
+them if people take on more debt than they can reasonably manage.
+
+In looking for a microfinance institution, we tried to determine whether
+there was a strong case that loans an institution provided were (a) serving
+people in need and (b) helping rather than harming its borrowers. We did
+this by asking the following questions:
+
+    • Are the clients served poor? Microfinance institutions may choose to
+      serve wealthier borrowers to increase the likelihood that they can
+      become profitable.  (See also http://blog.givewell.net/?p=476)
+    • Do clients repay loans? The higher the repayment rate, the greater the
+      extent to which participation can be interpreted as "paying customers"
+      rather than as "receiving handouts."
+    • Are interest rates competitive (i.e., reasonably high)?  This also
+      pertains to the "paying customer" vs. "receiving handouts" question.
+    • Do clients frequently drop out (and if so, why)?  This gets somewhat
+      at the question of whether clients are "overborrowing" – see
+      discussion at http://blog.givewell.net/?p=500
+    • Can the bank effectively use more funds? We hope to support a bank
+      that needs donations to continue to offer more/better financial
+      services to clients.
+
+More at our blog series on microfinance: http://blog.givewell.net/?cat=34
+
+Small Enterprise Foundation
+
+    • Who are SEF’s clients? It appears that they are poor.  SEF has shared
+      an internal evaluation using what we consider a strong methodology and
+      showing that most clients lack basic amenities (e.g., flush toilet,
+      electric power).  It has also shared an external check that we
+      consider more difficult to interpret.
+    • Do SEF’s clients repay loans? Yes, the “true” repayment rate is over
+      96% over the past 3 years.
+    • Are SEF's interest rates competitive (i.e., reasonably high)? SEF
+      clients repay loans at relatively high rates of interest.
+    • Do SEF's clients frequently drop out (and if so, why)? Clients drop
+      out at rates of 15-25% per year. SEF surveys clients on the reasons
+      they drop out and the most common reasons relate to dissatisfaction
+      with the program. Based on the data we’ve reviewed, these rates appear
+      to be roughly average among institutions that report dropout rates
+      (see http://blog.givewell.net/?p=500)
+    • Room for more funds? SEF is not yet profitable and uses donations to
+      support their operations.  It projects an operational deficit of
+      $222,000 over the next 12 months.
+    • Other considerations:
+         o SEF demonstrates the strongest commitment to monitoring and
+           evaluation of any MFI we reviewed. They:
+               ▪ Have completed multiple surveys of clients to assess
+                 their standard of living.
+               ▪ Survey program dropouts on  the reasons they drop out.
+                 (They don’t just track the number that drop out.)
+         o They have been been given a "Social rating" by M-CRIL, an
+           independent microfinance ratings organization (M-CRIL would not
+           give us information on how frequently they do ratings and how
+           often they hand out each score, but from what we've seen of
+           publicly posted ratings, external "Social ratings" are fairly
+           rare.)  The rating states, "In a ‘middle-income country’ which
+           has substantial consumer lending to salaried workers, SEF is the
+           leading example of poverty focused microfinance, emphasising
+           micro-credit for enterprise and women’s self-employment. SEF
+           demonstrates strong commitment to the double bottom line,  and
+           in a difficult economic environment is quite effectively
+           balancing financial performance and excellent portfolio quality
+           with targeted poverty outreach and innovative social monitoring
+           mechanisms."  Rating components include:
+               ▪ Clarity and social-impact focus of stated
+                 mission/strategy.
+               ▪ Targeting of the poor.
+               ▪ Appropriateness and social-impact focus of staff
+                 training; staff salary incentives (which are significant
+                 and incorporate growth in borrowing groups, portfolio
+                 quality and retention rates)
+               ▪ Information systems for tracking client retention rates
+                 and financial situations
+               ▪ Transparency, and client awareness, of product terms
+               ▪ Policies and procedures for death/illness; auditing of
+                 compliance
+               ▪ Mention of a partnership on a gender empowerment program
+                 that showed encouraging results in a randomized controlled
+                 trial
+               ▪ Representation of women on SEF's staff\(64% overall).
+               ▪ Client satisfaction (~70% positive on most questions)
+               ▪ Client use of other credit sources (clients often use
+                 informal lending societies but rarely use moneylenders or
+                 other MFIs)
+               ▪ Loose analysis of trends in client incomes/outcomes ("The
+                 data indicates a certain level of change which is overall
+                 positive – but lacks a reference to define how significant
+                 the change is, and does not account for dropouts between
+                 cycles")
+
+The charts below summarize the basic facts for SEF: (revenues and expenses,
+total portfolio size)
+
+[pic]
+
+[pic]
+
+
+
+Note: SEF is a registered non-profit in South Africa, but not a U.S.-
+registered 501(c)(3).  We believe we will be able to find a fairly simple
+way to grant SEF while complying with our charter.  If not, we wish to
+reserve the option of dividing the funds allocated to SEF proportionately
+between VEF and BRAC (i.e., 2/3 to VEF and 1/3 to BRAC).
+
+Cash grants and business mentoring programs
+
+Cash grants seem to us like the most direct way to help extremely poor
+individuals: provide them with money so they can use it as they wish.
+
+While direct cash grants may not be particularly cost-effective, we feel
+that the burden of proof should be on other economic empowerment programs
+to show that, essentially, they're doing more for their clients than the
+clients could do for themselves.  As far as we can tell, no economic
+empowerment charities seem able to demonstrate a strong track record, and
+given this situation we think funding cash grants is reasonable.
+
+In the case of cash grants, we consider the following:
+
+    • What is the standard of living of recipients? It’s very important that
+      recipients are poor. This is an intervention in which the incentive
+      for non-poor individuals to try to receive funds is high.
+    • What is the “cash grant ratio” for granting organizations? By “cash
+      grant ratio” we mean: what percentage of expenses does an organization
+      regrant as cash. We prefer that the cost of distributing cash be low.
+      Programs we’ve reviewed range from 15% of expenses distributed as
+      grants to 40%.
+    • Especially if other services are provided, is there direct evidence of
+      impact on clients' standards of living?
+
+Village Enterprise Fund
+
+VEF provides small grants ($30) to each of five members in a business
+group. VEF also provides training to help participants run their
+businesses.
+
+VEF grants total approximately 35% of its revenues.
+
+VEF thoroughly monitors their program:
+    • They record the standard of living of participants
+    • They monitor the change in standard of living for a subset of
+      participants
+
+Concerns:
+    • VEF places a lot of power in the hands of “business mentors” (BMs).
+      BMs are local individuals – often more powerful and wealthier – who
+      make the decisions about who receives funds. This creates a situation
+      where BMs could agree to select certain individuals for the program as
+      long as those individuals agree to “kickback” some portion of the
+      grant. While VEF appears to have a relatively strong system to ensure
+      that BMs distribute all the funds, they do not appear to have a
+      mechanism to prevent BMs from collecting kickbacks, and VEF reported
+      some anecdotes that kickbacks have taken place.
+
+[pic]
+
+[pic]
+[pic]
+
+
+BRAC
+
+BRAC is a large (~$420 million in expenses) development organization based
+in Bangladesh, currently expanding into Sub-Saharan Africa. Because of its
+size and diverse activities, we haven’t evaluated the organization as a
+whole. Nevertheless, we think BRAC stands out from the rest of the field in
+the following ways:
+
+    • It has one program, The Ultra Poor Program (TUP), that is the
+      strongest cash transfer program we’ve reviewed.  This program accounts
+      for about 10% of BRAC's expenses.
+         o The program’s “cash grant ratio” is 40%
+         o The program makes a strong case for impact (on participants'
+           standards of living), not just wealth transfer
+         o The program is now being scaled up and evaluated by Innovators
+           for Poverty Action, a program evaluation group based at Yale and
+           associated with MIT’s Poverty Action Lab (J-PAL). More on our
+           view of IPA at
+           http://www.givewell.net/international/technical/criteria/program-
+           evaluation#JPALandIPA
+    • BRAC has a strong reputation among on-the-ground organizations and
+      others whom we respect
+         o A representative of VisionSpring stated to us that "BRAC is a
+           great partner because they're highly organized, they have a
+           great reputation, and they have a lot of infrastructure to be
+           able to roll out a program like this.  They're sort of top of
+           the line in terms of partners – but there's really only one
+           BRAC.  Our goal is to find organizations that are as much like
+           them as possible."  (See
+           http://groups.yahoo.com/group/givewell/message/95)
+         o We also understand that at least two other organizations have
+           chosen to partner with BRAC for similar reasons: LivingGoods (a
+           charity we have a reasonably high opinion - see
+           http://www.givewell.net/international/charities/special-
+           recognition#LivingGoods) and Seva Mandir (when conducting a
+           randomized evaluation of cash incentives for immunizations).
+    • BRAC has a strong commitment to monitoring and evaluation as evidenced
+      by its website at www.bracresearch.org, a site on which it regularly
+      publishes research reviewing its programs. We identified and reviewed
+      the TUP program (discussed above) based solely on information freely
+      available on BRAC’s website and the BRAC Research site
+
+That said, we are not highly confident in BRAC.  Its microfinance programs
+have what we could call "average" reporting, which is insufficient to
+answer our major concerns about microfinance programs.  We have not
+investigated its other programs: starting social businesses (which BRAC
+asserts are self-supporting), health programs, and education programs.
+
+The charts below provide an overview of BRAC’s financials as well as
+expense allocation to its different program areas.
+
+(Note: data came from two different sources so we don’t have financials for
+2003-2004.)
+
+[pic]
+
+[pic]
+
+                           Overview of our process
+
+We tried to cast the net as wide as we could to consider any organization
+that could potentially receive our grant. We considered a total of 485
+organizations.
+
+We found organizations by:
+
+    • Reviewing any economic empowerment organization we had considered for
+      our international research report
+    • Reviewing all charities listed as international economic development
+      on Charity Navigator
+    • Reviewing all charities with an activity code of “Q30” International
+      development according to their IRS Form 990 with budgets of at least
+      $1m.
+    • We also published news of the grant on our blog and found some
+      organizations through a variety of other sources
+
+To review applicants, we sought an organization that could demonstrate one
+of the following. Any organization that met any of these criteria was
+flagged for further investigation:
+
+   A. Primarily transferring cash/loans directly to poor individuals
+   B. Could demonstrate that it was using donations to create profitable
+      programs
+   C. Could provide a rigorous impact study demonstrating program effect
+   D. Microfinance program that could answer the questions about
+      microfinance outlined above
+
+VEF and SEF met criterion A; BRAC met criterion C; SEF met criterion D.
+Other organizations that met one or more of these criteria, or that we have
+substantial other notes on:
+
+    • Large U.S. microfinance organizations. Grameen Foundation, ACCION
+      International, Opportunity International, Women's World Banking,
+      Unitus. We rejected them for two reasons: (a) they largely provide
+      technical assistance as opposed to directly funding MFIs. They did not
+      provide support to demonstrate that their assistance was having an
+      impact. (More at http://blog.givewell.net/?p=464). (b) They could not
+      provide answers to our microfinance questions listed above.
+    • Heifer International. They provided us with (confidential) impact
+      reports. After reviewing them carefully and discussing them at length
+      with Heifer staff we concluded that we did not find these reports
+      compelling.
+    • Women for Women International. Largely distributes cash. A few major
+      issues:
+         o “Cash grant ratio” is ~15%, far worse than that of VEF or BRAC
+         o They give the same size grants in all locations they work
+           ($10/month) whether it’s wealthier (Kosovo) or poorer (rural
+           Rwanda). We asked but could not determine the logic behind this.
+         o They try to serve as many women in a community as possible. This
+           means that they are distributing funds on the same day to many
+           women in one relatively narrow geographical area. We’re
+           concerned that this could easily cause other distortions in the
+           local economy (such as higher prices to compensate for the large
+           influx of funds) which could offset the impact of distributing
+           the cash.
+    • Microloan Foundation. Only other MFI that provided a calculation of
+      the “real” repayment rate and had surveyed clients to determine
+      reasons for exiting. That said, we found them to be a weaker applicant
+      than SEF in the following ways:
+         o In 2006, MLF’s "repayment rate" was relatively low (around 80%).
+           We use scare quotes for "repayment rate" because we have serious
+           questions about what this statistic means (see
+           http://blog.givewell.net/?p=501).  MLF did send us what we
+           consider the “real” repayment rate, but only since Q3 2007. SEF
+           sent us this data for its entire history (back to 1992) and its
+           repayment rate has remained high for a significant period of
+           time.
+         o SEF’s surveys client’s reasons for dropping out consistently and
+           systematically. MLF did a one-time survey of 31 clients.
+         o We are not entirely convinced that MFL’s reported repayment rate
+           can be taken at face value. It seems plausible that this does
+           not include all of the non-repaid loans.
+
+Background on process – how we found charities and number that applied
+
+|How we found them                 |Number of Organizations           |
+|Q30                               |311                               |
+|MFI on MixMarket                  |45                                |
+|Main Report                       |24                                |
+|Found us                          |3                                 |
+|Charity Navigator                 |49                                |
+|Fast Company                      |3                                 |
+|NTEE q32                          |39                                |
+|Gates                             |6                                 |
+|Unsure (MFN and Global Partners   |2                                 |
+|for Development)                  |                                  |
+|Total                             |437                               |
+
+
+       
+We ultimately directly invited 197 organizations to apply.  We did not
+contact organizations that had one of the following issues:
+
+|Why we didn’t contact             |Number of Organizations           |
+|Not EE                            |116                               |
+|No URL                            |23                                |
+|Not in Africa                     |143                               |
+|Not English                       |2                                 |
+|Not MFI                           |1                                 |
+|Total                             |285                               |
+
+
+       
+50 organizations applied for our grant.
+
+We made significant efforts to encourage all organizations we contacted to
+apply. We were able to reach 123 of the 152 we initially requested. (We did
+not make similar efforts with MFIs we emailed near the end of our process).
+
+52 organizations declined to apply directly. The reasons they gave are
+listed in the table below:
+
+|Reason they said no               |Number of Organizations           |
+|Not a 501c3                       |1                                 |
+|Do not apply for Grants           |1                                 |
+|Believed Givewell did not support |1                                 |
+|programs                          |                                  |
+|Limited Time or Resources         |18                                |
+|No Technical Reports              |10                                |
+|No Reason Given                   |12                                |
+|Stated that they did not do EE    |9                                 |
+|work in sub-Saharan Africa        |                                  |
+|Total                             |52                                |
+
+
+            
+
+
+
+=== Budget Update ===
+
+Past budget: 1/1/2009-11/30/2009
+
+                                    [pic]
+
+    •  "Approved"  figures  are  taken   from   the   July   Board   meeting
+      (http://www.givewell.net/about/official-records/board-meeting-10)
+    • Format has been modified from the  versions  approved  by  the  Board.
+      Some categories  have  been  consolidated,  and  the  "month-by-month"
+      expenses from the 7-12/09 budget have been converted to total  figures
+      for 5 months.
+    • November payroll was officially disbursed  on  12/2.   There  were  no
+      other expenses over 12/1-12/2.  Thus, we  include  12/1-12/2  expenses
+      even though the budget is conceptually for the period through November
+      2009.
+    • Grants approved at the July meeting (and paid subsequently) are listed
+      under the 1-6/2009 heading.  Grants approved at this meeting (and paid
+      subsequently) will be associated with the 7-11/2009 time period.   All
+      other expenses are associated  with  the  dates  at  which  they  were
+      actually paid.
+    • Some minor discrepancies are due to the way  the  7-12/09  budget  was
+      approved  (month-by-month).   For  example,  "accounting  costs"  were
+      totaled for the year and approved on a month-by-month basis,  but  the
+      lump sum for the audit was not paid over this period (it will be  paid
+      this month).  There is a similar issue with insurance (we  approved  a
+      "per-month" allowance  but  paid  the  entire  annual  fee  over  this
+      period).
+    • We have switched insurance providers.  Our new policy is substantially
+      more  expensive  but  substantially  clearer  in  its  coverage,   and
+      accompanied by substantially better service.  We now  also  break  out
+      workers' compensation and  disability  benefits  insurance  separately
+      from salaries/benefits.
+    • There are minor discrepancies between the "Actual" reported here for 1-
+      6/09  and  the  "Actual"  reported  at  the   July   meeting.    These
+      discrepancies will be  resolved  with  the  help  of  our  accountant.
+      Expenses reported here exceed expenses reported at the July meeting by
+      $640.57 of salaries & benefits, $24.16 of  misc  admin/pledge-raising,
+      and $35.82 of accounting/bookkeeping.
+                   Projected budget: 12/1/2009-11/30/2010
+                             (Excluding grants)
+
+                                    [pic]
+
+                             Available reserves
+
+                                    [pic]
+
+                               Proposed grants
+
+    • Our "excess  reserves  policy"  is  not  currently  triggered.   Funds
+      available for operating costs  exceed  anticipated  12mo  expenses  by
+      $141,185.49.  This amount would not be enough to  cover  the  next  12
+      months by conservative assumptions (for example,  assuming  that  2011
+      expenses will be in the same range as 2010's).
+    • $250,000 of our reserves are restricted for the  economic  empowerment
+      grant discussed at this meeting.  We recommend that it be  distributed
+      as proposed in Attachment A.
+    • $34,813.40 of current and anticipated reserves are  restricted  to  be
+      regranted to top charities at our discretion.  We  propose  that  this
+      sum  be  divided  between  our  current   two   top-rated   charities:
+      VillageReach and the Stop Tuberculosis Partnership.
+
+
+
+=== Agenda ===
+
+Clear Fund Board of Directors
+                        Meeting Agenda for 12/29/2009
+
+1. Introductions.  5 minutes.
+
+2. Allocation of economic empowerment grant.  Allow 90 minutes.  See
+   Attachment A.
+
+
+We recommend the following:
+
+    • $100,000 to the Small Enterprise Foundation, a microfinance
+      institution in South Africa
+    • $100,000 to the Village Enterprise Fund, a charity that distributes
+      cash (not loans) and provides business training to extremely poor
+      individuals in East Africa
+    • $50,000 to BRAC, a large Bangladesh-based development organization
+      that is currently expanding to Uganda, Tanzania, and other countries
+      in Sub-Saharan Africa.
+
+These recommendations are based on the following:
+
+    • We have not found an economic empowerment charity that is as strong on
+      our main criteria as any of our health-focused charities
+      (http://www.givewell.net/charities/top-charities). The three charities
+      above are all between 1 and 2 stars on our rating scale. This means
+      that we have at least one significant concern about each of the
+      organizations.
+    • We don’t believe there are significant, predictable differences in
+      future impact between the three. We keep the following in mind when
+      determining grant sizes:
+         o All appear to be able to incorporate the amount we plan to grant
+           (i.e., they can use additional money to scale their current
+           activities)
+         o We want to reward organizations for a commitment to critical
+           evaluation of their programs. We therefore believe it’s better
+           to reward more rather than fewer organizations, as long as the
+           amounts given are large enough to serve as a reward.
+         o Other things equal, we think it is reasonable to favor smaller
+           organizations rather than larger ones, where our funding and
+           recommendations are more likely to create the direct incentives
+           for the organizations to improve over time.
+
+3. Budget review and allocation of other grants.  Allow 30 minutes.  See
+   Attachment B.
+
+Our reserves are more than sufficient for the next 12 months of expenses,
+   but not at the level that would trigger our "excess reserves" policy.
+
+We recommend that $34,813.40 in restricted assets be divided evenly between
+   VillageReach and the Stop Tuberculosis Partnership.
+
+
+                    Total projected meeting time: 2 hours
+
+Attachments:
+   A. Economic Empowerment Grant Proposal
+   B. Budget Update
+
+
+
+Generate a comprehensive summary (approximately 1000 words):

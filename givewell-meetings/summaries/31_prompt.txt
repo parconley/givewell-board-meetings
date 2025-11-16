@@ -1,0 +1,318 @@
+Based on the following board meeting documents for a Clear Fund Board Meeting held on June 14, 2016, generate a comprehensive ~1000-word summary that acts as a professional brief.
+
+The summary should cover:
+- Key decisions made and votes taken
+- Important discussions and debates
+- Financial/budget information with specific numbers
+- Strategic direction or policy changes
+- Personnel or organizational changes
+- Any significant outcomes or action items
+
+Keep the tone professional and factual. Focus on substance over process. Be specific with numbers, names, and decisions.
+
+Meeting Documents:
+=== Attachment A ===
+Clear Fund Document Retention and Destruction Policy  Policies and Controls  Records will be maintained for the periods sufficient to satisfy IRS regulations, federal grant requirements, if applicable, federal, state and local laws, and other legal needs as may be determined.  Record retention  Clear Fund’s records are retained, in either electronic or paper format,  according to the schedule below, in compliance with government, legal, and funders’ requirements. When there is a conflict between federal, state and local record retention requirements, the longer retention period prevails. Certain important records, as determined by the Board, will be retained permanently, even if their retention is not required by law.  Record destruction  Once the retention period has expired, The Clear Fund may destroy the records in a manner that preserves the confidentiality of its contents. The Board of Directors approves all destruction of records prior to commencement.  Record destruction is performed under the direction of the Executive Director, who is responsible for maintaining all Certificates of Destruction.  Upon receipt of any legal notice, all record destruction will cease until the end of the investigation, if any.  Review of policy  Record retention requirements are reviewed annually with the Board and independent auditors to determine any necessary changes.  Type of Document How Long to Retain (Electronic Format) Accounting Accounts payable ledgers Indefinitely Accounts receivable ledgers Indefinitely Annual reports Indefinitely Annuity gift agreements Indefinitely Audited financial statements Indefinitely Bank deposit records Indefinitely Bank reconciliations Indefinitely 
+
+Bank statements Indefinitely Canceled checks (ordinary) Indefinitely Canceled checks (taxes, property and important payments) Indefinitely Contributions/donations/grants (unrestricted) Indefinitely Contributions/donations/grants (temporarily restricted) Indefinitely Contributions/donations/grants (perm. restricted/endowment) Indefinitely Expense analyses/distribution schedules Indefinitely Fixed asset records, appraisals, depreciation schedules Indefinitely Internal audit reports Indefinitely Invoices (to customers/from vendors) Indefinitely Life income agreements Indefinitely Physical inventory records Indefinitely Purchase orders Indefinitely Requisitions Indefinitely Shipping and receiving reports Indefinitely Subsidiary ledgers Indefinitely Tax returns (IRS form 990) and worksheets Indefinitely Uncollectable accounts and write-offs Indefinitely Vouchers for payment to vendors, employees and others Indefinitely Withholding tax statements (W4’s) Indefinitely Corporate Charters, constitutions, bylaws Indefinitely Contracts, mortgages, notes and leases (expired) Indefinitely Contracts still in effect Indefinitely Deeds, mortgages, bills of sale Indefinitely Incorporation records, 501(c)(3) determination Indefinitely Labor contracts Indefinitely Loan documents, notes Indefinitely Licenses Indefinitely Minutes from board meetings Indefinitely 
+
+Patents and related papers Indefinitely Trademark registrations and copyrights Indefinitely Personnel Employment applications (not hired) Indefinitely Garnishments Indefinitely I-9’s (after termination) Indefinitely Payroll records and summaries Indefinitely Personnel files (after termination) Indefinitely Retirement and pension records Indefinitely Time sheets Indefinitely Insurance Accident reports and claims Indefinitely Fire inspection reports Indefinitely Group disability reports Indefinitely Insurance records (expired contracts) Indefinitely OSHA logs Indefinitely Worker’s compensation documentation Indefinitely Other documents Other documents as required by law Indefinitely  
+
+=== Attachment B ===
+Sundry items for The Clear Fund aka GiveWell 
+(June 14​th​, 2016 Board meeting) 
+ 
+ 
+This document contains formalities, items that the board is required to review on an 
+annual basis. 
+ 
+Review of compensation arrangements and benefits; partnerships, joint ventures, 
+and arrangements with management organizations 
+ 
+Our bylaws state: 
+ 
+To ensure the corporation operates in a manner consistent with charitable purposes and does 
+not engage in activities that could jeopardize its tax­exempt status, periodic reviews shall be 
+conducted. The periodic reviews shall, at a minimum, include the following subjects: 
+ 
+a. Whether compensation arrangements and benefits are reasonable, based on competent 
+survey information, and the result of arm's­length bargaining. 
+ 
+b. Whether partnerships, joint ventures, and arrangements with management organizations 
+conform to the corporation's written policies, are properly recorded, reflect reasonable 
+investment or payments for goods and services, further charitable purposes, and do not result 
+in inurement, impermissible private benefit, or in an excess benefit transaction. 
+ 
+We maintain that 
+●Compensation arrangements and benefits are reasonable, based on competent survey 
+information, and the result of arm's­length bargaining. 
+ 
+●We have no noteworthy partnerships, joint ventures, and arrangements with 
+management organizations. 
+ 
+Roster of Officers and Directors. ​A roster of GiveWell's Officers and Directors follows.  
+Jake Gibson 
+Elie Hassenfeld 
+Greg Jensen 
+ 
+Holden Karnofsky ­ Secretary 
+ 
+Tim Ogden ­ Vice­Chair 
+ 
+Rob Reich 
+ 
+Tom Rutledge ­ Chair 
+ 
+Brigid Slipka 
+ 
+
+Phil Steinmeyer 
+  
+  Cari Tuna ­ Treasurer 
+ 
+  Julia Wise 
+ 
+Mission and vision statements 
+ 
+Our mission: we find outstanding giving opportunities and publish the full details of our 
+analysis to help donors decide where to give. 
+ 
+Our vision: a world in which donors reward effectiveness in improving lives. 
+ 
+Review of insurance coverage 
+ 
+We currently have coverage for Directors & Officer Liability (including Employment 
+Practices), Internet Liability, Professional Liability, General Liability, and Property 
+through Philadelphia Insurance Companies. We have Workers' Compensation and 
+Employers' Liability through Hartford. 
+ 
+ 
+Our internal procedures state that we will annually review the need for each of the 
+following types of insurance. 
+ 
+●Director and Officers liability.  ​We are covered. 
+●General liability​. We are covered. 
+●Businesstravel​(canprotectagainstlostproperty,reimburseforcanceledflights,              
+coverhealthexpenseswhiletraveling,etc.)​.​Wehavelimitedgeneralcoverage.               
+We have purchased trip­specific insurance in the past. 
+●Fire/theft.  ​We have minimal Property insurance.  In addition, all important 
+records, as well as weekly backups of all of our website content are saved to a 
+secondary, off­site server and periodic (at least once per month) backups are 
+maintained electronically on our personal computers and backed up in real­time to 
+a remote server via the Carbonite service. 
+●Employee dishonesty ​(theft/embezzlement)​. ​We are not covered. 
+●Hired and non­owned auto.  ​We are not covered. 
+●Professional Liability ​("protects professional practitioners such as Architects, 
+quantity surveyors, home inspectors, Lawyers, physicians, and Accountants 
+against potential negligence claims made by their patients/clients.")​1  ​We are 
+covered. 
+●Employment practices.  ​We are covered. 
+●Workplace violence. ​We are covered. 
+●Business interruption.  ​We are only covered for certain expenses in limited 
+situations. 
+●Hurricane/flood.  ​See "Fire/theft" above. 
+ 
+ 
+ 
+ 
+1 ​http://en.wikipedia.org/wiki/Professional_liability_insurance​ ​accessed 2/27/2010 
+
+=== Attachment C ===
+Attachment C ­ General Discussion Topics 
+ 
+A.Update on our progress splitting GiveWell and Open Philanthropy into separate legal 
+entities 
+ 
+B.Suggestion to formalize board members' responsibilities and professionalize the board 
+ 
+C.Update on GiveWell's growth in money moved and outreach efforts 
+ 
+D.GiveWell's plans for future organizational growth: what does GiveWell's recent history of 
+new top charities imply about our expectations for future staff size and type of staff? 
+ 
+E.Changes to staff compensation 
+ 
+ 
+ 
+
+=== Attachment D ===
+[Excel file - text extraction not supported]
+
+=== Attachment E ===
+Attachment	  Revenue	  changes	  and	  forecasts	  	  Forecasted	  costs	  and	  reserves	  As	  of	  April	  2016,	  we	  projected	  12	  month	  forward	  expenses	  of	  $6.4M	  and	  revenues	  of	  $6.5M.	  As	  of	  April	  2016,	  we	  held	  $4.3M	  in	  reserves.	  GiveWell’s	  unrestricted	  revenue	  increased	  by	  $1.5M	  in	  2015	  (from	  $3.0M	  in	  2014	  to	  $4.5M	  in	  2015).	  1	  What	  changed?	  1. Good	  Ventures	  increased	  its	  unrestricted	  support	  by	  $0.8M	  (from	  $1.2M	  in	  2014	  to	  $2.0M	  in	  2015).	  This	  was	  partly	  due	  to	  a	  change	  towards	  providing	  unrestricted	  funding	  (rather	  than	  funding	  restricted	  to	  specific	  research)	  and	  partly	  due	  to	  increasing	  its	  support	  (largely	  to	  support	  the	  growth	  of	  the	  Open	  Philanthropy	  Project).2	  2. We	  had	  three	  new	  donors	  contribute	  $0.4M.	  3. Donors	  giving	  less	  than	  $10,000/year	  increased	  their	  support	  by	  $0.2M	  (from	  $0.5M	  to	  $0.7M).	  4. Other	  donors	  collectively	  gave	  the	  same	  amount	  in	  2015	  as	  in	  2014.	  By	  the	  end	  of	  2016,	  we	  intend	  to	  separate	  the	  Open	  Philanthropy	  Project	  into	  a	  separate	  organization,	  no	  longer	  supported	  by	  GiveWell’s	  unrestricted	  funding.	  • The	  Open	  Philanthropy	  Project	  now	  accounts	  for	  the	  majority	  of	  GiveWell’s	  expenses	  (we	  estimate	  about	  $4.7M	  of	  the	  $6.4M	  over	  the	  next	  12	  months).	  • We	  are	  tentatively	  planning	  to	  ask	  Good	  Ventures	  to	  fund	  100%	  of	  the	  Open	  Philanthropy	  Project	  (and	  continue	  to	  support	  20%	  of	  GiveWell’s	  expenses).	  • Given	  this,	  we	  believe	  GiveWell	  is	  in	  a	  strong	  financial	  position	  (e.g.	  we	  hold	  $4.3M	  in	  reserves	  and	  expect	  to	  receive	  $2.2M	  from	  Good	  Ventures	  in	  the	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  1	  Note	  that	  this	  does	  not	  include	  office	  space	  donated	  by	  Good	  Ventures;	  we	  estimated	  the	  replacement	  value	  of	  this	  contribution	  as	  $216,000	  in	  2014	  and	  $432,000	  in	  2015.	  2	  In	  2015,	  Good	  Ventures	  aimed	  to	  fund	  20%	  of	  operational	  expenses	  supporting	  GiveWell’s	  traditional	  charity	  recommendations	  and	  50%	  of	  the	  Open	  Philanthropy	  Project.	  By	  the	  end	  of	  2016,	  we	  intend	  to	  separate	  the	  Open	  Philanthropy	  Project	  into	  a	  separate	  organization,	  no	  longer	  supported	  by	  GiveWell’s	  unrestricted	  funding.	  
+
+next	  1-­‐2	  months)	  and	  have	  spent	  relatively	  little	  time	  assessing	  our	  fundraising	  prospects.	  In	  the	  context	  of	  the	  above	  caveats,	  as	  of	  May	  2016,	  we	  project	  that	  revenue	  growth	  will	  keep	  pace	  with	  expense	  growth.	  What’s	  driving	  these	  projections?	  We	  project	  that	  we	  will	  raise	  $6.5M	  from	  May	  2016	  through	  April	  2017.	  This	  is	  based	  on:	  • Good	  Ventures	  funding	  20%	  of	  GiveWell	  expenses	  and	  100%	  of	  Open	  Philanthropy	  expenses:	  $2.4M	  ($2.2M	  grant	  +	  $0.2M	  in	  donated	  rent,	  assuming	  the	  Open	  Philanthropy	  Project	  is	  a	  separate	  organization	  by	  September	  2016)	  • Major	  supporters	  (other	  donors	  providing	  $10,000	  or	  more):	  o $1.4M	  from	  about	  twenty	  donors	  who	  we	  believe	  are	  very	  likely	  to	  continue	  to	  support	  us	  with	  similar	  donations	  o $0.8M	  from	  other	  past	  supporters	  o $0.6M	  from	  new	  major	  supporters	  • $1.0M	  from	  small	  donors,	  based	  on	  an	  assumption	  of	  ~33%	  growth	  from	  2015	  (following	  43%	  growth	  in	  2015)	  • $0.2M	  from	  other	  one-­‐off	  sources	  	  
+
+=== Attachment F ===
+Executive compensation review  
+ 
+Note: the comparison data in this document is unchanged from the one we presented in our 
+June 2015 board meeting. We believe the information we collected last year continues to justify 
+the executive compensation we are proposing. 
+ 
+Summary 
+ 
+This document includes four categories of comparables for executive compensation at 
+GiveWell, and a proposal for raising GiveWell executive salaries: 
+ 
+●Foundations​: Private data drawn from a compensation survey of 117 foundations (2013 
+data) 
+●Research not­for­profits​: public data from the 990s of a handful of not­for­profit 
+organizations conducting research and charity evaluation (2013 data) 
+●Academics​: economics professors at the University of California at Berkeley who are 
+similar in age to Holden and Elie (2011 data) 
+●Social entrepreneurs​: key staff at young non​profits that were founded by "social 
+entrepreneurs" (2010­2011 data) 
+●Compensation proposal​: we propose a salary raise for Holden and Elie from $150,000 
+to $175,000 (a change from approximately $155,000 to $180,000 in total compensation). 
+ 
+Foundations 
+ 
+We have private data from a survey of 117 foundations in early 2014 by Lasnik­Broida. Below is 
+aggregate information about total compensation from the top non­finance positions among the 
+smallest foundations (by assets and then by staff) covered by the survey. 
+ 
+Total compensation in Foundations with ~10­16 staff 
+Title  # orgs 25th Percentile 50th Percentile 75th Percentile 
+CEO  38 $304,500 $330,000  $443,400 
+COO  9 $199,400 $244,200  $280,100 
+Top Program 
+(unique)  10 $201,400 $242,400  $274,000 
+        
+Total compensation in Foundations with ~$100M ­ $500M in assets 
+(overlaps with above) 
+CEO  45 $303,600 $344,000  $431,000 
+COO  9 $199,400 $227,700  $280,100 
+Top Program 
+(unique)  17 $187,000 $229,000  $260,400 
+ 
+
+Notes: 
+ 
+●These data are not adjusted for cost­of­living, although most of the foundations are 
+based in large American cities, and 10 of the 45 foundations are in San Francisco. 
+●If foundations are assumed to spend 5% of their assets each year, the foundations 
+above move ~$5M ­ $25M each year, compared with GiveWell and Open Philanthropy 
+Project’s combined ​~$117M in money moved in 2015​. 
+●Details of this data and definitions are available in ​2014 Total Compensation Survey of 
+Foundations [excerpts].pdf​. 
+ 
+Research not­for­profits 
+ 
+We pulled the available staff compensation information from five research or 
+charity­review­oriented not­for­profits: GlobalGiving Foundation, Center for Effective 
+Philanthropy, Urban Institute, GuideStar, and Charity Navigator. 
+ 
+Here are summary statistics from three of the highest compensated individuals listed in those 
+organizations in their 2013 990s: 
+ 
+Total compensation in selected top positions at 5 orgs from 990s 
+Title\Total comp  25th pctl (4th of 5) 50th pcntl (3rd of 5) 75th pctl (2nd of 5) 
+President/CEO  $205,223  $277,811  $432,875 
+COO (excl. CFOs and CTOs)  $157,712  $164,551  $166,993 
+Top Program/Research position  $136,761  $159,186  $180,535 
+ 
+Notes: 
+ 
+●We have not adjusted for cost­of­living; these five organizations are all headquartered in 
+cities in the Northeast and Mid­Atlantic regions. 
+●The categorizations required some judgement calls. In particular, we excluded positions 
+with “finance” or “technology” in their name in case technical skills are a major part of 
+their value. For example, we excluded the GobalGiving Foundation’s “COO & CFO”, and 
+included their “Chief Business Officer” in the COO category instead. 
+●Details of this data are available ​here​. 
+ 
+ 
+Academics  
+ 
+We think that professors at UC ​Berkeley make for good comparisons because Berkeley is a well​ 
+regarded school (and therefore ought to give some indication of what sort of pay attracts top ​tier 
+intellectuals in a not​­for­profit environment), is public (so salary information is publicly available), 
+and is located in the Bay Area.  
+ 
+
+We believe that economics professors make the most appropriate comparison for Holden and 
+Elie within this data set.  
+ 
+In 2013, we found three professors who had received their BAs during or after 2003 (the year 
+Holden graduated from college). The total 2011 compensation for these professors was $119K 
+(BA in 2008), 121K (BA in 2005), and $174K (BA in 2004). Note that professors typically have 
+~3 months per year, and ~1 day per week during the remaining months, for pursuing side 
+engagements, including paid ones. Holden and Elie work full­​time at GiveWell. 
+ 
+Details of this data are available ​here​. 
+ 
+Social Entrepreneurs 
+ 
+In late 2013, we reviewed the compensation of key staff (i.e., Chief Executives and other staff 
+listed on form 990s) at other mid­​stage “social entrepreneur”​­led organizations including Center 
+for Effective Philanthropy, Benetech, Kiva, Root Capital, Water for People and VisionSpring.  
+ 
+The comparability of these organizations is a substantial judgment call. The median budget size 
+for the organizations we looked at was $10.1 million (25 th percentile: $7.3 million, 75 th 
+percentile: $13 million). This is substantially larger than GiveWell's operating budget, though 
+consistent with a budget that includes our money moved.  
+ 
+The median total compensation for this group is $144,000 (25 th /75 th percentile of 
+$118,000/167,000). Adjusted for the cost​­of­​living in San Francisco, it is $170,000 
+($123,000/$199,000).  
+ 
+Details of this data are available ​here​. 
+ 
+Compensation proposal  
+ 
+We propose a salary raise for Holden and Elie from $150,000 to $175,000/year. In addition to 
+salary, GiveWell covers health benefits for employees and their families, which is approximately 
+$5,000​/year per employee. 
+
+=== Document ===
+Minutes	  for	  the	  June	  14,	  2016	  meeting	  of	  the	  Clear	  Fund	  (aka	  GiveWell)	  Board	  of	  Directors	  	  00:00:00	  	  Meeting	  called	  to	  order	  	  0:00:52	  Proposal	  to	  reelect	  members	  of	  the	  board.	  	  	  The	  reelection	  of	  the	  board	  is	  approved.	  	  00:02:33	  Discussion	  of	  the	  proposed	  2016	  budget	  and	  proposed	  budget	  for	  the	  first	  half	  of	  2017	  (Attachments	  D	  and	  E).	  	  00:36:00	  Discussion	  of	  executive	  compensation	  proposal	  (Attachment	  F).	  	  00:45:00	  Vote	  on	  the	  executive	  compensation	  proposal.	  	  	  The	  executive	  compensation	  proposal	  is	  approved.	  	  00:47:30	  Vote	  on	  the	  proposed	  budget	  for	  2016	  and	  first	  six	  months	  of	  2017.	  	  	  The	  budget	  for	  2016	  and	  first	  six	  months	  of	  2017	  is	  approved.	  	  00:47:50	  Open-­‐ended	  discussion	  of	  topics	  listed	  in	  Attachment	  C.	  	  
+
+=== Agenda ===
+GiveWell Board Meeting Agenda ​ 
+June 14th, 2016 
+ 
+Items requiring board votes: 
+ 
+A. Board member elections 
+ 
+We propose voting to reelect all current board members. Please email Holden to register your votes. 
+ 
+B. Budget and fundraising review 
+ 
+B1. 2015 Budget and fundraising review [Attachment E] 
+B2. 2015 budget approval [Attachment D] 
+B3. Co­​Executive Director compensation review [Attachment F] 
+Holden and Elie will explain their approach to proposing adjustments to their compensation, take 
+questions on the proposed change, and then leave the room so the board can complete discussion 
+and vote in their absence. 
+ 
+The board should vote on: 
+●Holden and Elie's proposed compensation 
+●The proposed budgets for 2016 and the first half of 2017 
+ 
+Items not requiring board votes: 
+ 
+C. Items for review​ ­ no vote required 
+We sent these items by email and will take questions about them, if there are any. 
+● Document retention and destruction policy [Attachment A] 
+● Insurance review and other sundries [Attachment B] 
+ 
+D. Check­​in on GiveWell/Good Ventures relationship​ ­ no vote required 
+We previously agreed to discuss our relationship with Good Ventures. Things continue to go well, and 
+we're planning to just take questions. 
+ 
+Cari will step out of the room at the end of this discussion in case there are questions board members 
+prefer to ask while she's not present. 
+ 
+
+E. Discussion topics​ ­ no vote required 
+We will discuss the topics listed in Attachment C and discuss other questions the board has about 
+GiveWell's priorities and plans. 
+ 
+ 
+ 
+ 
+ 
+
+Generate a comprehensive summary (approximately 1000 words):

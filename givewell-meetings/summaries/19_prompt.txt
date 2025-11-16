@@ -1,0 +1,17 @@
+Based on the following board meeting documents for a Clear Fund Board Meeting held on January 24, 2013, generate a comprehensive ~1000-word summary that acts as a professional brief.
+
+The summary should cover:
+- Key decisions made and votes taken
+- Important discussions and debates
+- Financial/budget information with specific numbers
+- Strategic direction or policy changes
+- Personnel or organizational changes
+- Any significant outcomes or action items
+
+Keep the tone professional and factual. Focus on substance over process. Be specific with numbers, names, and decisions.
+
+Meeting Documents:
+=== Minutes ===
+Minutes	  for	  the	  January	  24,	  2013	  meeting	  of	  the	  Clear	  Fund	  (aka	  GiveWell)	  Board	  of	  Directors	  00:00:00	  Meeting	  called	  to	  order	  00:00:50	  Board	  discusses	  the	  proposal	  for	  Phil	  Steinmeyer	  to	  join	  the	  Clear	  Fund	  Board	  of	  Directors.	  	  	  Phil	  Steinmeyer	  is	  elected	  to	  the	  Clear	  Fund	  Board	  00:04:03	  Board	  begins	  open-­‐ended	  discussion	  of	  GiveWell's	  plans	  for	  2013	  01:24:43	  Meeting	  adjourned	  
+
+Generate a comprehensive summary (approximately 1000 words):

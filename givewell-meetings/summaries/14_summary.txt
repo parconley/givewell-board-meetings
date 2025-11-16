@@ -1,0 +1,65 @@
+GiveWell Board Meeting Summary - Episode 14
+Meeting Number: 16
+Date: August 17, 2011
+Duration: Not specified
+
+OVERVIEW
+This mid-year 2011 board meeting reviewed GiveWell's strong financial improvement, substantial traffic and donation growth, challenging research environment for finding additional top charities, and plans for team expansion. The meeting demonstrated both organizational success and the difficulty of identifying truly outstanding giving opportunities.
+
+FINANCIAL SITUATION - SUBSTANTIAL IMPROVEMENT
+GiveWell's financial position improved considerably since the last update. Projected 2011 revenues increased greatly while expenses decreased slightly, resulting in a projected substantial surplus for 2011. The organization was happy with the productivity of the temporarily larger seven-person team and planned to expand further, hoping for at least one and possibly two new hires in 2012.
+
+The reserves policy was not triggered but was close. Less conservative expense projections (lower estimates) would trigger it. Staff had conservatively budgeted for two new hires starting April 2012. A substantial deficit was still projected for 2012, but this was based on very conservative revenue projections. GiveWell expected the deficit to narrow substantially with relatively little fundraising effort, and if it didn't, would ramp up fundraising.
+
+RESEARCH PROGRESS - STRUGGLING TO FIND TOP CHARITIES
+GiveWell's top 2011 priority was finding additional outstanding giving opportunities capable of productively absorbing $3 million. Despite devoting the vast bulk of resources and attention to this goal, staff struggled significantly. This would continue as the overwhelmingly top priority through Thanksgiving 2011.
+
+Staff had begun work on a new research initiative (GiveWell Labs) but were early in the process and did not expect concrete recommendations in 2011.
+
+During 2011, GiveWell considered over 450 additional organizations and contacted more than 40 for in-depth review. However, staff had not found organizations they were extremely confident in. Ten organizations were considered "contenders" for top ranking. Against Malaria Foundation was the most likely organization to receive top ranking at year-end. Staff did not believe they would identify new organizations to contact before year-end; the 40 organizations currently under review likely comprised the full set that could potentially receive top ranking in 2011.
+
+The research process had become considerably less "rigid." GiveWell focused on finding a potential #1 charity - one the organization was excited to promote. Staff expanded the "signs of a charity worth investigating" and became more open-ended in initial conversations with charities, while still working toward answering the same questions: what they do, evidence that it works, cost-effectiveness, and room for more funding.
+
+Charities examined mostly fell into categories where GiveWell had concerns: charities aiming for eventual self-sustainability (no track record of reaching sustainability), charities focused on raising incomes (no strong effectiveness data), charities focused on R&D of new technologies (no clear sense of room for more funding), and charities delivering basic healthcare or health technologies (most promising but none meeting the gold standard for answering key questions).
+
+MARKETING AND INFLUENCE - SUBSTANTIAL GROWTH
+GiveWell made substantial progress on many "low-hanging fruit" marketing avenues:
+
+Search Engine Optimization and Marketing: Enrolled in Google Grants program, substantially increased advertising, and saw improved search engine traffic largely due to optimized blog posts. In the process of hiring a contractor to help further.
+
+Earned Media: Work on disaster relief published in January positioned GiveWell to make public recommendations for the Japan and East Africa crises. Japan recommendations received substantial press; both crises increased web traffic.
+
+Website Improvements: Better integration of social media (Facebook, Twitter, Google+), donation reminder box (though little-used), and ongoing server and CMS upgrade.
+
+Community Events: Held fundraising/awareness event targeting former employer on April 28 in Westport, and research-focused community event on August 18 in NYC.
+
+Traffic was up 87% from 2010 Q1 to 2011 Q1, and 209% from 2010 Q2 to 2011 Q2. These improvements included periods of major Japan crisis coverage; less traffic was expected in remainder of 2011.
+
+Donations through the website were up about 160% from first half of 2010 to first half of 2011. Money moved through the website was up about 300% over the same period. Disaster-related donations played very little role in this improvement.
+
+Staff noted they didn't have a good handle on why money moved improvement was so much greater than website traffic improvement, but this had been consistently the case since early 2010. The chart showed that in all previous years, online money moved in December exceeded online money moved in all other months combined.
+
+OTHER PRIORITIES
+Fundraising: Originally #2 priority for 2011, now de-prioritized. Projected 2011 revenues around $540,000 (though not all expected to repeat in 2012). Reserves policy not currently triggered.
+
+Research Maintenance and Systemization: On track. Currently had seven-person team (two temporary, leaving end of August), happy with productivity and management overhead. Hoped to expand team more permanently in coming year. No recruiting plan yet.
+
+Research Vetting: Testimonials page improved satisfactorily. Progress relatively slow on securing external reviews. Planned to raise priority of this after Thanksgiving.
+
+High-Level Research of Promising New Causes: Not yet progressed significantly, but expected to do so as part of new research initiative (GiveWell Labs).
+
+New Priority - Recruiting: Hoping for 1-2 new hires in 2012. Placing moderate emphasis on this goal in short term and stronger emphasis after Thanksgiving.
+
+STRATEGIC SHIFT
+GiveWell had shifted its long-term goal from (a) creating a menu of top charities by cause to (b) identifying the best organizations regardless of cause and reducing focus on cause-specific analysis when not geared toward finding a potential #1 charity.
+
+At end of 2010, VillageReach was #1-ranked but had limited room for more funding. Funding was not currently a bottleneck to further VillageReach expansion; it needed approximately $1 million more over next 3 years to fully fund its project. GiveWell directed more than $1 million to VillageReach in 2010 and would not want to move that amount again this year based on room for more funding.
+
+The focus was on finding more charities as strongly recommendable as VillageReach. Staff believed VillageReach may have been a unique opportunity: a program with strong evidence of effectiveness focused on immunizations (highly cost-effective proven intervention), which VillageReach needed funding to scale up, but was struggling to find traditional institutional funding, even though if successful it could potentially alter how health supplies are distributed across the developing world.
+
+While the goal was finding a charity as strong as VillageReach, staff believed such opportunities may not arise for individual donors every year.
+
+IMPLICATIONS
+This meeting revealed a sobering reality: despite substantial resource investment and systematic processes, finding truly outstanding charitable opportunities remained extraordinarily difficult. The disconnect between GiveWell's growing influence (300% increase in money moved) and ability to identify giving opportunities capable of absorbing that capital created strategic tension.
+
+The launch of GiveWell Labs represented recognition that different research approaches might be needed to serve major donors and find opportunities beyond the traditional charity model. The shift away from cause-specific menus toward identifying the absolute best opportunities regardless of cause reflected lessons learned about the rarity of truly outstanding organizations.

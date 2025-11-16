@@ -1,0 +1,71 @@
+GIVEWELL BOARD MEETING #30 - JUNE 17, 2015
+
+BOARD COMPOSITION
+
+The board re-elected all existing members and approved the addition of Julia Wise to the Clear Fund Board of Directors. The full board now consisted of twelve members: Tom Rutledge (Chair), Tim Ogden (Vice-President), Cari Tuna (Treasurer), Holden Karnofsky (Secretary), Elie Hassenfeld, Greg Jensen, Rob Reich, Brigid Slipka, Phil Steinmeyer, Jake Gibson, and Julia Wise. This represented substantial growth from the original small founding board and provided diverse expertise spanning finance, technology, philanthropy, academia, and the effective altruism movement.
+
+DOCUMENT RETENTION AND DESTRUCTION POLICY
+
+The board reviewed and approved a comprehensive document retention and destruction policy establishing systematic protocols for maintaining records in compliance with IRS regulations, federal grant requirements, and federal, state, and local laws. The policy required retaining records (in either electronic or paper format) for periods sufficient to satisfy legal and regulatory requirements, with the longer retention period prevailing when conflicts exist between jurisdictions.
+
+The policy designated certain important records for permanent retention even if not legally required, including all accounting records (accounts payable/receivable ledgers, annual reports, annuity gift agreements, audited financial statements, bank records, canceled checks, contribution records, expense analyses, fixed asset records, internal audit reports, invoices, tax returns, etc.), corporate documents (charters, bylaws, contracts, deeds, incorporation records, labor contracts, loan documents, licenses, board minutes, patents, trademarks, etc.), personnel files, insurance records, and other legally required documents.
+
+The policy established that the Board of Directors must approve all record destruction prior to commencement, with the Executive Director responsible for maintaining Certificates of Destruction. Upon receipt of any legal notice, all record destruction would cease until the end of investigation. Record retention requirements would be reviewed annually with the board and independent auditors to determine necessary changes. This formalized approach to records management reflected organizational maturation and professional governance practices.
+
+INSURANCE REVIEW
+
+The board completed its annual review of insurance coverage. GiveWell maintained coverage through Philadelphia Insurance Companies for Directors & Officers Liability, Employment Practices, Internet Liability, Professional Liability, General Liability, Property, and Workplace Violence (added since the previous review). The organization remained uncovered for employee dishonesty/theft/embezzlement, hired and non-owned auto, and had only limited coverage for business travel and business interruption.
+
+The board determined that minimal property and fire/theft insurance was adequate given that all important records and weekly backups of website content were saved to a secondary off-site server, with periodic (at least monthly) backups maintained electronically on personal computers and backed up in real-time to a remote server via Carbonite service. This reflected a digital-first operational model where physical asset protection was less critical than data security and business continuity.
+
+OPEN PHILANTHROPY PROJECT: ROLES AND RESPONSIBILITIES
+
+The board engaged in extensive 45-minute discussion of the Open Philanthropy Project and the respective roles of GiveWell and Good Ventures. This represented formalization of arrangements that had evolved organically over the previous two years as GiveWell Labs transitioned into the Open Philanthropy Project.
+
+The Open Philanthropy Project was formally defined as a joint initiative of GiveWell and Good Ventures, with both organizations remaining independent entities. GiveWell staff conducted research on outstanding giving opportunities, while Good Ventures reviewed this research and made decisions about whether to support the opportunities identified. Good Ventures also provided operating support to GiveWell.
+
+GiveWell and Good Ventures had signed a Memorandum of Understanding (MOU) about roles in the project, which had been sent to a lawyer who suggested minor changes being implemented. GiveWell was posting Open Philanthropy Project information on its website but had created a separate Open Philanthropy website (www.openphilanthropy.org) where content would be posted in the future.
+
+FINANCIAL ARRANGEMENTS
+
+All Open Philanthropy Project staff were employed by GiveWell. Good Ventures made grants to GiveWell sufficient to cover 50% of Open Philanthropy Project operations and 20% of GiveWell's non-Open Philanthropy operations. Good Ventures paid for office space (which it shared with GiveWell) and donated this in-kind to GiveWell, with the value deducted from Good Ventures' percentage support.
+
+Exceptions included: Silicon Valley Community Foundation providing some administrative support to Good Ventures on grants made via Open Philanthropy Project, not counted in Good Ventures' support; GiveWell and Good Ventures estimating the cost of an office for GiveWell absent Good Ventures preferences, with Good Ventures paying for the cost of its preferences not included in support calculations; and Good Ventures paying for furniture and office items exceeding what GiveWell would purchase independently.
+
+OWNERSHIP AND GOVERNANCE
+
+Good Ventures filed for and would own the Open Philanthropy Project trademark (application pending) and owned the web URL www.openphilanthropy.org. GiveWell owned physical assets it purchased; Good Ventures owned assets it purchased. Good Ventures and GiveWell jointly owned copyright rights in work product created, with all work published on the website under Creative Commons license. GiveWell owned designs and materials for the new Open Philanthropy website under construction; Good Ventures owned designs and materials for the current website.
+
+Holden served as co-Executive Director of GiveWell and was responsible for Open Philanthropy Project day-to-day operations. Cari, as President of Good Ventures, was a member of Open Philanthropy Project's leadership team and decided on grant approvals (or sent them to her grants team or board for larger grants requiring their approval). The Open Philanthropy leadership team also included Elie, Alexander Berger, and Howie Lempel. GiveWell's internal procedures required signoff of both co-Executive Directors for new hires. GiveWell's and Good Ventures' boards retained their respective responsibilities to each organization.
+
+Other partnerships were handled case-by-case, with the Kaitlyn Trigger and Mike Krieger co-funding partnership cited as a model for high-intensity partnerships. Initiating other partnerships was not a priority but something the organizations were open to and had room to experiment with.
+
+REVENUE AND FINANCIAL PROJECTIONS
+
+As of March 2015, GiveWell projected approximately $3.3 million in 12-month forward expenses and $3.5 million in revenues, holding $3.3 million in reserves. Revenue grew from $1.39 million in unrestricted revenue in 2013 to $2.76 million in 2014, representing $1.37 million or 99% growth.
+
+The growth drivers included: $290,000 increased institutional support ($190,000 from Good Ventures increasing from $50,000 to $240,000; $100,000 from anonymous institution increasing from $100,000 to $200,000); $287,000 increased support from existing individual donors ($201,000 from major donors, driven by three donors increasing $230,000 offset by fourth donor decreasing $25,000; $86,000 from donors giving under $5,000, from $182,000 to $269,000); $571,000 from new revenue sources ($100,000 from Fund for Shared Insight; $471,000 from large number of new major supporters including one at $150,000, one at $50,000, six at $10,000-$25,000 totaling $93,000, ten at $10,000 totaling $100,000, thirteen at $5,000-$10,000 totaling $77,000); and $326,000 increase in one-off donations from $44,000 to $370,000.
+
+For 2015, the "best guess without growth" projection estimated $3.5 million between March 2015 and February 2016, including: $1.2 million from Good Ventures at 20% of GiveWell-1 expenses and 50% of Open Philanthropy expenses (up from $240,000 in 2014); $1.8 million from major individual supporters ($1.1 million from very likely donors at 100% of 2014 levels including $750,000 from 4 donors, $500,000 from decently likely donors at 80% of 2014 levels, $200,000 from less likely donors at 50% of 2014 levels); $400,000 from small donors at 150% of 2014 levels; and $200,000 from one-off donations at 2012-2014 average.
+
+The "best guess with growth" projection assumed continuing to add new major supporters at the 2014 rate, increasing revenues by $475,000 to $3.98 million.
+
+CHANGES IN FUNDING STRUCTURE
+
+GiveWell was changing its funding request from Good Ventures from a simple 20% cap on GiveWell's budget to a bifurcated structure: 20% of expenses attributed to GiveWell's traditional top charities work and 50% of expenses attributed to Open Philanthropy Project. In 2014, Good Ventures provided $240,000 in funding plus approximately $650,000 for a research grant (of which approximately $275,000 remained). For 2015, GiveWell planned to request approximately $1.2 million from Good Ventures.
+
+GiveWell was also implementing a cap on any individual donor's operating support at 10% of total (GiveWell and Open Philanthropy) expenses. This only affected one past donation but would cause approximately $250,000 in unrestricted funds to be granted out. The remaining research grant funds of approximately $275,000 would be allocated to expenses previously covered by the grant (Open Philanthropy contractors and hires).
+
+EXECUTIVE COMPENSATION
+
+The board approved increasing co-Executive Director salaries from $130,000 to $150,000 (approximately $135,000 to $155,000 in total compensation including benefits). The compensation review included four categories of comparables: foundations (using private data from 117 foundations surveyed in 2014), research nonprofits (using public 990 data from five organizations in 2013), academics (economics professors at UC Berkeley with similar age to Holden and Elie, using 2011 data), and social entrepreneurs (using 2010-2011 data, carried forward from previous year without update).
+
+For foundations with approximately 10-16 staff, CEO total compensation ranged from $304,500 (25th percentile) to $330,000 (median) to $443,400 (75th percentile). COO compensation ranged from $199,400 to $244,200 to $280,100. Top program staff ranged from $201,400 to $242,400 to $274,000. For foundations with approximately $100 million to $500 million in assets (overlapping with staff-size category), figures were similar. These foundations were estimated to move approximately $5-25 million annually compared to GiveWell and Open Philanthropy Project's combined approximately $36 million in money moved in 2014.
+
+For research nonprofits (GlobalGiving Foundation, Center for Effective Philanthropy, Urban Institute, GuideStar, Charity Navigator), President/CEO compensation ranged from $205,223 (25th percentile) to $277,811 (median) to $432,875 (75th percentile). COO compensation (excluding CFOs and CTOs) ranged from $157,712 to $164,551 to $166,993. Top program/research positions ranged from $136,761 to $159,186 to $180,535.
+
+The board had this discussion with Holden and Elie present for questions, then they left the room for final deliberation and vote. The board approved the compensation increase and the overall 2015 budget.
+
+STRATEGIC SIGNIFICANCE
+
+This meeting represented formalization of the Open Philanthropy Project as a distinct entity with clear governance, financial arrangements, and operational protocols. The extensive discussion of roles and responsibilities, ownership structures, and funding arrangements established a framework for the increasingly substantial partnership between GiveWell and Good Ventures while maintaining organizational independence and appropriate governance.

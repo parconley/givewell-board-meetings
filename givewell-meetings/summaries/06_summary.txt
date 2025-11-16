@@ -1,0 +1,120 @@
+GiveWell Board Meeting Summary - Episode 6
+Meeting Number: 8
+Date: December 15, 2008
+Duration: 2 hours 30 minutes
+
+OVERVIEW
+This board meeting focused on expanding governance capacity, assessing financial sustainability, and resolving fundamental questions about research methodology and organizational focus. The meeting occurred during the 2008 financial crisis as GiveWell worked to define its research approach and ensure sufficient runway for operations into 2009.
+
+BOARD EXPANSION
+The meeting began with nominations of Tom Rutledge and Ari Herman for addition to the Board of Directors. This expansion would bring the board from six to eight members, continuing the governance strengthening that had been a priority following GiveWell's first-year challenges. The addition of new board members would provide additional expertise, oversight, and network connections to support the organization's development.
+
+FINANCIAL SITUATION AND RUNWAY ANALYSIS
+Staff presented a comprehensive analysis of GiveWell's financial position under various expense scenarios. This was explicitly not a budget to be approved - the board had already approved the budget through May 31, 2009 at the previous meeting - but rather an illustration of how far existing assets could carry the organization under different staffing and office configurations.
+
+The analysis examined cash on hand and projected how long operations could continue under different scenarios involving potential hires and office space. Key assumptions included:
+
+- "Analyst" positions at $35,000 per year plus payroll taxes and health benefits
+- "Partner" positions at $65,000 per year plus payroll taxes and health benefits (potentially for a website specialist or strong researcher/generalist)
+- "Office" referring to space accommodating approximately five people
+
+The financial overview demonstrated that under reasonable and even aggressive spending scenarios, GiveWell had sufficient cash on hand to last into 2009. This provided the organization with breathing room to execute its research-focused strategy without immediate financial pressure, though continued fundraising for operating expenses would remain important.
+
+The analysis reflected the organization's careful financial stewardship and the importance of understanding runway under different strategic choices, particularly regarding hiring decisions that would significantly impact burn rate.
+
+FUNDAMENTAL RESEARCH METHODOLOGY QUESTIONS
+The centerpiece of the meeting was an extensive 90-minute discussion of key research methodology questions that would fundamentally shape how GiveWell allocated time and resources. Staff framed these questions around four potential research goals, each with different time costs, customer appeal, and support requirements.
+
+Goal 1: Provide a General Overview of International Aid
+This involved finding and reading academic works on the potential benefits and downsides of international aid, major success stories and failures, and synthesizing findings into accessible summaries. Staff estimated this would require 4-8 weeks of focused work by the co-founders and should translate into regular blog posts.
+
+Staff noted significant challenges: difficulty finding useful papers that combined factual rigor with accessible narrative rather than purely econometric analysis, and the need for better library access than they currently possessed. Graduate students might potentially contribute through compensated literature reviews, and conversations with academic experts could prove extremely helpful. However, an entry-level "analyst" hire would be unlikely to add value to this work.
+
+Goal 2: Identify "Top" Charities
+This involved identifying interventions that academic literature considered successful, promising, or highly cost-effective, then finding charities focused on these programs and conducting basic due diligence. Staff noted they already had a substantial list of top interventions from work to date and estimated that identifying charities working on a given intervention should take 1-2 days per intervention once top interventions were identified.
+
+Having a comprehensive "charity database" (discussed under Goal 4) would make this step fairly easy. Without one, GiveWell would rely on referrals and Google searches. An open question existed about whether it made sense to give to large multi-purpose organizations like UNICEF while restricting donations to particular programs.
+
+Goal 3: Thoroughly Evaluate "Top" Charities
+This involved contacting top charities to request extensive documentation, asking specific questions, analyzing materials, and creating detailed writeups similar to the Year 1 recommendations. Staff estimated approximately one week per charity, producing one thorough charity writeup per week spent. An "analyst" hire could add limited value, and academics were unlikely to be helpful except tangentially.
+
+Goal 4: Evaluate or Catalogue a Comprehensive Set of Major Charities
+This was the most ambitious and complex goal, involving cataloguing the activities of as many charities as possible primarily from their websites, potentially supplemented by information from major funders like USAID, CIDA, DFID, and the Gates Foundation. This could be done at different levels:
+
+- Evaluating only "household-name" charities (Red Cross, UNICEF, CARE, Save the Children)
+- Evaluating all US-registered public charities above a certain size threshold
+
+Staff noted there were approximately 800 US-registered international aid charities with annual expenses over $1 million, with about 200 listed by Charity Navigator. Time costs were substantial and hard to estimate, varying widely by charity complexity:
+
+- Extremely diverse charities could take upwards of a day to catalogue
+- Moderately large charities could take several hours
+- Fairly simple charities could be catalogued in 30-60 minutes
+
+Beyond cataloguing, there was the separate question of using activities to create evaluations by matching them to academic literature findings. The highest level of thoroughness would require creating both a "programs database" and a "charities database," which might take a few weeks or might prove infeasible.
+
+This goal had far more potential for systemization and support from an "analyst" hire than the other goals, making it particularly well-suited to leveraging additional staff capacity.
+
+CUSTOMER SEGMENTATION AND PRIORITIES
+Staff identified four distinct customer segments with different needs:
+
+1. Core supporters and GiveWell Pledgers: Primarily interested in recommendations. Goals 2 (identifying top charities), 1 (general literature review), and 3 (thoroughly evaluating top charities) seemed most important for this segment.
+
+2. People with more casual interest: Those encountering GiveWell through friends or media. Staff believed they often lost these people when they couldn't provide information on a particular charity, suggesting breadth of coverage mattered significantly.
+
+3. Donor-advised funds and wealth advisors: Hard to specify exactly what they wanted, but staff believed that having comprehensive evaluations could add much-needed credibility to recommendations.
+
+4. Online donor resources: GuideStar and Charity Navigator had both expressed at least preliminary openness to partnering with GiveWell. Staff saw both as primarily interested in coverage of as many organizations as possible.
+
+This customer segmentation revealed inherent tensions in resource allocation. Core supporters valued depth - thorough evaluation of the best opportunities. Casual potential supporters valued breadth - being able to find information on charities they were already considering. Partnership opportunities with major platforms like GuideStar and Charity Navigator depended on comprehensive coverage numbers.
+
+PROGRESS EVALUATION QUESTION
+The agenda highlighted the question "How will we evaluate our progress?" as key, though specific metrics or approaches were not detailed in the attachments. This question connected to the broader strategic challenge of demonstrating organizational viability and progress toward impact while pursuing a long-term, research-intensive strategy.
+
+MISCELLANEOUS OPERATIONAL QUESTIONS
+Staff raised several operational questions for board discussion, with specific proposals where they had formed opinions:
+
+Time Allocation: Staff proposed spending 40 hours per week on research, 10 hours on website development (with help from a professional consultant if possible), 15 hours on maintaining contacts, 5 hours on hiring and management, and 10 hours on miscellaneous tasks. The new hire would contribute 30 focused hours per week, devoted mostly to charity database-related work. This allocation reflected the research-first priority established at the previous meeting while maintaining relationship development and website improvement efforts.
+
+Should GiveWell Change Its Name to Get a .com URL? The organization operated on a .net domain, and staff wondered whether having a .com URL was important enough to justify a name change. This question reflected concerns about discoverability and legitimacy in an era when .com domains were strongly associated with established web presence.
+
+Is It a Problem That Elie and Holden Live in Different Cities? The co-founders were geographically separated, raising questions about coordination, communication, and organizational efficiency. This was particularly relevant given discussions about potentially leasing office space.
+
+What Should Be the Focus of the Blog? The organization maintained a blog as a communication channel with supporters and potential customers, and staff wanted guidance on appropriate content and positioning.
+
+How Concerned Should We Be About Exhibiting a Particular Political Orientation? GiveWell's research on causes and interventions could potentially be interpreted through political lenses, and staff wondered how much they should worry about appearing aligned with particular political viewpoints.
+
+RESEARCH CHALLENGES AND RESOURCE NEEDS
+The research methodology discussion revealed several significant challenges facing GiveWell's research ambitions:
+
+Library Access: Staff explicitly noted they needed better library access than they currently had to conduct thorough academic literature reviews. As an independent nonprofit without university affiliation, accessing paywalled academic journals and comprehensive library resources presented real obstacles.
+
+Academic Literature Quality: Staff expressed frustration with available papers, mostly finding either general/qualitative/"popular" overviews or econometric analysis lacking the context and perspective necessary for common-sense evaluation. They sought work that better combined facts with accessible narrative.
+
+Expertise Gaps: While the co-founders brought analytical skills and dedication, they lacked deep subject matter expertise in international development, public health, and related fields. Compensating for this through self-study and expert consultation was time-intensive.
+
+Systemization Challenges: Creating truly systematic, scalable research processes - particularly for comprehensive charity cataloguing and evaluation - required developing databases and methodologies that might or might not prove feasible. The uncertainty around implementation approaches made planning difficult.
+
+STRATEGIC TENSIONS AND TRADEOFFS
+The meeting exposed fundamental tensions in GiveWell's positioning:
+
+Depth vs. Breadth: Should GiveWell focus on thoroughly evaluating a small number of top opportunities, or on providing basic information about a comprehensive set of charities? Different customer segments pulled in different directions.
+
+Research vs. Marketing: While the previous meeting had established research as the top priority, questions about website development, blog focus, and time allocation reflected ongoing tension about how much effort to devote to reaching audiences versus improving content.
+
+Systemization vs. Founder Dependence: Creating scalable processes that didn't rely entirely on the co-founders' judgment was important for organizational credibility and growth potential, but also added complexity and might not be feasible for all research goals.
+
+Short-term vs. Long-term Credibility: Comprehensive coverage could attract partnerships and appear impressive, but lower-quality evaluations might undermine credibility. Fewer, deeper recommendations might have more impact but could appear limited in scope.
+
+ORGANIZATIONAL CONTEXT
+This meeting occurred at the height of the 2008 financial crisis, with markets in turmoil and nonprofits facing severe funding pressures. That GiveWell had sufficient runway to operate into 2009 under various scenarios was reassuring, but the economic environment made fundraising for operating expenses challenging and uncertain.
+
+The meeting's focus on fundamental methodology questions - three months into the fiscal year and after approving a tactical plan at the previous meeting - suggested that staff were still working through how to operationalize the research-first strategy. The extensive discussion of different research goals and customer segments indicated genuine uncertainty about the right approach rather than mere implementation details.
+
+The proposal to add two new board members continued the pattern of strengthening governance following the organization's first-year challenges. An eight-person board would provide substantially more oversight, expertise, and network connections than the initial small board.
+
+IMPLICATIONS FOR GIVEWELL'S DEVELOPMENT
+The methodology questions discussed in this meeting would shape GiveWell's research approach for years to come. The tension between comprehensive coverage and deep evaluation, the challenge of creating systematic processes, the importance of academic literature review, and the need to serve multiple customer segments all remained central to GiveWell's work.
+
+The proposed time allocation - with 40 hours per week on research representing half of the co-founders' total time - reflected the commitment to building research infrastructure even while maintaining other organizational functions. The plan to focus the new analyst hire on charity database work suggested a lean toward breadth and systemization.
+
+The meeting demonstrated thoughtful strategic questioning as GiveWell worked to translate its research-first commitment into concrete methodological choices and resource allocations that would enable long-term impact while maintaining sufficient customer appeal to demonstrate viability.

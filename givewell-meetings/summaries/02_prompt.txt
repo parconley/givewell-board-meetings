@@ -1,0 +1,815 @@
+Based on the following board meeting documents for a Clear Fund Board Meeting held on March 4, 2008, generate a comprehensive ~1000-word summary that acts as a professional brief.
+
+The summary should cover:
+- Key decisions made and votes taken
+- Important discussions and debates
+- Financial/budget information with specific numbers
+- Strategic direction or policy changes
+- Personnel or organizational changes
+- Any significant outcomes or action items
+
+Keep the tone professional and factual. Focus on substance over process. Be specific with numbers, names, and decisions.
+
+Meeting Documents:
+=== Options for Cause 3 ===
+
+                        Clear Fund Board of Directors
+                      Attachment A: Options for Cause 3
+
+                          Nurse-Family Partnership
+
+                                  The model
+
+The NFP model consists  of  having  trained  registered  nurses  visit  low-
+income, single mothers – starting early in pregnancy – and attempt  to  help
+them with prenatal  health  (nutrition;  reducing  alcohol/tobacco/drug  use
+during pregnancy; obtaining prenatal care), child care (creating a safe  and
+supportive home environment), and personal life  management  (birth  spacing
+as well as taking steps toward education and employment).
+
+                          Evidence of effectiveness
+
+Three randomized controlled trials of this study have been  conducted.   All
+have been methodologically strong, with moderate attrition  and  blind  data
+collection.   Populations  served  have  varied  widely,  though  all   have
+involved  low-income   first-time   mothers.    All   three   trials   found
+statistically significant effects on mothers’  “birth  spacing”  (number  of
+children, months between births), and two found effects on mothers’  use  of
+welfare that were attributed to the effects on birth spacing.  In  addition,
+all three trials found that treated children were better off in  some  ways,
+though  they  often  looked  at  many  factors   and   found   statistically
+significant differences on only a few  (while  still  more  than  one  would
+probabilistically expect with no effect).
+
+The first trial, in Elmira County NY, followed families for 15  years  after
+birth  and   found   statistically   significant   effects   on   children’s
+disciplinary records (though few differences  in  their  reported  behavior,
+such as sex and drug use).  The second, in Memphis, has so far published  3-
+and 6-year follow-ups (the latter published in 2004 – so we hope and  expect
+that more are on the way), and found the  children  of  visited  mothers  to
+have  superior  scores  on  a  variety  of   tests   including   vocabulary,
+arithmetic, and a  mental  processing  composite.   The  third,  in  Denver,
+published the results  of  its  4-year  followup  in  2004,  and  found  the
+children of visited mothers to have superior scores on a  variety  of  tests
+including language and behavioral adaptation in testing.
+
+Other studies of similar  programs  have  found  much  weaker  results;  the
+hypothesis we have seen advanced in the literature is  that  the  difference
+between registered nurses and paraprofessionals is  important.   The  Denver
+study of NFP provides preliminary direct evidence for this,  by  randomizing
+between the two treatments; while both have some positive  effects  on  both
+mothers and children, it is reported  (from  a  paper  that  we  don’t  have
+access to) that paraprofessional effects are about half as large.
+
+Apparent  effects  on  visited  mothers’  children  are   often   relatively
+small/haphazard (i.e., they look at many variables and find a  few  pointing
+strongly in the direction of the treated group, with the rest  statistically
+equivalent); at the same time, expecting  much  more  from  an  intervention
+like this is probably excessive, and NFP’s studies are cited throughout  the
+literature as being the methodologically strongest  and  most  promising  in
+terms  of  outcomes  (and  have  been  reproduced  across   very   different
+populations).  We would bet that this program is having lasting  effects  of
+some size on people’s lives, and that it  is  more  effective  than  similar
+programs.
+
+                                    Costs
+
+NFP’s website puts the cost of the program  at  $10,000  per  family,  total
+(for the 2.75- year program).  Its sample startup budget is around  $500,000
+per year for 100 families, which implies a total cost of about  $14,000  for
+the full program.  Note that most of the costs are paid  by  the  individual
+agencies; the role of the national  organization  is  to  provide  training,
+support, and oversight, and its  costs  are  negligible  in  the  scheme  of
+things (around $10m for 75,000 families next year).
+
+                              The organization
+
+The national Nurse-Family Partnership organization does not  primarily  fund
+the partner sites on the ground; it does have a  line  item  for  grants  to
+these organizations, but the amount is very  small  ($24,000  projected  for
+2008).  Instead, it focuses on  technical  assistance.   Partners  apply  to
+NFP, and in exchange for submitting detailed reports and committing to  hold
+to the model, they get the NFP name;  assistance  with  applying  for  local
+funding (including from the  state);  and  training  for  their  nurses  and
+supervisors.    The    national    organization’s    main    expenses    are
+evaluation/reporting/management and education;  it  also  conducts  advocacy
+and fundraising.
+
+
+The organization has extremely thorough data collection.  It has  data  from
+each partner on demographics; attrition; implementation (number and  content
+of  visits);  and  a  broad  range  of  outcomes  (maternal  smoking/alcohol
+consumption, life situation, children’s test scores, etc.)  It  provided  us
+with a sample report containing all of this data, and  national  aggregates;
+it was not able to provide  us  site-by-site  data  due  to  confidentiality
+issues.
+
+This organization stands out from any other we have examined, in any  cause,
+for its clarity of strategy, commitment to replicating what is  proven,  and
+ability  to  continue  learning  about  what  works  (both  through  ongoing
+randomized trials and through the data collected from all its sites).
+
+                          Head Start-style programs
+
+                                  The model
+
+Head Start is a federally funded program providing 3-4 hours a  day  of  day
+care to 4-5 year old children of families below the poverty line (90%  of  a
+program’s participants  must  be  below  the  poverty  line).   It  includes
+educational programming, nutrition and health  services,  and  often  has  a
+parental component as well (counseling, social services, home visits).
+
+Universal Pre-K is a New York program that  provides  additional  funds  and
+additional oversight, and  generally  involves  extending  child  care  from
+partial to full days.
+
+                          Evidence of effectiveness
+
+Head Start is a politically charged program, and  there  has  been  a  great
+deal of study on it.  We  have  examined  several  individual  studies,  but
+learned most of what we know from a literature review by W.S.  Barnett  that
+systematically  collects  the   studies   meeting   certain   methodological
+criteria.
+
+The most often cited  evidence  for  preschool’s  effectiveness  comes  from
+“model programs,” which are generally privately  funded  and  evaluated  and
+have extremely high quality and intensity (much higher than a  typical  Head
+Start program’s).  Out of the 15 studies of  such  programs,  9  showed  the
+treatment group as statistically significantly better off, as of  3rd  grade
+or later, by at least one of the  following  measures:  IQ  (rare),  special
+education and grade retention, achievement  test  scores  and  statistically
+equivalent on the others; 5 didn’t  show  strong  effects  one  way  or  the
+other; in one, the treatment group  had  lower  IQ.   About  half  of  these
+employed experimental design (i.e., used randomization).  The  studies  that
+were methodologically strongest, and most careful in their selection of  at-
+risk children, showed the most impressive effects.
+
+There are also  24  studies  that  compared  participants  in  ongoing  (and
+probably more typical) preschool programs to  a  comparison  group,  usually
+children with similar demographics who had not attended preschool  (most  of
+these studies were looking  specifically  at  Head  Start  programs).   None
+employed experimental design. 22 of the 24  do  not  control  for  selection
+bias, i.e., possible attitudinal differences between families who choose  to
+participate or not participate in  Head  Start.  The  other  two  made  some
+attempt to correct for this, but also suffered from high  attrition.  15  of
+the 24 studies (including 1 of  the  2  that  seems  to  have  attempted  to
+control for selection bias) showed Head Start children with a  statistically
+significant advantage as of grade 3 or later (and in the last  year  of  the
+study) on at least  one  of:  high  school  graduation,  achievement  tests,
+special education, grade retention.  9  showed  mixed  or  non-statistically
+significant effects.
+
+Note that there is a great deal of  politically  charged  debate  over  Head
+Start, and the program is commonly claimed to have “no effects” or  “effects
+that fade out over time.”  From what we’ve seen,  we  agree  with  Barnett’s
+conclusion that debates over Head Start too often  focuses  narrowly  on  IQ
+effects (which generally do “fade out” entirely); when looking  broadly  for
+evidence of improved mental health  and  acuity,  we  believe  the  evidence
+points to an effect of some size.
+
+We would bet that  Head  Start  is  having  a  lasting  positive  effect  on
+people’s lives.  It is difficult to  think  about  whether  this  effect  is
+“more or less significant” than that  of  nurse  visits  (discussed  above);
+we’re dealing with a much greater  number  of  studies,  more  concern  over
+selection  bias,  more  concern  over  publication  bias,  fewer   different
+variables measured (making  it  easier  for  NFP  to  find  some  apparently
+significant effects), fundamentally different variables  measured,  etc.  As
+we  explain  below,  other  considerations  sway  us  towards  Nurse  Family
+Partnership.
+
+                                    Costs
+
+We looked at budgets of the day care  programs  that  we  would  potentially
+grant. They spent $10,000-12,000 per child served per year.  Most  of  these
+funds come from the government. According to  the  government  agency  which
+administers the Head Start  program,  New  York  State  Head  Start  Centers
+received $8,800 per child enrolled, per year.
+
+Many of the studies on Head Start’s effectiveness looked  at  programs  that
+lasted more than one year.  The 24 studies of “typical”  preschool  programs
+did not clearly show more  impressive  effects  for  longer  programs;  when
+looking through the more methodologically rigorous “model program”  studies,
+one-year programs appear weaker (of 6 studies on one-year programs,  only  2
+showed a statistically significant impact in  at  least  one  of  the  major
+measured areas, and the only one of these 2 that  used  experimental  design
+was the study of the Perry Preschool  program,  which  was  unusually  well-
+funded  and  unusually  careful  in   selecting   low-intelligence/high-risk
+participants).
+
+                                Organizations
+
+We have very little understanding of the organizations we have  examined  in
+this area, other than their status as  Head  Start  and/or  Universal  Pre-K
+programs.  We have no way to confirm their likely effect  on  life  outcomes
+for children: a few provided test score data for their children, but  in  no
+case were  we  able  to  get  any  sense  of  the  counterfactual  (i.e.,  a
+comparison to “normal” progress on these sorts  of  tests).   Many  provided
+extremely detailed descriptions of their activities, but in no case were  we
+able to find an association between  activities  or  program  qualities  and
+documented effectiveness.  Most are relatively small organizations,  and  we
+have little sense for how additional funding would affect them.
+
+We would find  it  reasonable  to  split  the  Cause  3  grant  between  all
+applicants that are certified Head Start  programs  and/or  Universal  Pre-K
+programs – betting on  the  effectiveness  of  that  basic  model,  and  the
+government’s ability to monitor it, much as a grant to an NFP  partner  site
+would be betting on the NFP model and the central organization’s ability  to
+monitor it.  However, we do not feel that  we  have  enough  information  to
+make a reasonable decision between one preschool program and another.
+
+                               Recommendation
+
+We are fairly confident that funding either  the  Nurse  Family  Partnership
+model or the Head Start model would improve people’s lives.
+
+We recommend awarding the grant to Nurse Family  Partnership,  because:  (a)
+we have more confidence that the grant will be used  to  “do  more  of  what
+works” – we have very little sense of how our preschool applicants would  be
+affected by more funds;  (b)  we  find  the  organization  to  be  extremely
+impressive and in line with our principles, and feel that  funding  it  will
+be putting money in the  hands  of  people  who  are  willing  and  able  to
+continue adding to our knowledge of what works.
+
+
+=== Options for Cause 4 ===
+
+                        Clear Fund Board of Directors
+                      Attachment B: Options for Cause 4
+
+           Recommended organizations (in order of our preference)
+
+1. KIPP is a network of 50+ schools across  the  country.  The  basic  model
+   works as follows: the KIPP Foundation is responsible for  recruiting  and
+   training principals, negotiating with the state to start up schools,  and
+   providing additional assistance in starting up schools.  KIPP NYC is  the
+   New  York  network  of  KIPP  schools  and  is  responsible  for  raising
+   supplemental private funds for its schools (as required by the state), as
+   well as other programs aiming to  help  KIPP  students  get  as  good  an
+   education possible before and after attending KIPP.
+
+ The essentials of KIPP’s value added as we understand them are:
+
+    • KIPP's founders personally work to find great principals and give them
+      support (a Shared Services team that  does  administrative  work)  and
+      autonomy.
+    •  The  principals  are  generally   highly   concerned   with   teacher
+      recruitment.
+    • Schools generally have extended hours.
+
+The model makes sense to us, and the empirical evidence is  consistent  with
+the idea that it is working. Two  quasi-experimental  studies  and  our  own
+analysis of all publicly available test data give us  some  confidence  that
+KIPP causes a significant “KIPP Impact” on students’ test scores.
+
+KIPP  has  scaled  effectively  over  the  past  five  years  (adding   5-10
+schools/year between 2002 and 2007). We estimate that  KIPP  spends  $5,000-
+10,000 per student (excluding per-pupil funding KIPP receives  as  a  public
+school replacement, which accounts for an additional $11,000 per student).
+
+2. Teach for America recruits, trains and places  recent  college  graduates
+in  low-income  public  schools  across  the  country.  It’s  important   to
+acknowledge the broad potential benefits of  this  model,  which  explicitly
+aims to increase talented people’s interested in  education.  (For  example,
+KIPP’s  two  founders  and  almost  all  teachers  and  principals  are  TFA
+graduates.) We have confidence that TFA is  reliably  adding  decent-to-good
+teachers (as good as, or a little better than, other teachers) to the  pool.
+ TFA has increased the number of corps from 2,100 to 2,700 between 2005  and
+2007 and plans to reach 4,100 corps members by 2010.   TFA  spends  $15,000-
+20,000 per teacher placed.
+
+3. Children’s  Scholarship  Fund  provides  privately  subsidized  vouchers,
+allowing children with low incomes to attend private schools.  The  rigorous
+studies on this  approach  imply  no  statistically  significant  effect  on
+academic  performance  (measured  by  standardized  test  scores)  for   the
+population as a whole, and a possible effect for African-American  students.
+It's relatively easy for us to see how  this  model  could  be  inferior  to
+KIPP’s in terms of improving disadvantaged children's education, since  it’s
+possible that  those  who  benefit  are  primarily  highly  active/motivated
+families who are proactively looking to  send  their  kid  to  a  particular
+school and ready to pay for it, and would likely send their kid  to  private
+school with or without a scholarship. (We are not clear on how CSF sets  its
+scholarship size, and  how  well  it  is  avoiding  the  problem  of  giving
+families  more  than  they  need  to  afford  tuition.)   The  schools   CSF
+recipients attend have  an  average  tuition  of  $3,000/year  and  CSF,  on
+average, provides $1,500 requiring families to pay  the  other  half.   We’d
+guess that the schools CSF students attend spend another  $5,000-10,000  per
+pupil that they raise through their own fundraising efforts.
+
+Achievement First and Replications Inc. are similar to  KIPP  in  that  they
+create new schools.  We prefer  KIPP  to  Achievement  First  (which  hasn’t
+demonstrated  an  ability  to  scale  across  many  schools  and  has  scant
+available test  score  data)  and  Replications  (which  didn’t  demonstrate
+improved test scores for its students).
+
+None  of  our  other  applicants  demonstrated  any  effect  on  educational
+outcomes in a way that  made  what  we  consider  a  reasonable  attempt  to
+control for selection bias (or produced  evidence  strong  enough  to  imply
+that it is generated by more than selection bias).
+
+                                    KIPP
+
+                          Evidence of Effectiveness
+
+We read two quasi-experimental studies of KIPP (each  covering  one  school)
+and gathered and analyzed all publicly available test score data.  Both  the
+papers and our own analysis our consistent with the  proposition  that  KIPP
+has a significant impact on the test scores of its students.
+
+I. Quasi-experimental studies
+
+A. KIPP Diamond Academy: compared the scores  of  5th  and  6th  grade  KIPP
+students to a matched comparison group (matched on previous test scores  and
+other demographic  factors)  and  found  that  KIPP  students  significantly
+outperformed their controls and the one cohort for which we have  two  years
+of data significantly improved (both outright and relative to the  controls)
+between 5th and 6th grades. Note that  this  study  matched  students  on  a
+student-by- student basis so phenomena like selective attrition  are  not  a
+concern.
+
+B. KIPP Ujima: studied the four cohorts that entered 5th grade from  2002-05
+over the course of  their  careers  at  KIPP.  The  researches  divided  all
+students into four groups: (a) those that advanced  with  their  class,  (b)
+those that were retained, (c) those that left KIPP entirely, and  (d)  those
+that arrived at KIPP in 6th grade or later. Isolating  those  students  that
+stayed at KIPP  from  those  that  left,  were  retained,  or  arrived,  the
+researchers  found  significant  improvements  in  test  scores   for   KIPP
+students.
+
+II. Analysis of all publicly available test score data
+
+A.  The  data  we  gathered.  We  collected  all  available   data,   giving
+information on 23 of 57 existing KIPP schools (covering 8 of the  18  states
+in which KIPP has schools). Some data was unavailable because,  among  other
+reasons, some states don’t publish test data on the internet or  don’t  test
+the grades covered by KIPP schools, or  the  schools  are  so  new  that  no
+scores are available yet.
+
+B. Results. We found that students enrolled in  KIPP  schools  significantly
+improved their test scores relative to students at neighboring  schools.  We
+segmented the data we collected into three groups. (a) Group 1: cohorts  for
+which we only have 5th and 6th grade date; (b) Group 2:  cohorts  for  which
+we have 5th-7th grade data; and (c) Group 3: cohorts for which we have  5th-
+8th grade data.
+
+The table below  shows  the  average  %  passing  for  KIPP  cohorts,  their
+comparison groups, and KIPP students’ scores relative to  district  schools.
+(The scores we have start at 5th grade and likely include  some  portion  of
+KIPP’s impact on 5th grade scores; we don’t know the  exact  date  when  the
+tests are given.)
+
+
+      [pic]
+
+KIPP students significantly improve relative to  the  district  between  5th
+and 6th grade and maintain those gains throughout middle school.
+
+
+           [pic]
+
+C.  Results  accounting  for  attrition/addition.  KIPP  schools  experience
+significant student turnover – existing students who leave and new  students
+who arrive. Because our analysis looks at  class  aggregate  scores,  it  is
+possible that the perceived improvement in scores is really due to a  change
+in class composition:  poorer-performing  students  may  leave  and  higher-
+performing students  may  arrive,  which  would  create  the  appearance  of
+improving test scores regardless of KIPP’s actual impact.
+
+We have limited information about (a) the number of students who arrive  and
+those who leave and (b) test performance of those who advance from  year  to
+year, those who leave, and those who arrive.  The  information  we  do  have
+comes from three papers: (a) the KIPP Ujima paper mentioned  above,  (b)  an
+unpublished paper by a Harvard Graduate School of Education student on  KIPP
+Gaston College Preparatory in North  Carolina,  and  (c)  the  KIPP  Diamond
+Academy study mentioned above. All three papers provide data on  the  number
+of students who leave; KIPP Ujima paper shows the performance of  those  who
+leave and those who arrive, and the  KIPP  Diamond  Academy  paper  provides
+performance data only for those who arrive.
+
+From those sources we take away the following facts:
+
+    • 10%-25% of students who enroll at KIPP  do  not  progress  with  their
+      class from 5th  to  6th  grade  (either  because  they  leave  or  are
+      retained). Students also leave following 6th and  7th  grades,  though
+      far fewer do so.
+    • Students who leave KIPP score significantly worse than those who stay,
+      scoring roughly equivalent to students at district schools.
+    • Students who arrive at KIPP score significantly  better  than  average
+      students at district schools, but not  as  high  as  students  already
+      enrolled at KIPP. (One exception: the KIPP Diamond Academy study looks
+      at 17 students who entered in 6th grade, and finds that they performed
+      better than existing KIPP students on reading but worse on math.)
+
+To assess the impact of student attrition and  addition,  we  estimated  the
+improvement  of  KIPP  students  from  5th  to   6th   grade   (where   most
+attrition/addition  occurs)  assuming  varying  amounts   of   (a)   student
+attrition, (b) performance of those who left, and (c) performance  of  those
+who arrived.  We found that it would take relatively high estimates  of  the
+amount of attrition and difference  in  quality  to  account  for  the  KIPP
+effect, and therefore, we don’t think churn explains the entire impact.
+
+    • At low levels of attrition (0-10%), there is no  case  (i.e.,  failure
+      rate of those who leave or passing  rate  of  those  who  enter)  that
+      explains the KIPP effect.
+    • At 20% attrition levels, the KIPP impact is wiped out when  we  assume
+      that: 1) all of those who leave were failing  and  all  of  those  who
+      entered were average for the local public  district;  or  2)  entering
+      students are at the new KIPP level and  those  who  leave  are  50-70%
+      worse than the public district average.
+    • At 30% attrition, the KIPP impact is wiped out when we assume that: 1)
+      students who leave are 80% worse than the district  and  enterers  are
+      average relative to the public district; or 2) entering students enter
+      at KIPP students' average performance levels and those who  leave  are
+      20-40% worse than the public district average.
+    • At very high levels of attrition (40-50%),  churn  is  a  more  likely
+      (though we still think not that likely) cause of the KIPP effect: even
+      at 50% churn, the KIPP effect is only explained away  when  we  assume
+      that: 1) all leaving students were at the public district  level,  and
+      all entering students were already on par with KIPP  students;  or  2)
+      all entering students were 25% better than the public district average
+      and all leaving students were 25% worse.
+
+III. Other research
+
+KIPP also provided us with six studies that have significant  methodological
+problems (e.g., they don’t deal with student attrition; they  don’t  have  a
+reasonable comparison group). All imply effects consistent with the  results
+above.
+
+                                    Cost
+
+KIPP schools receives funds from several sources: (a) per-pupil funding for
+each student enrolled, (b) state and federal grants mandated to support new
+schools, (c) support from the KIPP Foundation, and (d) private donations
+from corporations, foundations, and individuals. We have detailed budget
+information for the four KIPP schools in New York City and used that data
+to estimate KIPP’s cost per student.
+
+           [pic]
+
+
+
+                              Teach for America
+
+                          Evidence of Effectiveness
+
+We reviewed the two experimental/quasi-experimental  studies  that  evaluate
+TFA teachers' impact on their students' scores on state  mandated  math  and
+reading exams. We are convinced by the  results  of  the  Mathematica  study
+(which found TFA teachers have a small  but  statistically  impact  on  math
+scores and no impact on reading scores) because  of  its  breadth  (covering
+schools  across  the  country)   and   methodological   rigor   (randomized,
+controlled design), and we question the results of the Arizona study  (which
+found that TFA teachers negatively impact their  students'  scores)  because
+its design is open to highly plausible alternative explanations.
+
+A. Mathematica  study:  compared  test  scores  of  1st-5th  grade  students
+randomly assigned amongst TFA and non-TFA classrooms in the same grades  and
+same schools. The study found that students in classes taught by  TFA  corps
+members  showed  greater  increases  in  math   standardized   test   scores
+percentile rank over the course of instruction  year  than  their  peers  in
+classes taught by non-TFA teachers in the  same  schools.   On  the  reading
+exam, students in TFA classes showed the same results.  The study  evaluated
+100 teachers' classes and was distributed over 6 of TFA’s  urban  and  rural
+program regions.
+
+B. Arizona State study: compared  the  performance  of  students  taught  by
+regularly  certified  and  under-certified  teachers  (including  TFA  corps
+members),  and  found  that  students  of  TFA   corps   members   performed
+commensurate with other under-certified teachers and  worse  then  regularly
+certified teachers.  Unlike  the  Mathematica  study,  this  study  compared
+levels of performance (as opposed to changes in  performance)  and  did  not
+match teachers on their students’ test scores from previous  years,  leaving
+open the possibility  that  certain  teachers  received  classes  that  were
+already performing at  levels  significantly  higher  or  lower  than  those
+received by the teachers with whom they were compared.
+
+                        Impact of increased donations
+
+TFA’s New York area-Executive  Director  said  that  TFA-New  York  was  not
+planning to increase its number of teachers. She said  that  the  number  of
+teachers needed is a function of the public school system’s needs, and  they
+don’t need more teachers at the moment.
+
+According to TFA’s website, the number of corps members increased from  2100
+to 2400 between 2005 and 2006 with plans to increase the number to  4200  by
+2010. (According to its 2006 IRS Form 990, TFA had 2900  corps  members  for
+2007.)
+
+Cost
+We have two sources for TFA costs: (a) the latest IRS Form 990 available  on
+Guidestar (2004) and (b) the New York  City  budget  sent  as  part  of  its
+application.
+
+   A. In 2004,  according  to  its  990,  TFA  spent  $40  million  and  had
+      approximately 2,000 corps members.
+   B. In 2007, TFA spent $15 million in New York (including New York’s share
+      of national overhead) and had 1,000 corps members.
+
+                         Children’s Scholarship Fund
+
+                          Evidence of Effectiveness
+
+The academic debate on the effectiveness of school vouchers largely  focuses
+on an experiment conducted in New York City.   Students  interested  in  the
+voucher  program  applied  to  a  lottery  and  researchers   examined   the
+subsequent standardized test performance  of  those  who  received  vouchers
+relative to those who did not.
+
+The academics studying this issue differ on  the  results.  All  agree  that
+there is no evidence for a significant impact of  vouchers  on  test  scores
+for the population as a whole.
+
+    • Harvard  University  researchers  found  a  statistically  significant
+      impact on the academic performance of African-American students.
+    • Princeton University researchers argue that  the  impact  on  African-
+      Americans depends heavily on the classification of students  from  the
+      Dominican Republic and that reclassifying those students’ race  erases
+      the statistically significant impact.
+    • Mathematica researchers initially agreed with the Harvard researchers’
+      conclusions about impact, but changed their position after considering
+      the Princeton researchers’ arguments, concluding that “one must remain
+      cautious when interpreting the findings for African-Americans.”
+
+While the logic of the voucher model is strong, we are  not  convinced  that
+vouchers significantly improve the education of the  students  that  receive
+them.
+
+Other  research  papers  we’ve  looked  at  studying  vouchers   contain   a
+systematic bias between the  treatment  and  control  group  –  the  studies
+include those who receive vouchers and choose not to attend private  schools
+in the control – and we therefore have not detailed them here. The  findings
+of those studies are consistent with the results above (i.e., no  effect  on
+the population as a whole;  statistically  significant  impact  on  African-
+Americans).
+
+                                    Cost
+
+CSF spends approximately $30  million  to  provide  scholarships  to  25,000
+children. Average  tuition  at  a  school  attended  by  a  CSF  scholarship
+recipient is $3,000.
+
+The parochial schools which CSF  students  attend  also  conduct  their  own
+fundraising.  We don’t have expenses for the schools in which  CSF  students
+enroll (these schools are religious institutions and  are  not  required  to
+file their financials publicly), but we do for  one  of  our  applicants,  a
+parochial school in New York City applied to  us  for  a  grant.  They  have
+total expenses  of  $3.5  million  and  serve  approximately  300  students,
+spending $12,000/student.
+
+
+=== Preliminary Plan for 2008 ===
+
+                        Clear Fund Board of Directors
+                        Attachment C: Plans for 2008
+
+                                 Highlights
+
+    • We believe our most important goal for the coming year  is  increasing
+      the “money moved” (granted directly, or influenced) by GiveWell.
+    • We propose to focus on getting formal commitments  to  donate  to  our
+      recommended charities (with the choice of  charity  belonging  to  the
+      donor), rather than on raising money to be re-granted.
+    • We are considering conducting an active  search  for  an  experienced,
+      talented Director of Development who will have a significant  part  of
+      the responsibility for increasing our “money moved.”
+    • We plan to focus our research on fewer and broader  causes,  and  will
+      likely focus on developing-world direct  aid  next.   We  should  also
+      consider the potential of broad, “top-down” research that  focuses  on
+      identifying good times, places, and ways to help people rather than on
+      evaluating particular organizations.
+    • Another major goal for the coming year will be to recruit people  both
+      for our Board of Directors and cause-specific Advisory Boards.
+    • We plan to create a detailed review of our first year and plan for our
+      next year for review at our next Board meeting.
+
+                            Broad Goals for 2008
+
+1. Development: increase the “money moved” by GiveWell (and be on a path  to
+increasing it further).  “Money moved” can consist  of  direct  grants  from
+the Clear Fund to charities, or of individual donations that  are  given  to
+our recommended charities with strong  influence  from  our  recommendations
+(or the combination).
+
+Having produced quality research and attracted attention, we believe we  are
+now in position to reach more donors, and that our position is not going  to
+improve significantly from doing more research.  We think  the  question  of
+how much money GiveWell can move is the most important  unanswered  question
+about the project.
+
+2. Research: improve significantly on our understanding of the best ways  to
+help people.  The most pressing challenge here is setting our  scope  (i.e.,
+which causes we research) in a way that accounts for  what  we  learned  the
+first time around and puts us in position to allocate our money as  well  as
+possible.
+
+3. Administration: build a mature  organization  with  a  strong  Board  and
+structure.
+
+                                 Development
+
+                                 The product
+
+One way or another, we eventually need to “move”  enough  money  to  justify
+our overhead, or establish that we can’t do so and shut  the  project  down.
+However,  while  we  need  to  give  grants  in  order  to  get  access   to
+information, there’s a grant size past which more money  is  probably  doing
+little for our access to information, and at that point the  question  comes
+up of why donors should give to us rather  than  just  using  our  research.
+Insisting on the “United Way / Robin Hood model” of  pooling  donations  and
+giving grants has a cost for the donor – ceding the choice of charity to  us
+– that doesn’t seem essential to what we’re offering.
+
+In order to increase our “money moved” in an active,  measurable  way  while
+leaving donors with as much choice as is feasible,  we  propose  to  solicit
+donors for  commitments  to  donate  to  our  recommended  charities  (their
+choice), rather than for direct donations  to  GiveWell.   Such  commitments
+should be as formal and binding as is practical;  we  may  either  become  a
+donor advised  fund  or  partner  with  one,  so  that  committed  money  is
+literally put into an account subject to certain rules.
+
+Setting this up would leave us with three possible “offerings” for a donor:
+
+   1. Donate directly to GiveWell, with the aim of helping us  pay  for  our
+      research activities.
+   2. Donate directly  to  GiveWell  with  the  aim  of  having  your  money
+      “managed,” i.e., cede the choice of specific charity to us.
+   3. Put money in a special account, with a  commitment  to  donate  it  to
+      recommended charities if and when we produce recommendations  in  your
+      field of interest.
+
+We  propose  to  focus  our  fundraising  on  #3,   raise   #1   only   with
+major/institutional donors and  core  supporters,  and  de-emphasize  #2  at
+least for the time being.
+
+Another important question about our product is what causes we are going  to
+be focusing on.  This is discussed under “Research” below.
+
+                                  The plan
+
+Once we’ve settled our product, we need to actively find  potential  donors.
+This may include:
+
+   1. Contacting the ~1,000 people who have given us permission  to  contact
+      them  when  submitting  surveys  on  our  website,  focusing  on   the
+      particularly high-potential ones we’ve been discussing in our biweekly
+      reports.
+   2. Explicitly targeting particular industries and  companies  to  present
+      at.
+   3. Arranging fundraising events with the aim of getting existing GiveWell
+      contacts to bring friends.
+
+Though our existing staff can pursue these approaches, we feel  there  is  a
+strong case for conducting an active search –  and  offering  a  competitive
+salary – for an experienced, talented Development Director.
+
+    •   Unlike   the   work   we’ve    been    focusing    on    to    date,
+      development/fundraising is  an  established  and  largely  generalized
+      discipline, and there is a lot of public discussion and study of  what
+      works.
+    • We have no experience with development,  and  we  don’t  consider  the
+      associated skills to be among current staff’s strengths.
+    • In particular, we have little to no sense of  how  to  set  reasonable
+      expectations for our project in this area.  One way or another, having
+      an experienced fundraiser become intimately familiar with our  project
+      and position seems necessary for setting reasonable expectations.
+    • A good Development Director would be able to set  a  long-term  growth
+      plan and execute on it, as well as take a  major  role  in  GiveWell’s
+      public  communications.   S/he  would  thereby  address  most  of  the
+      weaknesses and non-strengths of current staff, and potentially take or
+      share the Executive Director role.
+    • Unlike evaluating potential  program  staff,  evaluating  a  potential
+      Development Director seems relatively straightforward.
+    • Although such a person would likely command a high salary, it would be
+      relatively easy to continually assess whether the investment is  worth
+      it.  We may try to secure an institutional  grant  for  this  expense,
+      since institutional funders  are  likely  to  be  more  interested  in
+      helping us expand than in using our research for their own grants.
+
+                                  Research
+
+This section focuses on setting our scope (which causes we’re. covering).
+
+In choosing our causes, we are going to seek to do  one  broad  cause  at  a
+time (unless there is enough demand for more to justify hiring more  staff),
+and take donor preferences heavily into account – i.e.,  in  the  course  of
+raising money, we are going to ask  donors  to  specify  which  causes  they
+would donate for, and leave the  option  open  of  switching  our  plans  to
+accommodate more donors.
+
+At this point, the cause we feel is the  best  fit  for  the  next  year  is
+developing-world  direct  aid,  including  health,  microfinance  and  other
+economic assistance, education, and  abandoned  children.   Developing-world
+aid was more popular than developed-world aid in our online survey,  and  we
+feel that we have a very concrete sense of what to investigate  and  how  to
+add value in these areas.
+
+We’d also like to note two other potential  causes  that  would  expand  our
+scope well beyond the sort of work we’ve been doing so far:
+
+1. Global warming and (possibly) other catastrophe aversion.   Environmental
+issues, particularly global warming, were extremely popular  in  our  online
+survey.  We are generally unfamiliar with these  issues,  and  have  only  a
+moderate sense for what to investigate and  how  to  add  value.   Comparing
+different “global catastrophe” issues has some potential advantages: we  see
+a clearer path to value-added in  listing  and  comparing  options  than  in
+committing ourselves to looking  deeply  into  global  warming  issues,  and
+doing so would increase our appeal to a particular  group  of  intellectuals
+that we would like to see engaging more with GiveWell.
+
+2. Extremely broad analysis of donors’ options – publishing, side  by  side,
+very basic analysis of many  options  rather  than  thorough,  organization-
+level analysis of a  few.   For  example,  publishing  a  thorough  list  of
+diseases, symptoms, global burdens, and money spent  per  year  on  research
+could be a valuable source of information to donors  even  if  it  does  not
+compare charities side-by-side.
+
+Note that:
+
+    • All of these causes are far broader than the causes we  researched  in
+      our startup year.  This change is based largely on our frustration the
+      first time around with having to give one grant per cause, rather than
+      allocate more money to the causes  we  preferred  (i.e.,  causes  with
+      stronger organizations and more “bang for  your  buck”).   We  believe
+      that trying to narrow causes to the  point  where  we  can  make  true
+      “apples to apples” comparisons is likely futile  and  not  worthwhile;
+      instead, we want to be able to review many different sorts of options,
+      let donors decide what appeals to them most, and  allocate  any  grant
+      money of our own to what appeals to us most.
+
+    • For all three of the causes above, it is possible that we would take a
+      much more “top-down” approach to research than we did  for  our  first
+      year.  Rather than starting with a grant application and  getting  our
+      understanding of different approaches  from  our  applicants,  we  may
+      start  with  independent  research,  looking  for  publicly  published
+      evidence of what works, and then specifically  target  (and  evaluate)
+      organizations whose activities match what we find.
+
+                               Administration
+
+    • We believe it is important to find more  Board  members  who  can  add
+      experience and different perspectives to our  project.   Staff  has  a
+      list of potential Board  members  available;  we  have  discussed  the
+      possibility with some, and not yet with others.
+    • We would also like to form Advisory Boards, separate from our Board of
+      Directors, whose role is to advise  on  recommendations  for  specific
+      causes (i.e., each cause will have its own Advisory Board).
+    • Other goals under this heading include:
+         o Formalizing our metrics and setting clear and public  goals  for
+           GiveWell.
+         o Formalizing our policies, procedures, and roles for  both  Board
+           and staff.
+         o Writing up a thorough look back at our first year,  including  a
+           thorough analysis of our survey data and more generally of  what
+           went well, what went poorly, and what we’ve learned.
+
+
+=== Agenda ===
+
+                        Clear Fund Board of Directors
+                         Meeting Agenda for 3/4/2008
+
+1. Introductions.  2 minutes.
+
+2. Grant decisions.  Allow two hours.
+
+We will present our options and recommendations for Cause 3 (early
+childhood care) and Cause 4 (K-12 education).
+
+For Cause 3 (Attachment A), we believe our best option is to award the
+Nurse-Family Partnership, an impressive organization dedicated to
+replicating a model that has encouraging support from rigorous studies.  We
+also believe it would be reasonable to split the grant money between those
+of our applicants that run Head Start programs, as Head Start is a
+federally funded (and supervised) program that we believe has a positive
+impact on people’s lives.
+
+For Cause 4 (Attachment B), we believe our best option is to award KIPP, an
+impressive organization that focuses on creating charter schools.  We
+believe that its model is compelling and supported by empirical evidence on
+student achievement.  We also believe it would be reasonable to award Teach
+for America, whose focus on bringing more talented people into education
+has had an acknowledged impact on KIPP among other organizations, or the
+Children’s Scholarship Fund, which gives financial assistance to low-income
+families seeking to send their children to private school (a model we think
+is logically compelling, though not well-supported by available empirical
+evidence).
+
+3. Preliminary plan for 2008.  Allow 30 minutes.
+
+We will aim to focus on our 2008 plans at the next Board  meeting,  but  for
+now we  would  like  to  raise  several  key  issues  (see  “Highlights”  in
+Attachment C) and agree on how we should be prioritizing our  time.   If  we
+do agree on the highlights, we can plan to complete a formal review  of  our
+first year and plan for 2008 within about a month, and aim to have our  next
+Board meeting at that time.
+
+                   Total projected meeting time: 2.5 hours
+                       Next meeting: early April 2008
+
+Attachments:
+   A. Options for Cause 3
+   B. Options for Cause 4
+   C. Preliminary Plan for 2008
+
+
+Generate a comprehensive summary (approximately 1000 words):

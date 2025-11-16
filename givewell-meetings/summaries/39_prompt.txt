@@ -1,0 +1,1656 @@
+Based on the following board meeting documents for a Clear Fund Board Meeting held on July 29, 2019, generate a comprehensive ~1000-word summary that acts as a professional brief.
+
+The summary should cover:
+- Key decisions made and votes taken
+- Important discussions and debates
+- Financial/budget information with specific numbers
+- Strategic direction or policy changes
+- Personnel or organizational changes
+- Any significant outcomes or action items
+
+Keep the tone professional and factual. Focus on substance over process. Be specific with numbers, names, and decisions.
+
+Meeting Documents:
+=== Minutes ===
+Minutes for the July 29, 2019 Meeting of The Clear Fund (dba GiveWell) Board of Directors  A meeting of the Board of Directors ("Board") of The Clear Fund dba GiveWell ("GiveWell") was held on July 29, 2019 at 1:00 pm Pacific Time, via conference call. Notice was duly and timely given to each member of the Board.   The following members of the Board were present (in person unless otherwise noted):  • Elie Hassenfeld • Holden Karnofsky • Cari Tuna • Tim Ogden • Julia Wise   The following individuals were also present:  • Whitney Shinkle, Director of Operations, GiveWell • David Mozaffarian, consulting Chief Financial Officer, GiveWell  Tim called the meeting to order.  Administrative Items  Whitney led a discussion of several annual administrative due diligence items (Attachment A), including:  • Conflict of interest forms • Review of compensation arrangements and benefits; partnerships; joint-ventures, and arrangements with management organizations  • The roster of officers and directors • GiveWell's mission and vision statements • Document destruction and retention policies • Insurance Coverage   Elie led a discussion of additional administrative items, including:  • GiveWell road-mapping (Attachment B) • GiveWell staff organizational feedback (Attachment C)  Financial Review  Whitney led a discussion of topics pertaining to GiveWell's annual financial review, including: 
+
+• A financial summary (Attachment D and Attachment E) • GiveWell's 2018 audit (Attachment F)  Executive Compensation Review  The recording was paused and the Board discussed the executive compensation review (Attachment G).  Votes on administrative items  Whitney introduced, and the board voted on, proposals related to the following administrative items:  • Executive Compensation (Attachment G) • Budget (Attachment D) • Restricting unrestricted funds for regranting (Slide 13 in Attachment E) • 2018 Audit (Attachment F)  Two items were introduced and voted on jointly, minutes of the April 30, 2019 Board meeting and a proposal to delegate signing authority to several staff members. (Attachment H)  All votes passed unanimously.  
+
+=== Attachment A ===
+Insurance Review and Sundry Items I. Introduction II. Statement of Board Requirements III. Review Materials  A. Management Statements i. Conflict of interest forms ii. Compensation and benefits  iii. Partnerships, joint-ventures, and management organizations B. Roster of officers and directors C. Mission and vision statements D. Document Retention and Destruction Policy E. Insurance coverage IV. Appendix A: Conflict of Interest Statements V. Appendix B: Document Retention and Destruction Policy  Introduction This document contains information that the board shall review on an annual basis, including:  • Director and Officer conflict of interest statements • Compensation arrangements and benefits • Partnerships, joint ventures, and arrangements with management organizations • Director and officer roster • Roster of officers and directors • Mission and vision statements  • Document Retention and Destruction Policy • Insurance   Statement of Board Requirements  Resolutions approved by GiveWell’s Board of Directors state the following:   1. Conflict of interest statements Each director, principal officer, and member of a committee with governing board delegated powers shall annually sign a statement which affirms such person:  a. has received a copy of the conflicts of interest policy,  b. has read and understands the policy,  c. has agreed to comply with the policy, and  d. understands the corporation is charitable and in order to maintain its federal tax exemption it must engage primarily in activities which accomplish one or more of its tax-exempt purposes.   
+
+2. Periodic Review To ensure the corporation operates in a manner consistent with charitable purposes and does not engage in activities that could jeopardize its tax-exempt status, periodic reviews shall be conducted. The periodic reviews shall, at a minimum, include the following subjects:  a. Whether compensation arrangements and benefits are reasonable, based on competent survey information, and the result of arm's-length bargaining.  b. Whether partnerships, joint ventures, and arrangements with management organizations conform to the corporation's written policies, are properly recorded, reflect reasonable investment or payments for goods and services, further charitable purposes, and do not result in inurement, impermissible private benefit, or in an excess benefit transaction.  Past board precedent also requires the GiveWell board to annually review GiveWell’s:  • Roster of directors and officers • Mission and vision statements • Document retention and destruction policy • Insurance coverage    Review Materials A. Management Statements i. Conflict of interest forms All directors and officers have been provided with conflict of interest statements for 2019. These statements have been returned for review and are attached to this document as Appendix A.  ii. Compensation We maintain that compensation arrangements and benefits are reasonable, based on competent survey information, and the result of arm's-length bargaining.  iii. Partnerships, joint ventures, and arrangements with management organizations:  We have no noteworthy partnerships, joint ventures, or arrangements with management organizations  B. Roster of officers and directors and board committees  Officers  President  Elie Hassenfeld Vice President  Natalie Crispin Treasurer  Natalie Crispin Vice Treasurer  Whitney Shinkle Secretary  Whitney Shinkle  Directors Chair   Tim Ogden Vice Chair  Holden Karnofsky Director  Cari Tuna Director  Elie Hassenfeld Director  Julia Wise 
+
+ Board Committees   Audit Committee members    Tim Ogden    Holden Karnofsky    Julia Wise   C. Mission and vision statements  Mission: We find outstanding giving opportunities and publish the full details of our analysis to help donors decide where to give  Vision: A world in which donors reward effectiveness in improving lives.    D. Document Retention and Destruction Policy See Appendix B  E. Insurance [REDACTED]     
+
+DB1/ 90001973.5  1  APPENDIX A: Conflict of Interest Statements 
+
+  Appendix B: Document Retention and Destruction Policy  Clear Fund Document Retention and Destruction Policy  Policies and Controls  Records will be maintained for the periods sufficient to satisfy IRS regulations, federal grant requirements, if applicable, federal, state and local laws, and other legal needs as may be determined.  Record retention  Clear Fund’s records are retained, in either electronic or paper format,  according to the schedule below, in compliance with government, legal, and funders’ requirements. When there is a conflict between federal, state and local record retention requirements, the longer retention period prevails. Certain important records, as determined by the Board, will be retained permanently, even if their retention is not required by law.  Record destruction  Once the retention period has expired, The Clear Fund may destroy the records in a manner that preserves the confidentiality of its contents. The Board of Directors approves all destruction of records prior to commencement.  Record destruction is performed under the direction of the Executive Director, who is responsible for maintaining all Certificates of Destruction.  Upon receipt of any legal notice, all record destruction will cease until the end of the investigation, if any.  Review of policy  Record retention requirements are reviewed annually with the Board and independent auditors to determine any necessary changes.  Type of Document  How Long to Retain 
+(Electronic Format)  Accounting  Accounts payable ledgers  Indefinitely  Accounts receivable ledgers  Indefinitely  Annual reports  Indefinitely  Annuity gift agreements  Indefinitely  Audited financial statements  Indefinitely  Bank deposit records  Indefinitely  Bank reconciliations  Indefinitely  Bank statements  Indefinitely  
+
+Canceled checks (ordinary)  Indefinitely  Canceled checks (taxes, property and important 
+payments)  Indefinitely  Contributions/donations/grants (unrestricted)  Indefinitely  Contributions/donations/grants (temporarily restricted)  Indefinitely  Contributions/donations/grants (perm. 
+restricted/endowment)  Indefinitely  Expense analyses/distribution schedules Indefinitely Fixed asset records, appraisals, depreciation schedules  Indefinitely  Internal audit reports  Indefinitely  Invoices (to customers/from vendors)  Indefinitely  Life income agreements  Indefinitely  Physical inventory records  Indefinitely  Purchase orders  Indefinitely  Requisitions  Indefinitely  Shipping and receiving reports  Indefinitely  Subsidiary ledgers  Indefinitely  Tax returns (IRS form 990) and worksheets  Indefinitely  Uncollectable accounts and write -offs Indefinitely  Vouchers for payment to vendors, employees and others  Indefinitely  Withholding tax statements (W4’s)  Indefinitely  Corporate  Charters, constitutions, bylaws  Indefinitely  Contracts, mortgages, notes and leases (expired)  Indefinitely  Contracts still in effect  Indefinitely  Deeds, mortgages, bills of sale  Indefinitely  Incorporation records, 501(c)(3) determination  Indefinitely  Labor contracts  Indefinitely  Loan documents, notes  Indefinitely  Licenses  Indefinitely  Minutes from board meetings  Indefinitely  Patents and related papers  Indefinitely  Trademark registrations and copyrights  Indefinitely  Personnel  Employment applications (not hired)  Indefinitely  
+
+Garnishments  Indefinitely  I-9’s (after termination)  Indefinitely  Payroll records and summaries  Indefinitely  Personnel files (after termination)  Indefinitely  Retirement and pension records  Indefinitely  Time sheets  Indefinitely  Insurance Accident reports and claims  Indefinitely  Fire inspection reports  Indefinitely  Group disability reports  Indefinitely  Insurance records (expired contracts)  Indefinitely  OSHA logs  Indefinitely  Worker’s compensation documentation  Indefinitely  Other documents  Other documents as required by law  Indefinitely    
+
+=== Attachment B ===
+GiveWell's recent progress and future plans  
+ 
+ 
+What is GiveWell's mission?  
+What are our major areas of growth?  
+How are we moving towards these in 2019?  
+What did we do in 2018?  
+2018 money moved  
+2018 staff departures  
+Research was especially capacity constrained in 2018.  
+What did not go well in 2018?  
+ 
+What is GiveWell's mission?  
+ 
+GiveWell's mission is to find outstanding giving opportunities and publish the full details of our 
+analysis to help donors decide where to give.  
+ 
+We accomplish our mission by finding the most cost -effective giving opportunities we can and 
+directing as much money as possible to those recommendations (our money moved).  
+ 
+What are ou r major areas of growth?  
+  
+They are:  
+  
+● Increasing money moved.  We're working to significantly increase the amount of money 
+moved.  
+○ By metrics year 2022 (i.e., February 2022 -January 2023), annually move $100 
+million ex -Good Ventures to our recommendations. This will mean nearly $200 
+million in total money moved and that we're the 2nd (or nearly the 2nd) largest 
+private funder of global health and development.  
+● Building research capacity. We're working to build up the capacity and capabilities  of 
+our research team.  
+○ In the next few years, we're planning to have a research team of at least 30 
+people; we are currently 16. We plan to add 3 additional research managers (for 
+a total of 5) and a Research Director to lead the team. This capacity will e nable 
+us to achieve the goals below.  
+● Researching new areas. We're expanding the scope of our research to consider 
+opportunities that we believe are higher impact -per-dollar but rely on less robust 
+evidence.  
+○ We aim to direct a significant amount of funding (~$25 million+ / year) to giving 
+opportunities that we believe are significantly more cost -effective (~3x) than 
+
+where we would otherwise direct our marginal dollar. We expect these 
+opportunities to be in policy.  
+● Improving research transparency. We intend t o significantly improve the legibility of 
+our process and conclusions to the outside world.  
+○ We plan to publish our conclusions about charities and programs that we've 
+researched. We plan to have and share conclusions about programs (e.g., 
+education) and an swer questions (e.g., how should we value health systems 
+strengthening) that donors care about.  
+● Influencing aid agencies. We are working to expand the scope of our work to influence 
+and improve the spending of government donors who collectively move tens o f billions of 
+dollars annually to global health and development.  
+○ This area is very new so we're not sure what represents a reasonable target. The 
+type of goal we will have is to either move a significant amount of funding 
+(~$100m in annual funding) from g overnment aid agencies to our priority 
+programs or significantly improve the cost -effectiveness of a larger pool of 
+funding (~$500m by a factor of 2).  
+● Building a strong organization. We're expanding our operations team to support the 
+activities of a signif icantly larger organization.  
+○ We see emerging needs in HR and finance due to our larger size. We retained 
+David Mozaffarian as a consulting CFO to advise us on ongoing priorities in 
+finance  
+○ We intend to hire two new full -time staff members on the Operations  team.  
+○ We're putting time into improving our onboarding, formalizing a regular cycle for 
+staff feedback and defining our core values.  
+ 
+The spreadsheet in this footnote shows the progress we hope to make each year towards these 
+high-level goals.1 
+ 
+How are w e moving towards these in 2019?  
+ 
+In 2019, we are working towards these goals by:  
+ 
+● Increasing money moved.  
+○ Hiring a VP Marketing to lead the outreach team. In 2019, we believe there's a 
+50% chance we make this hire.  
+○ We hired Steph Stojanovic, who started Ju ne 1st as a Major GIfts Officer. She's 
+focused on increasing donations from existing large donors. In 2019, Steph's 
+goal is to move an additional $1 -2 million.  
+○ Ben Bateman, our Head of Growth, is focused on finding and converting new 
+donors. In 2019, Ben's  goal is to move an additional $1 -2 million.  
+                                                 
+1 This spreadsheet is still a work in progress. The current version is our first draft. It doesn't contain 
+everything we want it to: for example, we have to flesh out the details and progress of our operations 
+plan, and we haven't prioritized pres enting it in an easy -to-consume way. There is no need to review it, 
+but if you'd like to you can see it here. 
+
+● Building research capacity.  We plan to add a total of 5 additional people to the team in 
+2019:  
+○ Two additional team members are starting in September: Alex Cohen as a Senior 
+Fellow and Alicia Weng as a Research Analyst. (Michael Eddy started in June.)  
+○ We're also aiming to add another Senior RA and two Content Editors.  
+○ In addition, we're aiming to add one more personnel manager; currently, Josh 
+and Natalie are the only two personnel managers on the research team.  
+● Researching new areas.  
+○ Exploring public health regulation (e.g., lead regulation, tobacco taxation) to 
+identify important, neglected areas that might be susceptible to philanthropic 
+investment.  
+○ In 2019, we aim to complete our high -level expl oration of policy areas and to 
+decide whether to prioritize alcohol as a cause area, which would lead us to 
+begin a search for a program officer, focused on alcohol policy.  
+● Improving research transparency.  We don't plan to make significant progress against  
+this goal in 2019. We expect to make more progress in 2020, when we have more 
+capacity.  
+● Influencing aid agencies.  We hired Michael Eddy on a 6 -month contract to explore 
+opportunities with aid agencies.  
+● Building a strong organization. We're expanding our o perations team to support the 
+activities of a significantly larger organization.  
+○ We see emerging needs in HR and finance due to our larger size.  
+ 
+What did we do in 2018?  
+ 
+In 2018, we made progress towards these priorities by:  
+ 
+● Hiring Dan Brown, Tom Sittler, Marinella Capriati, and Amar Radia on the research team  
+● Hiring Ben Bateman as Head of Growth  
+● Hiring Whitney Shinkle as Director of Operations  
+ 
+2018 money moved  
+ 
+In 2018, we moved significantly more money (ex -Good Ventures) than we had in 2017. We 
+moved approximately $65 million in 2018, relative to approximately $45 million in 2017.  
+ 
+This increase was mostly driven by two donors giving $15 million more than they had in 
+previous years. We worked hard to maintain and build these donors relationships in 2017 and 
+2018 but we would guess that this increase is mostly not attributable to our actions.  
+ 
+Research was especially capacity constrained in 2018.  
+ 
+Natalie was interim Director of Operations during the first half of the year (from the time Sarah 
+Ward left until Whitney was onboarded), and she was out of parental leave during the 4th 
+
+quarter, one of the busiest for the team. Her absence on the research team led to additional 
+burden on Josh and James which slowed us down on other priorities.  
+ 
+ 
+
+=== Attachment C ===
+DRAFT Proposal:  
+GiveWell LifeCycle Feedback Program  
+Program Background  
+Operations Goals  
+GiveWell Operations has the following overarching goals and purpose.  
+To make Givewell:  
+● A place where top talent wants to work  
+● A place where top talent can work effectively, and  
+● A sector -leading organization that can continue to exist sustainably.  
+Feedback purpose  
+GiveWell considers staff feedback a key (though incomplete) indicator of our success in 
+achieving the top two above g oals. GiveWell will solicit staff feedback on an ongoing basis in 
+order to assess staff satisfaction and identify potential problems impacting effectiveness that 
+require attention. We will use this information to identify trends over time and within variou s 
+sub-groups of the organization (e.g. individual departments or managed teams)  
+Feedback Priorities  
+Our priorities in soliciting this information are to:  
+● Ensure staff have an opportunity to be heard throughout their entire tenure at GiveWell 
+from onboardi ng through separation  
+● Provide a mixture of solicitation vehicles to suit various communication styles, comfort 
+levels, and subject matter  
+● Capture both high level trends and actionable/specific  feedback on specific issues  
+● Balance the need for actionable inf ormation with administrative burden on staff to 
+administer or respond to solicitations  
+● Avoid “feedback fatigue” and/or data overload (resulting in non -implementation)  
+Feedback Structure  
+To meet these competing priorities, GiveWell intends to design a progr am that includes:  
+● Annual and more frequent components  
+● Routine and opportunistic components  
+● Confidential and attributed formats  
+● Comprehensive surveying and nuanced interviewing formats  
+ 
+
+We further expect that some of these components will evolve over time as we become more 
+proficient in soliciting key information and in tracking this data to discover which methods and 
+questions elicit the most useful information and are most appreciated by staff.  
+Program Design  
+All Staff  
+The following are components of  the program that will be offered in an All -Staff setting or with 
+the expectation that all staff are invited to participate in a joint event.  
+Annual Components  
+● Annual Flex Survey  
+What is it: Once -yearly, confidential survey inquiring into the full range o f employee 
+experiences, including satisfaction with various factors like role, compensation, work -life 
+balance, work environment, manager, project opportunities, etc. This will be 
+administered and analyzed by a professional survey company that provides man y options 
+for customization, multiple levels and forms of data analysis, including data coding, 
+compartmentalization, and personalized debriefing for staff and management. Having a 
+relatively consistent feedback form will also enable us  to easily track tre nds over time.  
+ 
+How is it actioned: Management can access data responses and analysis  at all staff, 
+department, managed team, and other customized levels of compartmentalization. Senior 
+managers will review the feedback as a group and managers may review d epartment data 
+as a team. A report -out will be presented to All Staff every year. Specific actions will be 
+determined by management in response to the data.  
+ 
+● Executive Director Office Hours  
+What is it: The E.D. will host a series of open visitation periods  for all staff. Staff may 
+sign-up for a 1:1 or small group session. At present, these will likely be offered more than 
+once a year given our small size but the E.D. will formally commit to an annual event.  
+ 
+How is it actioned: The executive director will n ote any actionable feedback in an “office 
+hours” Asana project and discuss response actions with the Dir. Of Operations or specific 
+managers as appropriate.  
+ 
+ 
+Quarterly Components  
+● Quarterly Meetings  
+What is it: All -hands meeting to update staff on GiveWell  strategy and key initiatives and 
+projects. We will be continuing to iterate these into more interactive formats and using 
+
+them as an opportunity to solicit feedback on ongoing initiatives (e.g. diversity) via more 
+concrete inquiries such as straw polls or  upvoting exercises.  
+ 
+How is it actioned: The Executive Director and Director of Operations will debrief after 
+each meeting to discuss whether ongoing, new or corrective actions are required in 
+response to the meeting feedback.  
+ 
+• Quarterly Reminders  
+What is it: Givewell sends out a standard document on a quarterly basis with key 
+reminders to staff. Staff have to sign off each quarter that they have reviewed the 
+reminders. In that document, we reinforce our desire to know about any incidents staff 
+may experience and reiterate options for reporting issues, including reporting directly to 
+a board member (Holden).  
+ 
+How is it actioned: The office manager is responsible for distributing and confirming all 
+staff have signed off. He also solicits any edits to  the document from select managers 
+prior to distribution every quarter. The individuals receiving any complaints are 
+responsible for responding to any grievances, including any that might rise to the level of 
+triggering our incident response protocol.  
+Rout ine Ongoing Components  
+● After -Action Surveys/Polls  
+What is it: employees are asked via anonymous poll to rate all team meetings and various 
+aspects of social cohesion events. Polls are the bluntest and least intensive form of 
+feedback and are intended to provide a general barometer on the success of an eve nt or 
+the general health of standing meetings. Surveys are slightly more detailed and will be 
+used less frequently for the purposes of assessing specific componentsof an event, the 
+success of new or changed events, or to get immediate feedback while impres sions are 
+fresh in people’s minds.  
+ 
+How is it actioned: Event owners will review the feedback and share with the Director of 
+Operations, Executive Director, or other staff as appropriate. Combined annual results 
+may be provided to staff when and if that se ems usefully informative.  
+Opportunistic/Ad Hoc Components  
+● Round Tables  
+What is it: Round tables consist of opt -in group discussions focused on a specific topic of 
+theme. We will be more intentionally utilizing this format to allow staff with an interest 
+in particular initiatives to keep up to date on progress, provide perspectives and input 
+during development stages, and to solicit staff feedback on critical questions or overall 
+employee buy -in and satisfaction.  
+ 
+How is it actioned: Round table facilitators  will determine the particular method of 
+feedback for any given round table. This might entail anonymous or attributed polling, 
+
+facilitated discussion, coding comments from meeting minutes, etc. The facilitator will be 
+the primary person responsible for in terpreting and actioning the feedback but may also 
+coordinate with other managers/directors as appropriate.  
+ 
+Employee LifeCycle  
+The following are components of the program that will be universally offered to all staff but 
+would typically be offered in an i ndividual setting, sometimes specific to their passing a 
+particular employment milestone.  
+ 
+Onboarding Components  
+● Six Week HR Check -In 
+What is it: This is a dedicated 1:1 conversation between an experienced GiveWell staff 
+person (intentionally not a senior manager; currently Erin Wolff) soliciting feedback on a 
+comprehensive set of topics, including GiveWell as an organization, the onboarding 
+process, the employee’s manager, the employee’s comfort level, GiveWell culture, etc. 
+There are structured questions as well as organic conversation based on the flow of 
+conversation. We plan to add new questions focused on key areas of current interest and 
+will review these annually based on past feedback and the annual survey.  
+ 
+How is it actioned: The facilitator takes  notes which are reviewed by the employee and 
+approved for release to the Executive Director, Director of Operations, and the 
+employee’s manager. The employee can revise/redact any portion of their comments or 
+choose to not release it to any/all of those i ndividuals. Those that are approved for release 
+are reviewed by the above individuals and action can be taken as appropriate in response 
+to any specific areas of concern. The Director of Operations also plans to create a 
+simplistic meta -file to collectiviz e responses and review for any trends that may require a 
+more systemic change or correction.  
+ 
+● First Year Manager Check -Ins (approximately end of: 1 week, 2 week, 1 mo, 3 mo, 6 mo, 
+9 mo, 12 mo)  
+What is it: Our onboarding process includes a series of dedicated 1:1s intended to ensure 
+new employees receive necessary support during their first year by carving out 1:1 time 
+that is intentionally reflective rather than focused on day -to-day projects. While an 
+important purpose of these meetings is to provid e the employee with feedback on their 
+performance, we plan to provide more specific guidance to managers on additional key 
+objectives for these meetings and specific topics to check on, particularly regarding 
+manager -report relations.  
+ 
+How is it actioned: Managers have the primary responsibility for acting on the feedback 
+shared in these meetings though they may seek additional guidance from other managers 
+or staff.  
+
+Tenure Components  
+(i.e. components offered routinely throughout an employee’s tenure at Giv eWell)  
+● Bi-Annual Reviews  
+What is it: GiveWell conducts performance reviews with all staff twice a year. These are 
+handled as 1:1 meetings between the employee and his/her manager. Although the 
+majority of this meeting is dedicated to employee performance, there is a dedicated 
+question regarding things GiveWell, or GiveWell management, could do better. Once a 
+year staff are also asked to provide feedback on their peers (any GiveWell staff person). 
+We propose adding another dedicated question regarding improv ements the employees 
+manager could make to help the employee succeed or improve. We also propose 
+collectivizing the staff responses regarding general GiveWell improvements in order for 
+management to have a running, high level view of any trends, new issues , etc.  
+ 
+How is it actioned: Individual performance reviews and feedback are reviewed by a 
+person’s manager and the Executive Director. They mutually agree on any action plans 
+that need to be implemented for the individual employees and/or manager. The Dire ctor 
+of Operations would be responsible to updating and analyzing the meta -file on general 
+feedback and proposing any actions to be taken at an organizational level.   
+ 
+● Manager 360 Reviews (may be incorporated into the Annual Survey - TBD)  
+What is it: Curr ently GiveWell does not have a systematic process for gathering feedback 
+on managers. Certain managers have instituted informal procedures for gathering 
+feedback from their direct reports, but this is not universal or routine. We propose to 
+initiate some f orm of manager review which may be implemented via Flex’s annual 
+review or may be an independent process (tbd). In either case it will cover a broad range 
+of manager strengths and weaknesses, employee comfort with their manager, and 
+proposed improvements.  
+ 
+How is it actioned: Managers would be responsible for reviewing their results with the 
+Director of Operations and the Executive Director and developing personal action plans 
+as needed. They would also provide, at minimum, a high -level summary of the feedb ack 
+to their reports as well as steps being taken to respond to the feedback.  
+ 
+● Remote Worker Check -Ins 
+What is it: The Director of Operations currently conducts periodic check -ins with remote 
+staff. These are typically phone calls or video calls approximat ely every quarter 
+(individual staff are contacted on a rotating basis). We plan to add a few dedicated 
+questions to these check -ins, focused on issues specific to remote staff.  
+ 
+How is it actioned: The Director of Operations will be responsible for archivi ng and 
+analyzing the feedback from these meetings and proposing any potential actions to 
+employee managers or the Executive Director in response to individual circumstances or 
+more general remote -staff issues.  
+ 
+● Manager Handoff Check -Ins 
+
+What is it: When em ployees change to a new manager, the former and new manager 
+jointly administer a manager handoff process in Asana. One step in this process requires 
+managers to check -in with their former reports several weeks after the handoff has been 
+implemented. We pro pose to offer managers more specific guidance about key 
+considerations to check in on during these meetings.  
+ 
+How is it actioned: Former and new managers would be jointly responsible for sharing 
+information to facilitate a smooth handover and if there are any problems, the managers 
+will be responsible for working collaboratively to develop next steps, involving other 
+parties as appropriate if needed (e.g. Director of Operations or Executive Director). The 
+Director of Operations is responsible for auditing A sana to ensure that the handoff project 
+was completed.  
+ 
+● Weekly 1:1s  
+What is it: Managers host weekly 1:1s with their direct reports. These meetings vary by 
+individual. Given the diversity and potential effort to apply any change across the board 
+we are not  recommending any specific change to these meetings. It is noted here for 
+reference since many managers receive a significant number of insights through these 
+discussions.  
+ 
+Separation Components  
+● Exit Interview  
+What is it: GiveWell requests all separating employees to participate in an exit interview 
+prior to departing. This is a dedicated 1:1 conversation facilitated by a person of their 
+choice (or the Director of Operations or Erin Wolff if the employee has no preference). 
+The interviewer solic its feedback on a broad spectrum of questions about the employee’s 
+experience at GiveWell.  
+ 
+How is it actioned: Exit interviews are approved for distribution by the employee. They 
+automatically are provided to the employee’s manager, the Director of Operat ions, and 
+the Executive Director. Similar to the 6 -week HR talk, we propose to add the information 
+from these interviews into a meta file to enable better analysis and tracking of the  
+feedback from this tool.  
+ 
+ 
+ 
+ 
+
+Characteristic Matrix  
+  Component characte ristics  
+Component  Comprehensive  Focused  Nuanced 
+or 
+Detailed  Confidential  Attributed  Admin  
+Burden  
+Annual 
+Survey  Yes   Detailed  Yes   Medium  
+Quarterly 
+Meetings    Yes Nuanced    Yes High  
+After Action 
+Polls/Survey    Yes   Yes (voluntary
+) Low 
+Round 
+Tables    Yes Nuanced    Yes (depends)  
+6 Week HR 
+Talk  Yes   Nuanced    Yes Low 
+Manager 
+Series      Nuanced 
+and 
+detailed    Yes Medium  
+Bi-annual 
+Reviews    Yes Nuanced    Yes High  
+Manager 360  Yes (on topic)    Detailed  Yes   ? 
+Weekly 1:1      Nuanced 
+and 
+detailed    Yes Low-
+Medium  
+Exit 
+Interviews  Yes   Nuanced    Yes Low 
+ 
+
+=== Attachment D ===
+[Excel file - text extraction not supported]
+
+=== Attachment F ===
+2018 Audit Package  
+ 
+I. Comments from Director of Operations  
+II. Letter to the Audit Committee from Hood & Strong (auditors)  
+III. 2018 Audited Financial Statements  
+ 
+  
+
+I. Comments from the Director of Operations  
+ 
+The audit committee ( Tim, Holden, Julia ) unanimously approved the finalization of these 
+documents for full board review. The only changes to the final documents per that review are  the 
+following aesthetic corrections : 
+• Correction of a typo Holden noted on page 2 of the letter to the audit commit tee 
+• Entering the date of closure into Note 2m of the Financial Statement . This corresponds 
+with the date the document was finalized after committee approval . 
+• In Note 4 of the Financial Statement, combining the Net Assets with Donor Restriction of 
+a) the Ef fective Altruism Foundation and b) Raising for Effective Giving (REG) which 
+are actually a single  pool of funds  but which were captured under different  names  in 
+Salesforce for a portion of 2018.  
+• In Note 6 of the Financial Statement, correcting a typo that  inaccurately noted a donation 
+as being from Open Phil LLC instead of the Open Phil Fund.  
+Once the full board has approved, these documents will be prepared for public release on our 
+website.   
+ 
+Additional information f or those not on the audit committee:  
+In line with the results last year, there were no audit findings. In addition, this year there also are 
+no official recommendations, merely updates on the prior years' recommendations.   
+ 
+I have reviewed the letter and financials and agree with the stateme nts.  
+ 
+I will draw your attention to one item that is not explicitly outlined in the management letter or 
+the financial statement - the presentation of our Outreach expenses.   
+ 
+In general, organization expenses have to be allocated to one of three categories - Program, 
+General & Management, or Fundraising (this is most clear if you look at the Statement of 
+Activities (p4) and the Statement of Functional Expenses (p6) in the draft financials). At a 
+standard non -profit, most of its Outreach expenses w ould be incurred by the Development team 
+(to generate donations for its continued operations & programming) and be considered 
+fundraising. At GiveWell, the vast majority of our outreach and the activities of our nascent 
+Outreach team are more meaningfully considered education (of donors about our research 
+findings) and grant -related outreach (for other charities). As a result, we allocate a majority of 
+the expenses incurred by the Outreach team to the Program category.   
+ 
+In the past, this was really a prett y nominal decision because actual outreach expenses were tiny. 
+Given the significant changes in our outreach plans (hiring folks to an official Outreach team, 
+greatly expanding outreach activities to generate money for Top Charities, etc.) Outreach 
+expense s could increase dramatically in the coming years and this decision takes on more 
+weight. We have discussed this with Hood and Strong and they agree that this is the appropriate 
+conceptual way to present the Outreach expenses. However, we and they are agre ed that for 
+future years we will want and need to present a more defined narrative that describes our 
+different programs (ie. Research, Education/Outreach, and Grantmaking) and how expenses are 
+
+allocated to them. This will have the added advantage of makin g the audited financials a more 
+useful tool generally.   
+ 
+In parallel, we will be doing the internal work to ensure that we have appropriately defined 
+which costs and activities should appropriately be allocated to Program and which constitute 
+conventional fundraising (for GiveWell operating funds) and shall be allocated to Fundraising.  
+ 
+Recommendation  
+1. Approve these documents for public release  
+ 
+Comments  
+I am happy to answer any questions you may have regarding the audit documents or the process.  
+ 
+Pleas e don't hesitate to let me know if you have any other questions/comments.  
+Thanks,  
+Whitney  
+ 
+ 
+ 
+
+ 
+  
+ 
+THE CLEAR FUND 
+D.B.A. GIVEWELL 
+ 
+DECEMBER  31, 2018 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+REPORT  
+ 
+TO 
+ 
+THE AUDIT COMMITTEE  
+
+ July 5, 2019  
+ 
+ 
+TO THE AUDIT COMMITTEE  
+THE CLEAR FUND d.b.a. GIVEWELL  
+San Francisco , California  
+ 
+We are pleased to present this report related to our audit of the financial statements of THE CLEAR FUND  
+d.b.a. GIVEWELL (Give Well)  for the year ended December 31, 2018 . This report summarizes certain 
+matters required by professiona l standards to be communicated to you in your oversight responsibility for 
+GiveWell’s financial reporting process.   
+This report is intended solely for the information and use of the Audit Committee, Board of Directors  and 
+management , and is not intended t o be, and should not be , used by anyone other than these specified parties. 
+It will be our pleasure to respond to any questions you have about this report. We appreciated the 
+opportunity to be of service to GiveWell.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+San Francisco ● San Jose ● San Mateo ● Petaluma  
+
+
+The Clear Fund d.b.a GiveWell  
+ 
+Report  to The Audit Committee  
+ 
+ 
+ 
+  
+ 
+ 
+Required Communications  1 - 3 
+ 
+ 
+ 
+Attachment:  
+ 
+ 
+Letter Communicating Deficiencies in Internal Control  Appendix A  
+ 
+ 
+ 
+
+The Clear Fund d.b.a GiveWell  
+ 
+Required Communications  
+ 
+ 
+ 
+1 Generally accepted auditing standards (AU -C 260, The Auditor’s Communication With Those Charged with 
+Governance)  require the auditor to promote effective two- way communication between the auditor and 
+those charged with governance. Consistent with this requirement, the following summarizes our 
+responsibilities regarding the financial statement audit as well as observ ations arising from our audit that 
+are significant and relevant to your responsibility to oversee the financial reporting process.  
+ 
+Area   Comments  
+Our Responsibilities with R egard to 
+the Financial Statement Audit   Our responsibilities under auditing standards generally 
+accepted in the United States of America have been 
+described to you in our arrangement letter dated  January 31, 
+2019. Our audit of the financial statements does not  relieve 
+management or those charged with governance of their 
+responsibilities , which are also described in that letter.  
+Overview of the Planned Scope and 
+Timing of the Financial Statement 
+Audit   We have issued a separate communication regarding the 
+planned scope and timing of our audit as an attachment to 
+our arrangement letter . 
+Accounting Policies and Practices   Preferability of Accounting Policies and Practices  
+Under generally accepted accounting principles, in certain 
+circumstances, management may select among alternative 
+accounting practices. In our view, in such circumstances, 
+management has selected the preferable accounting 
+practice.  
+  Adoption of, or Change in, Accounting Policies  
+Management has the ultimate responsibility for the 
+appropriateness of the accounting pol icies used by 
+GiveWell . GiveWell adopted ASU 2016- 14, Presentation 
+of Financial Statements of Not -For-Profit Entities, 
+beginning January 1, 2018.  GiveWell did not adopt any 
+other significant new accounting policies, nor have there 
+been any changes in existing significant accounting policies 
+during the current period.  
+  Significant or Unusual Transactions  
+We did not identify any significant or unusual transactions 
+or significant accounting policies in controversial or 
+emerging areas for which there is a lack of authoritative 
+guidance or consensus . 
+
+The Clear Fund d.b.a GiveWell  
+ 
+Required Communications  
+ 
+ 
+ 
+2 Area   Comments  
+  Management’s Judgments and Accounting Estimates  
+Accounting estimates are an integral part of the preparation 
+of financial statements and are based upon management’s 
+current judgment. The process used by management 
+encompasses its knowledge and experience about past and 
+current events, and certain assump tions about future events. 
+You may wish to monitor throughout the year the process 
+used to determine and record these accounting estimates. 
+The following describes the significant accounting estimate 
+reflected in GiveWell ’s December 31, 2018 financial 
+statements:  
+- Functional allocation of expenses – directly 
+identifiable expenses are charged to the related 
+program or service benefited. Indirect expenses are 
+allocated to programs and services based 
+principally on the percentage of personnel tim e 
+spent in each area.  
+GiveWell’s processes for estimates appear reasonable and 
+are consistent with industry practice and U.S. GAAP.  
+Audit Adjustments   There were no audit adjustments made to the original trial 
+balance presented to us to begin our audit.  
+Uncorrected Misstatements   We are not aware of any uncorrected misstatements other 
+than misstatements that are clearly trivial.  
+Disagreements with Management   We encountered no disagreements with management over 
+the application of significant accounting principles, the 
+basis for management’s judgments on any significant 
+matters, the scope of the audit, or significant disclosures to 
+be included in the financial statements.  
+Consultations with Other 
+Accountants   We are not aware of any consultations management had 
+with other accountants about accounting or auditing 
+matters.  
+Significant Issues Discussed with 
+Management   No other  significant issues arising f rom the audit were 
+discussed or the subject of correspondence with 
+management.   
+
+The Clear Fund d.b.a GiveWell  
+ 
+Required Communications  
+ 
+ 
+ 
+3 Area   Comments  
+Significant Difficulties Encountered 
+in Performing the Audit   We did not encounter any other difficulties in dealing with 
+management during the audit . 
+Significant Written Communications 
+Between Management and Our Firm   The only written communications between our Firm and 
+management of GiveWell are the representation letter 
+provided to us by management (available upon request) and 
+a letter reporting control  deficiencies  (attached) .  
+ 
+
+ 
+ July 5, 2019  
+ 
+ 
+TO THE AUDIT COMMITTEE  
+THE CLEAR FUND d.b.a. GiveWell  
+San Francisco, California  
+ 
+In planning and performing our audit of the financial statements of THE CLEAR FUND d.b.a.  
+GIVEWELL (Give Well)  as of and for the year ended December 31, 2018, in accordance with auditing 
+standards generally accepted in the United States o f America, we considered GiveWell ’s internal control 
+over financial reporting (internal control) as a basis for designing audit procedures that are appropriate in 
+the circumstances for the purpose of expressing our opinion on the financial statements, but not for the 
+purpose of expressing an opinion on the effectiveness of GiveWell’s internal control. Accordingly, we do 
+not express an opinion on the effectiveness of GiveWell’s internal control.  
+A deficiency in internal control exists when the design or oper ation of a control does not allow management 
+or employees, in the normal course of performing their assigned functions, to prevent, or detect and correct, 
+misstatements on a timely basis. A deficiency in design exists when (a)  a control necessary to meet t he 
+control objective is missing, or (b)  an existing control is not properly designed so that, even if the control 
+operates as designed, the control objective would not be met. A deficiency in operation exists when a 
+properly designed control does not opera te as designed or when the person performing the control does not 
+possess the necessary authority or competence to perform the control effectively.  
+A material weakness is a deficiency, or a combination of deficiencies, in internal control, such that there is 
+a reasonable possibility that a material misstatement of the entity’s financial statements will not be 
+prevented, or detected and corrected, on a timely basis. 
+A significant deficiency is a deficiency, or a combination of deficiencies, in internal contr ol that is less 
+severe than a material weakness, yet important enough to merit attention by those charged with governance.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+San Francisco ● San Jose ● San Mateo ● Petaluma  
+
+
+TO THE AUDIT COMMITTEE  
+THE CLEAR FUND d.b.a. GIVEWELL  
+July 5, 2019  
+Page 2 
+Appendix A  Following are descriptions of identified deficienc ies in internal control from the prior year that we 
+determined did not constitute a significant deficiency or material weakness:  
+STATUS OF PRIOR YEAR RECOMMENDATIONS (as previously rep orted, along with status update)  
+Financial Statement Disclosure and Presentation Items  
+Observation  
+Two key areas of presentation and disclosure in GiveWell’s financial statements are its temporarily 
+restricted net assets activity and the transactions with related parties. While items in both of these areas 
+were properly recorded in the general ledger, the supporting schedules initially provided did contain errors. 
+Once these errors were identified, subsequent drafts were corrected by the contracted accounti ng firm.  
+Recommendation  
+We suggest that GiveWell ensure that these important areas are appropriately reviewed including greater 
+level of collaboration between the contracted accounting firm and GiveWell’s management team to ensure 
+presentation and disclosure of these items are accurate.  
+Status  
+This recommendation has been implemented.  
+  
+
+TO THE AUDIT COMMITTEE  
+THE CLEAR FUND d.b.a. GIVEWELL  
+July 5, 2019  
+Page 3 
+Appendix A   
+New Not -For-Profit Reporting Requirements  
+GiveWell  will be expected to adopt the new accounting pronouncement, ASU 2016- 14, Not-For-Profit 
+Entities (Topic 958): Presentation of Financial Statements of Not -For-Profit Entities  for its year ending 
+December  31, 2018.  The adoption of this new standard will ne cessitate presentation changes in GiveWell ’s 
+financial statements and footnotes as follows:  
+ 
+Reporting 
+Requirements  Recommended Actions for GiveWell 
+Net asset terminology  The current terminology of unrestricted, temporarily and permanently 
+restricted net assets will change to “Net assets with donor restrictions” and “Net 
+assets without donor restrictions.” There is no action needed.  This will be a 
+relatively simple wording change, which we will facilitate as the December 31, 
+2018 financial statements are drafted.  
+Functional expenses  Instead of reporting the functional expenses as a supplemental schedule, 
+GiveWell  will need to include this as one of the standard statements or as a 
+separate footnote. Additionally, GiveWell  will need to disclose  in a bit more 
+detail, the methodology employed for its functional expense allocations.  
+Liquidity disclosures  GiveWell  will be required to disclose the “financial assets available for general 
+expenditures in the next 12 months”.  This will require GiveWell  to identify its 
+financial assets available to be used for general expenditure, along with any 
+restrictions or other encum brances that would prevent the assets from being 
+used for general expenditures. Additionally, GiveWell  would also need to 
+disclose its short -term cash management policies.   
+We recommend that GiveWell  begin to compile the narrative language for 
+these polic ies and prepare the worksheets necessary to calculate its financial 
+assets available for general expenditure.  
+ 
+Status  
+This recommendation has been implemented.  
+  
+
+TO THE AUDIT COMMITTEE  
+THE CLEAR FUND d.b.a. GIVEWELL  
+July 5, 2019  
+Page 4 
+Appendix A   
+Undeposited Funds Reconciliation  
+Observation  
+We noted that GiveWell’s  utilizes an “undeposited funds” account within its chart of accounts.  This 
+accou nt effectively func tions as a clearing account for contributions not yet deposited into its bank accounts.  
+We were provided an accounting of all the activity in this account  for the year and performed testing that 
+did not yield any errors (i.e. in our sample of contributions tested were verified that the selected items were 
+deposited in GiveWell’s accounts) but a detailed reconciliation of this account is not performed.  Without 
+a detailed reconciliation verifying that every contribution that flows through the undeposited fund account 
+has been deposited, it’s possible that errors could go undetected.  
+Recommendation  
+We recommend that GiveWell perform regular reconciliations for undeposited funds at the same frequency 
+and approval process as the cash account reconciliations.  
+Status  
+This recommendation has been implemented.  
+Functional Expense Presentation  
+Observation  
+We noted that GiveWell has included a line item on its functional expense called “donated goods and 
+services”.  The functional expense presentation should only include natural expense classifications such as 
+rent or advertising. 
+Recommendation  
+We recommend that GiveWell  begin to record its in- kind expenses in a manner that allows for these 
+expenses to easily be presented into their respective natural expense categories.   
+Status  
+GiveWell has  changed its manner of recording its in- kind expenses that now allows for separat e reporting 
+of the different type of in- kind expenses incurred but elected to continue to present its in -kind expenses all 
+combined into one line item  on the statement of functional expenses.  
+ 
+This letter is intended solely for the information and use of management and GiveWell’s Audit Committee 
+and is not intended to be, and should not be, used by anyone other than these specified parties. We appreciate 
+serving GiveWell and would be happy to assist you in addressing and implementing any of the suggestions  
+in this letter.  
+ 
+
+
+THE CLEAR FUND 
+D.B.A. GIVEWELL
+DECEMBER 31, 2018 
+INDEPENDENT AUDITORS ’ REPORT  
+AND 
+FINANCIAL STATEMENTS  
+
+The Clear Fund d.b.a. GiveWell 
+ 
+Inde pendent Auditors’ Report  and 
+Financial Statements   
+ 
+ 
+ 
+  
+ 
+ 
+ 
+Independent Auditors ’ Report  1 - 2 
+ 
+ 
+ 
+Financial Statements  
+ 
+ 
+Statement of Financial Position  3 
+ 
+ 
+Statement of Activities  and Changes in Net  Assets 4 
+ 
+ 
+Statement of Cash Flows 5 
+ 
+ 
+Statement of Functional Expenses  6 
+ 
+ 
+Note s to Financial Statements 7 - 13 
+ 
+
+ 
+1 Independent Auditors ’ Report  
+ 
+ 
+THE BOARD OF DIRECTORS  
+THE CLEAR FUND d.b.a. GIVEWELL 
+San Francisco , California  
+ 
+Report on the Financial Statements   
+We have audited the accom pany ing financial statements of THE CLEAR FUND d.b.a. GIVEWELL 
+(GiveWell ), which comprise the statement of financial position as of December 31 , 2018, and the related 
+statements of activities and changes in net assets, functional  expenses and cash flows fo r the year then 
+ended, and the related notes to the financial statements.  
+Management’s Responsibility for the Financial Statements  
+Management is responsible for the preparation and fair presentation of these financial statements in 
+accordance with account ing principles generally accepted in the United States of America; this includes 
+the design, implementation, and maintenance of internal control relevant to the preparation and fair 
+presentation of financial statements that are free from material misstatem ent, whether due to fraud or 
+error.  
+Auditor s’ Responsibility   
+Our responsibility is to express an opinion on these financial statements based on our audit. We 
+conducted our audit in accordance with auditing standards ge nerally accepted in the United States of 
+America. Those standards require that we plan and perform the audit to obtain reasonable assurance 
+about whether the financial statements are free from material misstatement.  
+An audit involves performing procedures to obtain audit evidence about the am ounts and disclosures in 
+the financial statements. The procedures selected depend on the auditor’s judgment, including the 
+assessment of the risks of material misstatement of the financial statements, whether due to fraud or 
+error. In making those risk assessm ents, the auditor considers internal control relevant to the entity’s 
+preparation and fair presentation of the financial statements in order to design audit procedures that are 
+appropriate in the circumstances, but not for the purpose of expressing an opinion on the effectiveness of 
+the entity’s internal control. Accordingly, we express no such opinion. An audit also includes evaluating 
+the appropriateness of accounting policies used and the reasonableness of signifi cant accounting 
+estimates made by man agem ent, as well as evaluating the overall presentation of the financial statements.  
+We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis for 
+our audit opinion. 
+  
+San Francisco ●  San Jose ●  San Mateo ●  Petaluma  
+
+
+ 
+2 Opinion  
+In our opinion, the financial statements r eferred to above present fairly, in all material respects, the 
+financial position of GiveWell  as of December 31 , 2018, and the changes in its net assets and cash flows 
+for the year then ended, in accordance with accounting principles generally accepted  in the United States 
+of America.  
+Effect of Adopting New Accounting Standard 
+As described in Note 2, GiveWell adopted the Financial Accounting Standards Board (FASB) 
+Accounting Standards Update (ASU) 2016- 14, Not -For-Profit Entities (Topic 958): Presentation of 
+Financial Statements of Not -for-Profit Entities. Accordingly, the accounting change has been 
+retrospectively applied to all periods presented  with the exception of the omission of certain information 
+as permitted by the ASU . Our opinion is not modified with respect to that matter. 
+Report on Sum marized Comparative Information  
+We have p reviously audited GiveWell’s 2017 financial statements, and we expressed an unmodified 
+audit opinion on those audited financial state ments in our report dated August 16, 2018. In our opinion, 
+the summarized comparat ive information presented herein as o f and for the year ended December 31, 
+2017, is consistent, in all material respects, with the audited financial statements from which it has been 
+derived. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+San Francisco, California  
+July 5, 2019 
+
+The Clear Fund d.b.a. GiveWell
+Statement of Financial Position
+December 31,2018 (with comparative totals for 2017) 2017
+Assets
+Current Assets:
+Cash and cash equivalents $26,236,791 $20,505,195
+Prepaid expenses and other current assets 106,204 70,506
+Total current assets 26,342,995 20,575,701
+Equipment and Intangible Assets, net 6,461 34,035
+Total Assets $26,349,456 $20,609,736
+Liabilities and Net Assets
+Current Liabilities:
+Accounts payable and accrued expenses $ 301,022 $ 294,622
+Grants payable 13,777,053 11,882,928
+Total current liabilities 14,078,075 12,177,550
+Net Assets:
+Without donor restrictions 11,884,594 7,904,090
+With donor restrictions 386,787 528,096
+Total net assets 12,271,381 8,432,186
+Total Liabilities and Net Assets $26,349,456 $20,609,7362018
+See accompanying notes to financial statements.    
+3
+
+Year ended December 31, 2018 (with comparative totals for 2017)
+2018 2017
+Without
+donor With donor
+restrictions restrictions Total Total
+Revenues and Support:
+Contributions $ 7,700,699    $ 28,307,307    $ 36,008,006   $26,952,535   
+Donated goods and services 632,780       632,780        896,023        
+Investment income, net 17,748          17,748           44,790           
+Other revenue -                 88                  
+Net assets released from 
+restrictions 28,448,616  (28,448,616)  -                 -                 
+Total revenue and support 36,799,843  (141,309)        36,658,534   27,893,436   
+Expenses:
+Program services 31,318,762  31,318,762   26,253,383   
+Management and general 1,268,054    1,268,054     1,166,398     
+Fundraising 232,523       232,523        240,018        
+Total expenses 32,819,339  -                  32,819,339   27,659,799   
+Total Change in Net Assets 
+   Before Other Gains 3,980,504    (141,309)        3,839,195     233,637        
+Gain on Sale of Open Philanthropy
+   Project -                 2,451,060     
+Total Change in Net Assets 3,980,504    (141,309)        3,839,195     2,684,697     
+Net Assets, beginning of year 7,904,090    528,096          8,432,186     5,747,489     
+Net Assets, end of year $11,884,594  $ 386,787          $ 12,271,381   $ 8,432,186     The Clear Fund d.b.a. GiveWell
+Statement of Activities and Changes in Net Assets
+See accompanying notes to financial statements.
+4
+
+Year ended December 31, 2018 (with comparative totals for 2017) 2018 2017
+Operating Activities:
+Change in net assets $ 3,839,195 $ 2,684,697
+Adjustments to reconcile change in net assets to
+   net cash provided by operating activities:
+Depreciation and amortization 27,574          77,575          
+Gain on sale of Open Philanthropy Project (2,451,060)   
+Changes in operating assets and liabilities:
+Prepaid expenses and other current assets (35,698) (47,538)
+Accounts payable and accrued expenses 6,400 143,036
+Grants payable 1,894,125 4,073,818
+Net cash provided by operating activities 5,731,596 4,480,528
+Investing Activities:
+Proceeds from sale of Open Philanthropy Project 2,451,060
+Net cash provided by investing activities -     2,451,060
+Net Change in Cash and Cash Equivalents 5,731,596 6,931,588
+Cash and Cash Equivalents, beginning of year 20,505,195 13,573,607
+Cash and Cash Equivalents,  end of year $26,236,791 $20,505,195
+Non-Cash Operating Activities:
+Fortheyears ended December 31,2018 and2017, GiveWell received stock donations valued at$1,419,588 and
+$2,654,639, respectively.The Clear Fund d.b.a. GiveWell
+Statement of Cash Flows
+See accompanying notes to financial statements.
+5
+
+Year ended December 31, 2018 (with comparative totals for 2017)
+2018
+Management
+Program and General Fundraising Total 2017
+Grants $28,239,288  $28,239,288  $22,257,981  
+Salaries 1,379,645    $ 492,736       $ 88,280          1,960,661    2,432,206    
+Payroll taxes and benefits 157,711       143,653       10,636          312,000       380,446       
+Staff recruitment 34,105          1,506            260               35,871          17,660          
+Advertising 242,015       26,891          268,906       143,111       
+Outreach 18,871          4,718            23,589          8,855            
+Professional fees 440,253       330,775       60,868          831,896       802,481       
+Occupancy 23,177          23,177          8,614            
+Insurance 42,935          42,935          50,767          
+Office expenses 1,643            38,849          40,492          154,139       
+Information technology 1,069            18,243          268               19,580          30,568          
+Travel and conferences 24,599          35,518          1,010            61,127          192,392       
+Bank and payment processing fees 273,056       8,921            281,977       198,888       
+Miscellaneous 17,486          17,486          8,093            
+Donated goods and services 483,330       109,858       39,592          632,780       896,023       
+Depreciation and amortization 27,574          27,574          77,575          
+Total expenses $31,318,762  $ 1,268,054    $ 232,523       $32,819,339  $27,659,799  The Clear Fund d.b.a. GiveWell
+Statement of Functional Expenses
+See accompanying notes to financial statements.
+6
+
+The Clear  Fund d.b.a. GiveWell 
+ 
+Notes to  Financial Statements  
+ 
+ 
+ 
+7 Note 1 -   Nature of the Organization : 
+The Clear Fund d.b.a. GiveWell (GiveWell) is a nonprofit organization incorporated 
+February 22, 2007, under the laws of the State of New York. GiveWell aims to find 
+outstanding giving opportunities and publishes the full details of its analysis to help donors 
+decide where to give.  GiveWell also gives grants to charities, to improve incentives for doing 
+demonstrably effective work and sharing information on that work. GiveWell’s office is 
+located in San Francisco, Califo rnia. 
+ 
+Note 2 -   Summary of Significant Accounting Policies : 
+a. Basis of Accounting   
+The accompanying financial statements have been prepared on the accrual basis of 
+accounting in accordance with accounting principles  generally accepted in the United 
+States o f America (U.S. GAAP).  
+b. Revenue and Support  
+GiveWell’s primary source of revenue is contributions from individuals and other 
+organizations. Contributions and unconditional prom ises to give are recorded at fair  
+value and are recognized as revenue when the do nor makes an unconditional promise to 
+give. Donated securities are recorded at fair  value at the time of donation. GiveWell 
+reports contributions of cash and other assets as restricted support if they are received 
+with donor stipulations that limit the use  of the donated assets, or if they are designated 
+as support for future periods. GiveWell maintains variance power over contributions, 
+including gifts  that are restricted by donors for specific charities.  
+Donated services are recognized as contributions if the services create or enhance non -
+financial assets or if the service require s specialized skills and would otherwise be 
+purchased by GiveWell.  
+c. Cash and Cash Equivalents  
+GiveWell  considers all highly liquid investments with a maturity of three months or l ess 
+when purchased to be cash equivalents.  
+d. Equipment and Intangible Assets  
+GiveWell capitalizes equipment  and intangible  asset  acquisitions  over $1,000. 
+Equipment and intangible assets are recorded at cost and consist primarily of office 
+equipment  and we b development costs. Donated equipment is  recorded at its  estimated 
+fair value at the date of donation. Depreciation and amortization are computed using the 
+straight -line method over the estimated useful lives of the respective assets ranging from 
+three to  five years.  
+
+The Clear  Fund d.b.a. GiveWell 
+ 
+Notes to  Financial Statements  
+ 
+ 
+ 
+8 e. Grants  
+Grants are expensed following  approv al by the board. Contributions restricted to 
+recommended charities are granted to specific charities net of fees GiveWell paid to 
+payment processors (primarily credit card processors), befo re being re leased from 
+restrictions.  Donations restricted by donors to “grants to recommended  charities” 
+received during 2018 were allocated 56% to Malaria Consortium , 31% to Against 
+Malaria Foundation and 13% to Schistosomiasis Control Initiative . The all ocation 
+percentage is approv ed by GiveWell’s board of directo rs. 
+f. Functional Expenses  
+The cost of providing the various program and supporting services have been 
+summarized on a functional basis in the statements of activities and changes in net assets, 
+and functional  expenses.  
+Grant expense is charged directly to pro gram.   Other directly identifiable expenses are 
+charged to the related program or service benefited. These include salaries and related 
+benefits , professional fees, advertising and travel, which are charg ed to the functional 
+area of the employee who incurred the  expense. Employees who pe rformed work in 
+multiple functional areas prorate expenses based on the actual hours worked.  
+Occupancy related expenses are allocated to program and services based on a headcount 
+by functional  category. Other indirect expenses, i ncluding those associated with office 
+administration, human resources, finance, general insurance and legal are all allocated to 
+management and general.  
+g. Net Assets 
+Net assets, revenues, gains, and losses are classified  based on t he existence or absence of 
+donor or grantor imposed restrictions. Accordingly, net assets and changes therein are 
+classified and reported as follows:  
+Net Assets Without Donor Restrictions – Net assets available for use in general 
+operations and not s ubject  to donor (or certain grantor) restrictions.  
+Net As sets With Donor Restrictions – Net assets subject to donor - (or certain grantor) 
+imposed restrictions. GiveWell’s donor -imposed restrictions are temporary in nature, 
+such a s those that will b e met b y the passage of time or other events specified by the 
+donor.  
+Donor -imposed restrictions are released when a restriction expires, that is, when the 
+stipulated time has elapsed, when the stipulated purpose for which the resource w as 
+restricted has been ful filled , or both. 
+
+The Clear  Fund d.b.a. GiveWell 
+ 
+Notes to  Financial Statements  
+ 
+ 
+ 
+9 h. Use of Estimates 
+The preparation of fina ncial statements in conformity with U.S. GAAP requires 
+management to make estimates and assumptions that affect  reported amounts and 
+disclosures. Accordingly, a ctual result s could differ fr om those e stima tes. 
+i. Tax-Exempt Status  
+GiveWell is a non -profit orga nization exempt from federal income tax under Section 
+501(c)(3) of the Internal Revenue Code  and a similar provision for state taxing 
+authorities. In addition, GiveWell has  been determined by t he In ternal  Revenue Service 
+not to be  a private foundation with in the meaning of Section 509(a)  of the Internal 
+Revenue Code .  
+GiveWell’s accounting policy provides that a tax expense or benefit from an uncertain 
+tax position may be re cognized when it i s more l ikely than not that the position will be 
+sustained upon examination. Management has determined that GiveWell has taken no 
+uncertain tax position that  would require adjustment to the financial statements.  
+j. Advertising Costs  
+GiveWel l uses advertisin g specifically aimed  at encouraging potential donors to use its 
+research, featured at its public website. The website provides prominent links for 
+donating to recommended charities . Accordingly, advertising costs have been allocated 
+between fundraising and program.  Costs are expensed as incurred. For the year ended 
+December 31, 2018 GiveWell incurred $268,906 of advertising expenses. For the year 
+ended December 31, 2018 GiveWell also received donated advertising expenses in the 
+amount of  $ 204,300 (see Note 6).  
+k. Comparative  Financial  Information 
+The financial statements include certain prior year  summarized comparative information 
+in total, but not in sufficient detail to constitute a presentation in conformity with U.S. 
+GAAP . Accordingly , such informat ion should be read in conjunction with GiveWell’s 
+financial statements for the year ended December 31, 2017, from which the summarized 
+information was derived. 
+
+The Clear  Fund d.b.a. GiveWell 
+ 
+Notes to  Financial Statements  
+ 
+ 
+ 
+10 l. Recent Accounting Pronouncements  
+Adopted 
+In August 2016, the Financial Accounting S tandards Board (FASB) issued Accounting 
+Standar ds Update  (ASU)  2016- 14, Not-for-Profit Entities (Topic 958) Presen tation of 
+Financial Statements of Not -for-Profit, which changes presentation and disclosure 
+requirements for nonprofit entities to provide mor e relevant information about their 
+resources (and the ch anges in those resources) to donors, granters, creditors, and other 
+users. These include qualitative and quantitative requirements in the following areas: net 
+asset classes, investment return, expenses, and liquidity. Accordingly, the accounting 
+change has been retrospectively applied to all periods presented  with the exception of the 
+omission of prior year functional expense and liquidity and availability of resourc e 
+information as permitted by the AS U. 
+Adoption Pending 
+In June 2018, the FASB issued ASU 2018- 08, Not-for-Profit Entities  (Topic 958) : 
+Clarifying the Scope and the Accounting Guidance for Contributions Received and 
+Contributions Made. The  amendments in this update are designed to assist ent ities in 
+evaluating whether transactions should be  accounted f or as contributions, or as exchange 
+transactions, as well as determining whether a contribution is conditional. The 
+amendments in thi s ASU re lated to contributions received are effective for ann ual 
+financial statements issued for fiscal years b eginning aft er December 15, 2018, while the 
+amendments related to  contributions made are effective one year later . Early adoption is 
+permitted. Managemen t is currently evaluating the impact the amendments i n thi s ASU 
+will have on the financial statements.  
+m. Subsequent E vents  
+GiveWell evaluated subsequent events from December 31, 201 8 through July 5, 2019, 
+the date these financial statements were available to be is sued. There were no material 
+subsequent events that r equir ed recognition or additional disclosure in the se financial 
+statements.  
+ 
+Note 3 -   Grants Payable:  
+Grants payable at December 31, 2018 in the amount of $ 13,777,053 represents amounts that 
+have been committed to various grant ees, but not yet paid. Thes e gra nts were fully p aid in 
+the subsequent year . 
+
+The Clear  Fund d.b.a. GiveWell 
+ 
+Notes to  Financial Statements  
+ 
+ 
+ 
+11 Note 4 -   Net Assets with D onor R estriction  
+Net assets with donor restrictions  at December  31, 2018 consist of incentive grants to 
+potential top charitie s in the amount of $386,787. 
+Net assets with donor re strictions  for the year ended December 31, 2018 were released from 
+restrictions by satisfying the purpose specified by the donor as follows:  
+ 
+Malaria Consortium    $ 10,213,713 
+Against Malaria Foundation  (AMF)     7,829,795 
+Schistosomiasis Control Init iative  (SCI)    3,561,126 
+GiveDirectly     1,806,316 
+Deve lopment Medi a International     1,693,400 
+Effective Altruism F oundation     926,922 
+Evidence Action  (Deworm the World Initiative )    829,910 
+Helen Keller International ( VAS program)     419,313 
+Iodine G lobal Network     392,014 
+Sightsavers    181,523 
+Incentive grants to potential top charities     140,623 
+END Fund     135,962 
+Evidence Action ( No Lean S eason)     93,019 
+Global Allia nce for Improved Nutrition    80,315 
+Evidence Action ( Dispenser s for Safe W ater)    43,236 
+Food Fort ification Initia tive    34,294 
+Living Goods     31,560 
+Project Healthy Children     20,628 
+Zusha! Road Safety Campaign     8,922 
+GiveDirectly – Basic Income Pr oject     4,025 
+GiveDirectly – Refugee Support     2,000 
+ 
+   $ 28,448,616 
+ 
+Note 5 -   Donat ed Goods and Serv ices:  
+For the years ended December 31, 2018 the value of various donated goods and services are 
+as follows:  
+ 
+Advertising    $ 204,300 
+Use of facilities and office expenses    425,573 
+Task management software    2,907 
+ 
+   $ 632,780 
+ 
+
+The Clear  Fund d.b.a. GiveWell 
+ 
+Notes to  Financial Statements  
+ 
+ 
+ 
+12 Note 6 -  Related P arty Transaction s: 
+One board member of GiveWell is also a board member of Good Ventures, a not -for-profit 
+organization. Three board members of GiveWell (one  of whom is also a GiveWell 
+officer) a re also members of t he board of man agers of Op en Philanthropy Proje ct LLC.  Two 
+of the same three board members of GiveWell (excluding the one who is also a Give Well 
+officer) are also board members of Open Philanthropy Action Fund, a 501(c)(4) organization. 
+GiveWell shares its office space with G ood Ve ntures and  Open Philanthropy Project LLC.  
+Good Ventures contributed $ 2,453,548 for the ye ar ending December 31, 2018. 
+Open Philanthropy Project LLC contributed $ 425,573 in donated use of facilities for the 
+year ending December 3 1, 2018, and Open Philanthropy Action Fund made  cash 
+contributions of $851,179. 
+During  the year ended December 31, 2018, GiveWell inc urred $166,484 of expenses in 
+connection with activities for Open Phil anthropy Project LLC during 2018, of which 
+$110,424 was reimb ursed during the year ended December 31, 2018 and $56,060 is included 
+in other  current a ssets.  Additionally, Open Philanthropy Project LLC incurred $25,696 of 
+expenses in connection with act ivities for GiveWell during 2018 , of which $18,880 was 
+reimbursed  during the year end ed December 31, 2018 and $6,816 is include d in accounts 
+payable  and accru ed expenses.  
+Contributions from individual board members and officers were less than 1% of total 
+contribution revenue for the year ending December 31, 2018. 
+ 
+Note 7 -   Concentrations:  
+Financial instrumen ts whi ch potentially s ubject GiveWell to concent rations of credit risk 
+consist primar ily of cash  and cash equivalents. GiveWell maintains its cash and cash 
+equivalents on deposit in what it believes to be highly credited financial institutions. 
+GiveWell’s deposi ts may at times exceed the feder ally insur ed limit. 
+GiveWell  had no major donor s in 2018. Major donors are defined as donors that contribute 
+revenue greater than 10%  of GiveWell ’s contributions  for that year.  
+
+The Clear  Fund d.b.a. GiveWell 
+ 
+Notes to  Financial Statements  
+ 
+ 
+ 
+13 Note 8 -   Available Resources and Liquid ity: 
+GiveW ell’s financ ial assets at Decemb er 31, 2018 that are available to meet general 
+expendi tures over the next twelve months are as follows:  
+ 
+Financial assets at year -end: 
+Cash and cash equivalents    $ 26,236,791 
+ Accounts receivable included in othe r current assets     56,060 
+ 
+Total fin ancial assets    26,292,851 
+ 
+Less amounts not a vailable fo r general expenditures : 
+ Net assets with donor restrictions    (386,787)  
+ 
+Financial assets available to meet general exp enditures   
+ over the  next twelve months    $ 25,906,064 
+ 
+GiveWell’s cash and cash equivalents typically include cash held in d eposit acco unts, highly 
+liquid i nvestments and investments with an original maturity of three months or less.  
+GiveWell holds in it s financial assets available for general  expenditu re an amount  that is 
+judged by management as sufficient to support GiveWell ’s operatio ns for 12 months. 
+ Financial assets available for general expenditure over and above that amount are considered 
+excess assets. GiveWell’s board of directors grant out  any excess assets on an annual basis at 
+the annual financial meeting according  to an exce ss asset policy.   Fi nancial assets available 
+for general expenditure arising from an extraordinary transaction, such as  a sale of assets, 
+may be considered up to one  year following the close of such transaction, rather than at the 
+next board me eting at wh ich a budget is approved.  
+
+=== Attachment G ===
+Executive compensation review  
+ 
+This document includes three categories of comparables  for executive compensation at 
+GiveWell, and a proposal for raising the salary of Elie Hassenfeld, GiveWell's Executive 
+Director:  
+ 
+● Foundations : Private data drawn from a compensation survey of 131 foundations (2016 
+data)  
+● Research not -­for-­profits : Public data from the 990s of nine not -for-profit 
+organizations conducting research and charity evaluation (2017 or 2018 data)  
+● Academics : Economics professors at the University of California, Berkeley (2016 data).  
+● Open Philanthropy Project: Open Philanthropy Project compensation information.  
+ 
+Compensation proposal : We propose total cash compensation of $278,750 in addition to 
+health insurance coverage of $29,130. (GiveWell covers the full health insurance premiums for 
+staff, their partners and all dependents)  
+ 
+Foundations  
+ 
+Note that we did not update this data for 2019. A manual spot check of several of the charities 
+from thie 2016 survey demonstrated that salaries have gone up but we did not feel there was a 
+compelling enough reason to investigate the remaini ng charities or use the updated data. 
+Below, we use the same data we showed last year: 2016 compensation data for foundations.  
+ 
+We have private data from a 2016 survey of 131 foundations by Lasnik -­Broida Consultants, 
+Inc. in collaboration with The Croner Company. Below is aggregate information about total 
+compensation for CEOs among foundations with 16 -50 employees.  
+ 
+CEO Compensation at Foundations with 16 -50 employees   
+(n = 52)  
+ 25th percentile  50th percentile  75th percentile  
+Base pay  $378,000  $427,500  $529,900  
+Total compensation  $449,000  $504,900  $649,600  
+ 
+And here is the aggregate information about total compensation for CEOs among foundations 
+with more than $1.5 billion in assets.  
+ 
+CEO Compensation at Foundations with more than $1.5 billion in assets 
+(n = 36, overlaps with above)  
+ 25th percentile  50th percentile  75th percentile  
+
+Base pay  $561,000  $671,500  $763,100  
+Total compensation  $675,600  $781,100  $981,500  
+ 
+Notes:  
+● None of these data are not adjusted for cost -­of-­living, although most of the foundations 
+are based in large American cities.  
+● The 36 foundations surveyed with $1.5 billion in assets or more had a median grants 
+payout of $124 million. We chose this tier because its median payout was the closest to 
+GiveWell's money moved. GiveWell's estimate of total money directed to charities in 
+2017 is $149,153,078.1 The next tier down in the compensation survey we relied on had 
+a median annual grants payout of $32 million.  
+ 
+Research not -for-profits  
+ 
+In July 2019, we pulled the most recent available staff compensation information from nine 
+resear ch or charity -review -oriented not -for-profits: Innovations for Poverty Action, IDinsight, 
+Evidence Action, Center for Global Development, Center for Effective Philanthropy, Urban 
+Institute, Guidestar, Charity Navigator, and Results for Development.  
+ 
+Here are the summary statistics for the salaries of the president, CEO, or Executive Director at 
+those organizations according to their 2017 or 2018 990s2: 
+ 
+Compensation for Presidents and/or CEOs at 9 orgs from 2017 or 2018 990s  
+ 25th percentile  50th percenti le 75th percentile  
+Base pay  $200,524  $238,499  $426,172  
+Total compensation  $214,198  $269,159  $427,547  
+ 
+Notes:  
+● We have not adjusted for cost­ -of-­living.  
+● Details of this data are available in Exhibit A. 
+ 
+Academics   
+Note that we did not update this section for 2019. Below is the same data we used in previous 
+years.  
+ 
+We think that professors at UC Berkeley make for good comparisons because Berkeley is a 
+well-regarded school (and therefore ought to give some indication of what sort of pay attracts 
+                                                 
+1 Source: GiveWell Metrics Report – 2017 Annual Review  
+2 Information for the Center for Effective Philanthropy and Charity Navigator is from 2018. All others are 
+from 2017.  
+
+top tier intellectuals in a not -for-profit environment), is public (so salary informati on is publicly 
+available), and is located in the Bay Area.  
+ 
+We believe that economics professors make the most appropriate comparison for Elie within 
+this data set.  
+ 
+Below are summary statistics for the compensation of Berkeley economics professors in 2016 . 
+ 
+ 
+Compensation for UC Berkeley economics professors in 2016  
+(n = 44)  
+ 25th percentile  50th percentile  75th percentile  
+Base pay  $165,725  $250,648  $287,940  
+Total compensation  $206,405  $308,025  $347,620  
+  
+ 
+There were nine professors who received their BAs in 2004 or later (the year Elie  
+graduated from college):  
+ 
+BA year  Gross Pay  
+2010  $192,310  
+2010  $204,869  
+2009  $206,917  
+2008  $204,721  
+2006  $191,475  
+2005  $195,633  
+2004  $195,800  
+2004  $227,380  
+2004  $219,448  
+ 
+Note that professors typically have ~3 months per year, and ~1 day per week during the 
+remaining months, for pursuing side engagements, including paid ones. Elie works full­ -time at 
+GiveWell.  
+ 
+
+Open Philanthropy compensation  
+ 
+[REDACTED]  
+ 
+Compensation proposal  
+ 
+We pro pose total cash compensation of $278,750 in addition to health insurance coverage of 
+$29,130. (GiveWell covers the full health insurance premiums for staff, their partners and all 
+dependents)  
+ 
+
+=== Attachment H ===
+Administrative Items for Vote  
+ 
+The Board shall vote individually on resolution 1 absent Elie Hassenfeld . 
+1. Executive Director Compensation   
+Vote to approve the proposed Executive Director compensation of $ 278,750  
+ 
+The Board shall vote individually on resolutions 2 and 3.  
+2. Budget  
+Vote to approve the 2019 and 2020 budgets.  
+a. The 2019 budget was approved last year. We are requesting an increase in that 
+budget of $ 320,000 . 
+b. The 2020 budget request is for $ 11,174,579  
+ 
+3. Unrestricted Assets  
+Vote to restrict $3,853,472  in unrestricted assets as restricted to grants at GiveWell’s 
+discretion.  
+a. Single Revenue Cap: GiveWell has adopted a rule that no one revenue source should 
+provide more than 20% of our operations funding each year. We propose to raise 
+that limit such that no one revenue source should provide more than 20% of our 
+operations funding for two years’ operating expenses. One individual gave an 
+unrestricted donation that exceeds 20% of our 2019  and 2020  operating budget s. To 
+action the r ule of not supporting more than 20% of our operations from a single 
+revenue source, we are proposing a vote to irrevocably designate the above  portion 
+of this donation as restricted for grants at GiveWell’s discretion .  
+ 
+4. 2018 Audited Financial Statements  
+Vote to approve and authorize publication of the 2018 audited financial statements.  
+ 
+ 
+The Board is being asked to vote in aggregate on resolutions 4 and 5. 
+ 
+5. Minutes of April 30, 2019 Board Meeting  
+NOW, THEREFORE, BE IT RESOLVED, that the Board of Directors (“Board”) of The 
+Clear Fund d/b/a Givewell (“GiveWell”) hereby approves the minutes of the meeting of the 
+Board on April 30, 2019.  
+ 
+FURTHER RESOLVED, that the Board hereby authorizes the officers  of GiveWell to redact 
+or modify the minutes of such meeting, if necessary, solely for the purpose of posting such 
+minutes to the GiveWell website and otherwise making such minutes publicly available in 
+accordance with GiveWell’s commitment to transparency  and confidentiality obligations.  
+ 
+FURTHER RESOLVED, that the Board hereby authorizes the officers of GiveWell to do and 
+perform all such further acts and to execute such documents as shall be necessary or advisable in 
+order to carry out the foregoing res olutions.  
+ 
+ 
+6. Signing Authorization  
+
+WHEREAS, under Article 6 Section 1 of the Amended and Restated Bylaws of the Corporation 
+(the “ Bylaws ”), the Board may authorize any officer or agent of the Corporation to enter into 
+any contract or execute and deliver an y instrument in the name of and on behalf of the 
+Company; and  
+ 
+WHEREAS, the Board has determined that it is appropriate and in the best interests of the 
+Corporation to make such an authorization to certain members of the Board and the 
+management team of th e Corporation; and  
+ 
+WHEREAS, the Board had previously authorized the Executive Director (also known as the 
+President) of the Corporation (i) to sign checks, drafts, promissory notes, orders for the payment 
+of money, and other evidence of indebtedness bindi ng the organization to indebtedness up to 
+10% of the previously approved 12 -month expenses; and (ii) to delegate that authority to other 
+employees of the Corporation (the “ Director Authorization ”), a copy of which is attached 
+hereto as Exhibit A . The Board has further determined that it is appropriate and in the best 
+interests of the Corporation to update the Director Authorization to include the ability to 
+execute other non -financial contracts a nd instruments;  
+ 
+NOW, THEREFORE, BE IT RESOLVED, that the Director Authorization is 
+terminated, superseded, and replaced in its entirety by the authorization set forth below.  
+FURTHER RESOLVED, that in accordance with Article 6 Section 1 of the Bylaws, the 
+Board hereby authorizes each of the following officers and/or agents to enter into 
+contracts and instruments on behalf of the Corporation as follows:  
+ Name  Title  Authorization  
+1.  Elie Hassenfeld  President  Execute any contract or instrument  
+including unbudgeted expenses having a 
+then-current fair market value o f not more 
+than 10% of the previously approved 12 -
+month expenses . 
+Delegate the authority to execute any 
+contract or instrument.  
+2.  Natalie Crispin  Vice President & 
+Treasurer  Execute any contract or instrument  having 
+a then -current fair market value of not 
+more than $150,000.00 unless approved in 
+writing by the President . 
+3.  Whitney Shinkle  Secretary & Vice 
+Treasurer  Execute any contract or instrument having 
+a then-current fair market value of not 
+more than $150,000.00  
+unless approved in writing by the 
+President . 
+4.  Aaron Kavanaugh  Office Manager  Execute any contract or instrument 
+specific to office repair, maintenance, and 
+software having a then -current fair market 
+value of not more than $15,000.00.  
+
+5.  Ben Batem an Head of Growth  Execute any contract or instrument 
+specific to Outreach having a then -current 
+fair market value or not more than $15,000  
+ 
+ 
+FURTHER RESOLVED, that the foregoing authorization granted to the named officers 
+and/or agents shall continue until revoked by the President or the Board or until such officer or 
+agent’s earlier death, resignation, or removal.  
+ 
+OMNIBUS RESOLUTION  
+RESOLVED, that the officers  of the Corporation are, and any one of them is, hereby 
+authorized and directed to take all such further actions as such officer(s) may deem 
+necessary or desirable in connection with the actions contemplated by the foregoing 
+resolutions.  
+RESOLVED FURTHER, that any acts relating to the subject matter of the foregoing 
+resolutions performed prior to the passage of these resolutions are hereby in all respects 
+ratified and approved.  
+RESOLVED FURTHER, that this consent is to be filed in the minute books as kept b y the 
+Corporation.  
+ 
+ 
+EXHIBIT A  
+Director Authorization  
+ 
+3. Executive Director Authority Regarding Checks and Notes  
+ 
+Except as otherwise specifically determined by resolution of the board of directors, or as otherwise 
+required by law, the executive director shall be authorized to sign checks, drafts, promissory notes, 
+orders for the payment of money, and other evidence o f indebtedness of the corporation that 
+represent unbudgeted expenses in amounts of up to 10% of the previously board -approved 12 
+month expenses for GiveWell. All expenses exceeding such amounts shall be approved by the audit 
+committee of the board.  
+ 
+The Ex ecutive Director may delegate authority to sign checks and notes to any employee of 
+GiveWell. The Executive Director remains responsible for ensuring that all such checks and notes 
+follow the applicable requirements laid out elsewhere in these By -Laws.  
+ 
+
+=== Agenda ===
+GiveWell Board Meeting Agenda  
+ 
+July 29 , 201 9 
+ 
+1:00pm – 3:30pm PST  
+ 
+ADMINISTRATI VE ITEMS  (1:05 – 1:45pm) 
+1:05 Annual Review Items - The Board will review the following administrative annual 
+due diligence items and Whitney will field Q/A as necessary : 
+1. Conflict of interest forms  
+2. Review of compensation arrangements and benefits ; partnerships, joint -
+ventures, and arrangements with management organizations  
+3. Roster of Officers and Directors  
+4. Mission and vision statements  
+5. Document Retention and Des truction Policy  
+6. Insurance coverage   
+Related Document: Attachment A: 2019 Insurance and Sundries Review  
+ 
+1:15 Update on Past Subjects – Elie and Whitney will discuss progress on recent topics of 
+board attention  
+A. GiveWell roadmapping - Related Document:  Attac hment B  - GiveWell’s 
+Recent Progress and Future Plans  
+B. Staff feedback – Related Document: Attachment C – Draft  Organizational 
+Feedback Plan  
+ 
+ 
+KEY SUBSTANTIVE TOPICS  (1:45 – 3:00 pm) 
+ 
+1:45p Financial Review  
+Related Document: Attachment D –GiveWell Financial Summary  
+    Attachment E – Financial Summary Slides  
+   Attachment F – 2018 Audit Package  
+ 
+2:30 Break  
+ 
+2:40p Executive Compensation  (E.D. and staff recused and absented)  
+Related Document: Attachment  G – Executive Comparables Data   
+ 
+ 
+BOARD VOTE S (3:00 – 3:30 pm) 
+ 
+The Board will vote individually on the following resolutions:  
+ 
+1. Executive Director Comp   
+Recommendation : Approve requested compensation increase.  
+ 
+2. Budget  
+Recommendation : Approve the proposed budget.  
+ 
+
+3. Restricting unrestricted funds to regranting  
+Recommendation : Approve restricting  $3.85M  in unrestricted funds to 
+regranting . 
+ 
+4. 2018 Audit  
+Recommendation : Approve the 2018 audit and authorize publication  
+ 
+ 
+The Board will be asked to vote in aggregate on the following resolutions:  
+ 
+5. Prior Meeting Minutes  
+Recommendation : Approve the minutes  
+ 
+6. Signing Authority  
+Recommendation : Approve contract signing authorization for the Executive 
+Director, Director of Operations, Senior Research Manager , Head of Growth, and 
+Office Manager . 
+ 
+ 
+Related Document: Attachment H – Resolutions for Board Vote  
+
+Generate a comprehensive summary (approximately 1000 words):

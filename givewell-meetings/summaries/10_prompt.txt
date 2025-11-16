@@ -1,0 +1,2171 @@
+Based on the following board meeting documents for a Clear Fund Board Meeting held on March 3, 2010, generate a comprehensive ~1000-word summary that acts as a professional brief.
+
+The summary should cover:
+- Key decisions made and votes taken
+- Important discussions and debates
+- Financial/budget information with specific numbers
+- Strategic direction or policy changes
+- Personnel or organizational changes
+- Any significant outcomes or action items
+
+Keep the tone professional and factual. Focus on substance over process. Be specific with numbers, names, and decisions.
+
+Meeting Documents:
+=== Minutes ===
+Minutes for 3/3/10 meeting of the Clear Fund (aka GiveWell) Board of Directors 	  7:12	  p	  Meeting	  called	  to	  order	  	  7:14	  p	  Board	  begins	  discussion	  of	  annual	  review	  and	  plan	  	  8:49	  p	  Staff	  leaves	  room	  for	  compensation	  review	  	  9:06	  p	  Board	  agrees	  to	  increase	  the	  salaries	  of	  the	  co-­‐Executive	  Directors	  by	  $5,000	  	  9:07	  p	  Staff	  re-­‐enters	  room	  	  9:21	  p	  Board	  approves	  current	  insurance	  coverage	  	  	  	  9:30	  p	  Meeting	  adjourned	  
+
+=== 2010 compensation review ===
+
+                   GiveWell Executive-compensation Review
+
+We propose a cost-of-living raise for Holden Karnofsky and Elie Hassenfeld
+and review the data we relied upon to prepare this proposal.
+
+Proposal
+
+Elie Hassenfeld and Holden Karnofsky, GiveWell’s co-Executive Directors,
+are currently each paid $65,000 per year (plus health benefits). We propose
+a $2,500 cost-of-living increase in their salaries (to $67,500 plus health
+benefits) based on inflation since June 2007.[1]
+
+We believe that this salary is commensurate with our output and within the
+range of reasonable compensation for GiveWell’s executives (based on the
+executive compensation at other, similar organizations) and survey data.
+
+Background
+
+GiveWell’s Board of Directors set salaries for Elie Hassenfeld and Holden
+Karnfosky in June 2007. In September 2008, GiveWell’s Board approved a
+budget with the same salaries without a full review along these lines.
+
+GiveWell data
+
+    • Total expenses: In 2009, GiveWell had total expenses of $200,000-
+      $250,000 (exact number to follow in the budget board-meeting
+      attachment). GiveWell also tracked over $1 million in donations to
+      GiveWell-recommended charities due to GiveWell’s recommendations. We
+      believe it’s appropriate to consider GiveWell’s “money moved” when
+      comparing our budget size to the size of other grantmakers and
+      organizations focused on improving the philanthropic sector.
+    • In December 2009-January 2010, givewell.net had an average of 23,500
+      unique visitors each month.
+    • Elie Hassenfeld and Holden Karnofsky, GiveWell co-Executive Directors,
+      each earn $65,000 per year.
+
+Comparable organizations
+
+We have identified the three organizations below as the most comparable
+organizations to GiveWell for which data is available. None of these
+organizations is perfectly comparable to GiveWell in either size or focus.
+
+American Institute of Philanthropy. According to its website, “The American
+Institute of Philanthropy (AIP) is a nationally prominent charity watchdog
+service whose purpose is to help donors make informed giving decisions.”
+The AIP publishes “the triannual Charity Rating Guide included in the
+Charity Watchdog Report, informs donors about how over 500 national
+charities spend your money and keeps donors up to date on current issues
+related to charitable giving.”
+
+    • According to its 2008 IRS Form 990, AIP had a budget of $437,650 in
+      2008.
+    • According to Compete.com, charitywatch.org (the AIP’s website) had
+      76,000 and 87,000 unique visitors in December 2009 and January 2010,
+      respectively. This is approximately 3-4x the traffic givewell.net
+      received over the same period.
+    • According to its 2008 IRS Form 990, AIP’s Executive Director earned
+      $119,331 (+20,485 to other compensation) in 2008.
+
+Root Cause.  According to its website, “Root Cause is a research and
+consulting firm dedicated to mobilizing the nonprofit, public, and business
+sectors to work together in a new social impact market.”  Like GiveWell,
+Root Cause is a member of the Alliance for Effective Social Investing.
+
+    • According to its 2008 IRS Form 990, Root Cause had a budget of $3.2m
+      in 2008.
+    • According to Compete.com, rootcause.org gets very limited traffic
+      (less than 2,000 visitors per month).
+    • According to its 2008 IRS Form 990, Root Cause’s Executive Director
+      earned $136,483 in 2008.
+
+The Third Wave Foundation. According to its website, “Third Wave is a
+feminist, activist foundation that works nationally to support young women
+and transgender youth ages 15 to 30. Through strategic grantmaking,
+leadership development, and philanthropic advocacy, we support groups and
+individuals working towards gender, racial, economic, and social justice.”
+
+    • According to its 2007 IRS Form 990, Third Wave had a budget of $1.2m
+      in 2007. (2007 was the latest 990 available.)
+    • According to Compete.com, thirdwavefoundation.org gets very limited
+      traffic (less than 2,000 visitors per month).
+    • According to its 2007 IRS Form 990, Third Wave’s Executive Director
+      earned $57,231 in 2007.
+
+Survey data
+
+In 2007, the Nonprofit Coordinating Committee of New York reported the
+following average salaries:
+    • Health and human services charities with budgets of $400,000-$700,000:
+      $68,000
+    • Societal benefit charities with budgets of $400,000-$700,000: $74,000
+
+Other organizations
+
+Below we show other organizations similar to GiveWell in either focus or
+size.  (Note: the 4 grantmakers below are the ones we referred to in our
+2007 salary review.)
+
+|Organization       |Type          |Total     |CEO      |Average monthly |
+|                   |              |expenses  |compensat|website visitors|
+|                   |              |(latest   |ion      |(December 2009, |
+|                   |              |year)     |         |January 2010)   |
+|Great Nonprofits   |Online charity|$300k     |$0       |37k             |
+|                   |ratings/inform|          |         |                |
+|                   |ation         |          |         |                |
+|Philanthropedia    |Online charity|No record |No record|1.6k            |
+|                   |ratings/inform|          |         |                |
+|                   |ation         |          |         |                |
+|Guidestar          |Online charity|$10m      |$323,832 |247k            |
+|                   |ratings/inform|          |         |                |
+|                   |ation         |          |         |                |
+|Charity Navigator  |Online charity|$1m       |$99,999  |406k            |
+|                   |ratings/inform|          |         |                |
+|                   |ation         |          |         |                |
+|New Philanthropy   |Online charity|$9m       |No record|Minimal         |
+|Capital            |ratings/inform|          |         |                |
+|                   |ation         |          |         |                |
+|SeaChange Capital  |Philanthropic |$4m       |$243,750 |Minimal         |
+|Partners           |consultant    |          |         |                |
+|Center for High    |Philanthropic |No record |No record|Minimal         |
+|Impact Philanthropy|consultant    |          |         |                |
+|Center for         |Focused on    |$4.6m     |$316,241 |Minimal         |
+|Effective          |improving     |          |         |                |
+|Philanthropy       |foundations   |          |         |                |
+|New York Women's   |Grantmaker    |$5.7m     |$211,827 |2.5k            |
+|Foundation         |              |          |         |                |
+|North Star Fund    |Grantmaker    |$2.8m     |$102,761 |Minimal         |
+|Twenty-First       |Grantmaker    |$5.2m     |$117,517 |Minimal         |
+|Century Foundation |              |          |         |                |
+
+Note: website visitors are estimates according to compete.com
+-----------------------
+[1] In June 2007,  the Consumer Price Index (CPI) had a level of 208.3. In
+January 2010, CIP stood at 216.7, a 4% increase. A 4% increase on $65,000
+is $67,600. Note that wages have risen slightly faster than prices over
+this period. The Employment Cost Index has risen by 5.9% over this period.
+
+
+
+=== Insurance Review ===
+
+        Review of insurance coverage for The Clear Fund aka GiveWell
+                          (3/3/2010 Board meeting)
+
+We currently have coverage for Directors  &  Officer  Liability,  Employment
+Practices, and Internet Liability through Philadelphia Insurance  Companies.
+ The policy descriptions and binder have been attached separately.
+
+Our internal procedures state that we will  annually  review  the  need  for
+each of the following types of insurance.  I have included notes with each.
+
+    • Director and Officers liability.  We are covered (see above).
+    • General liability ("protects the assets of a business when it is sued
+      for something it did (or didn't do) to cause an injury or property
+      damage"[1]).  We do not have a physical office, and do not believe we
+      are at risk for liability for physical injury/property damage.  Our
+      only coverage in this area is therefore Internet Liability insurance.
+    • Business travel (can protect against lost property, reimburse for
+      canceled flights, cover health expenses while traveling, etc.[2]).  We
+      have no general coverage.  Trip-specific insurance was purchased for
+      Holden's recent trip to South Africa and Mozambique.
+    • Fire/theft.  We are not covered.  All important records, as well as
+      periodic (at least once per month) backups of all of our website
+      content, are maintained electronically on our personal computers and
+      backed up in real-time to a remote server via the Carbonite service.
+      Holden last tested this service in December by accidentally wrecking
+      his hard drive.  The service performed well.
+    • Employee dishonesty (theft/embezzlement[3]).  We are not covered.
+    • Hired and non-owned auto.  We are not covered.
+    • Professional Liability ("protects professional practitioners such as
+      Architects, quantity surveyors, home inspectors, Lawyers, physicians,
+      and Accountants against potential negligence claims made by their
+      patients/clients.")[4]  We are not covered.
+    • Employment practices.  We are covered (see above).
+    • Business interruption.  We are not covered.
+    • Hurricane/flood.  We are not covered.
+
+
+
+
+
+-----------------------
+[1] http://smallbusiness.dnb.com/finance/insurance-liability-insurance/389-
+1.html accessed 2/27/2010
+[2] http://www.life123.com/career-money/career-development/business-
+travel/do-you-need-business-travel-insurance.shtml accessed 2/27/2010
+[3] http://www.naplia.com/employeedishonesty/index.shtml
+[4] http://en.wikipedia.org/wiki/Professional_liability_insurance accessed
+2/27/2010
+
+
+
+=== Document ===
+
+Summary of review and plan documents
+
+This page provides an overview of the documents we created for our 2009
+review and 2010 plan.
+
+The main substance of our review and plan are the 2009 Review and 2010
+Plan. We’re planning to publish this document as blog posts over the next
+week; this document includes all of those posts in one document
+
+Supplemental materials, included in this zip file:
+
+
+Review-related
+
+
+    • 2009 Metrics Report. This document provides data (and definitions) we
+      use to measure GiveWell’s progress. We refer to it in the Annual
+      Review document.  Key issues:
+         o GiveWell influence on donations.
+         o GiveWell web analytics and search engine performance and
+           visibility
+         o GiveWell’s media presence during giving season compared to other
+           charity evaluation websites
+    • Review of November 2008 Work Plan. This document refers directly to
+      our previous work plan and evaluates GiveWell’s actual progress
+      relative to our plans.
+    • 2009 Hours Summary.  Shows how many hours Holden Karnofsky and Elie
+      Hassenfeld worked in 2009, and how they were allocated.
+
+Plan-related
+
+    • 2010 Work Plan. This document outlines GiveWell’s key 2010 research
+      priorities (the core focus for 2010), the responsible party for each,
+      how long we estimate each area will take, and the deadline for
+      completing work.
+    • Outreach strategies. The approaches we have to outreach in 2010.
+
+
+=== Document ===
+
+2009 Review and 2010 Plan
+
+                              Table of contents
+
+            Self-evaluation: GiveWell as a donor resource      1
+  Does GiveWell provide quality research that highlights truly outstanding
+  charities in the areas it has covered?      1
+  Is it practical for donors to evaluate and use GiveWell’s research in the
+  areas it has covered?      3
+  Has GiveWell covered enough areas to be useful?  4
+  Bottom line on GiveWell as a donor resource 5
+                  Self-evaluation: GiveWell as a project  5
+  Is GiveWell’s research process “robust,” i.e., can it be continued and
+  maintained without relying on the co-Founders?   5
+  Does GiveWell present its research in a way that is likely to be
+  persuasive and impactful (i.e., is GiveWell succeeding at “packaging” its
+  research)?     6
+  Does GiveWell reach a lot of potential customers (i.e., is GiveWell
+  succeeding at “marketing” its research)?    7
+  Is GiveWell a healthy organization with an active Board, staff in
+  appropriate roles, appropriate policies and procedures, etc.?     8
+  What is GiveWell’s overall impact, particularly in terms of donations
+  influenced? Does it justify the expense of running GiveWell?      9
+                 GiveWell’s plan: top-level priorities   10
+  Research vs. packaging/marketing      10
+                 GiveWell’s plan: specifics of research  11
+
+Self-evaluation: GiveWell as a donor resource
+
+This post answers the first section of questions we posed to ourselves in
+January about the state of GiveWell as a donor resource. For each question,
+we discuss
+    • Our progress over the last year (specifically, since our last business
+      plan in 11/2008);
+    • Where we stand (compared to where we eventually hope to be);
+    • What we can do to improve from here.
+
+Does GiveWell provide quality research that highlights truly outstanding
+charities in the areas it has covered?
+
+This is in some ways the most difficult question for us to give a
+meaningful answer on. “Quality” and “outstanding” are concepts that depend
+a lot on your worldview, so when we review the research that we ourselves
+have created, you can expect our opinion to be skewed toward the positive.
+That said, we can discuss how our research compares to what we feel it
+would ideally be.
+At this point we are satisfied with the quality of our international aid
+report, but see a need to cover more causes and to be more systematic about
+getting meaningful critical feedback.
+Progress since 11/08
+As of 11/08,
+    • We had published research on U.S. equality of opportunity and
+      international aid, but felt our research process had substantial room
+      for improvement (among other things, we felt it relied too much on the
+      arbitrariness of how charities responded to our grant application, and
+      that it didn’t make enough use of publicly available independent
+      analysis). We planned to “re-do” the cause of international aid, with
+      substantial changes to the process (see our June 2008 plan).
+    • We had essentially nothing in the way of critical feedback on our
+      research, aside from very high-level conversations about our
+      conclusions at Board meetings.
+Since then,
+    • We have published our 2008-2009 international aid report using our
+      revised methodology. We feel that we have found an appropriate way of
+      investigating charities without relying on grant applications and that
+      we have substantially improved on our prior recommendations (see
+      our top charities - the two three-star charities were found this year,
+      while the top charities from last year’s report have two-star
+      ratings). We feel that our revised methodology is the best we can do
+      with the resources and information available, and do not feel a need
+      to “re-do” our coverage of international aid (although we will need to
+      keep it up to date).
+    • We also completed a grant application process for economic
+      empowerment, whose results we will be publishing shortly.
+    • A small number of people have scrutinized our research in detail and
+      had in-depth conversations with us, partly in private and partly in
+      public. These include (a) Board member Jon Behar, with whom
+      we publicly discussed our reasoning for our two top-rated charities;
+      (b) Phil Steinmeyer and Ian Turner, both donors whom we had no pre-
+      GiveWell connection to and who put substantial time of their own into
+      this year’s giving decisions (In each case, a substantial amount was
+      ultimately allocated to our top-rated charity, VillageReach); (c) 5-10
+      other individual donors who have gone over much, though not all, of
+      our research and discussed it with us at length.
+    • We have also engaged in public conversation at a more general level
+      via our blog. There have been generally favorable reactions - though
+      these are not the same as endorsements - from people with substantial
+      experience and/or publications on foreign aid (including David
+      Roodman, Saundra Schimmelpfennig, Alanna Shaikh and Chris Blattman).
+Where we stand
+Internally we are satisfied with the quality of our research, but:
+    • We need to add in direct observation of charities’ observations, to
+      the extent that we can.
+         o For international aid, it isn’t practical to get both deep and
+           representative field experience with each, or really any, of the
+           charities we review. Gaining truly representative up-close
+           experience with the operations of even a single small charity
+           (let alone one like PSI) could take years; gaining
+           representative up-close experience with several charities, for
+           the sake of comparative analysis, is in our view entirely
+           impractical (and so it is not surprising that no such
+           comparative analysis appears to exist).
+         o That said, at this point we have not visited a single developing-
+           world charity, and could potentially gain a lot from a site
+           visit.
+    • Our research needs more substantial external checks than it has gotten
+      to date. The only people who have scrutinized it in detail (as opposed
+      to discussing/linking to it at a general level) are, like ourselves,
+      outsiders in the field of international aid. Though people aware of
+      our research (including ourselves) generally seem to consider it high-
+      quality, it is important that we eventually subject it to strong,
+      critical scrutiny from people with substantial relevant experience and
+      credentials.
+What we can do to improve
+    • We can conduct site visits to one or more of our reviewed charities. I
+      am currently planning a trip to Africa from 2/10-2/23 during which I
+      will visit both VillageReach and the Small Enterprise Foundation.
+    • We can make a concerted effort to subject our research to strong,
+      critical scrutiny from people with substantial relevant experience and
+      credentials. The first basic step – which we haven’t yet taken – is
+      simply to systematically identify the people who are most likely to be
+      both qualified and willing to review our research, then make
+      persistent contact with them (both personally and through contacts of
+      ours) asking them specifically for in-depth reviews of our research.
+      If they decline, we’ll hopefully learn more about why they are
+      declining and what we can do to make reviewing our research more worth
+      their while.
+
+Is it practical for donors to evaluate and use GiveWell’s research in the
+areas it has covered?
+
+We believe that our work has become substantially more usable and practical
+to engage with. The limited external checks on our research (discussed
+above) are a major potential obstacle for donors to evaluate it.
+Progress since 11/08
+A year ago, the poor design of our website was a major potential obstacle
+for donors seeking to understand our work. Phil Steinmeyer summarized the
+problems in an email earlier this year. A donor who had the time and
+inclination could follow every step of our process, but otherwise had very
+little to go on besides a list of top charities and stories of our project
+from us and the media. Since then, we have:
+    • Substantially revamped our website (not just its design but its
+      organization).
+    • Made a concerted effort to “repackage” much of our research in
+      an extended series of blog posts. While our website focuses on
+      presenting our recommended charities and the process we followed to
+      identify them, these blog posts present (a subset of) our research
+      such that particular general-interest points can be followed without
+      having to read through a lot of other context. Comments on the blog
+      posts also can give context on how others view our research.
+We have also made some progress in terms of giving donors ways to evaluate
+our credibility:
+    • We have made increased efforts to keep records of our conversations
+      with people who have substantial experience/credentials in
+      international aid, although this page is still rudimentary and not
+      enough output from the conversations is public.
+    • We have been featured in The Life You Can Save by Peter Singer, and
+      discussed our research extensively with Prof. Singer. As shown in our
+      metrics report, many of our donors come via referrals from Prof.
+      Singer, and they presumably see him as a trusted source; this is
+      relevant to their assessment of GiveWell’s credibility.
+Where we stand
+A donor with the time and inclination can follow our full process,
+reasoning, and sources, and (as discussed above) a few that we know of have
+actually done so. A more casual donor has some, though limited, ways of
+assessing our research:
+    • Coming to us from a source they trust, such as Peter Singer.
+    • Spot-checking a particular claim we make on the website.
+    • Reading a sampling of our blog posts and the comments on them,
+      particularly the various responses from charities we have criticized.
+    • Viewing the limited records of our conversations with people who have
+      substantial experience/credentials in international aid.
+We feel these options are insufficient on the whole, given our goal of
+influencing as many donors as possible. We feel that we should have a
+single, easy-to-find roundup of available information on the reliability of
+credibility of our research.
+What we can do to improve
+    • We can make a concerted effort to subject our research to strong,
+      critical scrutiny from people with substantial relevant experience and
+      credentials, and to create public records of such scrutiny. (This is
+      also a key area for improvement in the previous section, “quality of
+      our research.” We feel that strong critical scrutiny would improve
+      both the actual quality of our research and donors’ abilities to gauge
+      its credibility.)
+    • We can put together the best possible consolidated case for the
+      credibility of our research.
+
+Has GiveWell covered enough areas to be useful?
+
+Our original business plan states:
+We believe that pitting charities against each other using concrete,
+consistent criteria is the best way to evaluate them in a way that is
+thorough and understandable to others. At the same time, we do not want to
+compare all charities in the same terms, because this would involve making
+philosophical decisions that should be made explicit rather than buried in
+conversion factors. We’ve therefore taken the approach of dividing
+charities into causes by broad philosophical goal … Charities are pitted
+directly against each other within causes, but not between them.
+In other words, while we sometimes argue for one broad cause over another,
+we ultimately seek to serve donors with many different values. We are a
+long way from accomplishing this goal.
+Progress since 11/08
+The focus of the last year has been a report on international aid. The
+intent was to improve both our depth (i.e., quality of the research and top-
+rated charities) and our breadth (i.e., the number of “causes,” or
+different value sets, we can make recommendations for). Our breadth did not
+improve as much as we had hoped, because we concluded that health has by
+far the strongest options for donors (and the charities we had previously
+recommended were in the area of health). We have been able to make only
+weak recommendations foreducation and economic empowerment (although better
+recommendations for the latter are forthcoming as a result of our recently
+completed grant application process ).
+Where we stand
+Currently, the only charities we recommend with two-star ratings or higher
+are in the areas of U.S. education (K-12), U.S. early childhood care, and
+global health. This is enough to serve some donors, but overall gives quite
+a narrow set of options.
+What we can do to improve
+We are considering research on areas including:
+    • More sub-causes within international aid - including disaster
+      relief/recovery, charities aiming to help orphans and vulnerable
+      children, and more attempts to find a strong microfinance option.
+    • U.S. equality of opportunity - our current research on this
+      cause comes from our original (2007-2008) research process. It should
+      be re-done with the revised research process we used to create our
+      current international aid report.
+    • Disease research funding (e.g., American Cancer Society).
+    • Environmental issues, particularly global warming mitigation.
+There are many more charitable causes, but these are the ones we feel it
+would be most productive to research in the relatively short term (more in
+a future post).
+
+Bottom line on GiveWell as a donor resource
+
+    • Our international aid report meets our internal quality standards, but
+      should be subjected to more systematic, in-depth, public scrutiny to
+      improve both its quality and the ability of casual donors to judge its
+      credibility.
+    • We feel that both our international aid report and our report on U.S.
+      equality of opportunity (which does not meet our internal quality
+      standards) are valuable resources for donors interested in those
+      causes, and more directly useful for impact-focused donors than any
+      other available resources.
+    • We offer a very narrow set of causes for donors and should research
+      many more areas.
+
+Self-evaluation: GiveWell as a project
+
+This post answers the “additional questions for stakeholders” that we posed
+to ourselves in January about the state of GiveWell. For each question, we
+discuss
+    • Our progress over the last year (specifically, since our last business
+      plan in 11/2008);
+    • Where we stand (compared to where we eventually hope to be);
+    • What we can do to improve from here.
+
+Is GiveWell’s research process “robust,” i.e., can it be continued and
+maintained without relying on the co-Founders?
+
+Progress since 11/08
+As of 11/08, we had only made one extended attempt to hire a third
+employee, and had ended the relationship because our research process was
+not developed enough to make it possible for us to provide the necessary
+oversight (more).
+In early 2009, we made several more unsuccessful attempts to integrate a
+new hire into our research process, before again concluding that our
+process wasn’t developed enough. We tried again with more success in mid-
+2009, hiring:
+    • One person who stayed with us from May through December 2009, focusing
+      on our grant application process for economic empowerment, before
+      leaving for a job in consulting.
+    • Natalie Stone, who has now been with us since July 2009 and is charged
+      with maintaining and expanding our international aid report, by
+      reviewing charities along the criteria we have defined.
+Details at our work plan review.
+We feel that a key factor in being able to productively hire people has
+been the progress on our international aid report. We now have many
+available examples of charity reviews and a consistent set of questions we
+ask and criteria we use. We have thus been able to be more concrete with
+new hires about their responsibilities and the expectations on them.
+Where we stand
+We feel that for the cause of international aid specifically, we are
+approaching the point where another person can maintain and expand the
+report with little oversight from the co-Founders. However,
+    • This applies only to our international aid report. Covering more
+      causes will require heavy involvement from the co-Founders.
+    • The role of maintaining the international aid report is still not well-
+      defined enough that we feel it can be passed on from one person with a
+      given set of credentials and qualifications to another, reliably and
+      systematically. At this point we would stick to saying that Natalie
+      Stone can maintain it with relatively little oversight.
+In short, our research process is not at all robust.
+What we can do to improve
+Our experience to date has been that hiring and training people (a)
+involves substantial time investment by the co-Founders; (b) can easily
+fail to add value to the organization; (c) is more likely to succeed when
+we are able to be concrete rather than open-ended about employees’
+responsibilities, which in turn requires that we have a well-defined
+research process (i.e., many available examples of charity reviews; a
+consistent set of questions we ask and criteria we use). With that in mind:
+    • We can research more causes. We expect research on new causes to be
+      initially open-ended and improvisational (as past research has been),
+      but we also expect to gradually produce more consistent criteria,
+      rules of thumb, and examples, with which we can train others to do the
+      research.
+    • We can continue hiring people and training them by slotting them into
+      our research process, where we have well-defined enough
+      responsibilities to make this work.
+    • We can attempt to make our process more formal, to the point where
+      much of what people need to know is captured in writing and as little
+      as possible relies on specific people. We feel at this point that work
+      in this area would be premature. As we work to train new hires, we
+      learn more about how to communicate and formalize our process.
+
+Does GiveWell present its research in a way that is likely to be persuasive
+and impactful (i.e., is GiveWell succeeding at “packaging” its research)?
+
+Progress since 11/08
+A year ago, it was extremely difficult for donors even to understand our
+work, much less engage with it. We have put significant effort into
+improving the clarity, organization and credibility of our research, and
+our efforts/progress on this front are discussed in our previous post under
+the heading of ” Is it practical for donors to evaluate and use GiveWell’s
+research in the areas it has covered?”
+We have not put effort into making our research more emotionally appealing,
+psychologically persuasive, etc.
+Where we stand
+Our current content aims for clarity over persuasiveness. We feel that our
+clarity is now reasonably strong (as discussed in our previous post under
+the heading of ” Is it practical for donors to evaluate and use GiveWell’s
+research in the areas it has covered?”) But our presentation remains dry,
+making next to no attempts at emotional engagement.
+What we can do to improve
+    • We can make a concerted effort to “repackage” our existing content,
+      presenting the same ideas in more emotionally compelling ways. Such an
+      effort would involve thinking and working in very different ways from
+      what we’ve spent our time on to date, and may require substantial
+      involvement from people who are more focused on, experienced with and
+      skilled in communications than anyone on our current staff.
+    • A lower-cost, “low-hanging fruit” version of the above option is to
+      put more effort into integrating ourmain website with our blog - we
+      have created a lot of content on the blog, much of which is not
+      duplicated in any way on the main website and is interesting/engaging
+      in ways that the main website is not.
+    • We can obtain and collect endorsements from people whose support
+      donors are likely to find meaningful. Doing so would overlap heavily
+      with the activities described in our previous post under the heading
+      of ” Is it practical for donors to evaluate and use GiveWell’s
+      research in the areas it has covered?”
+
+Does GiveWell reach a lot of potential customers (i.e., is GiveWell
+succeeding at “marketing” its research)?
+
+Progress since 11/08
+Our metrics file shows that traffic to our site has grown significantly
+over the past year. Several factors have likely contributed to the
+improvement, and it is difficult (and in our view not necessary) to break
+down the improvement between them:
+    • Peter Singer’s featuring GiveWell in The Life You Can
+      Save and continually promoting it
+    • Substantial revamping of our website
+    • Intensified posting to our blog during giving season
+    • The simple value of having been visible for another year
+Where we stand
+Our website traffic is still a fraction of the traffic commanded by two
+other donor resources, Charity Navigator and GuideStar, and our research is
+not used in any significant “partnerships.” Our impact remains small.
+What we can do to improve
+There are many possible strategies for expanding our audience.
+    • We can focus on improving the persuasiveness and clarity of our
+      research, as discussed in the previous section.
+    • We can pursue partnerships with other donor/consumer resources.
+    • We can pursue partnerships with donor-advised funds and wealth
+      advisors, which might connect us to wealthy individuals seeking help
+      with their giving decisions.
+    • We can pursue partnerships with people and organizations that focus on
+      fundraising for particular causes, rather than particular
+      organizations. GiveWell’s research could help such organizations
+      fundraise for outstanding organizations within their causes (and
+      outsource responsibility for finding such organizations and justifying
+      their choices).
+    • We can pursue partnerships with corporate giving programs.
+    • We can advertise directly.
+    • We can make concerted efforts at “earned media,” i.e., focus our
+      research on issues that are likely to interest the media (which are
+      frequently the opposite of the issues we find most interesting and
+      important) and engage in concerted public relations efforts around
+      these issues.
+
+Is GiveWell a healthy organization with an active Board, staff in
+appropriate roles, appropriate policies and procedures, etc.?
+
+Progress since 11/08
+As of 11/08, we were operating without an official Executive Director,
+reflecting the fact that we felt current staff did not have adequate
+resources in place for professional development and supervision (see
+our 9/08 meeting).
+Our Board of Directors consisted of only five people: Bob Elliott (then the
+Chair, but unable due to his schedule to remain engaged in the project,
+which ultimately led him to resign his position in July 2009); Greg Jensen
+(then the Treasurer), Holden Karnofsky (Secretary), Lindy Miller and Tim
+Ogden.
+Since then,
+    • We have substantially added to and changed the composition of the
+      Board (see our current Board members and positions). The Board now has
+      seven members, each of whom is highly accessible and engaged with the
+      project.
+    • We have replaced biweekly email reports with a monthly conference
+      call, substantially increasing engagement from the Board. Turnout at
+      conference calls has been high.
+    • We have substantially increased the ongoing professional development
+      and supervision of staff, leading the Board to confer the co-Executive
+      Director role on the two co-Founders. (See our 7/09 meeting.)
+    • We have adopted key policies.
+Where we stand
+Unlike a year ago, we feel that our Board of Directors and our policies are
+appropriate for this stage of our project. We voluntarily comply with
+all BBB Wise Giving Alliance standards.
+What we can do to improve
+We are always open to acquiring more Board members and mentors with
+substantial experience and ability to contribute to our project.
+
+What is GiveWell’s overall impact, particularly in terms of donations
+influenced? Does it justify the expense of running GiveWell?
+
+Progress since 11/08
+As discussed above, we have seen substantial improvement in our “donations
+influenced” figures. A couple of questions remain as to the ultimate
+value/impact of influencing donations:
+    • Where would the donors we’re influencing be giving, if not for
+      GiveWell?
+    • How does the impact-per-dollar of GiveWell’s recommended charities
+      compare to that of the charities our “customers” would otherwise be
+      giving to?
+We have only hunches regarding the first question, and at some point should
+do a formal survey of our donors (including factual questions about their
+past giving as well as hypotheticals about where they would give without
+our existence) to get more meaningful information.
+On the second question, we have done our best to answer “What do you get
+for your dollar?” for our top charities - however, answering this question
+meaningfully for our non-recommended charities is much more difficult (non-
+recommended charities are generally not recommended because so little
+information is available about what they’re accomplishing). We have argued
+that differences in charities can be enormous.
+It is also worth addressing our impact on general perceptions regarding,
+and public discussion of, giving.
+    • We have become members of the Alliance for Effective Social
+      Investing as well as the GuideStar Exchange Advisory Board; both
+      reflect the fact that other notable organizations in the nonprofit
+      sector take our message and/or research seriously.
+    • Since our joint press release criticizing the overuse of the “overhead
+      ratio” metric, discussions of giving in the media have laid noticeably
+      less stress on the “overhead ratio” as the primary metric of interest,
+      and more stress on alternative approaches. Many of these
+      discussions have directly included GiveWell.
+    • On one hand, we were one of the issuers of this press release and we
+      have been stressing its message for a long time. On the other hand,
+      there are many other parties behind this message and this shift, and
+      we feel that relatively little of the credit can fairly be attributed
+      to GiveWell.
+Where we stand
+GiveWell is not having nearly the impact that we would need to see in order
+to consider it a success. We still consider our project an experiment at
+this point.
+What we can do to improve
+The key paths to increasing GiveWell’s impact (as we see them) are laid out
+in the earlier sections of this post. Working on any of our many possible
+areas for improvement could lead to increased impact - the challenge is
+prioritizing. We’ll discuss broad priorities in a future post.
+
+GiveWell’s plan: top-level priorities
+
+In a previous post, we discussed the progress we’ve made, where we stand,
+and how we can improve in core areas. This post focuses on the latter, and
+lays out our top-level strategic choice for the next year.
+Broadly, we see the key aspects of GiveWell - the areas in which we can
+improve - as
+Research, i.e., creating and maintaining useful information for impact-
+focused donors. This includes
+    • Research vetting: subjecting our existing research to strong, critical
+      scrutiny from people with substantial relevant experience and
+      credentials.
+    • Research on new causes such as U.S. equality of opportunity, disease
+      research funding, and environmental issues (particularly global
+      warming mitigation).
+    • Research maintenance and systemization: formalizing our process to the
+      point where it can be maintained with as little input as possible
+      needed from the co-Founders.
+Packaging, i.e., presenting our research in a way that is likely to be
+persuasive and impactful. This includes
+    • Consolidating/writing up/improving the case for our research’s
+      credibility.
+    • Improving our website so that it is clearer and easier to use.
+    • Finding new ways to express the output of our research in ways that
+      are more emotionally/intellectually compelling.
+Marketing, i.e., increasing the number of potential “customers” we reach.
+This includes.
+    • Improving the persuasiveness and clarity of our research.
+    • Pursuing partnerships with other donor/consumer resources.
+    • Pursuing partnerships with donor-advised funds and wealth advisors,
+      which might connect us to wealthy individuals seeking help with their
+      giving decisions.
+    • Pursuing partnerships with people and organizations that focus on
+      fundraising for particular causes, rather than particular
+      organizations. GiveWell’s research could help such organizations
+      fundraise for outstanding organizations within their causes (and
+      outsource responsibility for finding such organizations and justifying
+      their choices).
+    • Pursuing partnerships with corporate giving programs.
+    • Advertising.
+    • Concerted efforts at “earned media,” i.e., focusing our research on
+      issues that are likely to interest the media (which are frequently the
+      opposite of the issues we find most interesting and important) and
+      engaging in concerted public relations efforts around these issues.
+
+Research vs. packaging/marketing
+
+One of the core debates that comes up repeatedly among GiveWell
+stakeholders is whether we should focus on research vs. packaging
+marketing.
+In brief, the “focus on packaging/marketing” view is that:
+    • Our research is already more useful, for impact-focused donors, than
+      other available resources.
+    • Our reach, and impact, leave much to be desired.
+    • Therefore, we should focus on reaching more people. Doing so will lead
+      to quicker learning about the odds of GiveWell’s ultimately
+      succeeding, as well as quicker learning about what our potential
+      “customers” want from our research.
+The “focus on research” view is that:
+    • We have substantial room for improvement in the credibility of our
+      research (who endorses it), the breadth of our research (how many
+      causes we’ve covered), and the robustness of our research (how
+      dependent our process is on the co-Founders).
+    • Improving these areas could be very important to later
+      packaging/marketing efforts. (Having knowledge of more causes could
+      substantially affect our strategy for “packaging” our research in ways
+      that people are likely to find interesting. Both the number of causes
+      and the overall credibility could be important to many of the
+      potential partners mentioned under our marketing options.)
+    • Many of the most promising marketing strategies can be expected to
+      benefit from the simple passage of time. We are interested in
+      partnering with organizations that take a long time to make decisions
+      and prefer that their partners have significant track records / be
+      relatively established.
+    • While our research, as well as the passage of time, could
+      substantially affect the way we package/market, the results of
+      packaging/marketing (and the passage of time) are unlikely to have
+      much effect on how we do our research. It therefore makes sense to
+      work more on research before focusing on packaging/marketing.
+    • We believe that we are only ~2 years away from having broad, robust,
+      credible research that could then be maintained at a relatively low
+      cost (both in terms of funds and human resources). Therefore, we think
+      it is practical and desirable to reach this point before focusing on
+      packaging/marketing.
+    • Research is our core competency. The content we created for impact-
+      focused donors is what makes us unique and it’s what we feel we do
+      better than any other organization. By contrast, we don’t consider
+      ourselves particularly good at packaging or marketing. By focusing on
+      research and making all of our output public and free, we enable
+      others (who may be much better at packaging/marketing) to use and
+      adapt it. (Peter Singer is an example of someone who has marketed our
+      research better than we could.)
+We have had many internal discussions on these issues. At this point, all
+members of GiveWell’s Board and staff feel that the “focus on research”
+view is stronger.
+Therefore, we intend to focus on research over the next year, while
+allocating some time to the “lowest-hanging fruit” within
+packaging/marketing.
+A future post will discuss the specifics of how we’re prioritizing the
+different aspects of “research.”
+
+GiveWell’s plan: specifics of research
+
+In a previous post, we laid out our reasons for focusing on the broad
+category of “research” over the next year. This includes
+    • Research vetting: subjecting our existing research to strong, critical
+      scrutiny from people with substantial relevant experience and
+      credentials.
+    • Research on new causes such as U.S. equality of opportunity, disease
+      research funding, and environmental issues (particularly global
+      warming mitigation).
+    • Research maintenance and systemization: formalizing our process to the
+      point where it can be maintained with as little input as possible
+      needed from the co-Founders.
+After considering the time and resources available to us, we’ve concluded
+the following:
+    • Research vetting will likely involve substantial “down time” (i.e.,
+      waiting for responses from the people we’re hoping to get vetting
+      from). Therefore, it will be a major priority of ours but will not
+      account for a huge amount of our time.
+    • Re: research maintenance and systemization. Over the next year, we
+      will be pursuing one temporary expansion in capacity via a 5-month
+      contractor (a person who has done substantial volunteer work for us in
+      the past, and whom we feel can add greatly to our research). During
+      that time, there will be four people putting substantial time into
+      research: the two co-Founders, our one Research Analyst, and the
+      contractor. It would not make sense to plan more hires at this point,
+      given the relatively small amount of well-defined work we have
+      available and the uncertain time costs of working with both our
+      Research Analyst and our contractor. (More reasoning at our previous
+      post, under the heading of “Is GiveWell’s research process ‘robust’?”)
+    • We will be putting significant time - essentially, the time we have
+      left over after dealing with research vetting, research maintenance
+      and systemization, and “low-hanging fruit” in the areas of packaging
+      and marketing - into research on new causes.
+The top contenders for new causes are as follows, listed in the order in
+which we are currently prioritizing them:
+    • More sub-causes within international aid - including disaster
+      relief/recovery, charities aiming to help orphans and vulnerable
+      children, and more attempts to find a strong microfinance option.
+      Because we find international aid to be a strong area for a donor, and
+      because we have a strong sense of the major issues within it, this
+      cause is a high priority. We expect much of the work in this area to
+      be done by non-co-Founders (i.e., our Research Analyst and/or
+      contractor).
+    • U.S. equality of opportunity (early childhood care; education;
+      employment assistance). We have already done substantial work in this
+      area and have a concrete idea of how to create a high-quality report.
+      We expect to be able to outsource much of the work on this report to
+      non-co-Founders.. Therefore, although we don’t consider this the most
+      worthwhile cause, the “return on investment” for us is very high in
+      terms of what we can produce with a limited amount of work from the co-
+      Founders.
+    • Disease research funding. Our intuitions suggest that this is a very
+      promising area for a donor, but we have not done any work on it to
+      date, and as a result our research on it will be somewhat like our
+      research on international aid was at first: open-ended, slow, and
+      heavily dependent on co-Founders, with the rate and the nature of
+      progress difficult to predict. We hope eventually to understand enough
+      about this area that we can apply a consistent methodology to disease
+      research charities, as we do with our current international aid
+      report.
+    • Environmental issues, particularly global warming mitigation. As with
+      disease research, we have little background and expect a slow, open-
+      ended process at first.
+We have assembled a work plan with time estimates. Over the next year, we
+expect to complete research on the first two causes listed and to make some
+progress (though how much is difficult to predict) on disease research
+funding.
+
+
+
+=== Document ===
+
+GiveWell Metrics – 2009
+
+We focus on two types of metrics:
+
+    • Money moved. Donations that go to GiveWell-recommended charities due
+      to our recommendations
+    • Web analytics. The number of visitors to the GiveWell site, engagement
+      with the site, and presence in Google search rankings.
+    • Media presence. An overview of GiveWell in the media during 2009
+      giving season and the Haiti earthquake (January 2010).
+
+These are the metrics we intend to update and review on, roughly, a
+quarterly basis.
+
+                              Table of Contents
+Money moved 1
+  Performance in 2009  1
+  Performance in 2009 relative to 2007-08     4
+    A note on unrestricted donations    5
+Web analytics    6
+  Web visitors and engagement     6
+  Improvements in website    7
+  Where do visitors come from and where do they land?    8
+  GiveWell search engine presence 10
+Media presence   14
+
+
+Money moved
+
+
+
+Performance in 2009
+
+
+The tables below summarize the direct impact of our research on donations
+this past year. Overall, we directly tracked $1,012,663 that went to our
+recommended charities because of our recommendations.
+
+The following table shows total money moved in 2009 by conceptual category:
+
+|Overall money moved                                |
+|                                    |       |      |
+|Type                                |Amount |Number|
+|                                    |       |of    |
+|                                    |donated|      |
+|                                    |       |donati|
+|                                    |       |ons   |
+|                                    |       |      |
+|Large gifts: staff didn't know      |$226,69|17    |
+|pre-GiveWell                        |7      |      |
+|Economic empowerment grant          |$250,00|1     |
+|                                    |0      |      |
+|Direct grants from GiveWell to      |$145,09|N/A   |
+|VillageReach and Stop TB            |5      |      |
+|Through website                     |$143,06|644   |
+|                                    |3      |      |
+|Donors reported by VillageReach     |$56,200|0     |
+|Single large donor to AMF           |$117,15|1     |
+|                                    |1      |      |
+|Pledgers                            |$49,443|18    |
+|Large gifts: people staff knew      |$25,015|12    |
+|pre-GiveWell                        |       |      |
+|Total                               |$1,012,|693   |
+|                                    |663    |      |
+
+    • "Large gifts" refers to donors who made large gifts, and directly told
+      us (and the charities they were giving to) that GiveWell's research
+      had been the key factor in where they gave.
+    • "Economic empowerment grant" refers to a grant made directly by
+      GiveWell, with funds from a single donor.
+    • "Direct grants" refers to grants made directly by GiveWell, mostly
+      with funds that were restricted by donors for regranting (we also
+      granted just under $15,000 in unrestricted funds).
+    • "Through website" refers to gifts made through the "Donate Now"
+      buttons on GiveWell.net (some through Google and some through Network
+      for Good (NFG)).
+    • "Donors reported by VillageReach" refers to donations that
+      VillageReach received, not through GiveWell's website, and believes it
+      can confidently attribute to GiveWell (this is due to the fact that
+      VillageReach is a relatively small organization that does not get many
+      donations from unfamiliar individuals).
+    • "Pledgers" refers to people who made GiveWell Pledges (advance
+      commitments to give based on our research) in 2008, before our recent
+      report was completed, and followed through on these commitments in
+      2009.
+
+
+The following table shows the number of donations, bucketed by size.  Note
+that "Google" (Google Checkout) and "NFG" (Network for Good) are the two
+different payment processors we use for donations.
+
+|Money moved by donation size                   |
+|            |       |        |     |   |      |
+|Size        |Pledger|Large   |Website   |Direct|
+|            |s      |gifts   |          |to    |
+|            |       |        |Googl|NFG|charit|
+|            |       |        |e    |   |y     |
+|            |       |        |     |   |      |
+|            |       |        |     |   |      |
+|<$50        |0      |0       |23   |117|5     |
+|$50-249     |0      |2       |54   |77 |3     |
+|$250-1,000  |7      |7       |23   |31 |1     |
+|$1,000-2,499|4      |6       |10   |15 |1     |
+|$2,499-9,999|5      |4       |5    |3  |2     |
+|$10,000-24,9|2      |3       |0    |0  |1     |
+|99          |       |        |     |   |      |
+|$25,000-49,9|0      |2       |0    |0  |1     |
+|99          |       |        |     |   |      |
+|$50,000-99,9|0      |2       |0    |0  |0     |
+|99          |       |        |     |   |      |
+|Over        |0      |1       |0    |0  |0     |
+|$100,000    |       |        |     |   |      |
+
+Money moved, broken down by charity receiving support: (the not-yet-known
+is pledges committed that have yet to be distributed by donors)
+
+|Money moved by charity                                                |
+|                      |      |       |     |     |      |     |       |
+|Organization          |Pledge|Large  |Through    |Grants|Direc|Total  |
+|                      |rs    |gifts  |website    |      |t to |       |
+|                      |      |       |Googl|NFG  |      |chari|       |
+|                      |      |       |e    |     |      |ty   |       |
+|                      |      |       |     |     |      |     |       |
+|VillageReach          |$21,99|$127,44|$53,5|$8,13|$72,54|$56,2|$339,91|
+|                      |0     |7      |97   |5    |7     |00   |6      |
+|Economic empowerment  |$0    |$0     |$0   |$0   |$250,0|$0   |$250,00|
+|grant                 |      |       |     |     |00    |     |0      |
+|AMF                   |$253  |$123,15|$4,94|$25  |$0    |$0   |$128,37|
+|                      |      |1      |5    |     |      |     |4      |
+|Stop TB               |$8,200|$23,500|$0   |$19,5|$72,54|$0   |$123,83|
+|                      |      |       |     |83   |7     |     |0      |
+|PSI                   |$500  |$75,215|$0   |$17,4|$0    |$0   |$93,154|
+|                      |      |       |     |39   |      |     |       |
+|Not yet known         |$15,00|$0     |$0   |$0   |$0    |$0   |$15,000|
+|                      |0     |       |     |     |      |     |       |
+|NFP                   |$1,250|$5,950 |$9,84|$2,36|$0    |$0   |$19,414|
+|                      |      |       |5    |9    |      |     |       |
+|KIPP                  |$750  |$1,100 |$11,3|$510 |$0    |$0   |$13,735|
+|                      |      |       |75   |     |      |     |       |
+|Pratham               |$0    |$10,500|$0   |$2,14|$0    |$0   |$12,646|
+|                      |      |       |     |6    |      |     |       |
+|PIH                   |$1,000|$1,000 |$0   |$7,90|$0    |$0   |$9,909 |
+|                      |      |       |     |9    |      |     |       |
+|GFATM                 |$500  |$1,000 |$0   |$2,16|$0    |$0   |$3,660 |
+|                      |      |       |     |0    |      |     |       |
+|Interplast            |$0    |$0     |$0   |$750 |$0    |$0   |$750   |
+|Teach for America     |$0    |$0     |$0   |$2,27|$0    |$0   |$2,275 |
+|                      |      |       |     |5    |      |     |       |
+|Total                 |$49,44|$368,86|$79,7|$63,3|$395,0|$56,2|$1,012,|
+|                      |3     |3      |62   |01   |95    |00   |663    |
+
+Donors broken down by source:
+
+Donors who gave through the website (only includes Google Checkout
+donations – we don’t capture source for NFG and only sometimes can find it
+for AMF)
+
+|Website donors                                               |
+|                                   |     |      |     |      |
+|Source                             |Amoun|Number|Amoun|Number|
+|                                   |t    |      |t    |      |
+|                                   |donat|of    |donat|of    |
+|                                   |ed   |donors|ed   |donors|
+|                                   |     |      |%    |%     |
+|                                   |     |      |total|total |
+|                                   |     |      |     |      |
+|Unknown                            |$31,3|53    |39%  |34%   |
+|                                   |06   |      |     |      |
+|Searching for GiveWell             |$18,5|21    |23%  |13%   |
+|                                   |98   |      |     |      |
+|Advertising (AdWords and           |$10,0|24    |13%  |15%   |
+|MarginalRevolution)                |75   |      |     |      |
+|Email update                       |$7,62|8     |10%  |5%    |
+|                                   |5    |      |     |      |
+|Regular media                      |$2,77|14    |3%   |9%    |
+|                                   |0    |      |     |      |
+|Peter Singer                       |$2,06|11    |3%   |7%    |
+|                                   |0    |      |     |      |
+|Other                              |$2,42|9     |3%   |6%    |
+|                                   |8    |      |     |      |
+|Target blogs                       |$1,90|5     |2%   |3%    |
+|                                   |0    |      |     |      |
+|Talked to us                       |$1,75|4     |2%   |3%    |
+|                                   |0    |      |     |      |
+|Searching                          |$850 |5     |1%   |3%    |
+|Charity media                      |$150 |3     |0%   |2%    |
+|Total                              |$79,5|157   |     |      |
+|                                   |12   |      |     |      |
+
+Donors who gave directly and told us about their gift
+
+|Other donors                                    |
+|                                   |     |      |
+|Source                             |Numbe|Amount|
+|                                   |r    |      |
+|                                   |     |      |
+|Internet -- I.e., ppl looking      |6    |$236,1|
+|around for charity evaluation      |     |51    |
+|Peter Singer                       |3    |$42,00|
+|                                   |     |0     |
+
+Based on our surveys of donors, we conservatively estimate that Peter
+Singer directly accounted (through his book, the book’s website, or a
+speech or article mentioning GiveWell) for approximately 50% of donations
+for which we don’t know the source.  In 2009, we estimate that Mr. Singer
+accounted for $128,887.
+
+It is also likely that Mr. Singer had a larger impact than this as we only
+attempt to estimate direct gifts and not indirect gifts, i.e., those donors
+that found us through a source that found us in Peter Singer’s book.  For
+example, a Slate (http://slate.com/id/2238732/) article that referred a
+significant number of visitors to the site may have mentioned GiveWell
+because of Mr. Singer’s book.
+
+
+Performance in 2009 relative to 2007-08
+
+
+The following chart shows cumulative, annual donations through the website,
+comparing 2007-2009.  [pic]
+[pic]
+
+
+
+We've attempted to strip out donors we have had personal contact with (we
+aren't able to see the source of all donations, so some could be included,
+although we were able to see the source of - and thus strip out - many
+donations in 2009 than previously).
+
+While the aggregate money moved figure (which includes all money donated to
+charities due to GiveWell’s recommendation) is ultimately the more
+meaningful measure of GiveWell’s impact, we believe that donations by
+website visitors whom GiveWell staff don’t know personally is a more
+meaningful measure of GiveWell’s progress as these donations represent (a)
+use of the GiveWell tool as we ultimately envision it (i.e., retail donors
+coming to the site and using it to give) and (b) are less susceptible to
+large, one-off circumstances that lead to large variations in the aggregate
+money moved figure (e.g., a $250,000 grant from an institutional funder).
+
+
+A note on unrestricted donations
+
+
+The above analysis does not include unrestricted donations to GiveWell
+(except to the extent that we granted unrestricted funds at our 7/09 Board
+meeting, adding $14,229.90 to our total "money moved" figure).
+
+We have also seen increases in unrestricted donations from non-personal
+connections over time.  The following charts present figures on donations
+direct to GiveWell that were:
+    • Unrestricted.
+    • Under $5,000 in size (to prevent a small number of donors with
+      idiosyncratic giving histories from skewing the picture).
+    • Made by individuals whom we had no connection to prior to starting
+      GiveWell.  All donations by people who know us personally from a non-
+      GiveWell context, donations by people who were referred (one degree
+      away) by those people, corporate matches on such donations, and
+      donations from our former employer are excluded.
+    • Made after March 2008, when we implemented the option for people to
+      give unrestricted donations through our website.  (Prior to this, all
+      donations from people we had no personal connection to were marked as
+      restricted to grants.)
+
+   Small unrestricted donations from donors we had no prior connection to:
+                       monthly and cumulative dollars
+                                    [pic]
+
+
+   Small unrestricted donations from donors we had no prior connection to:
+                     monthly and cumulative # donations
+
+[pic]
+
+Web analytics
+
+
+
+Web visitors and engagement
+
+
+The chart below shows web visitors (monthly) and visitors who signed up for
+email updates since GiveWell started. Note:
+
+   1. On 12/20/2007, we received significant media coverage, resulting in
+      over 38,000 visitors coming to the site in the following week. The
+      left-axis on the chart below is set to 30,000 to remove the distortion
+      stemming solely from that day of media coverage.
+   2. Due to an error made by Holden or Elie during a website revision in
+      May 2008, we lost web tracking from May – December 22, 2008. Monthly
+      visitors are shown as zero for that period.
+
+
+[pic]
+
+Notes:
+
+   1. The rise in email sign-ups near the end of 2008 coincides with
+      Holden’s appearance on NPR.
+   2. The rise in email sign-ups at the beginning of 2009 coincides with the
+      release of Peter Singer’s book, The Life You Can Save, which
+      prominently features GiveWell.
+   3. The rise in email sign-ups at the end of 2009 coincides with (a)
+      significantly increased web traffic and (b) a website redesign which
+      places the sign-up button more prominently on the website.
+   4. Our tracking for the dates of sign-ups is not perfect and in some
+      cases we had to manually find sign-up dates by manually searching our
+      email for sign-up notifications. Because of this factor, we do not
+      list the exact date for all sign-ups, though the chart above is a
+      reasonable approximation.
+
+
+Improvements in website
+
+
+One of the main focuses of late-2009 was improving our website to make it
+easier to use and more engaging.
+
+Because a user’s engagement with the site will depend heavily on what
+referred him/her to GiveWell, we compare data from visitors who came from
+AdWords (who all came from a Google search for a relevant keyword and
+landed on our homepage).
+
+The table below compares website engagement and use for comparable periods
+of 2008 and 2009 (December 26-31 of each year). We did not run AdWords
+before December 26, 2008, so we cannot compare performance.  We also show
+performance from 2007 for context.
+
+Engagement stats show significant improvements in 2009 relative to 2008 and
+2007.
+
+|Website engagement/use: AdWords visitors                |
+|                          |       |          |          |
+|                          |2009   |2008      |2007      |
+|                          |       |          |          |
+|Engagement                |       |          |          |
+|Visits                    |1,067  |2,589     |1,099     |
+|Pages/Visit               |5.61   |4.00      |2.74      |
+|Avg. Time on Site (min)   |3.76   |2.59      |1.46      |
+|Bounce Rate               |12%    |38%       |49%       |
+|Donations                 |       |          |          |
+|$ donated                 |$5,310 |Unknown   |Unknown   |
+|# of donors               |12     |Unknown   |Unknown   |
+|ROI                       |       |          |          |
+|Cost                      |$658   |$2,752    |$1,373    |
+|Cost-per-visitor          |$0.62  |$1.06     |$1.25     |
+|Cost per minute on site   |$0.16  |$0.41     |$0.86     |
+|Cost per page visited     |$0.11  |$0.27     |$0.46     |
+|Cost per dollar donated   |$0.12  |Unknown   |Unknown   |
+|Cost per donor            |$55    |Unknown   |Unknown   |
+
+We also note here that our AdWords efficiency (dollars spent per unit of
+value to GiveWell) increased significantly over the past year, likely due
+to (a) website improvements and (b) a more carefully managed AdWords
+campaign.
+
+
+Where do visitors come from and where do they land?
+
+
+These visitors include both visitors to the main site and the GiveWell
+blog. The charts below distinguish between the two showing visits to the
+blog and the site separately.
+
+The portion of visitors starting at the blog has continued to account for
+approximately 25% of visits as overall site traffic has grown.
+
+[pic]
+
+[pic]
+
+Note: these charts count visits not visitors, so it may overstate the
+contribution of the blog as we would guess that blog readers are more
+likely to repeatedly visit. (It may also understate the role of the blog as
+(a) many blog readers may follow the site through RSS readers (which don’t
+register as site visits unless they click to the come to the site) and (b)
+this group may comprise many of the most passionate GiveWell followers who
+don’t frequently visit the main site.)
+
+The chart below shows web visitors by source, showing that the increase in
+site visits during the last quarter of 2004 came from multiple sources
+(i.e., we had more referral links, our Google search rankings improved, and
+more visitors came directly). The rise was not due to just one source and
+was not (largely) due to paid search traffic through Google AdWords (as it
+was in December 2008).
+
+[pic]
+
+
+This table shows the number of recipients of GiveWell updates that we send
+every 1-2 months: (Note: numbers fall largely due to emails that are no
+longer active)
+
+|Email update list size|
+|             |        |
+|10/5/08      |1,357   |
+|12/18/08     |1,525   |
+|3/5/09       |1,745   |
+|6/1/09       |1,838   |
+|7/16/09      |1,781   |
+|10/23/09     |1,919   |
+|12/1/09      |1,871   |
+|12/28/09     |2,082   |
+
+
+GiveWell search engine presence
+
+
+The most direct measure of our success at improving GiveWell visibility in
+search rankings is visits to GiveWell from organic (i.e., non-paid) search.
+
+The following chart shows the number of visits to the GiveWell site from
+searches, excluding (a) paid-search (i.e., Google AdWords) and (b) searches
+that are already looking for GiveWell (i.e., searches containing givewell,
+give well, holden karnofsky, clear fund, etc.)
+
+The chart demonstrates that GiveWell’s visibility in search rankings has
+risen significantly in 2009, likely due to both (a) improved search engine
+optimization on the website and (b) improved page-rank due increased links
+to GiveWell from other sites.
+
+[pic]
+
+Note that the rise begins on approximately 10/11/09 (when monthly search
+visitors doubles from approximately 1,500/month to 3,000/month). This
+coincides with Natalie Stone’s focused work to improve GiveWell’s search
+rankings by creating search-engine-friendly links on the givewell site
+(e.g., http://www.givewell.net/international/economic-
+empowerment/microfinance vs http://www.givewell.net/node/537). Natalie
+completed this work on 10/8-10/9/09.
+
+Other factors that likely also contributed to the rise were:
+
+   1. Creating new pages with titles that had keywords we wanted to appear
+      for in Google (e.g., “Microfinance charity”)
+   2. Increased searching for charity-related words as giving season
+      approached
+   3. Improved page-rank in Google due to increased external links to
+      GiveWell
+
+We can test #2 by looking at the performance of top keywords that led to
+the recent rise. The table below compares the top keywords for the periods
+of 1/1/09-10/11/09 vs 10/12/09-12/31/09.
+
+The improved search results appear to come largely from:
+
+   1. Improved rankings for searches for charities GiveWell has reviewed.
+      Examples are: population services international, smile train review,
+      smile train reviews, alliance for smiles, smile train, gfatm,
+      worldwide fistula fund. Note that search traffic fell for healthstore
+      foundation and something external to GiveWell likely occurred in the
+      “middle” period which led to increased search for highbridge community
+      life center.
+   2. Improved rankings for terms related to GiveWell’s work evaluating
+      charities. Examples are: top charities, top rated charities, water
+      charities, international charities, charities rated. We would guess
+      that the large improvement in search visibility for these keywords
+      (not only during “giving season”) reflects a significant improvement
+      in GiveWell’s visibility for individuals looking for the type of
+      research we offer. These terms are bolded in the table below.
+
+|Unique               |Overall| |Beginni|Middle |End    |Oct 12  | |Oct     |
+|                     |       | |ng     |       |       |to      | |12-Dec  |
+|                     |       | |       |       |       |        | |31      |
+|Keywords             |rank   | |traffic|traffic|Traffic|Dec 31  | |minus   |
+|                     |       | |Per    |per    |per    |traffic | |Jan     |
+|                     |       | |month  |month  |month  |        | |1-Oct 11|
+|                     |       | |       |       |       |per     | |traffic |
+|                     |       | |       |       |       |month   | |        |
+|                     |       | |       |       |       |        | |per     |
+|                     |       | |       |       |       |        | |month   |
+|                     |       | |       |       |       |        | |        |
+|Population services  |1      | |31     |55     |41     |65      | |34      |
+|international        |       | |       |       |       |        | |        |
+|highbridge community |2      | |5      |50     |6      |35      | |30      |
+|life center          |       | |       |       |       |        | |        |
+|top charities        |3      | |7      |17     |32     |35      | |28      |
+|smile train review   |4      | |4      |19     |45     |46      | |42      |
+|healthstore          |5      | |10     |0      |5      |4       | |-6      |
+|foundation           |       | |       |       |       |        | |        |
+|top rated charities  |6      | |3      |15     |42     |41      | |38      |
+|water charities      |7      | |1      |32     |29     |42      | |41      |
+|smile train rating   |7      | |4      |23     |15     |26      | |21      |
+|what is daly         |9      | |6      |9      |15     |17      | |11      |
+|toby ord""           |10     | |0      |23     |34     |40      | |40      |
+|international        |10     | |3      |16     |19     |25      | |22      |
+|charities            |       | |       |       |       |        | |        |
+|alliance for smiles  |12     | |5      |8      |6      |9       | |4       |
+|smile train reviews  |13     | |2      |16     |25     |29      | |27      |
+|life expectancy sub  |14     | |5      |7      |5      |8       | |3       |
+|saharan africa       |       | |       |       |       |        | |        |
+|dots program         |15     | |4      |7      |12     |13      | |9       |
+|smile train          |16     | |2      |11     |24     |25      | |24      |
+|charities rated      |17     | |2      |11     |16     |20      | |18      |
+|Gfatm                |18     | |2      |13     |12     |17      | |15      |
+|worldwide fistula    |19     | |0      |11     |28     |28      | |28      |
+|fund                 |       | |       |       |       |        | |        |
+|life expectancy in   |20     | |3      |7      |4      |7       | |4       |
+|sub saharan africa   |       | |       |       |       |        | |        |
+
+Note:
+
+    • Overall rank is the keywords rank among that sent traffic to GiveWell
+      in 2009
+    • The “beginning” period is 1/1/09-10/11/09; “middle” is 10/12/09-
+      11/30/09; and, “end” is 12/1/09-12/31/09.
+    • The data in this table is a function of both (a) GiveWell’s presence
+      in search results and (b) the frequency with which a given term is
+      searched for
+    • Because there are so many different keywords, although these are the
+      20 most frequently visited words, they account for less than 6.6% of
+      total search visitors. The top 50 account for approximately 10% and
+      the top 500 for approximately 30% of search traffic.  In 2009,
+      visitors came to the GiveWell site using over 20,000 keywords.
+
+We also show the change in GiveWell’s Google search rankings for 50
+important keywords. We identified and started tracking these keywords in
+mid-October 2009. We show changes as of 1/14/2010 (the date on which we
+collected data).
+
+It is unclear from this data whether our rankings improved or not on these
+keywords.
+
+Our initial ranking therefore may be somewhat influenced by work we had
+already completed aimed at improving our search engine presence.
+
+|Change in Google ranking by search volume                 |
+|                  |      |      |      |      |        |    |
+|                  |100k+ |10k+  |1k+   |100+  |Negligib|Tota|
+|                  |      |      |      |      |le      |l   |
+|                  |/     |/     |/     |/     |        |    |
+|                  |month |month |month |month |        |    |
+|                  |      |      |      |      |        |    |
+|Nowhere to        |0     |0     |0     |0     |1       |1   |
+|frontpage         |      |      |      |      |        |    |
+|Improve on        |0     |0     |2     |1     |1       |4   |
+|frontpage         |      |      |      |      |        |    |
+|Improved in top   |0     |2     |1     |0     |0       |3   |
+|100               |      |      |      |      |        |    |
+|Worse on frontpage|0     |0     |1     |1     |3       |5   |
+|Worse in top 100  |0     |0     |2     |2     |2       |6   |
+|Appeared in top   |0     |0     |2     |0     |0       |2   |
+|100               |      |      |      |      |        |    |
+|Fell out of top   |0     |0     |0     |1     |0       |1   |
+|100               |      |      |      |      |        |    |
+|No change         |0     |1     |5     |3     |2       |11  |
+|Never in top 100  |4     |4     |5     |2     |2       |17  |
+|Total             |4     |7     |18    |10    |11      |50  |
+
+Definitions:
+
+    • Nowhere: not in top 100
+    • Frontpage: top 10 results
+    • Search volume estimates come from Google’s Keyword tool
+
+The full list of Keywords we tracked, initial and final position is in the
+table below: (sorted by change in GiveWell ranking)
+
+|GiveWell Google keyword ranking for relevant keywords       |
+|                          |         |         |        |     |
+|Keyword                   |Global   |Average GiveWell  |Chang|
+|                          |monthly  |rank              |e    |
+|                          |search   |10/18-10/|1/8-1/14|     |
+|                          |volume   |24/09    |/2010   |     |
+|                          |         |         |        |     |
+|hiv/aids charity          |-1       |57       |10      |48   |
+|best charities            |8,100    |41       |29      |12   |
+|smile train               |14,800   |27       |21      |6    |
+|international charity     |12,100   |25       |22      |4    |
+|top rated charities       |480      |8        |6       |2    |
+|water charities           |1,600    |10       |8       |2    |
+|top charities             |8,100    |9        |8       |1    |
+|recommended charities     |-1       |6        |5       |1    |
+|all charities             |1,000    |12       |11      |1    |
+|united states charities   |590      |10       |10      |0    |
+|clean water charities     |170      |7        |7       |0    |
+|advantages of microfinance|110      |5        |5       |0    |
+|best water charities      |-1       |1        |1       |0    |
+|saving lives              |14,800   |7        |7       |0    |
+|rated charities           |1,600    |7        |7       |0    |
+|givewell                  |1,000    |1        |1       |0    |
+|charities evaluated       |28       |3        |3       |0    |
+|charities rated           |1,600    |9        |9       |0    |
+|international charities   |5,400    |8        |9       |-1   |
+|top charities in the      |16       |7        |8       |-1   |
+|united states             |         |         |        |     |
+|education charities       |2,400    |8        |9       |-1   |
+|top rated foundation      |390      |11       |12      |-1   |
+|life expectancy africa    |2,900    |11       |12      |-1   |
+|top international         |73       |5        |6       |-2   |
+|charities                 |         |         |        |     |
+|best international        |73       |6        |8       |-2   |
+|charities                 |         |         |        |     |
+|malaria charity           |390      |2        |4       |-2   |
+|maternal mortality in     |73       |10       |14      |-4   |
+|developing countries      |         |         |        |     |
+|malaria donate            |170      |42       |49      |-7   |
+|top global charities      |22       |15       |32      |-17  |
+|charity evaluation        |1,000    |67       |87      |-21  |
+|charity                   |3,350,000|-        |-       |-    |
+|unicef                    |1,220,000|-        |-       |-    |
+|oxfam                     |450,000  |-        |-       |-    |
+|save the children         |165,000  |-        |-       |-    |
+|donate charity            |49,500   |-        |-       |-    |
+|where to donate           |40,500   |-        |-       |-    |
+|charitable giving         |33,100   |-        |-       |-    |
+|online donation           |12,100   |-        |-       |-    |
+|donate charities          |9,900    |-        |-       |-    |
+|charity ratings           |6,600    |-        |69      |-    |
+|charity research          |6,600    |-        |-       |-    |
+|charity evaluator         |4,400    |-        |-       |-    |
+|disease in africa         |4,400    |-        |-       |-    |
+|charity reviews           |1,600    |-        |74      |-    |
+|nonprofit evaluation      |1,600    |-        |-       |-    |
+|charity evaluations       |390      |47       |-       |-    |
+|charitable organization   |320      |-        |-       |-    |
+|ratings                   |         |         |        |     |
+|nonprofit reviews         |320      |-        |-       |-    |
+|hiv/aids donate           |-1       |-        |-       |-    |
+|malnutrition donate       |-1       |-        |-       |-    |
+
+Notes:
+
+    • -1 for search volume means negligible volume
+    • a “-“ means that we did not appear in the top 100
+
+
+Media presence
+
+
+The table below shows the number of GiveWell’s appearances in the media
+during giving season 2009 and the aftermath of the Haiti earthquake
+(January 2010). For comparison, we also provide media mentions of other
+well-known sites which provide public information about charities.
+
+   Media coverage of philanthropy: 2009 giving season and Haiti earthquake
+
+|                      |Major media*           | |All media**               |
+|                      |Both   |Giving |Haiti  | |Both     |Giving   |Haiti |
+|                      |       |season |       | |         |season   |      |
+|                      |       |       |       | |         |         |      |
+|Charity Navigator     |48     |18     |30     | |173      |79       |94    |
+|GuideStar             |13     |3      |10     | |57       |31       |26    |
+|American Institute of |6      |1      |5      | |42       |24       |18    |
+|Philanthropy          |       |       |       | |         |         |      |
+|GiveWell              |4      |1      |3      | |12       |9        |3     |
+|Great Nonprofits      |1      |0      |1      | |5        |3        |2     |
+|Philanthropedia       |0      |0      |0      | |0        |0        |0     |
+
+* Major media is national TV, NPR, New York Times, Wall Street Journal, USA
+Today, Washington Post, and LA Times.
+** All media is all newspapers included in LexisNexis, major online sites
+(e.g., msnbc.com, Slate), and magazines
+
+We collected this data by searching the LexisNexis database for the period
+11/2/09-2/2/2010. Because the Wall Street Journal is not included in the
+Lexis database, we separately searched the Wall Street Journal’s website.
+
+A list of notable GiveWell-media appearances is available at
+www.givewell.net/press.
+
+
+=== Document ===
+
+                         Review of 11/2008 Work Plan
+
+                                   Summary
+
+This document is GiveWell’s internal review of December 2008 through
+December 2009. We review our progress in the context of our organizational
+vision and mission as well as the priorities we laid out in our November
+2008 work plan, the last one approved by the board.[1]
+
+Vision:
+
+A world in which charities are rewarded for effectiveness in improving
+lives.
+
+Mission:
+
+To find outstanding charities and publish the full details of our analysis
+to help donors decide where to give.
+
+This section reviews our progress since our last work plan, approved in
+November 2008.[2]  It addresses the following priorities, which
+conceptually correspond to the priorities listed in the November 2008 work
+plan:
+
+   1. Improving organizational capacity through hiring.  We had several
+      unsuccessful hires, but are now working with one promising new hire
+      (who has been with us since July 2009).
+   2. In-depth research on international aid.  We completed our 2008-2009
+      report and recommendations for international aid.  The report does not
+      contain exactly the content we initially planned for it, but does
+      contain what we feel are substantially improved recommendations and
+      research and was delivered by the deadline we gave people who had made
+      GiveWell Pledges.
+   3. Outreach/connecting with customers.  We were featured in The Life You
+      Can Save by Peter Singer.  We have seen improvement in website traffic
+      and engagement, although we do not have as much data as we should due
+      to an error in 2008.
+   4. Pursuing important relationships.  We have joined the Alliance for
+      Effective Social Investing.  We have made some, but in our view
+      insufficient, progress in making research-related connections (i.e.,
+      to international aid scholars who can provide critical feedback on our
+      work).
+
+                        GiveWell’s vision and mission
+
+GiveWell’s ultimate vision is of a world in which:
+
+    • Individual donors can easily find actionable information about what
+      charities do and whether it works.
+    • A large amount of money from these donors flows systematically to the
+      charities with the most proven, cost-effective, scalable ways of
+      helping people.
+    • This dynamic – charities competing for funding based on demonstrated
+      impact – leads to an ongoing public dialogue about how to help people,
+      and to constant improvement in the way charitable resources are
+      allocated.
+
+We accomplish this by:
+
+    • Carrying out intensive, full-time research  in order to find
+      outstanding charities and make informed recommendations.
+    • Publicly publishing our recommendations, reasoning and sources to the
+      web.
+    • Building publicity and a reputation for quality in order to get donors
+      to use these recommendations.
+    • Financing our grants, salaries, and operating expenses with direct
+      donations from those most passionate about our work.
+             1. Improving organizational capacity through hiring
+
+Our 11/08 business plan stated:
+
+      We aim to hire one Research Assistant by Jan. 1, [2009].  In hiring,
+      we will start with our existing base of volunteers, and seek the
+      following qualities:
+
+
+         • Strong analytical abilities.
+         • Strong interest in GiveWell.
+         • A good work ethic.
+
+Part of the rationale for seeking to make a hire was a particular vision  of
+our  research  process,  which  we  revised  following  the  12/15/08  Board
+meeting.[3]  As a result, we had a slight change of course, and although  we
+had identified two strong candidates prior to 1/1/09, we opted to delay  our
+hiring decision.  We then  had  a  short  series  of  part-time  hires  that
+ultimately did not work out.
+
+Hire 1: started in mid-January 2009.  Performed well, but left for  location
+and stability reasons (having received another job offer) in February 2009.
+
+Hire 2: started in late January 2009.  Released by GiveWell due to  lack  of
+fit in February 2009.
+
+Hire 3: started in early February 2009.  Released by GiveWell  due  to  lack
+of fit in March 2009.
+
+Overall, this period of hiring was ultimately unsuccessful,  and  we  put  a
+hold on our active recruiting.
+
+We hired Melissa Krauss in May 2009, when  we  were  near  the  end  of  our
+research process and had a clearer idea of what we were  looking  for.   She
+started on a part-time basis and shifted to full-time  in  June  2009.   She
+left for a job in consulting in December 2009.
+
+We hired Natalie Stone in July 2009.  She is  still  employed  full-time  by
+GiveWell as of this writing (1/22/2010).
+
+Both hires consistently did productive and useful work, and Ms. Stone  shows
+the potential ability and willingness to continue contributing  to  GiveWell
+for at  least  the  next  year.   Currently,  Ms.  Stone  is  in  charge  of
+maintaining the international aid report (particularly  investigating  newly
+submitted and other pending charities).  Ms. Krauss focused on  the  process
+(now completed) for our $250,000 grant in economic empowerment.
+
+Compared to the earlier-in-the-year hires, we have  substantially  increased
+both the clarity of duties and the amount of  supervision  and  auditing  we
+provide.
+
+    • Our international aid report, now completed, provides a clear template
+      for evaluating  charities  (see  http://www.givewell.net/node/430)  as
+      well as several clear examples of the  template  applied.   New  hires
+      have “taken the lead” on investigating and questioning charities.
+    • We have performed regular reviews of new hires’ work,  including  both
+      overviews of their output and quality and audits of their attention to
+      detail  (in  which  we  replicate  selected  portions  of  their  work
+      ourselves).
+
+                  2. In-depth research on international aid
+
+Our 11/08 business plan stated:
+
+      We aim to publish an in-depth research report on developing-world aid
+      by June 1, 2009.  The report will include:
+
+
+         • Activities listings and basic ratings for each of the
+           approximately 800 US-registered international-aid charities with
+           annual budgets in excess of $1 million.
+         • At least 10 recommended charities in all, and at least one
+           recommended charity within each of the following areas:
+               o Direct health interventions
+               o Economic empowerment programs (microfinance, agricultural
+                 training, irrigation, etc.)
+               o Primary and secondary education (scholarships, school
+                 building)
+         • Literature reviews on several general questions about
+           international aid (see http://blog.givewell.net/?p=303)
+         • Detailed notes on two focus regions
+
+    •  We  released  our  report  on  7/1/09.   (Slightly  later  emails  to
+      stakeholders were less committed to  the  6/1/09  deadline,  targeting
+      “mid-2009” or 7/1/09.  In other words, the deadline was revised  early
+      – by 1/1/09 – and adhered to afterward.)
+    • We abandoned the idea  of  “activities  listings”  for  all  charities
+      following  the  12/15/08  Board   meeting.[4]    Upon   refining   our
+      eligibility criteria, we reduced the number of  charities  considered,
+      but examined all (320) eligible charities and provided a basic take on
+      each.  See http://www.givewell.net/international/technical/criteria
+    •  We  recommended  6.   See  http://www.givewell.net/international/top-
+      charities
+    • We completed literature reviews on several major issues.
+         o See http://www.givewell.net/archive/2009/causes
+         o We have posted several  less  central  issue  overviews  to  The
+           GiveWell                       Blog.                         See
+           http://www.givewell.net/international/miscellaneous-issues
+    • We did not complete detailed notes on two focus regions.
+
+Our view of which issues were most important to cover shifted as  we  gained
+familiarity with the  literature,  and  we  did  not  find  as  many  strong
+charities as we had hoped, but we feel  that  we  accomplished  the  broader
+goal of publishing a highly  thorough  report  on  international  aid,  with
+actionable recommendations.
+
+                    3. Outreach/connecting with customers
+
+Our 11/08 business plan stated:
+
+      At this point we do not have a single strategy for pursuing customers
+      that we believe is cost-effective and reliable.  Instead, we have many
+      possible strategies that we are interested in (or in the process of)
+      experimenting with … At this point we do not have a good sense of the
+      expected return on time for any of the following strategies, and as
+      such do not want to commit to a specific deliverable.  Instead, we
+      plan to allocate 10 hours per week to experimenting with these
+      strategies (in the rough order of priority listed) and estimate the
+      return on different strategies in terms of the following metrics …
+
+The specific strategies listed in the business  plan  yielded  few  results,
+but we made some preliminary progress with outreach through  two  paths  not
+mentioned in that document.  These strategies and their  results  are  given
+in chronological order (i.e., the first section  discusses  improvements  to
+the website in 2008 but not in 2009).
+
+Website improvements - December 2008
+
+In December 2008, we reorganized our  website  with  the  aim  of  improving
+“conversions”  for  the  holiday  season.   We  created  “highlight”   pages
+summarizing  the  most  salient  points  of  our  research,  as  well  as  a
+consolidated list of top charities, and linked both  from  our  front  page.
+We also partly revised our  navigation  system  and  conducted  formal  user
+testing using usertesting.com.
+
+Unfortunately, we are missing traffic data for July-December  2008,  but  we
+do have donation data.  There were 127 donations made  through  our  "Donate
+using Network for Good" links, totaling  $28,605,  in  December  2008.   For
+comparison, December 2007 saw 151 donations for $31,704 – roughly  the  same
+amount of giving, despite the fact that  we  had  substantially  more  media
+coverage in 2007 than in 2008 and that the U.S.  economy  was  substantially
+stronger in 2007 than in 2008.
+
+Appearance in The Life You Can Save by Peter Singer
+
+In March 2009, The Life You Can Save by Peter Singer  was  published.   This
+book focused on arguing the case for more total giving to international  aid
+organizations, but also included a  discussion  of  where  one  should  give
+(Chapter 6), and put GiveWell at the center of  this  discussion.   GiveWell
+was    also    featured    prominently     on     the     book’s     website
+(http://www.thelifeyoucansave.com) and mentioned in some of  the  mainstream
+media coverage of the book, including William Easterly’s review in the  Wall
+Street Journal.[5]
+
+We saw our monthly traffic roughly double in the month following the
+release of the book.  The bump in traffic subsided, but there appears to
+have been a substantial and sustained rise in donations and other
+“conversion metrics” (see Section 2) through the website.
+
+Website improvements and joint press release - September-December 2009
+
+From September through December 2009, we focused on improving our odds of
+attracting customers.
+         • Elie focused on improving the main GiveWell.net website,
+           including a visual redesign, revised organization, a new landing
+           page, and creation of "summary" pages to make our research
+           findings more accessible.
+         • Holden focused on using the blog to present (a subset of) our
+           research such that particular general-interest points can be
+           followed without having to read through a lot of other
+           context.[6]
+         • Board member Tim Ogden coordinated a joint press release with
+           Philanthropedia, Great Nonprofits, GuideStar, Charity Navigator
+           and the Hewlett Foundation criticizing the prevailing practice
+           of evaluating charities by their "overhead expense ratio,"[7] a
+           message that has been core to GiveWell since before it was a
+           full-time project.[8]
+
+As our January 2010 Metrics Report shows, media mentions, website traffic,
+engagement, and donations dwarfed those of December 2009 compared to
+December 2008.  We conjecture that the improvement was due to some
+combination of the above three efforts, plus Peter Singer's book and the
+simple value of having been visible for another year.
+
+Summary
+
+We did not pursue the original strategies for outreach we had laid out.  We
+focused more on improving the appeal of our content than on pushing for
+"more eyeballs."  However, we did put substantial effort into attracting
+more customers and saw substantial progress.
+
+                     4. Pursuing important relationships
+
+Our 11/08 business plan stated:
+
+      We seek to build relationships with people such as:
+
+
+         • Successful supporters to serve as mentors and members of the
+           Board of Directors
+         • Partners who can help us reach potential users of our research
+         • Donors who can increase our money moved and continue to build
+           our network.
+         • High-credibility supporters for our Advisory Board
+
+
+      We currently spend a total of about 15 hours per week on
+      correspondence (via email) with current and potential contacts.  We
+      believe that we can maintain this allocation and reach the following
+      deliverables:
+
+
+         • A total of three experienced entrepreneurs who serve as mentors
+           to us on a regular basis.  (We currently have one.)
+         • A total of five highly credible and/or visible figures who serve
+           on our Advisory Board and endorse our research.  (We currently
+           have two.)
+         • A total of 15 donors who (a) know us only from GiveWell; (b)
+           have pledged or donated at least $1,000; (c) are publicly on
+           record with these pledges/donations, possibly through video
+           testimonials. (We currently have 17 contacts who meet the first
+           two conditions.)
+
+    • For much of 2009, we had two  "mentors"  that  we  talked  with  on  a
+      regular basis.  We also changed the composition and role of our  Board
+      of  Directors  so  that  it  provides  substantially  more  oversight,
+      including  a  weekly  conversation  with  Board   Vice-President   and
+      management consultant Lindy Miller Crane.  Our  Board  has  officially
+      determined that we have established an appropriate level of  oversight
+      and mentoring, and has restored the Executive Director title to  staff
+      (specifically, Holden Karnofsky and Elie Hassenfeld now serve  as  co-
+      Executive Directors).[9]
+    • We have dropped the idea of an official Advisory Board, preferring  to
+      pursue arms-length public feedback on our work and retain  flexibility
+      about whom we speak to and when.  We have spoken  with  many  relevant
+      experts in the course of our research,[10] but have not  yet  had  the
+      chance to pursue public feedback on our completed report.  This  is  a
+      priority over the next few months.
+    • We have de-prioritized the idea of individual donors’  going  publicly
+      on record with their donations.
+
+Finding partners who can help us reach potential users of our  research  has
+not been a priority  over  the  last  12  months,  but  we  have  made  some
+preliminary progress.  We are now members  of  the  Alliance  for  Effective
+Social  Investing,  which  includes  the  CEOs  of  major  donor   resources
+(GuideStar, Charity Navigator, BBB Wise Giving Alliance),[11]  and  we  have
+also made some other preliminary progress that is not shared in  the  public
+version of this report.
+
+-----------------------
+[1] http://www.givewell.net/about/progress#200811
+[2] http://www.givewell.net/about/progress#200811
+[3] See < http://givewell.net/board-meeting8>
+[4] See < http://givewell.net/board-meeting8>
+[5] See http://online.wsj.com/article/SB123621201818134757.html
+[6] Summary at http://blog.givewell.net/2010/01/04/roundup-of-recent-
+blogging/
+[7] http://blog.givewell.net/2009/12/01/the-worst-way-to-pick-a-charity/
+[8] See our blog series that ran from January through March of 2007:
+http://blog.givewell.net/category/thoughts-on-evaluating/down-with-the-
+straw-ratio/
+[9] http://www.givewell.net/about/official-records/board-meeting-10
+[10] See
+http://www.givewell.net/international/technical/additional/conversations-
+with-experts
+[11] http://www.alleffective.org/bios/HoldenKarnofsky.html
+
+
+
+=== Document ===
+
+
+              2009 allocation of focused hours: Elie Hassenfeld
+
+
+
+[pic]
+
+
+
+             2009 allocation of focused hours: Holden Karnofsky
+
+
+
+
+[pic]
+
+
+=== Document ===
+
+                       GiveWell Work Plan for CY 2010
+
+Summary
+
+This document outlines GiveWell’s key 2010 research priorities, who’s
+responsible for each, how long we estimate each area will take, and the
+deadline for completing work.
+
+Time allocation:
+
+    • Natalie Stone: 12-26 weeks of work; ~30 weeks until 9/1 deadline.
+    • Simon Knutsson: 8-22 weeks of work; planning to work ~22 weeks
+    • Holden Karnofsky: 50% research; 20% outreach; 30% admin/other
+    • Elie Hassenfeld: 65% research; 15% outreach; 20% admin/other
+
+Key dates:
+    • By 9/1/2010: complete research
+    • By Thanksgiving: fully incorporate new research into website
+    • By 2/1/2011: complete 2010 review and 2011 plan.
+
+Hours allocations: non-co-Founders
+
+I. Natalie Stone
+
+    • Maintain international aid report – 4-9 weeks total
+         o Scan new charities that are brought to our attention. 1-2 weeks.
+           (Based on number submitted and scanned so far.)
+         o Revisit recommended charities once/year. ~1-3 days each = 1-3
+           weeks.
+         o Review new “promising” charities: Nyaya, SCI, GAIN, Measles
+           Initiative. and others that she finds. ~2-4 weeks.
+    • Adding breadth to international aid report – 9-17 weeks total
+         o Microfinance: going through the same process we went through to
+           find the Small Enterprise Foundation (in Africa) for regions
+           outside of Africa. 1-3 weeks.
+         o Disaster relief: contacting prominent disaster relief
+           organizations for information on the key questions we've
+           formulated; writing up findings.  3-6 weeks (very rough
+           estimate; based on very little)
+         o OVC (orphans and vulnerable children) and anti-slavery
+           campaigns: review relevant independent research; generate list
+           of relevant charities; formulate key questions, solicit
+           information from relevant charities, and write up findings.  4-8
+           weeks (very rough estimate; based on very little).
+         o Miscellaneous support work, particularly for blog posts and for
+           handling general inquiries via email - 10-20% of hours overall,
+           so allocate 1-2 weeks
+
+II. Simon Knutsson (contractor)
+
+    • United States Equality of Opportunity
+
+         o Compile list of evidence-supported programs; rank in terms of
+           effectiveness (size of impact) and compellingness of evidence
+           (e.g., whether it’s 1 study or many) – 1-2 weeks
+         o Scan U.S. charities looking for similar programs or alternative
+           evidence of impact. 3-6 weeks.  (Estimated 1000 charities and
+           applied time estimate from international aid scan of ~400
+           charities)
+         o Write-ups:
+               ▪ Reports on effective interventions: For programs that
+                 appear effective in initial list and have charities running
+                 them: 5-15. 1-2 days each. 1-6 weeks.
+               ▪ Reviews of strongest charities: 5-15. At 1 per 2 days, 2-
+                 6 weeks.
+               ▪ Write up process and additional supplemental research: 1-
+                 2 weeks
+
+
+Hours allocations: co-Founders (given as percentages)
+
+
+III. Holden Karnofsky
+
+    • Research: 50%
+         o Research vetting (contacting people with substantial relevant
+           experience and credentials) – 10%
+         o Reviewing/discussing Natalie/Simon/Elie’s work – 20%
+         o Disease research – 20%
+    • Marketing: 20%
+         o Pursuing partnerships with online resources:
+         o Speaking selectively with media
+         o Blogging
+    • Admin/Other: 30%
+
+IV. Elie Hassenfeld
+
+    • Research: 65%
+         o Reviewing Simon/Natalie/Holden work: 35%
+         o Disease research 30%
+    • Marketing: 15%
+         o Talking with “high value” contacts like DAFs, companies, large
+           donors, media
+         o Marketing "low-hanging fruit" (see Outreach Strategies document)
+    • Admin/Other: 20%
+
+
+Key goals and dates
+
+
+By 9/1/2010:
+    • Have completed research on U.S. equality of opportunity and further
+      sub-causes within international aid.
+    • Have made some progress (though how much is difficult to predict) on
+      disease research funding.
+    • De-prioritize research and prioritize presenting what we've found via
+      our website and blog, optimized for December 2010.
+
+By 11/25/2010 (Thanksgiving):
+
+    • Have fully incorporated all new research into our website.
+    • Have prepared enough content to create daily blog posts through
+      12/31/2010.
+
+
+By 2/1/2011
+
+
+    • Have completed annual review for 2010 and plan/work plan for 2011.
+
+
+=== Document ===
+
+GiveWell: possible marketing/packaging strategies for CY 2010
+
+Packaging - listed in order of most promising/likely to least
+promising/likely use of time
+
+   1. Blog: continue to post 1-3 times per week
+   2. Website improvements
+        a. Better integration with blog
+        b. Continue experimenting with different landing pages/intros to
+           our research
+   3. Testimonials (this is putting together a website section that quotes
+      people – will also include the output of any “expert vetting” project)
+   4. Creating printable PDF versions of our research
+   5. Hiring/contracting with a professional to improve the presentation of
+      our research
+
+Marketing - listed in order of most promising/likely to least
+promising/likely use of time
+
+   6. Partnerships with wealth advisors/DAFs
+        a. Continue following up with Fidelity Charitable Gift Fund
+        b. Apply for more funding from the anonymous institution that
+           funded our Economic Empowerment Grant
+        c. Follow up with Vanguard Charitable Endowment Program
+        a. List and follow up with more wealth advisors
+        b. Family foundations
+   7. Partnerships with charity evaluators/portals
+        a. GuideStar
+        b. Charity Navigator
+        c. Change.org, ConsumerSearch, Consumer Reports, Top Ten Reviews,
+           etc.
+        d. More joint releases/activities with GreatNonprofits,
+           Philanthropedia, New Philanthropy Capital
+   8. Partnerships with organizations whose primary value-added is raising
+      money for a cause (as opposed to a specific organization)
+        a. Kiva and Charity:Water - explore possibility of contributing to
+           their due diligence on partners
+        b. Erace poverty (small organization that we are already in talks
+           with)
+        c. eBay
+        d. Smartlink.org, http://www.globalphilanthropygroup.org,
+           http://www.thedailybeast.com/newsmaker/giving-
+           beast?cid=hp:featureline, Outbrain, ProcrasDonate
+   9. Advertising
+        a. Maintain Google AdWords
+        b. Facebook ads targeted at people with characteristics of our
+           target market
+        c. Creating website content designed to appear for search terms
+           common in our target market, but not otherwise competitive
+           (example: "Bayesian")
+        a. Advertising on blogs that are likely to reach our target market
+           (Marginal Revolution, etc.)
+  10. Other ways of connecting with individual potential customers
+        a. Internet communities
+              i. GWWC forums
+             ii. Felicifia
+            iii. LessWrong
+             iv. HatRack
+              v. HackerNews
+             vi. Change.org
+        b. Companies such as Microsoft, Two Sigma, Google, D. E. Shaw
+        c. People who donated to the Gates Foundation (names and addresses
+           are public record)
+  11. Concerted efforts at "earned media," i.e., focusing our research on
+      issues that are likely to interest the media
+  12. Hiring/contracting with a professional to pursue publicity
+
+
+
+=== Agenda ===
+
+                        Clear Fund Board of Directors
+                         Meeting Agenda for 3/3/2010
+
+1. Introductions.  5 minutes.
+
+2. Annual review and plan.  Allow 2 hours.  See Attachment A.
+
+
+   Staff asserts that:
+
+
+ • We have made substantial progress in all areas over the last year and
+   that staff have performed satisfactorily.
+ • We are still substantially short of where we need to be eventually to
+   consider a project a success.
+ • Over the next year, we should focus primarily on research (research on
+   new causes; vetting existing research; developing research capacity),
+   pursuing only low-hanging fruit on packaging/marketing.
+ • We expect to put most of our time and resources into research on new
+   causes.  We will also put substantial work into research vetting.
+
+3. Compensation review.  Allow 20 minutes.  See Attachment B.
+
+Staff proposes a $2,500 salary increase for both Holden Karnofsky and Elie
+   Hassenfeld.
+
+4. Insurance review.  Allow 10 minutes.  See Attachments C and D.
+
+We currently have coverage for Directors & Officer Liability, Internet
+   Liability, and Employment Practices.
+
+No budget review at this meeting.
+
+   Our last budget review was at the 12/29/2009 meeting, and reviewed the
+   budget through 11/30/2009.  Between then and 1/31/2010 (the date at which
+   we last performed an accounting close) there have been no material
+   changes in our budget.  As such, we have elected not to include a budget
+   review in this meeting.
+
+
+ • Our unrestricted reserves are not at the level that would trigger our
+   "excess reserves policy."  Our current restricted reserves total under
+   $200.  We do not wish to allocate grants at this meeting.
+ • Projected expenses are substantially similar to what they were at the
+   last review.  It has become significantly less likely that we will hire a
+   second full-time Research Analyst, although we may hire a part-time
+   contractor (in addition to the one we were already planning to hire).
+ • We may circulate a budget update between Board meetings, once we have
+   fully incorporated a couple of major items (possible domain name
+   purchase; developing-world trip).
+
+                   Total projected meeting time: 2.5 hours
+
+Attachments:
+   A. Annual review and plan documents
+   B. Compensation review
+   C. Insurance review
+   D. Insurance policy (zipfile includes both quote and binder)
+
+
+Generate a comprehensive summary (approximately 1000 words):

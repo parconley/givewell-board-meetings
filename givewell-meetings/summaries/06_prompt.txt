@@ -1,0 +1,313 @@
+Based on the following board meeting documents for a Clear Fund Board Meeting held on December 15, 2008, generate a comprehensive ~1000-word summary that acts as a professional brief.
+
+The summary should cover:
+- Key decisions made and votes taken
+- Important discussions and debates
+- Financial/budget information with specific numbers
+- Strategic direction or policy changes
+- Personnel or organizational changes
+- Any significant outcomes or action items
+
+Keep the tone professional and factual. Focus on substance over process. Be specific with numbers, names, and decisions.
+
+Meeting Documents:
+=== Overview of Financial Situation ===
+
+              Overview of Financial Situation as of 12/15/2008
+
+This is not a projected budget  to  be  approved  (we  approved  the  budget
+through 5/31/2009 at the previous meeting).
+
+This is an illustration of how far our existing assets can  carry  us  under
+different assumptions about expenses.
+
+    • “Analyst” refers to a hire making  $35k/yr  (plus  payroll  taxes  and
+      health benefits).
+    • “Partner” refers to a hire  making  $65/yr  (plus  payroll  taxes  and
+      health benefits) – could be a website specialist (this  is  the  rough
+      range   we’ve   seen    for    such    positions)    or    a    strong
+      researcher/generalist.
+    • “Office” refers to an office with space for about 5 people.
+
+                                    [pic]
+
+                                   Details
+
+Cash on hand
+
+                                    [pic]
+
+Possible future expenses
+
+                                    [pic]
+
+
+=== Key Questions About Research ===
+
+                  Research: Key Questions as of 12/15/2008
+
+   1. What do we want/need to have in the research report we produce?
+        a. A general overview of international aid (academic literature)
+        b. Identification of “top” charities.
+        c. Thorough evaluations of “top” charities.
+        d. Evaluations and/or cataloguing of a broad range of charities.
+   2. What goals are important?  (Answer will heavily affect answer to #1)
+        a. Generating  charity  recommendations  for  core  supporters  and
+           GiveWell Pledgers, to help  them  accomplish  as  much  good  as
+           possible.
+        b. Increasing our appeal to more casual potential customers (people
+           who encounter us through friends, media, etc.)  These people are
+           often more concerned with breadth of coverage and  less  focused
+           on “just the top charities.”
+        c. Increasing our appeal to donor-advised funds,  wealth  advisors,
+           etc.  It’s somewhat hard to say  exactly  what  they’re  looking
+           for.
+        d. Increasing our appeal  to  online  donor  resources  (GuideStar,
+           Charity Navigator).  For these, the most important aspect of our
+           research is probably the number of charities covered/rated.
+   3. How will we evaluate our progress?
+
+                       More Detail: Goals of Research
+
+   1. Provide  a  general  overview  of  international  aid:  the  potential
+      benefits,  potential  downsides,  major  success  stories  /   failure
+      stories, etc.
+
+What the work consists of: Finding and  reading  academic  works;  following
+references to other works; summarizing what we find.
+
+Time cost: Probably on the order of  4-8  weeks.   Time  estimates  in  this
+document refer to how long it would take  GiveWell  to  complete  this  task
+with Holden and Elie both focused on it for 100% of  their  “research  time”
+(50% of overall time).
+
+Progress indicators: this work should translate into interesting blog  posts
+at a fairly regular clip.
+
+Potential support:
+
+    • Very unlikely that an “analyst” (the type of person we’ve been looking
+      to hire for $35/yr) could add value here.
+    • Some potential in offering compensation to graduate students for well-
+      done literature reviews.
+    • Well-directed conversations with academic experts  (grad  students  if
+      necessary; major figures if possible) could be extremely helpful.
+
+Other notes:
+
+    • We’ve had trouble finding useful papers on these topic so far.   We’ve
+      mostly  found   (a)   general/qualitative/”popular”   overviews;   (b)
+      econometric analysis that we  don’t  feel  provides  the  context  and
+      perspective necessary for common-sense evaluation.  We’re looking  for
+      work that better combines facts (not  just  claims)  with  painting  a
+      picture (not just building and running a model).
+    • We are going to need better library access than what we have.
+
+
+   2. Identify “top” charities: charities that are focused on  interventions
+      with impressive track records.
+
+What the work consists of:
+
+    • Identifying the interventions that academic literature considers to be
+      (a) “success stories”; (b) promising  programs  for  the  future;  (c)
+      highly cost-effective (by a variety of different measures of “value”).
+    • Finding charities that focus on these programs.
+         o Having a “charity database” (discussed below)  would  make  this
+           step fairly easy.
+         o Without one, we would rely largely on referrals and Google.
+    • Basic (but not thorough) due diligence on these charities.
+
+Time cost: Relatively minimal once we identify top interventions, which  can
+likely be accomplished as part  of  Goal  1.   (We  already  have  a  fairly
+substantial  list  of  top  interventions  from  our  work  to  date  –  see
+http://www.givewell.net/research-agenda)
+
+Progress indicators: we should be able to identify the charities working  on
+a given intervention at a rate of 1-2 days per intervention.
+
+Other notes:
+
+    • There’s a question of how much sense it makes to give to a large multi-
+      purpose organization (such as UNICEF) while restricting  the  donation
+      to a particular program.
+
+   3. Evaluate “top” charities: thoroughly examine their documents  to  form
+      detailed, high-confidence recommendations.
+
+What the work consists of: Contacting  “top  charities”  and  requesting  as
+much of their documentation as possible;  asking  them  specific  questions;
+analyzing the  documentation  and  creating  writeups  similar  to  what  we
+created in Year 1.
+
+Time cost: ~1 week per charity.
+
+Progress indicators: 1 thorough charity writeup per week spent.
+
+Potential support:
+    • An “analyst” could add limited value.
+    • Academics unlikely to be helpful except tangentially.
+
+   4. Evaluate  (or  at  least  catalogue)  a  comprehensive  set  of  major
+      charities.
+
+What the work consists of:
+    • The primary goal is to catalogue the activities of as  many  charities
+      as possible.
+         o The main source for this  information  is  charities’  websites.
+           These usually  include  descriptions  of  activities  in  enough
+           detail to get some idea of what they’re doing, though  vagueness
+           is common.
+         o We may also be able to get information from major  funders  such
+           as USAID, CIDA, DFID, the Gates Foundation, etc.
+    • Doing so would contribute to the goal of naming “top charities.”
+    • It may also be possible to rate individual  charities  based  on  what
+      activities they carry out, what academic literature says  about  these
+      activities, and  how  much  of  this  information  is  available  from
+      charities’ websites.
+    • This project can be done at different levels of detail:
+         o Evaluating only “household-name” charities (Red  Cross;  UNICEF;
+           CARE; Save the Children; etc.)
+         o Evaluating all US-registered public charities  above  a  certain
+           size (and possibly with other restrictions, such as being listed
+           by Charity Navigator).   There  are  ~800  such  charities  with
+           annual expenses over $1 million;  ~200  are  listed  by  Charity
+           Navigator.
+
+Time cost: Substantial and hard to estimate at this point.  Depends  heavily
+on implementation  of  this  project.   Also  has  far  more  potential  for
+systemization/support than any of the other goals.
+    • Extremely diverse charities can take upwards of a day to catalogue.
+    • Moderately large ones can take several hours.
+    • Fairly simple charities can be catalogued in 30-60 minutes.
+    • After cataloguing the charity, there is also the question of using its
+      activities to create an evaluation of it.  This too  can  be  done  at
+      different levels of thoroughness.
+    • The highest level of thoroughness (matching each activity to what  the
+      academic  literature  says  about  it)  will  require  creation  of  a
+      “programs database” as well as a “charities database.”  We may be able
+      to create such a database in a few weeks, or it may  turn  out  to  be
+      infeasible.
+
+Progress indicators: this work would  initially  focus  on  extremely  large
+charities, and should produce at least one charity evaluation per week.   As
+we gain in our ability to  systemize  the  work,  and  move  on  to  smaller
+charities, we should speed up considerably.
+
+Potential support:
+    • An “analyst”  could  add  value  both  in  cataloguing  charities  and
+      cataloguing programs.
+    • Academics unlikely to be helpful.
+    • Contacts at major funders might be helpful, as mentioned above.
+
+
+                           More Detail: Customers
+
+
+   1. Core supporters and GiveWell Pledgers.   We  see  these  customers  as
+      primarily being interested in recommendations.  Goal  #2  (identifying
+      top charities) seems most important; #1 (general review of literature)
+      and #3 (thoroughly evaluating top charities) may be as well.
+   2. People with more casual interest –  those  who  encounter  us  through
+      friends, the media, etc.  We believe that we often lose  these  people
+      at the point where we can’t provide any information  on  a  particular
+      charity.
+   3. DAFs,  wealth  advisors,  etc.   Hard  to  say  exactly  what  they’re
+      interested in.  In theory, any compelling set of recommendations could
+      be  useful  to  them,  but  we  believe  that   having   comprehensive
+      evaluations could add much-needed credibility to our recommendations.
+   4. Online donor  resources:  GuideStar,  Charity  Navigator.   Both  have
+      expressed at least preliminary openness to partnering with us.  We see
+      both  as  being  primarily  interested  in   coverage   of   as   many
+      organizations as possible.
+
+
+=== Misc Questions ===
+
+     Miscellaneous questions about GiveWell raised in recent discussions
+
+Should our focus be “research” or “website?”  Easiest to answer with
+specific time allocation.  We currently lean toward:
+
+    • 40 hours/week on research
+    • 10 on website, with the help of a professional consultant if possible
+    • 15 on maintaining contacts
+    • 5 on hiring/managing
+    • 10 on misc
+    • New hire: 30 focused hours per week, devoted mostly to charity
+      database-related work
+
+Should we change our name so we can get a .com URL?
+
+Is it a problem that Elie and Holden live in different cities?
+
+What should be the focus of the blog at this point?
+
+How concerned should we be about exhibiting a particular political
+orientation?
+
+
+
+
+=== Agenda ===
+
+                        Clear Fund Board of Directors
+                        Meeting Agenda for 12/15/2008
+
+1. Introductions.  2 minutes.
+
+2. Elections.  Allow 15 minutes.
+
+
+Tom Rutledge and Ari Herman will be nominated for addition to the Board.
+
+3. Discussion of financial situation.  Allow 15 minutes.  See Attachment A.
+
+   Under reasonable and even aggressive scenarios, GiveWell has enough cash
+   on hand to last into 2009.
+
+4. Discussion of research plan.  Allow 90 minutes.  See Attachment B.
+
+   We see the following questions as key to how we allocate our time and
+   resources.
+
+
+   1. What goals are important?
+         • Provide a general overview of international aid (academic
+           literature)
+         • Identify “top” charities.
+         • Thoroughly evaluate “top” charities.
+         • Evaluate and/or catalogue a broad range of charities.
+   2. What customers are important?
+         • Core supporters and GiveWell Pledgers.
+         • Other potential supporters who encounter us through friends,
+           media, etc.
+         • Donor-advised funds and wealth advisors.
+         • Online donor resources (GuideStar; Charity Navigator)
+   3. How will we evaluate our progress?
+
+
+5. Optional: Discussion of other issues that have come up in recent
+   discussion.  Allow 30 minutes.  See Attachment C.
+
+ • What should our time allocation be, particularly between research and
+   development of the website?
+    • Should we change our name so we can get a .com URL?
+    • Is it a problem that Elie and Holden live in different cities?
+    • What should be the focus of the blog at this point?
+    • How concerned should we be about exhibiting a particular political
+      orientation?
+    • Any other questions we have the time/interest to raise.
+
+
+
+                    Total projected meeting time: 3 hours
+                          Next meeting: March 2009
+
+Attachments:
+   A. Overview of financial situation
+   B. Key questions about research
+   C. Misc. questions.
+
+
+Generate a comprehensive summary (approximately 1000 words):

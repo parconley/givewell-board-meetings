@@ -1,0 +1,155 @@
+Episode 41: Board Meeting - May 28, 2020
+
+Meeting Details:
+- Date: May 28, 2020
+- Duration: 1 hour 13 minutes
+- Format: Video conference (COVID-19 pandemic)
+- Chair: Tim Ogden
+
+Summary:
+
+This spring 2020 board meeting took place during the early months of the COVID-19 pandemic, requiring GiveWell to adapt its operations while continuing to execute on strategic priorities. The meeting focused heavily on outreach strategy and planning, the pandemic's impact on operations and finances, and important governance enhancements to enable more flexible grantmaking.
+
+Outreach Strategy and Ambitious Goals:
+
+The centerpiece of the meeting was comprehensive presentations by Jim Bobowski (VP of Marketing) and Stephanie Stojanovic (Major Gifts Officer) on GiveWell's 2020 outreach plans and long-term money moved goals.
+
+Overall Outreach Goals:
+GiveWell's long-term target remained reaching $100 million in annual money moved (excluding Open Philanthropy donations) by giving season 2022. The roadmap to achieve this goal included:
+
+2020: $87.4 million total raised ($68.4M for charities, $19.0M unrestricted)
+2021: $96.5 million total raised ($80.5M for charities, $16.0M unrestricted)
+2022: $121.5 million total raised ($102M for charities, $19.0M unrestricted)
+
+The projected growth required adding incremental funds from multiple sources:
+- Fundraising/Major Gifts: $4.0M (2020) → $6.4M (2021) → $10.6M (2022)
+- Marketing: $1.4M (2020) → $2.4M (2021) → $3.3M (2022)
+- Unattributed/Organic: $7.0M (2020) → $9.3M (2021) → $11.0M (2022)
+
+The 2020 targets included two large $8 million donations already received, with $5 million of these projected to recur in future years.
+
+Marketing Plan and Experimentation:
+
+Jim Bobowski presented GiveWell's first comprehensive marketing plan, reflecting the organization's evolution from research-focused to actively growth-oriented.
+
+Paid Advertising Strategy:
+- Podcast Advertising: Building on 2019 success ($180K spent, ~$571K tracked from new donors), GiveWell planned to spend $540K in giving season 2020 targeting $890K in first-year donations
+- Experimental Advertising: Testing podcast advertising outside giving season and new channels (Facebook, search, retargeting, YouTube) with $400K spend expecting $200K first-year return. Results would guide future channel investment.
+
+Donor Research Program:
+GiveWell initiated systematic research to better understand donors and optimize messaging:
+- Completed: Customer satisfaction survey, donor deeper research, user experience research
+- Planned: Non-donor research, positioning study, additional UX research
+
+The user experience research was particularly revealing. Through Zoom interviews with prospective donors, researcher Erik Kennedy identified several key findings:
+- Users understood impact maximization but weren't compelled by it
+- Users rarely read homepage content
+- Users sought personal connections to the work
+- Users wanted to compare top charities but found it difficult
+- Users assumed GiveWell recommended more charities than the featured top charities
+- Users didn't want to engage with text-heavy content
+- Users generally trusted GiveWell
+
+These insights informed planned website improvements aiming to increase donations by $250,000 in 2020.
+
+Performance Measurement:
+A critical priority was developing better metrics for customer acquisition cost and lifetime donor value. These metrics would enable data-driven decisions about optimal marketing spend to maximize donations.
+
+Donor Retention and Major Gifts:
+
+Stephanie Stojanovic presented a sophisticated three-tier donor retention structure:
+
+Major Donors (give ~$50K+): 1:1 relationships with ~350 donors representing ~70% of dollars
+- 2020 incremental goal: $3.0 million
+- Strategies: Personalized engagement plans, GiveWell Council formation, specific giving opportunities (country gaps, incubation grants, matching campaigns)
+
+Mid-Level Donors (give ~$10-50K): Modest 1:1 relationships with ~1,000 donors representing ~20% of dollars
+- 2020 incremental goal: $500,000
+- Strategies: Monthly personal emails, year-end personal solicitations, phone consultations
+
+Mass Market Donors (give ~$10K and less): 1:Many relationships with ~44,000 contactable donors representing ~10% of dollars
+- 2020 incremental goal: $500,000
+- Strategies: Personalized segmentation, year-round communications, message testing, multiple solicitation opportunities beyond year-end
+
+Pipeline Development:
+The retention program explicitly aimed to build a donor pyramid, fast-tracking high-capacity donors up the pipeline and identifying new major donor prospects through referrals and institutional partnerships.
+
+COVID-19 Impact Assessment:
+
+Elie Hassenfeld led a thorough discussion of how the pandemic had affected and might continue to affect GiveWell's work.
+
+Operational Impacts:
+- All staff working remotely with office space costs continuing
+- Weekly staff surveys tracking wellbeing and work effectiveness
+- Monthly wellness stipend created (redirected from office snacks budget)
+- Overall staff doing reasonably well though some struggling
+- Remote work proving sustainable with no major productivity impact
+
+Research Impacts:
+- Two staff members working full-time on COVID-19-specific research and grantmaking (three grants made as of May 12)
+- Top charities expected to have less room for more funding in 2020 due to program slowdowns
+- Work finding new opportunities slowed due to organizational disruptions
+- Some evaluations (e.g., New Incentives RCT results) proceeding despite COVID
+
+Fundraising Impacts:
+- Major donors contacted to assess giving impact; most indicated COVID wouldn't significantly affect their giving
+- Marketing projections maintained at pre-COVID levels based on donor data
+- Close monitoring of data to quickly update forecasts if situation changed
+
+Financial Scenarios and Planning:
+
+Whitney Shinkle presented detailed financial scenario planning for 2020-2021:
+
+2020 Scenarios (all amounts in millions):
+- Limited Impact: $13.4M unrestricted revenue vs. $11.2M budget
+- Modest Impact: $12.1M unrestricted revenue
+- Severe Impact: $8.5M unrestricted revenue
+
+With $17.0M in reserves available for 2020, even the severe scenario was manageable.
+
+2021 projections followed similar scenario planning, with the understanding that GiveWell would adjust 2021 spending if 2020 fundraising fell below the "limited" scenario.
+
+The scenario planning demonstrated sophisticated risk management—preparing for multiple contingencies while maintaining operational capacity to execute on mission.
+
+Governance Enhancements:
+
+Two important resolutions were unanimously approved:
+
+CEO Grantmaking Authorization:
+The board granted the CEO authority to approve up to $1,000,000 annually in grants supporting GiveWell's mission, from funds restricted to grantmaking at GiveWell's discretion.
+
+This represented a significant enhancement in operational flexibility. Previously, all grants from restricted funds required board or Grant-Making Subcommittee approval. The new authorization enabled:
+- Faster decision-making for small or time-sensitive grants
+- Reduced administrative burden on the board
+- Empowerment of management to execute on grantmaking strategy
+- Maintained accountability through annual reporting requirement
+
+The resolution carefully specified that grants would come from funds "restricted to grantmaking at GiveWell's discretion," ensuring donor intent was respected while providing operational flexibility.
+
+Prior Meeting Minutes:
+The board approved minutes from the February 27, 2020 meeting, maintaining standard documentation practices.
+
+Leadership and Organizational Presence:
+
+The meeting included presentations from key leaders:
+- Elie Hassenfeld (CEO)
+- Whitney Shinkle (Director of Operations)
+- Buddy Shah (Managing Director, recently started)
+- Stephanie Stojanovic (Major Gifts Officer)
+- Jim Bobowski (VP of Marketing)
+- Norma Altshuler (Board Advisor and prospective board member)
+
+This leadership team represented significant capability across all organizational domains—research, operations, marketing, development, and emerging institutional influence work.
+
+Looking Forward:
+
+Despite the pandemic disrupting normal operations, GiveWell was executing effectively on its strategic priorities. The organization had:
+- Comprehensive outreach plans with clear metrics and milestones
+- Systematic donor research informing strategy refinement
+- Detailed financial scenario planning preparing for multiple contingencies
+- Enhanced governance enabling operational flexibility
+- Strong leadership across all functions
+
+The tone throughout the meeting was one of adaptability and resilience. While acknowledging pandemic-related uncertainties and challenges, GiveWell was continuing to pursue its ambitious goals with thoughtful adjustments rather than wholesale strategic changes.
+
+The meeting demonstrated that the organizational foundation built over preceding years—strong operations, clear strategy, capable leadership, good financial management—enabled GiveWell to navigate disruption while maintaining focus on maximizing impact on global health and poverty alleviation.

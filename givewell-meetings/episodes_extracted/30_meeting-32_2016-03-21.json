@@ -1,0 +1,30 @@
+{
+  "index": 30,
+  "id": "meeting-32_2016-03-21",
+  "meetingNumber": 32,
+  "title": "GiveWell Board Meeting",
+  "date": "2016-03-21",
+  "dateDisplay": "March 21, 2016",
+  "audioFilename": "GiveWell_board_meeting_March_2016.mp3",
+  "duration": 4087,
+  "durationDisplay": "1h 8m",
+  "fileSize": 49052749,
+  "fileSizeDisplay": "47 MB",
+  "description": "Annual board meeting with comprehensive organizational review. Discussion of research developments and planning for 2016.",
+  "attachments": [
+    {
+      "filename": "Board_Meeting_Minutes_03_21_2016.pdf",
+      "type": "minutes",
+      "label": "Minutes",
+      "title": "Minutes",
+      "text": "Minutes for the March 21, 2016 meeting of the Clear Fund (aka GiveWell) Board of Directors  00:00:00 The meeting is called to order.  \t\r  00:01:08\t\r  Holden\t\r  provides\t\r  the\t\r  Board\t\r  with\t\r  an\t\r  update\t\r  on\t\r  the\t\r  Open\t\r  Philanthropy\t\r  Project\t\r  and\t\r  answers\t\r  questions\t\r  about\t\r  its\t\r  plan\t\r  for\t\r  next\t\r  year\t\r  \t\r  00:40:45\t\r  The\t\r  Board\t\r  discusses\t\r  GiveWell's\t\r  relationship\t\r  to\t\r  the\t\r  effective\t\r  altruism\t\r  movement\t\r  \t\r  00:47:35\t\r  The\t\r  Board\t\r  discusses\t\r  GiveWell's\t\r  relationships\t\r  with\t\r  other\t\r  charity\t\r  evaluators\t\r  \t\r  00:53:13\t\r  Elie\t\r  provides\t\r  the\t\r  Board\t\r  with\t\r  an\t\r  update\t\r  on\t\r  GiveWell's\t\r  outreach\t\r  \t\r  efforts\t\r  \t\r  00:57:35\t\r  Elie\t\r  provides\t\r  the\t\r  Board\t\r  with\t\r  an\t\r  update\t\r  on\t\r  the\t\r  new\t\r  GiveWell\t\r  website\t\r  \t\r  01:04:40\t\r  The\t\r  Board\t\r  discusses\t\r  the\t\r  structure\t\r  of\t\r  and\t\r  plan\t\r  for\t\r  future\t\r  board\t\r  meetings\t\r  \t\r  01:08:07\t\r  The\t\r  meeting\t\r  is\t\r  adjourned\t\r  "
+    },
+    {
+      "filename": "GiveWell_board_meeting_questions_March_21_2016.xlsx",
+      "type": "document",
+      "label": "Document",
+      "title": "Document",
+      "text": "[Excel file - text extraction not supported]"
+    }
+  ]
+}

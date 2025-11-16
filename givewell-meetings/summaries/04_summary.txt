@@ -1,0 +1,69 @@
+GiveWell Board Meeting Summary - Episode 4
+Meeting Number: 6
+Date: September 8, 2008
+Duration: 1 hour 48 minutes
+
+OVERVIEW
+This board meeting marked a crucial turning point for GiveWell (then operating as Clear Fund) as the organization recovered from earlier governance challenges and established new operational structures. The meeting focused on governance reforms, staff performance review, budget approval, and strategic goal-setting for the organization's second year.
+
+BOARD COMPOSITION
+The meeting began with a vote to add Lindy Miller to the Board of Directors, expanding the board's composition and bringing additional governance oversight to the organization.
+
+BANKING AND FINANCIAL GOVERNANCE
+The board approved comprehensive resolutions establishing new banking structures and financial controls. These resolutions created four separate accounts at Commerce Bank:
+
+1. A primary checking account for general organizational use
+2. A primary money-market account for general use
+3. A checking account specifically for the GiveWell Pledge Fund
+4. A money-market account specifically for the GiveWell Pledge Fund
+
+The resolutions formally established the GiveWell Pledge Fund, a donor-advised fund designed to enhance GiveWell's ability to advise and influence non-profits receiving donor contributions. This structure would allow GiveWell to directly facilitate and track donations to recommended charities.
+
+Critical financial controls were implemented requiring dual approval from both the Board Chair and Board Treasurer for any checks, drafts, or payments exceeding $5,000. Additionally, the resolutions mandated that all organizational expenses must receive Board of Directors approval either in advance or retrospectively, with the Executive Director held fully liable for any unapproved expenses and required to submit all expenses for board approval within one year of incurring them.
+
+Holden Karnofsky was designated as the sole authorized signatory for routine banking transactions, though subject to the $5,000 dual-approval threshold and broader expense approval requirements.
+
+STAFF PERFORMANCE REVIEW AND SALARY RESTORATION
+The meeting included an extensive two-part performance review of staff members Holden Karnofsky and Elie Hassenfeld, with the first hour conducted with staff present and a subsequent 30-minute executive session with board members only.
+
+The performance review referenced GiveWell's first-year annual review (available publicly at givewell.net/review-year-1) and the organization's online Issues Log, demonstrating a commitment to transparency and systematic evaluation of organizational performance.
+
+Following the performance review, the board voted on two critical proposals:
+
+1. To pay both Holden Karnofsky and Elie Hassenfeld at an annualized rate of $60,000 each plus health insurance fees through December 2008. This represented the continuation of reduced compensation that had been imposed as penalties following inappropriate marketing activities earlier in the year.
+
+2. To restore Holden Karnofsky to his positions as Executive Director and Board Secretary, positions from which he had apparently been removed following the earlier governance issues.
+
+The budget documents confirmed that both Holden's and Elie's salaries had been lowered by $5,000 each for 2008 (pro-rated) in reaction to their inappropriate marketing conduct, reducing their annualized compensation from $65,000 to $60,000.
+
+BUDGET APPROVAL
+The board reviewed and voted on the budget covering May through December 2008. This represented the second portion of the calendar year, with the January through April 2008 budget having been previously approved at the December 17, 2007 board meeting.
+
+The budget documents included a comprehensive summary of the organization's financial situation, showing projected expenses and revenue for the remainder of 2008. The budget reflected the reduced salary levels for the co-founders and included health insurance fees as additional compensation beyond base salaries.
+
+The May through December 2008 budget would guide organizational spending through the remainder of the year and represented the board's financial commitment to continuing operations despite the challenges encountered earlier in the year.
+
+STRATEGIC GOAL-SETTING AND METRICS
+A significant portion of the meeting focused on establishing appropriate metrics for measuring organizational success in the coming year. Staff proposed setting a goal of $500,000 in "money moved" from new donors as the primary success metric.
+
+The "money moved" metric was specifically defined as the sum of:
+(a) Grants given directly by the Clear Fund (the GiveWell Pledge Fund)
+(b) Individual donations made to recommended charities primarily on GiveWell's recommendation, including GiveWell Pledges
+
+This metric represented a strategic focus on demonstrating tangible impact by influencing donor behavior and directing significant capital to effective charities. The $500,000 target was ambitious given the organization's early stage and recent challenges.
+
+The staff's plan for the coming year emphasized why "money moved" was considered the most important and appropriate metric, reflecting a theory of change centered on donor influence rather than solely direct grant-making or research output.
+
+The board also discussed the possibility of hiring a third-party evaluator to review GiveWell's research, though the organization was leaning against this option. This consideration reflected ongoing concerns about research quality and credibility following the first year's challenges.
+
+ORGANIZATIONAL CONTEXT
+This meeting occurred during a critical period in GiveWell's history. The references to penalties for "inappropriate marketing" and the restoration of Holden's executive positions indicate the organization was recovering from significant governance challenges. The strengthened financial controls, expanded board composition, and careful performance evaluation all suggest the board was working to establish more robust oversight and accountability mechanisms.
+
+The establishment of the GiveWell Pledge Fund and the focus on "money moved" as a key metric represented strategic decisions about how GiveWell would demonstrate value and impact. Rather than positioning solely as a research organization, GiveWell was committing to actively facilitating and tracking donor contributions to recommended charities.
+
+OUTCOMES AND IMPLICATIONS
+The meeting resulted in several concrete outcomes: approval of new banking accounts and the GiveWell Pledge Fund structure, restoration of Holden's leadership positions, continuation of the reduced salary structure through December 2008, approval of the May-December 2008 budget, and adoption of the $500,000 money-moved goal as the primary success metric.
+
+These decisions established the operational and strategic framework that would guide GiveWell through the remainder of 2008 and into its second year of operations. The strengthened governance structures and clear performance metrics reflected lessons learned from the organization's challenging first year and positioned GiveWell for more sustainable growth.
+
+The meeting was scheduled for 2.5 hours total, with the next board meeting planned for November 2008, establishing a regular cadence of board oversight and governance.

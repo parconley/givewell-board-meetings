@@ -1,0 +1,56 @@
+GiveWell Board Meeting Summary - Episode 11
+Meeting Number: 13
+Date: July 14, 2010
+Duration: Not specified
+
+OVERVIEW
+This mid-year board meeting reviewed progress on 2010 priorities, approved proposed grants to top-rated charities, updated the budget, and assessed organizational developments including staff expansion, domain name acquisition, and planned India trip.
+
+RESEARCH PROGRESS AND PRIORITIES
+Research Maintenance and Systemization: GiveWell completed an extensive internal review checking each claim against supporting evidence - a significant time investment. The process was systemized with volunteer assignments, engaging two volunteers in meaningful work. Natalie Stone assumed responsibility for annual updates on recommended charities and exploring new charities, with all recommended charities and several potential ones having reviews in progress (none yet completed). Simon Knutsson also demonstrated long-term potential.
+
+The plan called for Natalie Stone to finish annual updates by November 1, 2010, continue investigating potential recommended charities as a medium priority, and have volunteers conduct further internal review work.
+
+Research Vetting and Credibility: Staff decided to complete their extensive internal review before actively pursuing critical scrutiny from experienced, credentialed experts. However, preliminary conversations occurred with four such individuals: three agreed to complete vetting when ready, and one (the best-credentialed) said it was possible depending on schedule.
+
+Various "vetting assignments" were created ranging from narrow to broad evaluations:
+- Laura Freschi received a fairly broad assignment evaluating basic criteria and heuristics, expected to complete within a month
+- Matt Bonds received a narrower assignment reviewing work on HIV/AIDS with no response yet
+- A "Celebrity Jeopardy" assignment (choosing a charity to give to within a pre-specified period) was being tested with a volunteer before sending to an academic who agreed to complete it
+
+Staff collected quotes on GiveWell from six relatively well-credentialed people (two pulled from existing online works, four provided on request), were working/waiting on four more, and had one declination based on not wanting to burn bridges with large NGOs. Staff expected at least two reviews of substantial research portions plus resolutions on all quote requests well before giving season.
+
+Research on New Causes: Progress included completing academic research review on U.S. equality of opportunity programs, identifying and contacting promising charities running promising programs, and collecting evidence for key points. Multiple rounds used heuristics to identify promising microfinance organizations, with subsequent contact and evaluation.
+
+Disaster relief and disease research remained in early stages with many conversations and several "false starts" finding appropriate criteria and processes. Staff expected to publish U.S. equality of opportunity and microfinance research by giving season (originally hoped for September 1, but this seemed optimistic). Uncertainty remained about publishing anything on disaster relief and disease research. Orphans and vulnerable children research (on the February 2010 agenda) would not occur this year.
+
+Packaging/Marketing/Outreach: GiveWell produced at least one substantial blog post weekly. A partnership with GuideStar launched via TakeAction portal. Conference/meeting appearances included Elie speaking at HBS Social Enterprise Forum, Holden speaking at Jewish Funders' Network conference, both attending the three-day Markets for Good meeting hosted by GlobalGiving in June 2010, with two more speaking engagements planned for 2010.
+
+Working with potential partners remained high priority when opportunities arose. Otherwise, marketing was low priority, with staff focusing on research quality and credibility establishment.
+
+GENERAL CHARITY EVALUATION FRAMEWORKS
+Not on the radar as of February 2010, but conversations with potential partners led to developing general frameworks for evaluating charities.
+
+The "General Charity Evaluation Framework" comprised a completely general set of 10 questions applicable to any charity, developed collaborating with Ken Berger of Charity Navigator and Tris Lumley of New Philanthropy Capital. Plans involved running it by additional parties before public publication and advocating adoption by GuideStar, Charity Navigator, and Jumo, hoping charities would receive "transparency scores" for answering questions and putting GiveWell in better position to evaluate them.
+
+The "Do-It-Yourself Project" (DIY) provided questions by cause, intended more for donors than charities/evaluators. GiveWell planned to shortly publish the first DIY draft, hoping Charity Navigator, GuideStar, and Jumo would adapt it as an informational tool for donors, potentially using it on GiveWell's own site for visitors interested in uncovered causes.
+
+OTHER DEVELOPMENTS
+Holden completed a two-week Africa trip. All of GiveWell was planning a three-month India trip to deepen understanding of developing-world interventions. GiveWell acquired the trademark and givewell.org domain name. The FY 2009 audit was in final stages.
+
+BUDGET AND FINANCIAL POSITION
+The 2009 budget review compared board-approved to actual expenses. Total expenses were generally lower than approved, with grants treated as matching actual amounts (determined by earmarked funds plus excess reserves). Insurance costs were higher due to switching to more expensive but better coverage and reclassifying workers' compensation and disability benefits.
+
+For January-May 2010, miscellaneous admin expenses exceeded budget due to $2,000 in legal fees for domain name transfer, $600 in still-due 2009 advertising expenses, approximately $500 in unanticipated travel expenses, and approximately $350 for required software upgrade. Salaries and benefits were lower than anticipated primarily because one of two contractors wasn't retained.
+
+June 2010-May 2011 projected budget (excluding grants) anticipated higher expenses from raising Natalie Stone's pay from $35,000 to $45,000 annually. Projected revenue included expected $50,000 from Hewlett Foundation but no restricted revenue. GiveWell would run out of funds in March 2012 if "major anticipated revenue" was received but no other revenue materialized. The "excess reserves policy" was not triggered.
+
+PROPOSED GRANTS
+Staff proposed dividing $11,352.60 in restricted assets accumulated for regranting evenly between VillageReach and Stop Tuberculosis Partnership, the two top-rated charities ($5,676.30 each).
+
+ORGANIZATIONAL TRAJECTORY
+This meeting demonstrated GiveWell's systematic approach to building research credibility through internal review, external vetting, and strategic partnerships. The focus on quality over speed, evident in the decision to complete internal review before pursuing external scrutiny, reflected organizational discipline.
+
+The development of general charity evaluation frameworks showed GiveWell's growing influence and willingness to contribute to sector-wide infrastructure beyond its own research. Collaborations with Charity Navigator, New Philanthropy Capital, GuideStar, and Jumo positioned GiveWell as a thought leader in charity evaluation methodology.
+
+The planned three-month India trip represented significant investment in deepening staff understanding of developing-world contexts, demonstrating commitment to improving research quality through direct observation and immersion.

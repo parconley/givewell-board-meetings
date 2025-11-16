@@ -1,0 +1,73 @@
+GIVEWELL BOARD MEETING #37 - JUNE 6, 2017
+
+This was one of the longest and most comprehensive board meetings on record at 2 hours and 10 minutes, reflecting the significant organizational transitions and strategic decisions following the formal separation of the Open Philanthropy Project.
+
+APPROVAL OF APRIL 25, 2017 MEETING MINUTES
+
+The board approved the minutes from the April 25, 2017 meeting where the board had given final approval to the Open Philanthropy Project split transaction. The board authorized Sarah Ward to redact or modify minutes as necessary for public posting in accordance with GiveWell's transparency commitment and confidentiality obligations.
+
+BOARD MEMBER RESIGNATIONS AND SIZE REDUCTION
+
+Elie explained that Jake Gibson and Phil Steinmeyer had resigned from the board, primarily to make the board a more manageable size for convening meetings and obtaining approvals. The board voted to decrease its size from eleven members to nine members, addressing the practical challenges of coordinating a large board while maintaining sufficient diversity of expertise and perspectives.
+
+The remaining nine board members were: Elie Hassenfeld, Holden Karnofsky (Secretary), Timothy Ogden (Vice-President), Rob Reich, Tom Rutledge (Chair), Brigid Slipka, Cari Tuna (Treasurer), Julia Wise, and Greg Jensen (who was considering resignation). This represented a transition to a more streamlined governance structure appropriate for GiveWell's stage of development.
+
+BUDGET REVIEW AND APPROVAL
+
+Natalie Crispin provided a comprehensive overview of GiveWell's budget-to-actuals for 2016-2017 and operating expense and revenue projections for June 2017 through December 2018. The board engaged in extensive discussion of the forward-looking budget and projections.
+
+For 2017, projected expenses were $4.6 million with revenues of $4.1 million. For 2018, projected expenses were $4.1 million with revenues of $4.1 million. Unrestricted assets at year-end were projected at $4.3 million for 2017 and $4.4 million for 2018, indicating healthy financial position following the Open Philanthropy split.
+
+Revenue projections for 2017 totaled $3.8 million in cash plus $200,000 in in-kind office space donated by Good Ventures, for total revenue of $4.1 million. The conservative scenario projected $3.4 million. Revenue sources included: Good Ventures at $750,000 (20% of operating expenses including in-kind office space); a private individual donor at $750,000 (GiveWell was now proposing to retain 20% of this donor's contribution for operating costs and grant the remainder to top charities, up from previous 10% retention, based on high likelihood of continued support); donors giving less than $10,000 projected at $1.09 million, up from $800,000 in 2016 (the higher projection reflected $360,000 already received in Q1 2017); and donors giving over $10,000 projected at $1.46 million compared with $1.55 million in 2016.
+
+The conservative projection excluded: donors who had given $10,000 before but not consistently or who GiveWell had reason to believe might not give again; revenue from new major donors; and half of projected funding from donors giving less than $10,000.
+
+Balance of unrestricted funds at end of 2016 was $4.66 million. Estimated balance at end of April 2017 was $5.31 million (of which GiveWell proposed restricting $960,000 per the policy on large unrestricted contributions).
+
+Revenue projections excluded several significant items not yet confirmed: funding from Good Ventures for 2017 GiveWell budget of $530,000 (to be requested after board budget approval); funding from Good Ventures to cover Open Philanthropy Project expenses between September 2016 (when the last grant ended) and June 1, 2017 split, anticipated at $2-3 million pending finalization of May books; and proceeds from sale of assets to Open Philanthropy Project LLC of $2.65 million, received May 31, 2017.
+
+With current projections, the excess assets policy was not triggered. The policy might be triggered after accounting for the asset sale and potential Good Ventures grant for Open Philanthropy expenses. GiveWell intended to revisit projections and the excess assets policy and make a proposal to the board before end of 2017.
+
+The board approved the July 2017 through June 2018 budget and the proposal to grant to recommended charities the amount in excess of 20% of unrestricted contributions from particular donors.
+
+EXPENSE APPROVAL THRESHOLD REFINEMENT
+
+Sarah explained the need to resolve ambiguity in the current expense approval threshold language in the bylaws. The board approved amending Article 6, Section 2 to authorize the executive director to sign checks and evidence of indebtedness representing unbudgeted expenses in amounts up to 10% of previously board-approved 12-month expenses for GiveWell. Expenses exceeding this amount would require approval from Audit Subcommittee members rather than the full board.
+
+Based on the $4.6 million 2017 budget, the executive director had authority for unbudgeted expenses up to $460,000, with the Audit Subcommittee handling larger unbudgeted items. This provided appropriate flexibility for normal operations while maintaining oversight of significant expenditures.
+
+EXECUTIVE DIRECTOR COMPENSATION
+
+Elie described the process for developing a proposal to update his compensation from $175,000 to $200,000 annually. After presenting and taking questions, Elie, Holden, Natalie, and Sarah left the room for board discussion.
+
+The compensation review included three categories of comparables. For foundations, private data from a 2016 survey of 131 foundations showed: For foundations with 16-50 employees (n=52), CEO base pay ranged from $378,000 (25th percentile) to $427,500 (median) to $529,900 (75th percentile), with total compensation from $449,000 to $504,900 to $649,600. For foundations with more than $1.5 billion in assets (n=36, overlapping with above, with median grants payout of $124 million), CEO base pay ranged from $561,000 to $671,500 to $763,100, with total compensation from $675,600 to $781,100 to $981,500. GiveWell's estimated 2016 money moved was slightly over $100 million ($92 million to top charities plus $10 million to Incubation Grants).
+
+For research nonprofits, 990 data from eight organizations (Innovations for Poverty Action, IDinsight, Evidence Action, Center for Global Development, Center for Effective Philanthropy, Urban Institute, GuideStar, Charity Navigator) showed President/CEO compensation in 2015 ranging from $163,350 (25th percentile) to $221,091 (median) to $331,952 (75th percentile) base pay, with total compensation from $190,701 to $231,317 to $426,458.
+
+For academics, UC Berkeley economics professors in 2014 (n=41) had base pay ranging from $143,450 (25th percentile) to $226,392 (median) to $269,833 (75th percentile), with total compensation from $183,550 to $264,414 to $336,367. Six professors with BAs in 2004 or later had total compensation of $57,000, $159,000, $153,000, $184,000, $169,000, and $227,000.
+
+The proposed $200,000 salary represented a $25,000 increase from $175,000, with Elie receiving no non-salary compensation from GiveWell. The board discussed setting up a formal Executive Director performance evaluation process before the next annual compensation review.
+
+The unconflicted board members approved the compensation proposal effective July 1, 2017.
+
+MISCELLANEOUS ADMINISTRATIVE ITEMS
+
+The board reviewed the document retention and destruction policy (unchanged), insurance policies and limits, and other administrative matters. The board and management agreed to investigate purchasing earthquake insurance during the next annual renewal review, recognizing the San Francisco location's seismic risk.
+
+Insurance coverage now included employee dishonesty and hired and non-owned auto coverage (both added since previous year), representing continued evolution of risk management.
+
+STRATEGY AND PRIORITIES DISCUSSION
+
+The board engaged in extensive discussion of GiveWell's strategy and proposed priorities for the coming year. The discussion addressed the process for conducting a strategy review involving the board, with Elie planning to confer with Tim about a list of strategy-setting questions for management to answer before the next board meeting.
+
+An attachment to the meeting materials outlined GiveWell's major priorities over the next 3-5 years, organized by functional area:
+
+RESEARCH PRIORITIES - The success GiveWell had achieved resulted from research quality, making these items crucial for continued impact. Key priorities included: (1) Maintain and improve the product by continuing to update views on current top charities, look for and find new top charities and interventions, revise and improve cost-effectiveness analysis, and identify opportunities through Incubation Grants while maintaining transparency. As part of this, GiveWell planned to formally revisit the focus on global health and development, though the expectation was to maintain this focus. (2) Comprehensively survey program areas in global health and development to have compelling answers for why GiveWell recommended certain programs and not others. Areas requiring systematic evaluation included education, agriculture, reproductive health, surgical interventions, health systems strengthening, and disease elimination/eradication programs. This might include approaches beyond direct program delivery such as improving tobacco or road safety regulations. (3) Ensure all charities that should be top charities are top charities, overcoming hurdles including charities misunderstanding GiveWell's process, incomplete assessment of intervention evidence, and capacity limitations. (4) Create mechanisms and incentives for people to start organizations that could meet GiveWell's criteria through Incubation Grants providing early-stage financial support, predictable criteria for recommendations, and significant funding if organizations succeeded.
+
+OUTREACH PRIORITIES - Historically a lower priority than research, outreach was now at a similar priority level given research quality. The primary goal was to significantly increase non-Good Ventures money moved from approximately $40 million annually to $100 million annually. In 2016, Good Ventures gave approximately $60 million to GiveWell recommendations ($50 million to top charities, $10 million to Incubation Grants), expected to continue.
+
+OPERATIONS AND ORGANIZATIONAL GOALS - Before mid-2016, operations had been a low priority, requiring substantial improvement work. Goals included: (1) High-quality operations infrastructure in donations processing, finance, legal, HR, tech, and office management to support research and outreach. (2) Robust organization not relying on any one individual, with contingency plans and ability to thrive if losing any individual.
+
+SIGNIFICANCE
+
+This comprehensive meeting addressed the full range of governance, financial, strategic, and operational questions facing GiveWell as an independent, focused organization following the Open Philanthropy separation. The detailed strategic planning discussion, refined governance processes, strong financial position, and clear priorities positioned GiveWell for the next phase of growth and impact.

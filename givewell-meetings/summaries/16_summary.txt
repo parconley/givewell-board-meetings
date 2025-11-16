@@ -1,0 +1,88 @@
+GiveWell Board Meeting Summary - Episode 16
+Meeting Number: 18
+Date: March 28, 2012
+Duration: Approximately 1 hour 42 minutes
+
+OVERVIEW
+This annual review board meeting examined GiveWell's exceptional 2011 performance showing $5 million in money moved (14:1 ratio to operating expenses), approved salary increases for co-Executive Directors from $75,000 to $90,000, and reviewed comprehensive strategic priorities for 2012 focusing on GiveWell Labs development and finding more top charities in global health and nutrition.
+
+COMPENSATION DECISION - SALARY INCREASE APPROVED
+The board voted to increase salaries for co-Executive Directors Holden Karnofsky and Elie Hassenfeld from $75,000 to $90,000 annually (plus health insurance coverage). The timing of this vote was not recorded in the minutes but occurred during the meeting.
+
+The proposed increase was supported by survey data from Professionals for Nonprofits NY Salary Survey 2010 showing Executive Director salaries ranging from $80,000-$100,000 for nonprofits with budgets under $2 million and $100,000-$120,000 for budgets of $2-$5 million. In 2011, GiveWell's operating expenses were $368,910 and money moved figure exceeded $5 million, positioning the organization between these budget categories.
+
+BUDGET REVIEW - 2011 ACTUAL VS. BUDGET
+The board approved the budget at 15 minutes into the meeting after reviewing 2011 performance. Total 2011 expenses were $368,910 against budgeted $339,001, representing 109% of budget. Revenue reached $738,159 in unrestricted funds against budgeted $459,482, exceeding projections by 61%.
+
+Specific expense categories showed:
+- Payroll: $299,690 (actual) vs. $295,592 (budget) - essentially on target
+- Bookkeeping: $14,465 vs. $12,000 - monthly expenses rose to $1,200
+- Developing world trips: $12,298 vs. $0 budgeted - three staff visited Malawi, two visited India; ongoing budget added for future trips
+- Miscellaneous admin: $12,914 vs. $5,000 - included approximately $5,000 travel (SF trip, two Seattle trips to meet Gates Foundation, board airfare reimbursement, employee relocation for work visa), $1,200 donation processing fees, $1,200 payroll processing, $600 mailbox rental, $1,200 software, $1,200 telephone and internet
+- Website development: $6,036 vs. $5,000
+- Insurance: $5,555 vs. $2,109 - had under-budgeted; added general liability coverage
+- Rent: $7,875 vs. $7,800
+- Pledge-raising: $3,577 vs. $5,000 - Google Grants allowed more advertising on smaller budget
+- Audit fee: $6,500 vs. $6,500
+
+PROJECTED 2012 FINANCES
+Projected 2012 expenses totaled $632,677 against revenues of $636,500, creating a small projected surplus. The projection assumed significant staff expansion: 3 analysts on January 1, 2012; 1 more added by April 1; 4 more plus 2 interns added during summer, reaching total staff of 2 executives and 7 analysts by year-end (though possibly as few as 5 analysts).
+
+Projected renewed revenue included $200,000 from 2 institutions (decent likelihood), $321,500 from 27 individuals (good likelihood of renewal), $75,000 from 5 individuals (decent likelihood), $40,000 one-time institutional funding for 2012 only, and $72,351 from small donors (under $2,000) with unknown renewal likelihood.
+
+Reserves as of late 2011 stood at approximately $720,642, projected to dip to $547,222 by Q3 2012 before rising to $776,296 by year-end due to concentration of donations in December.
+
+2011 MONEY MOVED - EXCEPTIONAL GROWTH
+GiveWell moved $5,285,992 to recommended charities in 2011, a dramatic increase over approximately $1.5 million in 2010. This represented a 14:1 ratio of money moved to operating expenses ($356,000), well exceeding the organization's loose long-term target of 9:1.
+
+Against Malaria Foundation (AMF), the #1-ranked charity as of December 2011, received over $2 million. Schistosomiasis Control Initiative (SCI), the #2-ranked charity, received more than $600,000. VillageReach, the top-rated charity through November 2011, received more than $600,000. Three additional organizations received more than $75,000 and one received more than $50,000.
+
+Good Ventures grants to top charities plus GiveWell Labs pre-commitments accounted for approximately $1.75 million (33% of total). Excluding these, the remaining $3.25 million alone would produce approximately 9:1 ratio.
+
+DONOR COMPOSITION AND CHARACTERISTICS
+The vast majority of money moved came from relatively few large donors: 55 donors giving $10,000 or more (excluding Good Ventures and GiveWell Labs funding) accounted for 70% of money moved.
+
+These major donors were notably young and concentrated in specific industries: Close to 80% came from donors under age 50; approximately 45% from donors under age 40. Most commonly employed in finance or technology.
+
+Major donors most commonly found GiveWell by proactively looking for effective giving resources. Otherwise, they learned about GiveWell via Peter Singer, media mentions (print or online).
+
+Approximately two-thirds of funding from surveyed major donors was reallocated from other organizations; approximately one-third were just beginning to give. Most commonly, funds were reallocated from other international organizations.
+
+WEB TRAFFIC GROWTH
+Web traffic roughly doubled in 2011 compared to 2010. Main sources of increased traffic were Google search (AdWords and organic). Website traffic continued showing year-over-year growth exceeding 100%.
+
+GiveWell's website processed more giving than GuideStar's and about 42% as much as Charity Navigator's, despite offering far fewer charity options. This comparison provided evidence that 2011 growth was due to GiveWell-specific factors rather than generalized increases in online giving.
+
+2012 RESEARCH PRIORITIES
+The board spent approximately one hour discussing annual review and plan. Top-level priorities for 2012 were:
+
+#1: Make significant progress on GiveWell Labs - the new research arm open to any giving opportunity regardless of form or sector, representing substantial opportunity to find great giving opportunities and expand target audience.
+
+#2: Find more top charities under the same framework as existing recommendations - focusing on global health and nutrition interventions with strong evidence bases. Staff expected to investigate priority interventions (immunization campaigns, insecticide-treated bednets, neglected tropical disease control, nutrition interventions focused on micronutrients, tuberculosis control) more intensively rather than continuing broad outreach to many charities.
+
+#3: Expand team - currently recruiting Research Analysts and considering hiring for more specialized roles. Hope to reach 8 full-time employees by end of 2012.
+
+Additional priorities: Regular updates on charities receiving most funding; deeply investigating important research questions (risks of population growth, benefits of deworming); updating disaster relief research; raising funding for team expansion; revisiting process for formal external review of research; improving donation tracking and processing; low-hanging fruit outreach efforts including website improvements, conference calls and community events.
+
+STRATEGIC SHIFT IN RESEARCH APPROACH
+All strongest charities found to date (VillageReach, AMF, SCI) were within global health and nutrition, focusing on interventions with substantial evidence bases - the kind found only within this area. Staff expected to spend more time in 2012 on intensive investigations of large charities working in priority areas than on broad outreach, marking change from 2011 strategy of examining large numbers of charities and deeply investigating those showing promise.
+
+Current top charities had significant room for more funding (AMF could absorb up to $15 million, SCI could absorb a few million), so ending 2012 without new top charities would be highly undesirable but not catastrophic. This made GiveWell Labs slightly more crucial than finding new traditional top charities.
+
+RESEARCH QUALITY IMPROVEMENTS
+The level of vetting for top charities increased significantly in 2011: Staff visited all three leading contenders for highest ratings in October before giving top ratings (intended to continue this practice); conducted extensive cost-effectiveness and evidence reviews going significantly beyond previous years; completed regular VillageReach updates; received several additional external reviews though attempts to significantly expand this process were unsuccessful.
+
+Access to relevant people (charity representatives, scholars, major funders) improved substantially, along with team growth, improving ability to do in-depth research efficiently.
+
+ORGANIZATIONAL ROBUSTNESS
+The organization had 3 full-time analysts as of February 2012, with an offer made to one analyst starting July (bringing to 4 full-time analysts). Organization hoped to reach 6 full-time analysts (8 total employees) by summer 2012.
+
+Analysts took the lead on most charity investigations; co-founders provided basic guidance and signed off on work before publication. GiveWell Labs would be led by co-founders given its experimental nature.
+
+Turnover remained an issue - two analysts who worked in 2011 had since left. Staff didn't view turnover as problematic, recognizing GiveWell was unique environment fitting some people and not others, with relatively high turnover expected to continue.
+
+INSURANCE COVERAGE
+The board approved current insurance coverage through Philadelphia Insurance Companies including Directors & Officers Liability, Employment Practices, Internet Liability, Professional Liability, General Liability, and Property coverage. The organization maintained minimal Property insurance, relying on Carbonite backup service for electronic records. No coverage for employee dishonesty, hired/non-owned auto, or business interruption - all deemed unnecessary for operations.
+
+IMPLICATIONS
+This meeting demonstrated GiveWell's successful scaling from small research organization to influential evaluator moving over $5 million annually. The 14:1 ratio of money moved to expenses validated the organizational model. The strategic focus on global health and nutrition reflected lessons learned about where truly outstanding opportunities could be found, while GiveWell Labs represented recognition that serving major donors required different research approaches than serving individual donors.

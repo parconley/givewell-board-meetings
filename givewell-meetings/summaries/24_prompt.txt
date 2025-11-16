@@ -1,0 +1,129 @@
+Based on the following board meeting documents for a Clear Fund Board Meeting held on April 30, 2014, generate a comprehensive ~1000-word summary that acts as a professional brief.
+
+The summary should cover:
+- Key decisions made and votes taken
+- Important discussions and debates
+- Financial/budget information with specific numbers
+- Strategic direction or policy changes
+- Personnel or organizational changes
+- Any significant outcomes or action items
+
+Keep the tone professional and factual. Focus on substance over process. Be specific with numbers, names, and decisions.
+
+Meeting Documents:
+=== Minutes ===
+Minutes for the April 30, 2014 meeting of the Clear Fund (aka GiveWell) Board of 
+Directors  
+00:00:00 Meeting called to order .  
+00:01:51 Board begins discussion of  GiveWell's provisional budget.  
+00:18:36 Board begins discussion of GiveWell's fundraising.  
+00:45:00 Board provisionally votes to approve the budget, to be formally approved in June.  
+00:46:25 Board discusses general questions about GiveWell's progress.  
+
+=== Document ===
+[Excel file - text extraction not supported]
+
+=== Document ===
+GiveWell Board Meeting, April 30, 2014 
+ 
+This page includes: 
+ 
+●Budget/fundraising update 
+●Recruiting update 
+●Update on outreach activities 
+●Money moved metrics to date in 2014 
+ 
+Budget/fundraising update 
+ 
+Overall budget situation (in millions) 
+ 
+Current reserves   $2.00 
+12m forward expenses  $1.52 
+12m forward revenues  $1.95 
+ 
+Note that we project 12m forward expenses exceeding 12m revenues in December 2014. We 
+project holding less than 1 year of reserves as of July 2014, so we continue to see fundraising as 
+an important priority. 
+ 
+Revenue sources reasonably likely to recur, by donor size 
+ 
+Category  Number  Amount 
+100k+ donors  6  $1,040,000 
+50­99k donors  3  $150,000 
+20­49k donors  3  $71,000 
+10­19k donors  20  $396,700 
+5­9k donors  17  $98,000 
+<5k donors  310  $188,604 
+ 
+Diversity of funding sources 
+ 
+% of 12m forward revenues coming from:  
+ 
+
+ Good Ventures  12% 
+ 5 largest donors  48% 
+ 10 largest donors  67% 
+ 20 largest donors  76% 
+ 
+Recruiting 
+ 
+We continue to work to expand our staff. Staff expansion over the past year (in 2013 we went 
+from 5 to 11 full­time staff members) has allowed us to (a) increase the number of organizations 
+we can consider for our traditional top charities research and (b) increase the pace of our work 
+in GiveWell Labs.  
+ 
+In 2014: 
+●We're hoping to expand our entry­level Research Analysts from ~4 to at least 6 and 
+possibly more. 
+●We're planning a summer intern class of 4­6 hoping that some become full­time hires 
+post graduation. 
+●We have also hired 5 conversation notes writers (who work remotely and whose sole 
+responsibility is preparing conversation notes for publication). 
+●We made our first senior, cause­specific hire for Labs, hiring Shayna Strom as a US 
+Policy Director. 
+●We've continued to increase the number of consultants working with us and are now 
+working with approximately 10. 
+ 
+Outreach update 
+ 
+Our primary focus is research, not outreach but we are doing the following things for outreach: 
+ 
+1.Donors.  
+a.Events: We hold semi­annual research events for donors in NYC, and SF. We 
+held our first event in Boston this year.  
+b.One­on­one calls: we aim to talk to all donors who have given at least $10k to 
+build the relationship. 
+2.Proactive outreach in Bay Area. We've had 3 meetings this year with potentially major 
+donors in the Bay Area. In one case, the individual is now supporting GiveWell and 
+intends to support our future recommendations. In another case, we seem reasonably 
+well aligned with the individual but he has not starting to give substantially yet. The final 
+case is less clear. 
+ 
+Metrics update 
+
+ 
+The charts below show progress on key metrics thus far in 2014: 
+ 
+1. Total number of donors (in thousands) who have supported our top charities as of April 28 for 
+2012, 2013, and 2014 
+ 
+ 
+ 
+2. Amounts given by donors to top charities as of April 28th for 2011­2014, by donation size 
+ 
+ 
+ 
+3. Web traffic by major medium 
+ 
+Excluding AdWords, we've had 15% growth in web traffic to this date in 2014 vs. 2013 (205,821 
+visits vs. 177,731). 
+ 
+
+ 
+Organic = Unpaid Google search 
+CPC = Paid Google search 
+(None) = Direct traffic 
+Referral = Via external web link 
+
+
+Generate a comprehensive summary (approximately 1000 words):

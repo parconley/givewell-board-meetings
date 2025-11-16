@@ -1,0 +1,125 @@
+Episode 38: Board Meeting - April 30, 2019
+
+Meeting Details:
+- Date: April 30, 2019
+- Duration: 1 hour 51 minutes
+- Format: Conference call
+- Chair: Tim Ogden
+
+Summary:
+
+This spring 2019 board meeting marked significant organizational transitions for GiveWell, with major governance restructuring, board leadership changes, and comprehensive reviews of progress and strategic direction as the organization continued scaling its operations and impact.
+
+Governance Restructuring and Leadership Transition:
+
+The most significant development was a comprehensive reorganization of GiveWell's board structure and leadership. Multiple board members had recently resigned, prompting a strategic reassessment of optimal board size and composition.
+
+Board Size Reduction:
+The board voted to reduce its size from the existing number to five members. This decision reflected a deliberate choice to create a more nimble, efficient governing body that could convene more easily and make decisions more quickly while still providing appropriate oversight. The smaller board would include Tim Ogden, Holden Karnofsky, Cari Tuna, Elie Hassenfeld, and Julia Wise.
+
+Board Leadership Changes:
+With Tom Rutledge's resignation as Board Chair, the board elected new leadership:
+- Tim Ogden became Board Chair
+- Holden Karnofsky became Vice Chair
+
+This transition brought fresh perspectives to board leadership while maintaining continuity through experienced board members who understood GiveWell's mission and strategic direction.
+
+Officer Appointments:
+The board appointed new GiveWell staff officers to formalize operational responsibilities that were already being effectively executed:
+- Natalie Crispin became Vice President and Treasurer
+- Whitney Shinkle became Secretary and Vice Treasurer
+
+These appointments recognized the critical roles these staff members played in GiveWell's operations and ensured proper alignment between operational responsibility and formal authority. An important provision specified that if the Vice President ever needed to act as President (a role not permitted to be held concurrently with Treasurer), the Vice Treasurer would immediately assume the Treasurer role to maintain proper separation of duties.
+
+Board Committee Restructuring:
+The reduced board size necessitated consolidation of board committees. The board voted to dissolve three subcommittees:
+- Finance Subcommittee
+- Strategy Subcommittee
+- Grant-Making Subcommittee
+
+With only five board members, maintaining multiple separate committees had become impractical. The Audit Subcommittee was retained with the following members:
+- Tim Ogden
+- Julia Wise
+- Holden Karnofsky
+
+This streamlined structure acknowledged that a smaller board could handle many matters collectively rather than through specialized subcommittees, while maintaining the Audit Subcommittee for its critical oversight function.
+
+Ratification of Prior Board Decisions:
+
+An important governance action involved ratifying prior board decisions that had been removed from the bylaws during a December 2018 revision. While these provisions were deemed inappropriate for inclusion in bylaws, the board wanted to retain them as internal policy guidance.
+
+The ratified policies covered essential governance areas:
+
+Board Meetings: Confirmed the requirement for at least three board meetings annually.
+
+Duties of Directors: Reaffirmed comprehensive director responsibilities including:
+- Formal CEO performance review at least every two years
+- Formal budget approval
+- Written agreements with outside fundraising firms
+- Monitoring of conflict of interest policy adherence
+- Appointment of a board member to oversee finances
+- Prohibition of concurrent chair and treasurer roles
+- Annual review of Form 990, audited financial statements, and related documents
+
+Executive Director Authority: Confirmed that the Executive Director could sign checks and evidence of indebtedness for unbudgeted expenses up to 10% of previously board-approved 12-month expenses, with audit committee approval required for amounts exceeding this threshold. Importantly, the Executive Director could delegate this authority while remaining ultimately responsible.
+
+Compensation Approval Policies: Established detailed procedures for approving compensation to ensure compliance with IRS requirements for avoiding excess benefit transactions, including:
+- Prior approval of compensation terms
+- Independence of approving board members from the compensated individual
+- Use of appropriate comparability data
+- Detailed documentation in meeting minutes
+- Special provisions for organizations with under $1 million in annual gross receipts
+
+These detailed policies ensured GiveWell maintained appropriate governance practices even though they were now documented as internal policy rather than in the bylaws themselves.
+
+2018 Review and 2019 Plans:
+
+Elie led an extensive discussion of GiveWell's achievements in 2018 and strategic plans for 2019, covering all major organizational domains.
+
+Key Achievements in 2018:
+
+Research: GiveWell had made significant progress in improving research quality and transparency. Major accomplishments included:
+- Completing new intervention reports on community-based management of acute malnutrition and syphilis screening and treatment during pregnancy
+- Publishing five total new intervention reports
+- Making major methodological improvements, such as changing how worm intensity was calculated for deworming programs
+- Enhancing transparency through better blog post structure and more detailed explanations of funding allocation decisions
+- Recommending five new GiveWell Incubation Grants and two grant renewals
+
+Operations and Outreach: Whitney Shinkle had successfully transitioned into the Director of Operations role, and Ben Bateman had joined as the first-ever Head of Growth. These hires represented crucial capacity additions for organizational scaling.
+
+Key Failures in 2018:
+
+The review candidly acknowledged areas where GiveWell had fallen short:
+- Donor retention efforts had not yielded the material improvements hoped for
+- Relatively little progress was made exploring new policy-oriented research areas
+- Some outreach experiments had unclear or disappointing results
+
+2019 Strategic Priorities:
+
+Building Research Capacity: GiveWell aimed to have 3-5 signed offer letters from new research staff by year-end. The organization was doubling down on recruitment to enable expansion into new research areas and improve research quality and transparency.
+
+Outreach Experimentation: Multiple initiatives were planned:
+- Deciding whether to scale major gifts work based on results from Stephanie Stojanovic's initial efforts
+- Conducting experiments with messaging and marketing approaches
+- Beginning the search for a Director of Outreach to coordinate across outreach domains
+
+Exploring New Research Areas: GiveWell planned to investigate public health regulation and possible paths to support government aid agencies, while acknowledging this work was early-stage and goals might need revision.
+
+Improving Organizational Strength: Plans included hiring an Operations Associate, improving onboarding procedures, enhancing staff feedback systems, and moving to a new office better suited to the organization's growing size.
+
+Staff Feedback and Executive Performance:
+
+An important component of the meeting was Elie's presentation of feedback from his 360-degree review, conducted by executive coach Scott Garrell. The review, which surveyed six senior staff members, provided comprehensive feedback on Elie's management and GiveWell's overall status.
+
+The review was overall positive with no major areas of concern identified. Three consistent areas for improvement were highlighted:
+- Listening
+- Delegation
+- Inspirational leadership
+
+Elie and Scott had developed a plan to address these areas, demonstrating commitment to continuous improvement in leadership effectiveness. GiveWell was also considering implementing similar 360-degree review processes organization-wide as part of enhanced feedback mechanisms.
+
+Looking Forward:
+
+The meeting concluded with unanimous approval of all governance restructuring resolutions. The smaller, more streamlined board structure, combined with clear strategic priorities and honest assessment of both successes and failures, positioned GiveWell for continued growth and impact.
+
+The tone reflected organizational maturity—willingness to make bold governance changes, transparent acknowledgment of shortcomings, and systematic approaches to leadership development and strategic planning. GiveWell was evolving from a research organization with some outreach capacity to a more balanced organization pursuing excellence across research, outreach, and operations.

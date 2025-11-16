@@ -1,0 +1,20 @@
+Based on the following board meeting documents for a GiveWell Board Meeting held on March 21, 2016, generate a comprehensive ~1000-word summary that acts as a professional brief.
+
+The summary should cover:
+- Key decisions made and votes taken
+- Important discussions and debates
+- Financial/budget information with specific numbers
+- Strategic direction or policy changes
+- Personnel or organizational changes
+- Any significant outcomes or action items
+
+Keep the tone professional and factual. Focus on substance over process. Be specific with numbers, names, and decisions.
+
+Meeting Documents:
+=== Minutes ===
+Minutes for the March 21, 2016 meeting of the Clear Fund (aka GiveWell) Board of Directors  00:00:00 The meeting is called to order.  	  00:01:08	  Holden	  provides	  the	  Board	  with	  an	  update	  on	  the	  Open	  Philanthropy	  Project	  and	  answers	  questions	  about	  its	  plan	  for	  next	  year	  	  00:40:45	  The	  Board	  discusses	  GiveWell's	  relationship	  to	  the	  effective	  altruism	  movement	  	  00:47:35	  The	  Board	  discusses	  GiveWell's	  relationships	  with	  other	  charity	  evaluators	  	  00:53:13	  Elie	  provides	  the	  Board	  with	  an	  update	  on	  GiveWell's	  outreach	  	  efforts	  	  00:57:35	  Elie	  provides	  the	  Board	  with	  an	  update	  on	  the	  new	  GiveWell	  website	  	  01:04:40	  The	  Board	  discusses	  the	  structure	  of	  and	  plan	  for	  future	  board	  meetings	  	  01:08:07	  The	  meeting	  is	  adjourned	  
+
+=== Document ===
+[Excel file - text extraction not supported]
+
+Generate a comprehensive summary (approximately 1000 words):

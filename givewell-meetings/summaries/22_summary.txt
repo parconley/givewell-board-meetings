@@ -1,0 +1,35 @@
+GIVEWELL BOARD MEETING #24 - AUGUST 14, 2013
+
+FUNDRAISING POLICY FRAMEWORK
+
+The board discussed and established a comprehensive fundraising policy to guide GiveWell's approach to raising operating funds. The policy established that operating expenses up to 15% of projected money moved would be considered appropriate, based on analysis of what major foundations spend on operating expenses as a percentage of annual grants. GiveWell had assembled data for the top 10 private foundations in the U.S. and found that 5 of the 10 had operating expenses equal to at least 15% of annual grantmaking, with a median of 13.67% and mean of 13.88%.
+
+The 15% benchmark was further validated by comparison to fee structures in analogous industries. Normal hedge fund fees of 2% of assets managed plus 20% of realized returns would equate to 4% of assets for a 10% return; a foundation spending 4% of assets on operations while granting 5-10% would have an operating-expense-to-grants ratio of 40-80%. Real estate broker fees typically range from 4-7% of sale price, contingency recruiters charge 20-25% of first-year compensation for placements, and talent agents typically charge 10% of negotiated payments.
+
+The policy distinguished between "operating expenses based on individual donors" and "operating expenses based on major donors," with major donors defined as those giving more than $250,000 per year. GiveWell would first attempt to raise enough funds primarily from individual donors (those giving $250,000 or less per year) to support the lesser of desired operating expenses or 15% of projected money moved from individual donors. The organization would then determine whether a higher level of operating expenses was warranted based on additional projected impact from influencing major donors, raising any gap from the major donors that GiveWell serves.
+
+BUDGET SITUATION AND HIRING EXPANSION
+
+Since the last budget update, GiveWell had converted one trial hire to full-time, added another active trial hire, and made arrangements for a future trial hire with someone who had previously declined a full-time offer in 2011. The organization increased the priority of recruiting based on perceived need for more capacity at both junior and senior levels and improvements in the recruiting and evaluation process through increased emphasis on referrals for recruiting and trial hires for evaluation.
+
+Projected expenses increased to approximately $1.1 million over the next 12 months against approximately $650,000 in projected revenues, creating a substantial deficit. This was a conservative expense projection assuming one more senior and two more junior staff starting in January 2014, plus converting all discussed trial hires to full-time and maintaining one ongoing trial hire slot. The projection excluded rent and research contractors, both paid for via in-kind donations or earmarked funding from Good Ventures.
+
+Detailed payroll projections for non-executive staff showed: $146,223 for August-October 2013 with 8 analysts, increasing to $169,281 for November 2013-January 2014, then jumping to $215,397 for February-April 2014 and $223,919 for May-July 2014 as the four additional hires (two senior) started in January 2014. This reflected aggressive staff expansion to build organizational capacity.
+
+The current projected expenses of approximately $1.1 million were substantially larger than projected revenue but smaller than the benchmark of 15% of projected money moved from individual donors. With projected money moved of approximately $9 million, appropriate operating expenses could reach approximately $1.35 million under the policy framework.
+
+FUNDRAISING PLAN
+
+GiveWell planned to create a series of blog posts explaining the fundraising policy framework and budget situation, then approach major "customer-donors" with these materials to solicit direct donations for operating expenses. While the organization would discuss fundraising needs on the blog and in conversations with donors where appropriate relationships existed, the primary ask for first-time donors and the emphasis of the website would remain focused on giving to top charities rather than supporting GiveWell directly.
+
+This approach recognized a fundamental aspect of GiveWell's business model: the organization's primary value proposition was identifying outstanding giving opportunities for donors, and maintaining this focus in donor communications would preserve the organization's credibility and appeal. Operating expense fundraising would be targeted and relationship-based rather than the primary public message.
+
+ORGANIZATIONAL PHILOSOPHY
+
+The board discussed why GiveWell's fundraising situation was unique, examining the organization's unusual position in the philanthropic landscape. Unlike traditional charity evaluators that charged fees for services or traditional nonprofits that solicited donations for their programs, GiveWell operated as a free public good while directing funds primarily to other organizations. This created distinctive challenges and opportunities in fundraising for operations.
+
+The discussion emphasized that GiveWell's impact came through money moved to recommended charities, making operating expense fundraising a meta-level activity that required careful positioning. The organization needed to demonstrate that spending on operations generated sufficient additional high-quality giving to recommended charities to justify the investment, using the foundation comparison data to establish credibility for the 15% benchmark.
+
+FUTURE WORK ON COMPENSATION ANALYSIS
+
+The board noted that additional work was underway on better analysis of what the trajectory of staff compensation should look like over time. This would be presented at a future meeting. The discussion acknowledged that attracting and retaining high-quality research talent, particularly in expensive San Francisco, required competitive compensation that might need to increase as employees gained experience and took on greater responsibility.

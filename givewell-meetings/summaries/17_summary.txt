@@ -1,0 +1,72 @@
+GiveWell Board Meeting Summary - Episode 17
+Meeting Number: 19
+Date: July 2, 2012
+Duration: Approximately 2 hours 49 minutes
+
+OVERVIEW
+This board meeting focused on two major strategic topics: GiveWell's evolving partnership with Good Ventures (including plans to move to San Francisco) and the organization's research agenda. The meeting ran approximately 2 hours 49 minutes with discussion of the Good Ventures partnership occupying the first 1 hour 54 minutes, followed by 51 minutes discussing research agenda.
+
+GIVEWELL AND GOOD VENTURES PARTNERSHIP
+The board spent extensive time discussing GiveWell's relationship with Good Ventures, a major funder and foundation. The discussion began at 4 minutes 21 seconds into the meeting and continued until 1 hour 58 minutes 35 seconds.
+
+Key aspects of the relationship discussed included the degree of coordination between organizations, potential co-location, operating support arrangements, and implications for GiveWell's independence and credibility with retail donors.
+
+The partnership represented both significant opportunities and risks. Good Ventures could provide operating support, access to charities and scholars that was easier for a foundation to obtain, and staff whose interests aligned with GiveWell's mission. GiveWell could provide larger staff, organizational experience, research capacity, recruiting and management support, and advice on running a transparency-focused, sector-agnostic organization.
+
+MOVE TO SAN FRANCISCO
+Plans to move GiveWell to San Francisco were discussed as part of the Good Ventures partnership. This represented a major organizational change as GiveWell had been based in New York since founding.
+
+The move would facilitate closer coordination with Good Ventures, which was based in San Francisco, and potentially enable co-location arrangements that could improve efficiency in recruiting, training, and day-to-day operations.
+
+RESEARCH AGENDA DISCUSSION
+The board began discussing GiveWell's research agenda at 1 hour 58 minutes 35 seconds, continuing until the meeting adjourned at 2 hours 49 minutes 59 seconds.
+
+The research agenda discussion likely covered priorities for finding additional top charities, development of GiveWell Labs, and strategic approaches to investigating giving opportunities in global health and nutrition - topics that had been outlined in earlier planning documents.
+
+STRATEGIC QUESTIONS UNDER CONSIDERATION
+Based on the limited documentation, the meeting appears to have addressed fundamental questions about GiveWell's direction:
+
+Partnership structure: How closely should GiveWell work with Good Ventures while maintaining independence? Options ranged from merger to separate organizations with coordinated policies to more formal measures emphasizing relationship limitations.
+
+Target audience: Should GiveWell prioritize "retail donors" (giving under $250,000 annually) or "major funders" (giving $1 million+ annually)? The organization faced potential tradeoffs between serving these groups.
+
+Research approach: Should GiveWell continue focusing exclusively on "passive" funding (no-strings-attached donations to existing organizations) and "proven cost-effective" interventions, or should it consider more "active" funding (designing strategies and restricting donations accordingly) and interventions with less empirical evidence?
+
+FINANCIAL CONTEXT
+Good Ventures had provided approximately 10% of GiveWell's 2011 operating budget and made $1.1 million in grants to GiveWell's top charities in 2012. GiveWell also had relationships with a few other major funders giving in the range of $1 million annually, possibly more in future.
+
+In 2011, retail donors accounted for $3.25 million in donations to top charities (excluding Good Ventures and GiveWell Labs). Growth from retail donors in 2012 had been strong but slower than 2011 - approximately 150% year-over-year growth as of June 30, 2012, compared to 300% year-over-year growth as of June 30, 2011.
+
+ORGANIZATIONAL IDENTITY QUESTIONS
+The meeting appears to have grappled with fundamental questions about whether and how GiveWell should evolve to resemble a foundation while maintaining distinctive characteristics:
+
+Similarities to foundations: GiveWell saw its role as helping allocate funds (money moved) as effectively as possible and was open to using intuition and judgment rather than rigid formulas.
+
+Differences from foundations: GiveWell's brand was built on transparency with expectation of publishing full analysis details, being "sector-agnostic" (choosing issue areas based on impact judgment rather than personal passions), and holding itself to unusually high standard of self-criticism with transparency enabling public accountability.
+
+IMPLICATIONS FOR CREDIBILITY
+A central concern appears to have been maintaining GiveWell's credibility, particularly with retail donors, while deepening the Good Ventures relationship. The organization needed to ensure it could:
+- Set research agenda based on beliefs about most promising exploration avenues
+- Make recommendations based on beliefs about best giving opportunities
+- Write honestly about strengths, weaknesses, successes and failures of recommended groups
+- Publicly critique groups supported by Good Ventures, and Good Ventures itself, when warranted
+
+RESEARCH EVOLUTION
+GiveWell appeared to be contemplating relaxing previous criteria that focused on "passive" funding and "proven cost-effective" interventions. The organization felt it would not find enough outstanding giving opportunities if it retained these criteria, but recognized some donors valued GiveWell for "standing above the fray" and higher subjectivity could lessen trust.
+
+Staff's preference appeared to be relaxing both criteria while placing high priority on maintaining enough "room for more money moved" in opportunities meeting original criteria to satisfy demand for such opportunities.
+
+TRANSPARENCY CHALLENGES
+With higher profile and more in-person conversations, GiveWell faced challenges maintaining transparency. Current processes involved recording conversations, producing summaries, running them by conversation partners for approval before posting; being up-front about recording plans with opt-out opportunities; notifying organizations about plans to write about thinking with opportunity to withhold nonpublic information and provide prominent public responses.
+
+Staff felt this resulted in large quantity of publicly available information with some tense moments but no apparent outright anger or burned bridges. The process was time-consuming for GiveWell and partner organizations, but benefits in being public about thinking and providing transparency example outweighed costs.
+
+GENERAL SUPPORT FRAMEWORK
+GiveWell appeared to be developing guidelines for "general support" provided to other organizations with mission overlap. For Good Ventures, GiveWell was willing to spend up to 20 total person-hours per week on general support, of which up to 10 person-hours could be co-Executive Director time. This would be carefully tracked with targets subject to revision.
+
+GiveWell anticipated potentially providing similar support to other funders in future, based on: value of relationship (what organization could do to help GiveWell directly); independent impact of organization receiving support (how powerful/influential it was or would be; how aligned its mission was with GiveWell's).
+
+STRATEGIC SIGNIFICANCE
+This meeting represented a major inflection point for GiveWell. The organization was contemplating fundamental changes in geographic location, partnership structure, research approach, and target audience. These decisions would shape whether GiveWell remained primarily a resource for individual donors or evolved into something more resembling a foundation while maintaining transparency and sector-agnostic commitment to impact.
+
+The extensive time spent on these strategic questions (nearly three hours) reflected their importance and complexity. The board was grappling with how to scale impact through major funder relationships while preserving the credibility and distinctive approach that made GiveWell valuable to retail donors in the first place.

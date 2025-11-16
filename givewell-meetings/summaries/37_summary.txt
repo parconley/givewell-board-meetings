@@ -1,0 +1,91 @@
+Episode 37: Board Meeting - June 18, 2018
+
+Meeting Details:
+- Date: June 18, 2018
+- Duration: 1 hour 55 minutes
+- Format: Hybrid (in-person and conference call)
+- Chair: Brigid Slipka
+
+Summary:
+
+This comprehensive mid-year board meeting represented a critical checkpoint for GiveWell, addressing financial planning, executive compensation, organizational governance, and the introduction of new leadership that would shape the organization's future trajectory.
+
+State of GiveWell Update and Leadership Introduction:
+
+Elie Hassenfeld opened the meeting with an update on GiveWell's progress through 2017 and into 2018, as well as plans for the future. Key discussion topics included GiveWell's enhanced outreach efforts and recent strategic hires that would enable the organization to scale its impact.
+
+A highlight of the meeting was the introduction of Whitney Shinkle, GiveWell's new Director of Operations. Whitney represented a critical addition to the leadership team, bringing professional operations expertise to an organization that had historically struggled in this domain. The board engaged in a brief Q&A session, providing an opportunity to understand Whitney's background and plans for strengthening GiveWell's operational capabilities.
+
+Financial Review and Budget Approval:
+
+Natalie Crispin presented a comprehensive financial summary covering GiveWell's current financial position and several proposals requiring board approval. The financial review included detailed slides and supporting spreadsheets providing transparency into revenues, expenses, and projections.
+
+The financial presentation revealed that GiveWell had raised more revenue in 2017 than expected, including two substantial payments from Good Ventures related to the separation of the Open Philanthropy Project. These one-time payments included:
+- $2.45 million to cover costs of operating the Open Philanthropy Project from October 2016 to May 2017 (received in 2018)
+- $2.65 million from the sale of assets to the Open Philanthropy Project LLC
+
+Despite higher revenues, GiveWell had spent very slightly less than budgeted in 2017 (-0.2%), demonstrating fiscal discipline. Notably, spending was 11% below budget in the second half of 2017 following the GiveWell/Open Phil organizational split.
+
+Budget Proposals:
+
+The board considered significant budget increases to support planned organizational growth:
+1. A revised 2018 budget with an increase of $0.7 million over the previously approved amount
+2. A proposed 2019 budget representing a $2.2 million increase over 2018
+
+The substantial budget growth was driven by planned hiring across outreach, research, and operations, reflecting GiveWell's strategic pivot toward scaling its impact. Projected expenses would grow from approximately $5 million annually in 2018 to $9 million annually by 2020.
+
+The ambitious spending plan was supported by conservative revenue projections showing GiveWell's fundraising keeping pace with expense growth. The organization's diversified funding base included Good Ventures support (capped at 20% of operating budget), a significant private individual donor, and growing support from smaller donors across various giving levels.
+
+Revenue Management and Asset Policies:
+
+Two important financial governance matters were addressed:
+
+Application of 20% Revenue Cap:
+GiveWell had a policy limiting support from any single revenue source to 20% of annual operating expenses to ensure financial sustainability and independence. One individual had made an unrestricted donation exceeding this threshold for 2018. The board voted to irrevocably designate $1,121,005 of the $2,100,000 donation as restricted for grants to recommended charities, ensuring the 20% cap was maintained.
+
+Excess Assets Policy Application:
+GiveWell's Excess Assets Policy specified that once unrestricted assets surpassed a certain level, the organization should grant out the excess rather than continue holding it. Based on conservative revenue projections and the proposed spending plan, management recommended granting out approximately $1.75 million in unrestricted funds to recommended charities.
+
+Using the best-guess revenue projections (rather than conservative ones), GiveWell expected to maintain at least 12 months of operating reserves until late 2020, providing ample time to adjust strategy if needed. The board approved designating $1,751,256 of unrestricted assets as restricted for grants to recommended charities.
+
+These financial governance actions demonstrated sophisticated nonprofit financial management—maintaining appropriate reserves while ensuring excess funds flowed to charitable purposes aligned with donor intent.
+
+Executive Compensation Review:
+
+One of the most significant agenda items was the comprehensive review of executive compensation for Elie Hassenfeld as Executive Director. The compensation committee had prepared detailed benchmarking data from multiple sectors:
+
+Foundations: Private survey data from 131 foundations showed CEO compensation at organizations with 16-50 employees ranged from $378,000-$529,900 in base pay (25th-75th percentile). For foundations with assets over $1.5 billion (comparable to GiveWell's money moved), base pay ranged from $561,000-$763,100.
+
+Research Nonprofits: Data from nine comparable research and charity evaluation organizations showed CEO compensation ranging from $201,647-$337,149 in base pay (25th-75th percentile).
+
+Academics: UC Berkeley economics professors (a proxy for intellectually rigorous work in the Bay Area) earned $165,725-$287,940 in base pay, though professors had significant time for outside consulting.
+
+Following presentation of the data, Elie and all other GiveWell staff left the meeting while the board discussed the proposal in executive session. The board unanimously approved increasing Elie's annual compensation from $200,000 to $250,000.
+
+The compensation review demonstrated GiveWell's commitment to competitive compensation to attract and retain top talent while maintaining transparency about the benchmarking process and decision-making rationale.
+
+Governance and Administrative Items:
+
+The meeting addressed several routine but important governance matters:
+
+Minutes Approval: The board approved minutes from the March 22, 2018 meeting with standard provisions for public posting after appropriate redactions.
+
+Document Retention Policy: The board reviewed and approved GiveWell's comprehensive document retention and destruction policy, ensuring compliance with legal requirements and best practices for record-keeping.
+
+Compensation and Benefits Review: The board certified that GiveWell's compensation arrangements and benefits were reasonable, based on competent survey information, and resulted from arm's-length bargaining—important representations for tax-exempt status.
+
+Officer and Director Roster: The board reviewed the current roster of officers, directors, and board subcommittees, confirming the organizational structure.
+
+Mission and Vision Statements: The board reaffirmed GiveWell's mission ("We find outstanding giving opportunities and publish the full details of our analysis to help donors decide where to give") and vision ("A world in which donors reward effectiveness in improving lives").
+
+Insurance Coverage Review: The board reviewed GiveWell's insurance coverage across multiple domains including Directors & Officers Liability, Employment Practices, Professional Liability, General Liability, and Property coverage through Philadelphia Insurance Companies.
+
+GiveWell and Good Ventures/Open Philanthropy Relationship Update:
+
+Elie Hassenfeld and Holden Karnofsky provided a brief update on the ongoing relationship between GiveWell, Good Ventures, and the Open Philanthropy Project. This update was important for maintaining clarity about the distinct but related organizations and ensuring appropriate governance of their interactions.
+
+Looking Ahead:
+
+The meeting concluded with unanimous approval of all six administrative items and all financial proposals. With new operational leadership in place, enhanced budgets to support growth, competitive executive compensation, and strong financial governance, GiveWell was well-positioned for its next phase of expansion.
+
+The tone throughout the meeting reflected organizational maturity—sophisticated financial management, thorough benchmarking of compensation, comprehensive governance reviews, and strategic investments in capability building. GiveWell was executing on its vision to become a leading force in effective philanthropy while maintaining the transparency and analytical rigor that defined its approach.

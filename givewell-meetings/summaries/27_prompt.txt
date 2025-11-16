@@ -1,0 +1,17 @@
+Based on the following board meeting documents for a Clear Fund Board Meeting held on March 12, 2015, generate a comprehensive ~1000-word summary that acts as a professional brief.
+
+The summary should cover:
+- Key decisions made and votes taken
+- Important discussions and debates
+- Financial/budget information with specific numbers
+- Strategic direction or policy changes
+- Personnel or organizational changes
+- Any significant outcomes or action items
+
+Keep the tone professional and factual. Focus on substance over process. Be specific with numbers, names, and decisions.
+
+Meeting Documents:
+=== Minutes ===
+Minutes	  for	  the	  March	  12,	  2015	  meeting	  of	  the	  Clear	  Fund	  (aka	  GiveWell)	  Board	  of	  Directors	  	  00:00:00	  Meeting	  called	  to	  order.	  	  	  00:00:14	  Proposal	  to	  add	  Jake	  Gibson	  to	  the	  board.	  	  	  The	  addition	  of	  Jake	  to	  the	  board	  is	  approved.	  	  00:02:00	  Proposal	  to	  create	  403b	  retirement	  plan	  for	  GiveWell	  employees.	  	  The	  creation	  of	  a	  403b	  retirement	  plan	  is	  approved.	  	  00:07:25	  Review	  and	  discussion	  of	  GiveWell’s	  annual	  review	  and	  plan.	  	  00:37:46	  The	  meeting	  is	  adjourned.	  	  
+
+Generate a comprehensive summary (approximately 1000 words):

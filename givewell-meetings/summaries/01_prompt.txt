@@ -1,0 +1,271 @@
+Based on the following board meeting documents for a Clear Fund Board Meeting held on January 3, 2008, generate a comprehensive ~1000-word summary that acts as a professional brief.
+
+The summary should cover:
+- Key decisions made and votes taken
+- Important discussions and debates
+- Financial/budget information with specific numbers
+- Strategic direction or policy changes
+- Personnel or organizational changes
+- Any significant outcomes or action items
+
+Keep the tone professional and factual. Focus on substance over process. Be specific with numbers, names, and decisions.
+
+Meeting Documents:
+=== Narrative of Events ===
+
+                        Clear Fund Board of Directors
+                     Attachment A – Narrative of Events
+
+An independent narrative of events, constructed by the online community
+MetaFilter, is available at
+<http://mssv.net/wiki/index.php/Givewell_Chronology>.
+
+MetaFilter’s summary of astoturfing behavior by Holden and Elie is
+available at <http://mssv.net/wiki/index.php/Givewell#Astroturfing
+Activities>.
+
+MetaFilter’s full discussion of misbehavior by GiveWell staff is available
+at <http://metatalk.metafilter.com/15547/GiveWell-or-Give-em-Hell>
+
+What follows is Holden’s narrative of events.
+
+
+
+Prior to 12/30/2007, both Elie and I posted numerous comments on relevant
+websites, promoting the ideas of GiveWell, questioning others’ charity
+recommendations, and linking to GiveWell.net .
+
+In no instance did either of us claim that a particular charity was
+ineffective, though in many cases we questioned how informed others’
+recommendations were (example: “Why DonorsChoose? Why not one of a trillion
+other charities? Is there any evidence that improving school supplies
+improves education? Is this a better idea than improving the teachers
+themselves (Teach for America) or reworking the schools (KIPP, Achievement
+First)?”)
+
+We also criticized Charity Navigator’s methodology in many cases.
+
+In all of these instances, we used handles that were variations on Holden
+or Elie, and when possible linked our names directly to www.givewell.net .
+We were making no attempts to hide our identities, and expected anyone who
+followed our comments to become aware of them.  However, we did not
+disclose our backgrounds and affiliations in our comments.  We were
+mistaken not to do this.
+
+Elie sent one email to the Boing Boing blog that promoted GiveWell without
+identifying his role in the project (although it did use his real name).
+
+
+
+On 12/30/2007 and 12/31/2007, I carried out three more deceptive forms of
+advertising:
+
+    • I sent ten emails to bloggers using an email account I had recently
+      created for Teel Lidow, claiming that www.givewell.net had recently
+      helped me to make a year-end donation and recommending that they (the
+      bloggers) post about it.
+
+    • I made two comments on the Lifehacker blog under the handle Geremiah.
+      One asked for guidance in finding a charity; the other, in response to
+      a post on Charity Navigator, criticized Charity Navigator and pointed
+      to GiveWell.
+
+    • I posted a question to Ask Metafilter under the name Geremiah, asking
+      for help finding a good charity for a year-end donation.  I then
+      signed out and created a new account, Holden0, and responded under
+      this account, recommending GiveWell (without explicitly identifying
+      myself as the founder).  Finally, I signed back in as Geremiah, marked
+      the Holden0 response as “best answer,” and responded critically to a
+      comment by Miko suggesting that “Geremiah” ask a more specific
+      question.
+
+My intent was to generate attention and traffic for GiveWell.  I did not
+intend for anyone to make a financial or other commitment based on my
+falsely represented comments; I intended for these comments to be
+intriguing enough to make people investigate GiveWell.net for themselves
+and judge it on the merits.  I created obfuscation to promote interest; I
+underestimated the extent to which many associate anonymity with
+objectivity.
+
+All of this behavior was wrong.  I was overzealous in my enthusiasm to
+promote GiveWell, and violated the principle of honesty, which is very
+important to me.  I deeply regret this behavior and I am committed to never
+again promoting a project of mine without identifying my connection to it
+up front.
+
+
+
+On 12/31/2007, MetaFilter member Miko uncovered my actions on Ask
+Metafilter, and opened a MetaTalk thread to discuss them.  Having had my
+two MetaFilter accounts deleted, I created a third (holden00), identified
+myself, apologized for my actions, and asked for suggestions on how I could
+make up for my breach of the community rules.  I offered a donation,
+stating, “I'm not offering this in return for your ceasing your criticism,
+I'm offering it to make up for abusing the rules,” and retracted the offer
+immediately upon comments that it was perceived as a “bribe” offer.
+
+On a MetaFilter member’s suggestion, I posted an apology to the GiveWell
+blog.  The apology initially was only for the misbehavior on MetaFilter.
+After a poster requested that I disclose all behavior that falls under the
+heading of “astroturfing,” I edited my apology to disclose all of the other
+activity mentioned above: my emails to bloggers, my comments on the
+Lifehacker blog, and my earlier comments that identified me to interested
+parties but did not put my affiliation up front.
+
+
+
+Aside from the behavior on Ask MetaFilter, every instance of astroturfing
+that has been found by the MetaFilter community was brought up by me before
+anyone else found it (in category and general nature; my apology did not
+list specific locations and quotes).[1]
+
+
+
+This is a complete account of my relevant behavior.
+
+-----------------------
+[1] Some of the comments that I made as “Holden,” but that had inadequate
+disclosure, were found by others before my revised mea culpa.  This
+clarification was not in the original version of this document, but the
+Board is aware of it.
+
+
+
+=== Document ===
+
+                        Clear Fund Board of Directors
+                             Official Statement
+                        (Outcome of 1/3/2008 Meeting)
+The Board of Directors wishes to emphasize that GiveWell was, is,  and  will
+remain committed to the goal of helping those  in  need  by  performing  and
+publishing high quality research on charities within  selected  spheres  for
+free and discretionary use by all interested parties. We  are  committed  to
+the goals of improving  philanthropy  and  increasing  transparency  in  the
+sector by publicly sharing our process,  our  criteria,  our  methodologies,
+our deliberations, and our findings. Furthermore,  we  remain  committed  to
+engaging in public dialogue about  how  best  to  achieve  these  goals  and
+encourage continued comment about our organization’s work.
+The Board believes that the acts of misrepresentation  that  were  committed
+are  indefensible  and  are  in  direct  conflict  with  the  goals  of  the
+organization, and we condemn them in the strongest possible terms.
+The board apologizes for any violations of public trust resulting  from  Mr.
+Karnofsky’s actions.
+Effective January 3, 2008,  Holden  Karnofsky  has  been  removed  from  his
+position as Executive Director of GiveWell and from his  position  as  Board
+Secretary. The Executive Director position is now  vacant;  Tim  Ogden  will
+serve as interim Board Secretary. In addition  to  being  removed  from  his
+positions, a financial penalty has been imposed on Mr. Karnofsky.  While  we
+are removing him from the Executive Director position, we believe  that  his
+previous contributions outside of the acts noted above have  demonstrated  a
+commitment to the goals of the  organization  and  have  been  important  to
+accomplishing GiveWell’s work. As a  result,  Holden  will  be  moved  to  a
+Program Officer position, where we believe he will be  valuable  in  helping
+GiveWell meet its outstanding commitments to applicants and donors. He  will
+also participate in a program of professional development and mentoring.
+In response to the actions by Elie Hassenfeld which were  inconsistent  with
+GiveWell’s core values of transparency and honesty, the  board  has  decided
+to impose a financial penalty. We believe  that  Mr.  Hassenfeld’s  previous
+commitment to the goals of GiveWell demonstrates that  he  can  continue  to
+make a positive contribution to the work of the organization in  the  future
+in his current role as a program officer.
+The GiveWell Board of Directors will begin meeting bi-weekly to develop  and
+approve operating plans for  GiveWell  and  to  discuss  the  organization’s
+strategy and future. We will institute an  organization-wide  communications
+policy that will mandate  that  all  staff  and  members  of  the  Board  of
+Directors explicitly disclose their affiliation with the  organization  when
+communicating with others. The policy will be made public once it  has  been
+completed.
+We would also like to make clear to all donors to GiveWell since December  1
+that we will contact them directly  about  these  recent  changes  and  will
+provide them the opportunity to have their gift returned if they so  choose.
+
+Signed,
+Bob Elliott, Chairman
+Greg Jensen, Treasurer
+Tim Ogden, Interim Secretary
+Lucy Bernholz
+Virginia Ford
+In addition to the above statement from the Board of Directors as  a  whole,
+we would like to separately add the following about Holden’s actions,  given
+our greater personal experience with him than other board members’.
+We would like to make clear that the actions that  Holden  took  to  conceal
+his identity were  improper  and  indefensible,  as  were  his  attempts  to
+ameliorate the situation by offering a financial contribution.
+While in this situation Holden acted improperly, we would like to  emphasize
+that we believe Holden’s commitment to the GiveWell cause is genuine.  Those
+who have commented that his involvement in GiveWell is an attempt to  run  a
+scam on the public or to gain financially are simply wrong. His  substantial
+sacrifices financially and personally to take GiveWell from  an  idea  to  a
+reality demonstrate his passion for the values of the organization.
+In addition, we would like to emphasize that we believe  and  have  seen  in
+action his stated commitment to the values of openness  and  honesty.  While
+there  are  many  incidents  where  Holden  did  not  clearly  identify  his
+affiliation with the organization, we view these actions to  be  the  result
+of his core mistake of thinking improperly about how  to  represent  himself
+when communicating online.
+In our previous professional and personal experiences with  Holden,  he  has
+shown directness and honesty with those around him, and  demanded  the  same
+from others. He has acknowledged weaknesses and  worked  with  sincerity  to
+improve those limitations. And, in the past when he has  realized  that  his
+behavior or thinking was wrong, he not only been willing to change his  mind
+and accept explicit personal responsibility, but take steps to  ensure  that
+similar action does not happen again.
+It is clear to us that he has  realized  that  his  actions  were  improper,
+taken responsibility for his actions, and is committed to making  sure  that
+he communicates in a way that holds  true  to  the  values  of  honesty  and
+transparency moving forward. We know Holden is  committed  to  these  values
+and expect that he will demonstrate to the community that this behavior  was
+not consistent with his character through his continued work at GiveWell.
+We recognize that people can make mistakes and that they can learn  powerful
+lessons from those failures. When  we  think  about  the  whole  picture  of
+Holden, and view  his  mistakes  in  the  context  of  his  contribution  to
+GiveWell so far as well as his character prior to this project,  we  believe
+that he will continue to make a positive impact for the organization in  the
+future.
+Bob Elliott, Chairman
+Greg Jensen, Treasurer
+
+
+
+=== Agenda ===
+
+                        Clear Fund Board of Directors
+                         Meeting Agenda for 1/3/2008
+
+1. Introductions.
+
+2. Summary of events.  The Board will discuss the nature and severity of
+recent staff misbehavior, beginning with Holden’s narrative of events
+(Attachment A) and the independent account produced by the MetaFilter
+community (linked on Attachment A).
+
+3. Consequences: full Board and relevant staff.  The Board will discuss:
+     A. Whether any staff should be terminated, and if so, whether GiveWell
+        should be discontinued.
+     B. Disciplinary measures for any staff that are retained despite
+        misbehavior.
+     C. Preventative measures, to guard against future problems.
+     D. Other planned improvements to GiveWell’s board, structure, metrics,
+        and model.
+
+4. Consequences: Board only (excluding Holden).  All staff including Holden
+will be disconnected from the call.  The Board will make final
+determinations regarding:
+     A. Whether any staff should be terminated, and if so, whether GiveWell
+        should be discontinued.
+     B. Disciplinary measures for any staff that are retained despite
+        misbehavior.
+     C. Preventative measures, to guard against future problems.
+     D. Other planned improvements to GiveWell’s board, structure, metrics,
+        and model.
+
+5. Announcement of decisions, and assignment of writeup.  Staff will re-
+join the call.  The Board will give its decisions, and determine the basic
+outline of its official writeup of these decisions.  A Board member will be
+assigned to draft this writeup.
+
+Attachments to be sent:
+   A. Narrative of events
+
+
+Generate a comprehensive summary (approximately 1000 words):

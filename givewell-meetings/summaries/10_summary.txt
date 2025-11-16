@@ -1,0 +1,60 @@
+GiveWell Board Meeting Summary - Episode 10
+Meeting Number: 12
+Date: March 3, 2010
+Duration: Approximately 2 hours 18 minutes
+
+OVERVIEW
+This board meeting focused on reviewing GiveWell's 2009 performance and 2010 plans, approving cost-of-living salary increases for co-founders, and reviewing insurance coverage. The meeting demonstrated organizational maturity through comprehensive annual self-evaluation and strategic planning.
+
+COMPENSATION REVIEW AND DECISION
+The board discussed and unanimously approved a $5,000 salary increase for co-Executive Directors Holden Karnofsky and Elie Hassenfeld at 9:06 PM, raising their compensation from $65,000 to $70,000 annually (plus health benefits). However, staff had proposed a smaller $2,500 cost-of-living increase based on inflation since June 2007 (when salaries were originally set). The CPI had increased 4% from 208.3 to 216.7 over this period, suggesting $67,500 would be appropriate.
+
+Staff argued that $67,500-$70,000 remained commensurate with output and within reasonable ranges based on comparable organizations and survey data. In 2009, GiveWell had total expenses of $200,000-$250,000 and tracked over $1 million in donations to recommended charities. The website averaged 23,500 unique visitors monthly in December 2009-January 2010.
+
+Comparable organization data showed:
+- American Institute of Philanthropy: $437,650 budget, 76,000-87,000 monthly website visitors, Executive Director earning $119,331 (+$20,485 other compensation)
+- Root Cause: $3.2 million budget, minimal web traffic, Executive Director earning $136,483
+- Third Wave Foundation: $1.2 million budget, minimal web traffic, Executive Director earning $57,231
+
+Survey data from the Nonprofit Coordinating Committee of New York showed average salaries for organizations with $400,000-$700,000 budgets at $68,000 (health/human services) to $74,000 (societal benefit).
+
+INSURANCE COVERAGE REVIEW
+At 9:21 PM, the board approved current insurance coverage through Philadelphia Insurance Companies, including Directors & Officers Liability, Employment Practices, and Internet Liability insurance.
+
+The review confirmed GiveWell did not need several insurance types: general liability (no physical office or property damage risk), fire/theft (electronic records backed up via Carbonite service, successfully tested in December when Holden accidentally wrecked his hard drive), employee dishonesty, hired/non-owned auto, professional liability, business interruption, or hurricane/flood coverage. Trip-specific business travel insurance had been purchased for Holden's recent South Africa and Mozambique trip.
+
+ANNUAL REVIEW AND PLAN
+The board devoted 95 minutes (7:14 PM to 8:49 PM) to discussing GiveWell's comprehensive 2009 review and 2010 plan, which would be published as blog posts. The review addressed key questions about GiveWell as both a donor resource and an organizational project.
+
+Quality of Research: Staff concluded the 2008-2009 international aid report met internal quality standards, representing substantial improvement over earlier work. Two three-star charities (VillageReach and Stop Tuberculosis Partnership) were identified using revised methodology that didn't rely on grant applications. However, research needed more systematic external scrutiny from experienced, credentialed experts and direct field observation of charity operations.
+
+Usability for Donors: The website had been substantially revamped in both design and organization. Extended blog post series repackaged research for accessibility. Limited external validation remained a concern, though Peter Singer featured GiveWell in "The Life You Can Save" and many donors came via his referrals.
+
+Coverage Breadth: GiveWell offered recommendations only in U.S. education (K-12), U.S. early childhood care, and global health - a narrow set inadequate for serving donors with diverse values. Economic empowerment recommendations remained weak, though a grant application process was recently completed.
+
+Research Process Robustness: Multiple unsuccessful hiring attempts occurred in early 2009 before achieving success mid-year. One hire stayed May-December 2009 working on economic empowerment before leaving for consulting. Natalie Stone joined July 2009, charged with maintaining and expanding the international aid report. Progress on international aid research enabled more concrete hiring by providing examples of charity reviews and consistent criteria. However, the research process remained largely founder-dependent and not systematically replicable.
+
+Research Packaging: Substantial effort improved clarity and organization. Content aimed for clarity over emotional persuasiveness, remaining dry with minimal attempts at emotional engagement. Future improvements could include more emotionally compelling repackaging, better integration of blog content with the main website, and collecting endorsements from credible supporters.
+
+Marketing and Outreach: GiveWell reached potential customers primarily through Peter Singer's referrals, online presence, and limited media coverage. Web traffic showed growth but remained modest compared to established charity evaluators. The organization prioritized research quality over aggressive marketing.
+
+Money Moved: GiveWell tracked approximately $175,000 in Year 1 donations influenced by its research. For 2008-2009, about $150,000 was pledged in advance of report publication, with final figures expected to be higher after concrete recommendations became available.
+
+2010 RESEARCH PRIORITIES
+Staff proposed completing research on U.S. equality of opportunity and additional sub-causes within international aid by September 1, 2010, while also working on disease research funding without specific deadlines. The plan emphasized improving research depth and breadth before intensifying marketing efforts.
+
+Specific goals included:
+- Conducting site visits to reviewed charities (Holden planning Africa trip February 10-23 to visit VillageReach and Small Enterprise Foundation)
+- Systematically pursuing critical scrutiny from qualified experts
+- Covering more cause areas including disaster relief/recovery, orphans and vulnerable children, stronger microfinance options, updated U.S. equality of opportunity research using revised methodology, disease research funding, and environmental/global warming mitigation
+
+STAFF COMPENSATION DURING REVIEW
+Staff left the room at 8:49 PM for the 17-minute executive session where the board discussed and approved the compensation increase, then re-entered at 9:07 PM for remaining business.
+
+ORGANIZATIONAL MILESTONES
+Notable achievements since the previous board meeting included acquiring the GiveWell trademark and givewell.org domain name, nearing completion of the FY 2009 audit, and Holden completing a two-week Africa trip with plans for a staff-wide three-month India trip.
+
+STRATEGIC POSITIONING
+This meeting reflected GiveWell's transition from proving its research model to refining and scaling it. The comprehensive self-evaluation demonstrated intellectual honesty about limitations while articulating clear paths for improvement. The modest salary increases reflected conservative financial management balanced against competitive compensation for talent.
+
+The focus on research quality over aggressive growth, systematic external validation, and cause area expansion positioned GiveWell for sustainable development rather than rapid scaling that might compromise research integrity.
