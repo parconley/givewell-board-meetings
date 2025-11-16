@@ -213,8 +213,8 @@ class WebAudioService {
       // Create new audio element
       this.audio = new Audio();
 
-      // Set CORS mode to allow cross-origin audio loading
-      this.audio.crossOrigin = 'anonymous';
+      // Don't set crossOrigin - GitHub releases don't send CORS headers
+      // and browsers allow audio playback without them by default
 
       this.setupAudioListeners();
 
