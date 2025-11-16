@@ -29,10 +29,8 @@ export default function EpisodesScreen() {
   const { currentEpisode, play } = useAudioPlayer();
 
   const handleEpisodePress = async (episode: Episode) => {
-    // Start playing the episode
-    await play(episode);
-    // Navigate to player screen
-    router.push('/(tabs)/player');
+    // Navigate to individual episode page
+    router.push(`/episode/${episode.id}`);
   };
 
   const renderEpisode = ({ item }: { item: Episode }) => (

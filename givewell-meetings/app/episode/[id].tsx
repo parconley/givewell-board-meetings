@@ -1,17 +1,17 @@
 /**
- * Now Playing Screen
+ * Individual Episode Page
  *
- * Audio player interface with controls and show notes
+ * Dedicated page for each episode with audio player and documents
  */
 
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import {
   View,
   Text,
   TouchableOpacity,
   ScrollView,
   StyleSheet,
-  Animated,
+  ActivityIndicator,
   LayoutAnimation,
   Platform,
   UIManager,
@@ -21,16 +21,26 @@ import {
 if (Platform.OS === 'android' && UIManager.setLayoutAnimationEnabledExperimental) {
   UIManager.setLayoutAnimationEnabledExperimental(true);
 }
+
 import { StatusBar } from 'expo-status-bar';
 import { SafeAreaView } from 'react-native-safe-area-context';
+import { useLocalSearchParams, useRouter } from 'expo-router';
 import Slider from '@react-native-community/slider';
 import { useAudioPlayer, formatTime } from '../../hooks/useAudioPlayer';
+import { Episode } from '../../types/episode';
+import { episodesService } from '../../services/episodesService';
 import { Colors } from '../../constants/Colors';
 import { Typography, Spacing, BorderRadius, TouchTarget } from '../../constants/Typography';
 
 const PLAYBACK_SPEEDS = [1.0, 1.25, 1.5, 2.0, 3.0, 4.0, 5.0];
 
-export default function PlayerScreen() {
+export default function EpisodePage() {
+  const { id } = useLocalSearchParams<{ id: string }>();
+  const router = useRouter();
+  const [episode, setEpisode] = useState<Episode | null>(null);
+  const [loading, setLoading] = useState(true);
+  const [expandedAttachment, setExpandedAttachment] = useState<number | null>(null);
+
   const {
     currentEpisode,
     isPlaying,
@@ -39,6 +49,7 @@ export default function PlayerScreen() {
     duration,
     playbackSpeed,
     error,
+    play,
     togglePlayPause,
     seekTo,
     skipForward,
@@ -46,40 +57,26 @@ export default function PlayerScreen() {
     setPlaybackSpeed,
   } = useAudioPlayer();
 
-  const [expandedAttachment, setExpandedAttachment] = useState<number | null>(null);
+  useEffect(() => {
+    loadEpisode();
+  }, [id]);
 
-  if (!currentEpisode) {
-    return (
-      <SafeAreaView style={styles.container} edges={['top']}>
-        <StatusBar style="dark" />
-        <View style={styles.emptyContainer}>
-          <Text style={styles.emptyText}>No episode playing</Text>
-          <Text style={styles.emptySubtext}>Select an episode to start listening</Text>
-        </View>
-      </SafeAreaView>
-    );
-  }
+  const loadEpisode = async () => {
+    try {
+      setLoading(true);
+      const ep = await episodesService.getEpisodeById(id as string);
+      setEpisode(ep || null);
 
-  // Show error if there is one
-  if (error) {
-    return (
-      <SafeAreaView style={styles.container} edges={['top']}>
-        <StatusBar style="dark" />
-        <ScrollView contentContainerStyle={styles.scrollContent}>
-          <View style={styles.infoSection}>
-            <Text style={styles.meetingNumber}>
-              Meeting {currentEpisode.meetingNumber} • {currentEpisode.dateDisplay}
-            </Text>
-            <Text style={styles.title}>{currentEpisode.title}</Text>
-          </View>
-          <View style={styles.emptyContainer}>
-            <Text style={styles.errorText}>⚠️ {error}</Text>
-            <Text style={styles.emptySubtext}>Check your internet connection and try again</Text>
-          </View>
-        </ScrollView>
-      </SafeAreaView>
-    );
-  }
+      // Auto-play this episode if it's not already playing
+      if (ep && (!currentEpisode || currentEpisode.id !== ep.id)) {
+        await play(ep);
+      }
+    } catch (err) {
+      console.error('Error loading episode:', err);
+    } finally {
+      setLoading(false);
+    }
+  };
 
   const handleSpeedPress = () => {
     const currentIndex = PLAYBACK_SPEEDS.indexOf(playbackSpeed);
@@ -88,30 +85,67 @@ export default function PlayerScreen() {
   };
 
   const handleAttachmentPress = (index: number) => {
-    // Animate the expansion/collapse
     LayoutAnimation.configureNext(LayoutAnimation.Presets.easeInEaseOut);
     setExpandedAttachment(expandedAttachment === index ? null : index);
   };
+
+  if (loading) {
+    return (
+      <SafeAreaView style={styles.container} edges={['top']}>
+        <StatusBar style="dark" />
+        <View style={styles.emptyContainer}>
+          <ActivityIndicator size="large" color={Colors.primary} />
+          <Text style={styles.emptyText}>Loading episode...</Text>
+        </View>
+      </SafeAreaView>
+    );
+  }
+
+  if (!episode) {
+    return (
+      <SafeAreaView style={styles.container} edges={['top']}>
+        <StatusBar style="dark" />
+        <View style={styles.emptyContainer}>
+          <Text style={styles.emptyText}>Episode not found</Text>
+          <TouchableOpacity onPress={() => router.back()}>
+            <Text style={styles.backButton}>← Go Back</Text>
+          </TouchableOpacity>
+        </View>
+      </SafeAreaView>
+    );
+  }
 
   return (
     <SafeAreaView style={styles.container} edges={['top']}>
       <StatusBar style="dark" />
 
       <ScrollView contentContainerStyle={styles.scrollContent}>
+        {/* Back Button */}
+        <TouchableOpacity onPress={() => router.back()} style={styles.backButtonContainer}>
+          <Text style={styles.backButton}>← Back to Episodes</Text>
+        </TouchableOpacity>
+
         {/* Episode Info */}
         <View style={styles.infoSection}>
           <Text style={styles.meetingNumber}>
-            Meeting {currentEpisode.meetingNumber} • {currentEpisode.dateDisplay}
+            Meeting {episode.meetingNumber} • {episode.dateDisplay}
           </Text>
-          <Text style={styles.title}>{currentEpisode.title}</Text>
-          {currentEpisode.description ? (
-            <Text style={styles.description}>{currentEpisode.description}</Text>
+          <Text style={styles.title}>{episode.title}</Text>
+          {episode.description ? (
+            <Text style={styles.description}>{episode.description}</Text>
           ) : null}
         </View>
 
+        {/* Error Display */}
+        {error && (
+          <View style={styles.errorContainer}>
+            <Text style={styles.errorText}>⚠️ {error}</Text>
+          </View>
+        )}
+
         {/* Player Section */}
         <View style={styles.playerSection}>
-          {/* Play/Pause Button - Now at top */}
+          {/* Play/Pause Button */}
           <TouchableOpacity
             style={styles.playButton}
             onPress={togglePlayPause}
@@ -142,7 +176,6 @@ export default function PlayerScreen() {
 
           {/* Skip Controls */}
           <View style={styles.controls}>
-            {/* Skip Back Button */}
             <TouchableOpacity
               style={styles.controlButton}
               onPress={() => skipBackward(15)}
@@ -150,7 +183,6 @@ export default function PlayerScreen() {
               <Text style={styles.skipText}>-15s</Text>
             </TouchableOpacity>
 
-            {/* Playback Speed */}
             <TouchableOpacity
               style={styles.speedButton}
               onPress={handleSpeedPress}
@@ -158,7 +190,6 @@ export default function PlayerScreen() {
               <Text style={styles.speedText}>{playbackSpeed}×</Text>
             </TouchableOpacity>
 
-            {/* Skip Forward Button */}
             <TouchableOpacity
               style={styles.controlButton}
               onPress={() => skipForward(15)}
@@ -168,15 +199,15 @@ export default function PlayerScreen() {
           </View>
         </View>
 
-        {/* Show Notes Section */}
+        {/* Documents Section */}
         <View style={styles.showNotesSection}>
           <Text style={styles.showNotesTitle}>Documents</Text>
 
           <View style={styles.attachmentsList}>
-            {currentEpisode.attachments.length === 0 ? (
+            {episode.attachments.length === 0 ? (
               <Text style={styles.noAttachmentsText}>No documents available</Text>
             ) : (
-              currentEpisode.attachments.map((attachment, index) => (
+              episode.attachments.map((attachment, index) => (
                 <View key={index} style={styles.attachmentContainer}>
                   <TouchableOpacity
                     style={styles.attachmentItem}
@@ -227,15 +258,20 @@ const styles = StyleSheet.create({
     flex: 1,
     justifyContent: 'center',
     alignItems: 'center',
+    paddingVertical: Spacing.xxxl * 2,
   },
   emptyText: {
     ...Typography.h2,
     color: Colors.textMuted,
-    marginBottom: Spacing.sm,
+    marginTop: Spacing.lg,
   },
-  emptySubtext: {
+  backButtonContainer: {
+    marginBottom: Spacing.md,
+  },
+  backButton: {
     ...Typography.body,
-    color: Colors.textMuted,
+    color: Colors.primary,
+    fontWeight: '600',
   },
 
   // Episode Info
@@ -257,6 +293,18 @@ const styles = StyleSheet.create({
     ...Typography.body,
     color: Colors.textMuted,
     lineHeight: 22,
+  },
+
+  // Error
+  errorContainer: {
+    backgroundColor: '#fee',
+    padding: Spacing.md,
+    borderRadius: BorderRadius.lg,
+    marginBottom: Spacing.lg,
+  },
+  errorText: {
+    ...Typography.body,
+    color: Colors.error,
   },
 
   // Player Section
@@ -326,7 +374,7 @@ const styles = StyleSheet.create({
     color: Colors.primary,
   },
 
-  // Show Notes / Documents
+  // Documents
   showNotesSection: {
     borderTopWidth: 1,
     borderTopColor: Colors.border,
